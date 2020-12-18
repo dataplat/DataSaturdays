@@ -1,13 +1,43 @@
 # DataSaturdays
-A repository for open sourcing a solution for Data Saturdays. Data Saturdays would be based on the SQL Saturday model of local events organized under a common banner for marketing purposes.
+
+This repository has been created as a place for the community create a set of tools and single point to enable people to run small regional events with little outlay or set-up diffculties to have open, transparent discussions on how it should be set up and utilised.
 
 UPDATE 18/12/2020 - We have created a placeholder website at DataSaturdays.com hosted on Github Pages
 
 ## Goals
-A list of the goals for what the project provides for a community driven site.
 
-- A website for listing events taking place around the world
+- Provide a website for listing events taking place around the world
+- Enable event owners to be able to set up the website and administer it easily
 - Administrative tools for event organizers to use when building their site
 - Integration with various payment providers for different locales
 - Integration with mobile scheduling applications
 - Rating of sessions and events
+- Speaker tools
+- Sponsot tools
+
+However, this is not to say that these tools should be created by the community in this repository. To paraphrase Jeffrey Snover, don't build what you don't need to, concentrate on the things that provide value. My view is that some of these things already exist and what is required is a way to consolidate them and make it easy for people to use them. Don't re-invent the wheel.
+
+## Culture
+
+We expect and demand that you follow some basic rules. Nothing dramatic here. There will be a proper code of conduct for the websites added soon, but in this repository
+
+**BE EXCELLENT TO EACH OTHER**
+
+Do I need to say more? 
+If your behaviour or communication does not fit into this statement, we do not wish for you to help us.
+
+## What can you do?
+
+We have issues https://github.com/sqlcollaborative/DataSaturdays/issues   
+We would like you to comment on them and provide help and assistance  
+We will have code to write and CI/CD to create  
+We have no idea what else is required, thats for you, the community, to decide  
+
+## What this is not
+
+For profit  
+Owned by anyone - This is by the community for the community and will succeed or fail in that manner.  
+Holding any personal information  
+Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products.  
+
+
