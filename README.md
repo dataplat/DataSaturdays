@@ -11,3 +11,4 @@ A list of the goals for what the project provides for a community driven site.
 - Integration with various payment providers for different locales
 - Integration with mobile scheduling applications
 - Rating of sessions and events
+- Page to list all sponsors and their contacts
