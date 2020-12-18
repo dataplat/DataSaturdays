@@ -28,16 +28,16 @@ If your behaviour or communication does not fit into this statement, we do not w
 
 ## What can you do?
 
-We have issues https://github.com/sqlcollaborative/DataSaturdays/issues 
-We would like you to comment on them and provide help and assistance
-We will have code to write and CI/CD to create
-We have no idea what else is required, thats for you, the community, to decide
+We have issues https://github.com/sqlcollaborative/DataSaturdays/issues   
+We would like you to comment on them and provide help and assistance  
+We will have code to write and CI/CD to create  
+We have no idea what else is required, thats for you, the community, to decide  
 
 ## What this is not
 
-For profit
-Owned by anyone - This is by the community for the community and will succeed or fail in that manner.
-Holding any personal information
-Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products.
+For profit  
+Owned by anyone - This is by the community for the community and will succeed or fail in that manner.  
+Holding any personal information  
+Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products.  
 
 
