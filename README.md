@@ -11,9 +11,10 @@ UPDATE 18/12/2020 - We have created a placeholder website at DataSaturdays.com h
 - Administrative tools for event organizers to use when building their site
 - Integration with various payment providers for different locales
 - Integration with mobile scheduling applications
+- Page to list all sponsors and their contacts
 - Rating of sessions and events
 - Speaker tools
-- Sponsot tools
+- Sponsor tools
 
 However, this is not to say that these tools should be created by the community in this repository. To paraphrase Jeffrey Snover, don't build what you don't need to, concentrate on the things that provide value. My view is that some of these things already exist and what is required is a way to consolidate them and make it easy for people to use them. Don't re-invent the wheel.
 
