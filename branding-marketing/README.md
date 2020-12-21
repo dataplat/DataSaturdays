@@ -28,8 +28,8 @@ text-align: center;
 
 ## Fonts
 
-* Headings/Titles - Montserrat
-* Body text - Roboto
+* Headings/Titles - [Montserrat](https://fonts.google.com/specimen/Montserrat)
+* Body text - [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab)
 
 ## Logo
 v0.1
