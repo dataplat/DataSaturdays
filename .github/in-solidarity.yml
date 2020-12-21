@@ -1,0 +1,9 @@
+---
+# https://github.com/jpoehnelt/in-solidarity-bot
+
+#rules:
+#  master:
+#    level: off  
+
+ignore:
+ - ".github/in-solidarity.yml"  # default
