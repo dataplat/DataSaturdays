@@ -2,7 +2,17 @@
 
 This repository has been created as a place for the community create a set of tools and single point to enable people to run small regional events with little outlay or set-up diffculties to have open, transparent discussions on how it should be set up and utilised.
 
-UPDATE 18/12/2020 - We have created a placeholder website at DataSaturdays.com hosted on Github Pages
+UPDATE 18/12/2020 - We have created a placeholder website at [DataSaturdays.com](https://datasaturdays.com) hosted on Github Pages
+![image](https://user-images.githubusercontent.com/6729780/102750927-b229c200-435e-11eb-9daf-e4c730f29e04.png)
+UPDATE 20/12/2020 - The first event announced is Data Saturday #1 Pordenone https://datasaturdays.com/events/datasaturday0001.html
+![image](https://user-images.githubusercontent.com/6729780/102750968-c372ce80-435e-11eb-922b-066f5eb0dbc2.png)
+## Wiki
+
+There is a [wiki](https://github.com/sqlcollaborative/DataSaturdays/wiki) which will hold a lot of the documentation - As of 20/12/2020 it is pretty empty - Lets make it better!
+
+## New Events
+
+There is no process for new events at present other than by adding to this issue - https://github.com/sqlcollaborative/DataSaturdays/wiki/A-New-Event
 
 ## Goals
 
