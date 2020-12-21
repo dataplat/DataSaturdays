@@ -1,0 +1,20 @@
+---
+# https://github.com/GeopJr/action-accessibility
+
+name: Action Accessibility
+on:
+  pull_request:
+    types: [opened, edited]
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: GeopJr/action-accessibility@v1.0.10
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
