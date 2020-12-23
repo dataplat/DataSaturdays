@@ -1,0 +1,20 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Data Saturdays Current Event Feed</title>
+  <link>https://www.w3schools.com</link>
+  <description>Data Saturday Events</description>
+  <item>
+    <title>Data Saturday #0001 - Pordenone Virtual</title>
+    <link>https://datasaturdays.com/events/datasaturday0001.html</link>
+    <description>Data Saturday Pordenone is a virtual online training event on February 27 2021.</description>
+  </item>
+  <item>
+    <title>Data Saturday #0002 - Guatemala Virtual</title>
+    <link>https://datasaturdays.com/events/datasaturday0002.html</link>
+    <description>Data Saturday Guatemala is a virtual online training event on January 23 2021.</description>
+  </item>
+</channel>
+
+</rss> 
