@@ -12,7 +12,7 @@ There is a [wiki](https://github.com/sqlcollaborative/DataSaturdays/wiki) which 
 ## New Events
 
 * Current events listed at https://datasaturdays.com/#events
-* There is no process for new events at present other than by adding to this issue - https://github.com/sqlcollaborative/DataSaturdays/wiki/A-New-Event
+* To add a new event, follow the [steps in the wiki](https://github.com/sqlcollaborative/DataSaturdays/wiki/A-New-Event)
 
 ## Goals
 
