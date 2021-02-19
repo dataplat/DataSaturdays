@@ -11,11 +11,6 @@
     <description>Data Saturday Pordenone is a virtual online training event on February 27 2021.</description>
   </item>
   <item>
-    <title>Data Saturday #0002 - Guatemala Virtual</title>
-    <link>https://datasaturdays.com/events/datasaturday0002.html</link>
-    <description>Data Saturday Guatemala is a virtual online training event on January 23 2021.</description>
-  </item>
-  <item>
     <title>Data Saturday #0003 - Haiti Virtual</title>
     <link>https://datasaturdays.com/events/datasaturday0003.html</link>
     <description>Data Saturday Haiti is a virtual online training event on March 27 2021.</description>
@@ -39,6 +34,11 @@
     <title>Data Saturday #0007 - Los Angeles Virtual</title>
     <link>https://datasaturdays.com/events/datasaturday0007.html</link>
     <description>Data Saturday Los Angeles is a virtual online training event on June 12 2021.</description>
+  </item>
+  <item>
+    <title>Data Saturday #0008 - Southwest US Virtual</title>
+    <link>https://datasaturdays.com/events/datasaturday0008.html</link>
+    <description>Data Saturday Southwest US is a virtual online training event on May 15 2021.</description>
   </item>
 </channel>
 
