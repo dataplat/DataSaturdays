@@ -2,7 +2,7 @@
 
 <channel>
   <title>Data Saturdays Current Event Feed</title>
-  <link>https://www.w3schools.com</link>
+  <link>https://www.datasaturdays.com</link>
   <description>Data Saturday Events</description>
   <item>
     <title>Data Saturday #0001 - Pordenone Virtual</title>
@@ -35,7 +35,7 @@
     <description>Data Saturday Los Angeles is a virtual online training event on June 12 2021.</description>
   </item>
   <item>
-    <title>Data Saturday #0007 - Los Angeles Virtual</title>
+    <title>Data Platform WIT Day</title>
     <link>https://wit.sqlugs.com/2021/02/04/data_platform_wit_day/</link>
     <description>Data Platform WIT Day is a virtual online training event on March 5 2021.</description>
   </item>
@@ -43,6 +43,11 @@
     <title>Data Saturday #0008 - Southwest US Virtual</title>
     <link>https://datasaturdays.com/events/datasaturday0008.html</link>
     <description>Data Saturday Southwest US is a virtual online training event on May 15 2021.</description>
+  </item>
+  <item>
+    <title>Data Saturday #0009 - Data Toboggan - Cool Runnings Virtual</title>
+    <link>https://datasaturdays.com/events/datasaturday0009.html</link>
+    <description>Azure Synapse Analytics is a practically limitless analytics service that brings together data integration, enterprise data warehousing and big data analytics. Let's spend a day exploring and showcasing these capabilities. We are excited our virtual event 'Cool Runnings' is on Saturday 12 June 2021 and is free to attend.</description>
   </item>
 </channel>
 
