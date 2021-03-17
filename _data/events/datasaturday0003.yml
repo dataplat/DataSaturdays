@@ -36,13 +36,21 @@ registrationurl: https://www.eventbrite.com/e/haitian-sql-one-day-event-tickets-
 join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
+    - name: Salle:française
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjhiOTBkZTQtMDg2Ny00NzBlLTkwOWQtYzU3Y2YzNjIzNjg0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222cccb69d-1d99-4be7-ac4d-8eaadc0afed3%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a
+    - name: Room:English
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODlhYWI2YmQtZTUxOS00MmViLTk0MTktMWY2YzY0Mjc0OGQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222cccb69d-1d99-4be7-ac4d-8eaadc0afed3%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a
+    - name: Room:EnglishCréole
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWRlOGZjZTQtNDdiYy00OTdhLWIwZjQtZGQ0NzYyNGYyMmJl%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222cccb69d-1d99-4be7-ac4d-8eaadc0afed3%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a
+    - name: Lightning Talk
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTcxYWEwZGQtNjZiYi00ZGY0LWEyYTctZjBhZjkxM2Q3ZWQz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222cccb69d-1d99-4be7-ac4d-8eaadc0afed3%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a
 
-scheduleurl:
+scheduleurl: https://sessionize.com/api/v2/xzfnfhd6/view/GridSmart
 
 sponsors:
 
-speakerlisturl: https://sessionize.com/HaitianSQLOneDayEvent
-callforspeakers:  true
+speakerlisturl: https://sessionize.com/api/v2/xzfnfhd6/view/SpeakerWall
+callforspeakers: false
 organizers:
   - name: Jean Joseph 
     twitter: 
