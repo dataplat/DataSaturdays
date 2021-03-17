@@ -1,0 +1,31 @@
+name: "Data Saturday #4 - Johannesburg"
+date: 2021-05-15 08:00:00 -0000
+virtual: true
+description: " <p>
+Data Saturday Johannesburg is a virtual online training event for professionals who use the Microsoft data platform.
+</p>
+<p>
+    The theme of this event will be <b>\"back to basics\"</b>, where we will focus on attendees new to the
+    data landscape. as such, all sessions will be between level 100 and 200 to provide attendees with a
+    good understanding of the different technologies and roles available in the data ecosystem.
+</p>
+
+<p>
+Due to the COVID pandemic, this event will be held <b>online</b>.
+</p>
+"
+registrationurl: https://www.eventbrite.com/e/data-saturday-johannesburg-2011-tickets-134437071901
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl:
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/data-saturday-johannesburg/?e=e0483b
+callforspeakers:  true
+organizers:
+  - name: Michael Johnson
+    twitter: 
+    email: mailto:JohannesburgDataPlatform@outlook.com

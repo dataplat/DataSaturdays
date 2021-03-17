@@ -1,0 +1,30 @@
+name: "Data Saturday #7 - Los Angeles"
+date: 2021-04-24 08:00:00 -0000
+virtual: true
+description: "<p>
+                        <img src=\"/assets/img/events/0007/data.sql_.saturday.jpg\" width=\"225\" height=\"225\">
+                    </p>
+                    <p>
+                        Data Saturday in Los Angeles is a free training event for professionals who use the Microsoft/AWS/GCP data platforms. These community events offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+                    </p>
+                    <p>
+                        Due to the COVID pandemic, this event will be held online.
+                    </p>
+"
+registrationurl: https://www.eventbrite.com/e/2021-sql-saturday-in-los-angeles-sqlsatla-tickets-136013374665
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl:
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/2021-sql-saturday-in-los-angeles
+callforspeakers:  true
+
+volunteerrequesturl: https://datadriventechnologies.org/2021/02/22/2021-data-sql-saturday-call-to-volunteers/
+organizers:
+  - name: Data Saturday LA
+    twitter: 
+    email: mailto:sqlsatla@datadriventechnologies.org

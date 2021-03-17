@@ -1,0 +1,51 @@
+name: "Data Saturday #1 Pordenone"
+date: 2021-02-27 08:00:00 -0000
+virtual: true
+description: Data Saturday Pordenone is a virtual online training event for professionals who use the Microsoft data platform.
+  
+  Community speakers will offer sessions about cloud, analytics, database administration, business intelligence, AI and more.
+  
+  Due to the COVID pandemic, this event will be held online.
+registrationurl: http://datasaturday0001.eventbrite.it/
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+    - name: Room 1
+      url: https://global.gotomeeting.com/join/223314317
+    - name: Room 2
+      url: https://global.gotomeeting.com/join/526879645 
+    - name: Room 3
+      url: https://global.gotomeeting.com/join/427254997
+    - name: Room 4
+      url: https://global.gotomeeting.com/join/241435341
+    - name: Room 5
+      url: https://global.gotomeeting.com/join/806088709
+    - name: Room 6
+      url: https://global.gotomeeting.com/join/245433509
+scheduleurl: https://sessionize.com/api/v2/vpoxqhtw/view/GridSmart
+
+sponsors:
+  - link: https://quantumdatis.com
+    image: ../assets/img/events/0001/quantumdatis_path.svg
+    height: 100
+  - link: https://www.alphasys.it/
+    image: ../assets/img/events/0001/alphasys-stacked-blue-transparent-_720x720_round.png
+    height: 65
+  - link: https://www.realcomm.it/
+    image: ../assets/img/events/0001/realcomm.png
+    height: 90
+  - link: https://www.beantech.it/
+    image: ../assets/img/events/0001/beantech.png
+    height: 70
+  - link: https://www.fluentis.com/
+    image: ../assets/img/events/0001/logoFluentis 250x52px.png
+    height:
+  - link: https://www.altitudo.com/
+    image: ../assets/img/events/0001/altitudo.png
+    height: 90
+speakerlisturl: https://sessionize.com/api/v2/vpoxqhtw/view/SpeakerWall
+callforspeakers:  false
+organizers:
+  - name: Marco Pozzan
+    twitter: https://twitter.com/marcopozzan
+    email: mailto:support@datasaturdays.com

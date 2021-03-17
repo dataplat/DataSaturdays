@@ -1,0 +1,26 @@
+name: "Data Saturday #06 - Malta"
+date: 2021-04-24 08:00:00 -0000
+virtual: true
+description: "<p>
+                        This is the first annual Data Saturday organized by the Maltese community and focused on the Maltese Market needs.</p>
+                    <p>This is a free training day full of information about Microsoft Data Platform brought to us by the best international speakers available
+                    </p>
+                    <p>
+                        Due to the COVID pandemic, this event will be held online.
+                    </p>
+"
+registrationurl: https://www.eventbrite.com/e/malta-data-saturday-2021-tickets-135044412473
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl:
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/malta-data-saturday-2021/
+callforspeakers:  true
+organizers:
+  - name: Dennes Torres
+    twitter: 
+    email: mailto:dennes@bufaloinfo.com.br
