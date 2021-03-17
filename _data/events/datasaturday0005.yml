@@ -1,0 +1,25 @@
+name: "Data Saturday #5 Redmond"
+date: 2021-04-17 08:00:00 -0000
+virtual: true
+description: "               <p>
+                    Data Saturday #5 Redmond is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+                    </p>
+                    <p>
+                        Due to the COVID pandemic, this event will be held online.
+                    </p>
+"
+registrationurl: https://www.eventbrite.com/e/data-saturday-5-redmond-tickets-134535646741
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl:
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/data-saturday-redmond-2021
+callforspeakers:  true
+organizers:
+  - name: Tho Le & Harry Chandra (Redmond SQL User Group Leadership Team)
+    twitter: 
+    email: mailto:DataSaturday2021@redmondsql.org

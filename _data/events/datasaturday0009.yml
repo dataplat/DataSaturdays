@@ -1,0 +1,39 @@
+name: "Data Saturday #9 - Data Toboggan - Cool Runnings "
+date: 2021-06-12 08:00:00 -0000
+virtual: true
+description: "<p>
+                        Azure Synapse Analytics is a practically limitless analytics service that brings together data integration, enterprise data warehousing and big data analytics. Let's spend a day exploring and showcasing these capabilities.
+                    </p>
+                    <p>
+                        It is this analytical power that will help enable any organisation to transform from being reactive into being truly proactive, generating actionable insights that enable both business flow and timely decision-support.
+                    </p>
+                    <p>
+                        We are excited our virtual event 'Cool Runnings' is on Saturday 12 June 2021 and is free to attend.
+                    </p>
+                    <p>
+                        The Call for Speakers is open. We hope you register and attend the event which covers introductory sessions to in-depth sessions. Enjoy the day!
+                    </p>
+                    <p>
+                        This event is co-branded with Data Saturdays and Data Toboggan. 
+                    </p>
+                    <p>
+                        The event website is located at: <a href=\"http://www.datatoboggan.co.uk/\">http://www.datatoboggan.co.uk/</a> and the YouTube channel is at: <a href=\"https://www.youtube.com/channel/UCXWtt2gXhZEN4_5H7BVPsMQ\">https://www.youtube.com/channel/UCXWtt2gXhZEN4_5H7BVPsMQ</a>
+                    </p>
+"
+registrationurl: https://www.eventbrite.co.uk/e/datatoboggan-a-day-of-azure-synapse-analytics-tickets-132950349073
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl:
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/data-toboggan-cool-runnings
+callforspeakers:  true
+
+volunteerrequesturl:
+organizers:
+  - name: Victoria Holt, Mark Pryce-Maher, and Richard Munn
+    twitter: 
+    email: mailto:support@datasaturdays.com

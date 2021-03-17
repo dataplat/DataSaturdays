@@ -1,0 +1,30 @@
+name: "Data Saturday #8 - Southwest US"
+date: 2021-04-24 08:00:00 -0000
+virtual: true
+description: "<p>
+                        This Data Saturday Event is being jointly developed by the Albequerque Data Platform Users Group, Arizona Data Platform Users Group, and the Santa Fe Data Platform Users Groups. This event will include sessions on many Microsoft Data Platform related topics.
+                    </p>
+                    <p>
+                        We encourage interested speakers to submit sessions via Sessionize using this link
+                    </p>
+                    <p>
+                        In particular we would like to encourage speakers local to the southwest region of the United States to submit 60 minute sessions.
+                    </p>
+"
+registrationurl: https://www.eventbrite.com/e/data-saturday-southwest-us-tickets-142251707687
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl:
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/data-saturday-southwest-us
+callforspeakers:  true
+
+volunteerrequesturl: https://datadriventechnologies.org/2021/02/22/2021-data-sql-saturday-call-to-volunteers/
+organizers:
+  - name: Adrian Mee, Chris Hyde, Ginger Grant
+    twitter: 
+    email: mailto:chrishyde325@gmail.com

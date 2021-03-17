@@ -42,12 +42,16 @@ p {
 
 
 .page-section {
-  padding: 6rem 0;
+  padding: 8rem 0 calc(8rem + 4vw);
 }
 .page-section h2.section-heading {
-  font-size: 2.5rem;
-  margin-top: 0;
+  margin-top: 2rem;
   margin-bottom: 1rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 2.5rem;
+  color: #4793e0;
+  letter-spacing: 0.0625em;
+  font-weight: bold;
 }
 .page-section h3.section-subheading {
   font-size: 1rem;
@@ -534,8 +538,68 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: #ced4da;
 }
 
+
+/* --- Footer --- */
+
 .footer {
+  padding: 1.875rem 0;
+  border-top: 1px #EAEAEA solid;
+  margin-top: 3.125rem;
+  font-size: 0.875rem;
+  background-color: {{ site.footer-col | default: "#EAEAEA" }};
+  {% if site.footer-img %}
+    background-image: url({{ site.footer-img | relative_url }});
+    background-attachment: fixed;
+  {% endif %}
+}
+
+.footer p.text-muted {
+  color: {{ site.footer-text-col | default: "#777777" }} !important;
+}
+
+.footer a {
+  color: {{ site.footer-link-col | default: "#404040" }};
+}
+
+.footer .list-inline {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 1.875rem;
+}
+.footer .copyright {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
-  font-size: 0.9rem;
-  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.footer .theme-by {
+  text-align: center;
+  margin: 0.625rem 0 0;
+}
+.footer .footer-custom-content {
+  text-align: center;
+  margin-bottom: 0.9375rem;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    padding: 3.125rem 0;
+  }
+  .footer .footer-links {
+    font-size: 1.125rem;
+  }
+  .footer .copyright {
+    font-size: 1rem;
+  }
+  .footer .footer-custom-content {
+    font-size: 1rem;
+  }
+}
+/* fix in-page anchors to not be behind fixed header */
+:target:before {
+  content: "";
+  display: block;
+  height: 3.125rem; /* navbar height */
+  margin: -3.125rem 0 0;
 }

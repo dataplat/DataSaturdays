@@ -1,0 +1,57 @@
+name: "Data Saturday #03 - Haiti"
+date: 2021-03-27 08:00:00 -0000
+virtual: true
+description: "      <p><b>English Version</b></p>
+<p>
+    Are you looking for a way to advance your career using the latest technologies? Are you looking to learn the latest Data Platform & Analytics solutions? Then, Haitian SQL One Day Event is your answer. This community is for professionals who use the Microsoft data platform. This event offers contents across data management, cloud and hybrid architecture, Data Engineering, Data Sciences, DataOps, AIOps, Big Data Pipeline, IoT, AI, ML, DevOps, Scala, Python, Business Intelligence, Data Visualization & Dashboards, Docker, Kubernetes & Cloud Native Infrastructure, SQL Database, and more.
+</p>
+<p>
+    It will be hosted online on March 27th 2021 between 8:30am to 5:30pm in three (3) different languages (Creole, French, and English). Please register to reserve your seat; also don’t forget to submit your session(s).
+</p>
+<p><b>French Version</b></p>
+<p>
+Cherchez-vous un moyen de porter votre carrière à une autre dimension en utilisant les dernières technologies? Cherchez-vous à apprendre la dernière plateforme de données et les solutions d'analyse? Alors, Haitian SQL One Day Event est votre réponse. Cet enseignement est pour les professionnels qui utilisent la plateforme Microsoft de base de données. Des formations seront offertes dans les domaines suivants: gestion de données, cloud and hybrid architecture,..., base de données, SQL, pour ne citer que ceux-là.
+</p>
+<p>
+Cet enseignement sera diffusé en ligne le 27 Mars 2021, de 08:30 à 17:30, en trois (3) langues différentes: Créole, Français et Anglais. Prière de vous inscrire pour réserver votre place et n'oubliez pas de soumettre votre/vos session(s).
+</p>
+<p>
+    Soyez des nôtres!
+</p>
+<p><b>Creole Version</b></p>
+<p>
+Èske'w tap chèche yon mwayen pou pouse karyè'w nan yon lòt dimansyon kote wap itilize dènye teknoloji yo? Èske'w ta renmen aprann dènye Data Platform & Analytics solutions yo? Enben, Haitian SQL One Day Event se repons ou tap tann lan. Se yon ansèyman gratis pou pwofesyonèl ki itilize platfòm baz done Microsoft la. Nap bay fòmasyon nan domèn: jesyon done, cloud and hybrid architecture, ..., baz done SQL, pou'n site sa yo sèlman.
+</p>
+<p>
+Ansèyman sa-a ap pase an liy jou kap 27 Mas 2021 an, soti 8:30 nan maten pou rive 5:30 nan aprèmidi, nan 3 lang diferan: Kreyòl, Fransè ak Anglè. Tanpri, enskri pou ou ka rezève plas ou e sitou, pa bliye voye pwogram ou si'w ta renmen prezante youn oubyen plizyè sesyon.
+</p>
+<p>
+NAP TANN OU!
+</p>
+<p>
+Due to the COVID pandemic, this event will be held online.
+</p>
+"
+registrationurl: https://www.eventbrite.com/e/haitian-sql-one-day-event-tickets-133876158193
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+    - name: Salle:française
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjhiOTBkZTQtMDg2Ny00NzBlLTkwOWQtYzU3Y2YzNjIzNjg0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222cccb69d-1d99-4be7-ac4d-8eaadc0afed3%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a
+    - name: Room:English
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODlhYWI2YmQtZTUxOS00MmViLTk0MTktMWY2YzY0Mjc0OGQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222cccb69d-1d99-4be7-ac4d-8eaadc0afed3%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a
+    - name: Room:EnglishCréole
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWRlOGZjZTQtNDdiYy00OTdhLWIwZjQtZGQ0NzYyNGYyMmJl%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222cccb69d-1d99-4be7-ac4d-8eaadc0afed3%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a
+    - name: Lightning Talk
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTcxYWEwZGQtNjZiYi00ZGY0LWEyYTctZjBhZjkxM2Q3ZWQz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222cccb69d-1d99-4be7-ac4d-8eaadc0afed3%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a
+
+scheduleurl: https://sessionize.com/api/v2/xzfnfhd6/view/GridSmart
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/api/v2/xzfnfhd6/view/SpeakerWall
+callforspeakers: false
+organizers:
+  - name: Jean Joseph 
+    twitter: 
+    email: mailto:support@datasaturdays.com
