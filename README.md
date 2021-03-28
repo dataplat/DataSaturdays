@@ -9,16 +9,16 @@ We open-sourced the [code](https://github.com/sqlcollaborative/datasaturdays) an
 
 We wanted to include other community leaders to assist with guiding the project and we were proud that everyone we asked to be involved accepted. The people who are Admins of the project (who can approve changes to the code and therefore the website) are :-
 
-- [Gianluca Sartori](https://twitter/spaghettidba)
-- [Rob Sewell](https://twitter/sqldbawithbeard)
-- [Steve Jones](https://twitter/way0utwest)
-- [Monica Rathbun](https://twitter/sqlespresso)
-- [Randolph West](https://twitter/_randolph_west)
-- [Johan Ludvig Brattås](https://twitter/intoleranse)
-- [Andy Mallon](https://twitter/amtwo)
-- [Elizabeth Noble](https://twitter/sqlzelda)
-- [Warwick Rudd](https://twitter/Warwick_Rudd)
-- [Matt Gordon](https://twitter/sqlatspeed)
+- [Gianluca Sartori](https://twitter.com/spaghettidba)
+- [Rob Sewell](https://twitter.com/sqldbawithbeard)
+- [Steve Jones](https://twitter.com/way0utwest)
+- [Monica Rathbun](https://twitter.com/sqlespresso)
+- [Randolph West](https://twitter.com/_randolph_west)
+- [Johan Ludvig Brattås](https://twitter.com/intoleranse)
+- [Andy Mallon](https://twitter.com/amtwo)
+- [Elizabeth Noble](https://twitter.com/sqlzelda)
+- [Warwick Rudd](https://twitter.com/Warwick_Rudd)
+- [Matt Gordon](https://twitter.com/sqlatspeed)
 
 We have now (03-2021) enabled 10 Data Saturday events to exist, which we still think is amazing!
 
