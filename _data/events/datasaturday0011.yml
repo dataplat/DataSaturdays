@@ -13,6 +13,15 @@ join:
 scheduleurl:
 
 sponsors:
+  - link: https://www.repsly.com/
+    image: ../assets/img/events/0011/repsly.png
+    height: 100
+  - link: https://king-ict.com/
+    image: ../assets/img/events/0011/king.jpg
+    height: 100
+  - link: https://plus-it.de/
+    image: ../assets/img/events/0011/plusit.png
+    height: 100
 
 speakerlisturl: https://sessionize.com/datasaturday-croatia-2021/
 callforspeakers: true 
