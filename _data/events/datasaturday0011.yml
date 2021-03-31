@@ -28,6 +28,18 @@ sponsors:
   - link: https://plus-it.de/
     image: ../assets/img/events/0011/plusit.png
     height: 100
+  - link: https://span.eu/
+    image: ../assets/img/events/0011/span.png
+    height: 100
+  - link: http://www.datasense.hr/
+    image: ../assets/img/events/0011/datasense.png
+    height: 100
+  - link: https://hrprodigy.hr/
+    image: ../assets/img/events/0011/hr-prodigy-logo.png
+    height: 100
+  - link: https://www.infobip.com/
+    image: ../assets/img/events/0011/infobip.jfif
+    height: 100
 
 speakerlisturl: https://sessionize.com/datasaturday-croatia-2021/
 callforspeakers: true 
