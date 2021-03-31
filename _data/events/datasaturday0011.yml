@@ -1,0 +1,22 @@
+name: "Data Saturday #11 - Croatia 2021"
+date: 2021-09-11 08:00:00 -0000
+virtual: false
+description:  'Data Saturday #11 Croatia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+
+Event location is : Hotel International, Miramarska 24, 10000 Zagreb, Croatia
+'
+registrationurl: https://www.eventbrite.com/e/datasaturday-croatia-2021-tickets-143735108579
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl:
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/datasaturday-croatia-2021/
+callforspeakers: true 
+organizers:
+  - name: Damir Matešić
+    twitter:
+    email: mailto:ssugcro@googlegroups.com
