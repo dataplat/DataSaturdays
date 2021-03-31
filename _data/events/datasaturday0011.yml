@@ -1,15 +1,17 @@
 name: "Data Saturday #11 - Croatia 2021"
 date: 2021-09-11 08:00:00 -0000
 virtual: false
-description:  'Data Saturday #11 Croatia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</br>
-The event will take place in : <a href="https://goo.gl/maps/4Wag21rGEw4vxcmJ9" target="_blank">Hotel International, Miramarska 24, 10000 Zagreb, Croatia</a></br></br></br>
-We have prepared three pre-conference seminars for you:</br>
+description:  '<p>Data Saturday #11 Croatia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+<p><b>Event venue</b></p>
+<p>The plan is for the event to be in person, on Saturday, September 11, at the <a href="https://goo.gl/maps/4Wag21rGEw4vxcmJ9" target="_blank">Hotel International, Miramarska 24, 10000 Zagreb, Croatia</a>. We hope for the best! If this is not possible, the event will switch to virtual / hybrid.</p>
+<p><b>Preconf seminars</b></p>
+<p>We have prepared three pre-conference seminars for you:</p>
 <ul>
 <li>SQL Server for Developers by Miloš Radivojević</li>
 <li>Improve Your Database Tuning Skills by Uwe Ricken</li>
 <li>Advanced Data Visualization in Power BI by Markus Ehrenmueller</li>
 </ul>
-More information about pre-conference seminars and registration at: <a href="https://events.3nf.hr/Seminars.aspx" target="_blank">3NF Events</a>
+<p>More information about pre-conference seminars and registration at: <a href="https://events.3nf.hr/Seminars.aspx" target="_blank">3NF Events</a></p>
 '
 registrationurl: https://www.eventbrite.com/e/datasaturday-croatia-2021-tickets-143735108579
 join:
