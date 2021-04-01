@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\img",
     "\\assets\\img\\events",
     "\\assets\\img\\events\\0011",
-    "\\_data",
     "\\_data\\events"
   ],
-  "SelectedNode": "\\assets\\img\\events\\0011\\infobip.jfif",
+  "SelectedNode": "\\_data",
   "PreviewInSolutionExplorer": false
 }
