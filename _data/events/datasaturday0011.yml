@@ -23,25 +23,25 @@ scheduleurl:
 sponsors:
   - link: https://www.repsly.com/
     image: ../assets/img/events/0011/repsly.png
-    height: 100
+    height: 139
   - link: https://king-ict.com/
     image: ../assets/img/events/0011/king.jpg
-    height: 100
+    height: 155
   - link: https://plus-it.de/
     image: ../assets/img/events/0011/plusit.png
-    height: 100
+    height: 150
   - link: https://span.eu/
     image: ../assets/img/events/0011/span.png
     height: 100
   - link: http://www.datasense.hr/
     image: ../assets/img/events/0011/datasense.png
-    height: 100
+    height: 47
   - link: https://hrprodigy.hr/
     image: ../assets/img/events/0011/hr-prodigy-logo.png
-    height: 100
+    height: 66
   - link: https://www.infobip.com/
     image: ../assets/img/events/0011/infobip.jfif
-    height: 100
+    height: 150
 
 speakerlisturl: https://sessionize.com/datasaturday-croatia-2021/
 callforspeakers: true 
