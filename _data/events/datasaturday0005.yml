@@ -11,21 +11,19 @@ description: "               <p>
 registrationurl: https://www.eventbrite.com/e/data-saturday-5-redmond-tickets-134535646741
 join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
-  rooms: 
-
-scheduleurl:"https://sessionize.com/api/v2/6l2mfo9t/view/GridSmart"
+  rooms:
+scheduleurl: https://sessionize.com/api/v2/6l2mfo9t/view/GridSmart
 
 sponsors:
   - link: https://databricks.com
-    image: ..\assets\img\events\0005\databricks-logo.jpg
+    image: ../assets/img/events/0005/databricks-logo.jpg
     height: 100
   - link: https://www.scriptrunner.com/en/
-    image: ..\assets\img\events\0005\scriptrunner-logo_rgb_mit_claim2x.jpg
+    image: ../assets/img/events/0005/scriptrunner-logo_rgb_mit_claim2x.jpg
     height: 100
   - link: https://www.purestorage.com
-    image: ..\assets\img\events\0005\Pure.png
+    image: ../assets/img/events/0005/Pure.png
     height: 100
-    
 speakerlisturl: https://sessionize.com/data-saturday-redmond-2021
 callforspeakers:  False
 organizers:
