@@ -12,6 +12,8 @@ navbar-links:
   GitHub: "https://github.com/sqlcollaborative/DataSaturdays"
   Events: "index.html#events"
   Past Events: "index.html#pastevents"
+  Blog: "https://blog.datasaturdays.com"
+  GitHub: "https://github.com/sqlcollaborative/DataSaturdays"
   About Us: "index.html#aboutus"
 
 # --- Logo --- #
