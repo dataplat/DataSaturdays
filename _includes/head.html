@@ -4,7 +4,12 @@
   <meta name="description" content="Data Saturdays website" />
   <meta name="author" content="" />
   <title>Data Saturdays</title>
+  {% if page.id %} 
+  <link rel="icon" type="image/x-icon" href="../assets/img/favicon.ico" />
+  {% else %} 
   <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+  {% endif %}"
+  
   <!-- I am the default header -->
   {% if layout.common-css %}
   {% for css in layout.common-css %}
