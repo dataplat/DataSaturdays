@@ -17,6 +17,9 @@ join:
 scheduleurl: https://sessionize.com/api/v2/epyct9xt/view/GridSmart
 
 sponsors:
+  - link: https://www.red-gate.com/products/
+    image: ../assets/img/events/0006/redgatelogo.png
+    height: 80
 
 speakerlisturl: https://sessionize.com/api/v2/epyct9xt/view/SpeakerWall
 callforspeakers: false
