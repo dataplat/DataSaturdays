@@ -14,12 +14,12 @@ join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
 
-scheduleurl:
+scheduleurl: https://sessionize.com/api/v2/epyct9xt/view/GridSmart
 
 sponsors:
 
-speakerlisturl: https://sessionize.com/malta-data-saturday-2021/
-callforspeakers:  true
+speakerlisturl: https://sessionize.com/api/v2/epyct9xt/view/SpeakerWall
+callforspeakers:  false
 organizers:
   - name: Dennes Torres
     twitter: 
