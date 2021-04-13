@@ -19,7 +19,7 @@ scheduleurl: https://sessionize.com/api/v2/epyct9xt/view/GridSmart
 sponsors:
 
 speakerlisturl: https://sessionize.com/api/v2/epyct9xt/view/SpeakerWall
-callforspeakers:  false
+callforspeakers: false
 organizers:
   - name: Dennes Torres
     twitter: 
