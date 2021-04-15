@@ -14,15 +14,12 @@ join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
 
-scheduleurl: https://sessionize.com/api/v2/epyct9xt/view/GridSmart
+scheduleurl:
 
 sponsors:
-  - link: https://www.red-gate.com/products/
-    image: ../assets/img/events/0006/redgatelogo.png
-    height: 80
 
-speakerlisturl: https://sessionize.com/api/v2/epyct9xt/view/SpeakerWall
-callforspeakers: false
+speakerlisturl: https://sessionize.com/malta-data-saturday-2021/
+callforspeakers:  true
 organizers:
   - name: Dennes Torres
     twitter: 
