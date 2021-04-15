@@ -2,7 +2,7 @@ name: "Data Saturday #7 - Los Angeles"
 date: 2021-06-12 08:00:00 -0000
 virtual: true
 description: "<p>
-                        <img src=\"/assets/img/events/0007/data.sql_.saturday.jpg\" width=\"225\" height=\"225\">
+                        <img src=\"/assets/img/events/0007/sqlsatla.jpg\">
                     </p>
                     <p>
                         Data Saturday in Los Angeles is a free training event for professionals who use the Microsoft/AWS/GCP data platforms. These community events offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
@@ -19,12 +19,29 @@ join:
 scheduleurl:
 
 sponsors:
-
+  - link: https://www.vmware.com/
+    image: ../assets/img/events/0007/vmware.png
+    height: 80
+  - link: https://www.datavail.com/
+    image: ../assets/img/events/0007/datavail_logo_copy.png
+    height: 80
+  - link: https://www.wherescape.com/
+    image: ../assets/img/events/0007/wherescape.jpg
+    height: 80
+  - link: https://sios.com/
+    image: ../assets/img/events/0007/sios.png
+    height: 80
+  - link: https://www.dbwatch.com/
+    image: ../assets/img/events/0007/dbwatch-logo.png
+    height: 80
+  - link: https://www.cappuccinoinsurance.com/
+    image: ../assets/img/events/0007/cappuccino-insurance.jpg
+    height: 80
 speakerlisturl: https://sessionize.com/2021-sql-saturday-in-los-angeles
 callforspeakers:  true
 
 volunteerrequesturl: https://datadriventechnologies.org/2021/02/22/2021-data-sql-saturday-call-to-volunteers/
 organizers:
   - name: Data Saturday LA
-    twitter: 
+    twitter: https://twitter.com/sqlsatla
     email: mailto:sqlsatla@datadriventechnologies.org
