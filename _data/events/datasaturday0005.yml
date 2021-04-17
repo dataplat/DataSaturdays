@@ -13,17 +13,17 @@ join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms: 
     - name: Room 1
-        url: https://us02web.zoom.us/j/88594898065?pwd=RVM3NzFPa25Gc3FSd05DbUwyOEZhZz09
+      url: https://us02web.zoom.us/j/88594898065?pwd=RVM3NzFPa25Gc3FSd05DbUwyOEZhZz09
     - name: Room 2
-        url: https://us02web.zoom.us/j/87983909395?pwd=MDJndm81S2lXeWUvemNseDExVTVRQT09
+      url: https://us02web.zoom.us/j/87983909395?pwd=MDJndm81S2lXeWUvemNseDExVTVRQT09
     - name: Room 3
-        url: https://us02web.zoom.us/j/82079589131?pwd=dU5NZS9OMFJ0b1lWSlJwZkpYeklsUT09
+      url: https://us02web.zoom.us/j/82079589131?pwd=dU5NZS9OMFJ0b1lWSlJwZkpYeklsUT09
     - name: Room 4
-        url: https://us02web.zoom.us/j/81081551738?pwd=R2VMdEhEUmg2RlFYZDcxVjd1dFZodz09
+      url: https://us02web.zoom.us/j/81081551738?pwd=R2VMdEhEUmg2RlFYZDcxVjd1dFZodz09
     - name: Room 5
-        url: https://us02web.zoom.us/j/89731609213?pwd=L1pEd0dRNG1yTUdGLzZ2QlVpZmg4UT09
+      url: https://us02web.zoom.us/j/89731609213?pwd=L1pEd0dRNG1yTUdGLzZ2QlVpZmg4UT09
     - name: Room 6
-        url: https://us02web.zoom.us/j/83418359780?pwd=OGl0NkJPb0EyNkJKdG5PamFRWmNkQT09
+      url: https://us02web.zoom.us/j/83418359780?pwd=OGl0NkJPb0EyNkJKdG5PamFRWmNkQT09
 
 scheduleurl: https://sessionize.com/api/v2/6l2mfo9t/view/GridSmart
 
