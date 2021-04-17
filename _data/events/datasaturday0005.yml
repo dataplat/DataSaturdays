@@ -15,15 +15,15 @@ join:
     - name: Room 1
       url: https://us02web.zoom.us/j/88594898065?pwd=RVM3NzFPa25Gc3FSd05DbUwyOEZhZz09
     - name: Room 2
-      url: https://us02web.zoom.us/j/87983909395?pwd=MDJndm81S2lXeWUvemNseDExVTVRQT09
+      url: https://us02web.zoom.us/j/85382887858?pwd=eWNoeUJDbzdDc3VFOTdRN3I0SVRrZz09
     - name: Room 3
-      url: https://us02web.zoom.us/j/82079589131?pwd=dU5NZS9OMFJ0b1lWSlJwZkpYeklsUT09
+      url: https://us02web.zoom.us/j/83115740427?pwd=REZlVU04QXBUR0IyN2JCYjZ2WjhGZz09
     - name: Room 4
-      url: https://us02web.zoom.us/j/81081551738?pwd=R2VMdEhEUmg2RlFYZDcxVjd1dFZodz09
+      url: https://us02web.zoom.us/j/83113663463?pwd=NGV0VGVTZm1yRGp2cUFzMzQ5REJYQT09
     - name: Room 5
-      url: https://us02web.zoom.us/j/89731609213?pwd=L1pEd0dRNG1yTUdGLzZ2QlVpZmg4UT09
+      url: https://us02web.zoom.us/j/81795542808?pwd=UXhabFdrcnVJOE4vYk9tVVRiS042Zz09
     - name: Room 6
-      url: https://us02web.zoom.us/j/83418359780?pwd=OGl0NkJPb0EyNkJKdG5PamFRWmNkQT09
+      url: https://us02web.zoom.us/j/85984072814?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09
 
 scheduleurl: https://sessionize.com/api/v2/6l2mfo9t/view/GridSmart
 
