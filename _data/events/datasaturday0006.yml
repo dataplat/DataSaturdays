@@ -13,6 +13,12 @@ registrationurl: https://www.eventbrite.com/e/malta-data-saturday-2021-tickets-1
 join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
+    - name: Track 1
+      url: https://www.youtube.com/watch?v=LfAJwyx9rY4
+    - name: Track 2
+      url: https://www.youtube.com/watch?v=xprbiVF51Xw
+    - name: Track 3
+      url: https://www.youtube.com/watch?v=yORsiPL_s7o
 
 scheduleurl: https://sessionize.com/api/v2/epyct9xt/view/GridSmart
 
@@ -24,6 +30,6 @@ sponsors:
 speakerlisturl: https://sessionize.com/api/v2/epyct9xt/view/SpeakerWall
 callforspeakers: false
 organizers:
-  - name: Dennes Torres
+  - name: Dennes Torres & Slawomir Drzymala
     twitter: 
     email: mailto:dennes@bufaloinfo.com.br
