@@ -7,11 +7,7 @@ It will be held virtually during fall 2021."
 
 
 registrationurl: https://datasaturday-2021-mn.eventbrite.com
-join:
-  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
-  rooms:
-    - name: Room 1
-      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
 scheduleurl: https://sessionize.com/PASSMNDATASATURDAY2021
 sponsors:
   - link: www.passmn.com
