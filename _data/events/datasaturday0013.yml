@@ -1,0 +1,21 @@
+name: "Data Saturday #15 - Minnesota"
+date: 2021-10-16 09:00:00 -0000
+
+description: "A free virtual event for all data learners and professionals seeking to learn!
+<br>
+It will be held virtually during fall 2021."
+
+
+registrationurl: https://datasaturday-2021-mn.eventbrite.com
+
+scheduleurl: https://sessionize.com/PASSMNDATASATURDAY2021
+sponsors:
+  - link: www.passmn.com
+
+speakerlisturl: https://sessionize.com/PASSMNDATASATURDAY2021
+callforspeakers:  true 
+volunteerrequesturl: mailto:events@passmn.com
+organizers:
+  - name: Events Coordinator for PassMN
+    twitter: https://twitter.com/passmn
+    email: events@passmn.com
