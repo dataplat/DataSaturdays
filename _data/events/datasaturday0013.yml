@@ -8,11 +8,15 @@ It will be held virtually during fall 2021."
 
 registrationurl: https://datasaturday-2021-mn.eventbrite.com
 
-scheduleurl: https://sessionize.com/PASSMNDATASATURDAY2021
+# commented: uncomment this when you have the sessionize link to the schedule
+# scheduleurl: https://sessionize.com/PASSMNDATASATURDAY2021
 sponsors:
-  - link: www.passmn.com
+  - link: https://www.passmn.com/
+    image: ../assets/img/events/0013/passmn.jpg
+    height: 200
 
-speakerlisturl: https://sessionize.com/PASSMNDATASATURDAY2021
+# commented: uncomment this when you have the sessionize link to the speakers list
+# speakerlisturl: https://sessionize.com/PASSMNDATASATURDAY2021
 callforspeakers:  true 
 volunteerrequesturl: mailto:events@passmn.com
 organizers:
