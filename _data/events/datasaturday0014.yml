@@ -1,0 +1,45 @@
+name: "Data Saturday #14 - Oslo"
+date: 2021-09-04 09:00:00 -0000
+
+description: "<p style=\"text-align:center;\">
+<img src=\"../assets/img/events/0014/datasat_osl_vikingship_trans_650x470.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\">
+</p>
+<p style=\"text-align:center;\">
+<img src=\"../assets/img/events/0014/AWS_Logo.png\" height=\"198\" alt=\"Amazon Web Services logo\" style=\"margin-left: 25px; margin-right: 25px\">
+<img src=\"../assets/img/events/0014/azure_new_logo.png\" height=\"198\" alt=\"Microsoft Azure logo\" style=\"margin-left: 25px; margin-right: 25px\">
+<img src=\"../assets/img/events/0014/gcp_logo_cloud.png\" height=\"198\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 25px\">
+</p>
+<p>
+Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
+</p>
+<p>
+Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+</p>
+<p>
+Due to the current pandemic we will this year also conduct the event online.
+</p>
+<b>The Call for Speakers is open!</b>
+"
+
+#registrationurl: This is your registration URL
+#join:
+#  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+#  rooms:
+#    - name: Room 1
+#      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
+#scheduleurl: This is your schedule URL from Sessionize. You can leave this blank until you have it.
+
+#sponsors:
+#  - link: https://yoursponsorlink
+#    image: your sponsor image
+#    height: image height if required
+
+speakerlisturl: https://sessionize.com/data-saturday-oslo-2021/
+callforspeakers:  true
+
+volunteerrequesturl: mailto:sqlsaturday.oslo@gmail.com
+organizers:
+  - name: Rune Ovlien Rakeie, Johan Brattås, Magne Fretheim, Bjørn Wang, Ida Bergum
+    twitter: https://twitter.com/SQLSatOslo
+    email: mailto:sqlsaturday.oslo@gmail.com
