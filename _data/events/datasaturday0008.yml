@@ -16,7 +16,7 @@ join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
 
-scheduleurl:
+scheduleurl: https://sessionize.com/api/v2/eblztjtl/view/GridSmart
 
 sponsors:
 
