@@ -13,10 +13,9 @@ description: "<p>
 "
 registrationurl: https://www.eventbrite.com/e/data-saturday-southwest-us-tickets-142251707687
 join:
-  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  description: "<p>Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.</p> <p>Please note that the schedule is in Mountain Daylight Savings time UTC -7</p>"
   rooms:
 
-Please note that the schedule is in Mountain Daylight Savings time UTC -7
 
 scheduleurl: https://sessionize.com/api/v2/eblztjtl/view/GridSmart
 
