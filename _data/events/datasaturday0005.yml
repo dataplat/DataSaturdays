@@ -12,6 +12,19 @@ registrationurl: https://www.eventbrite.com/e/data-saturday-5-redmond-tickets-13
 join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms: 
+    - name: Room 1
+      url: https://us02web.zoom.us/j/88594898065?pwd=RVM3NzFPa25Gc3FSd05DbUwyOEZhZz09
+    - name: Room 2
+      url: https://us02web.zoom.us/j/85382887858?pwd=eWNoeUJDbzdDc3VFOTdRN3I0SVRrZz09
+    - name: Room 3
+      url: https://us02web.zoom.us/j/83115740427?pwd=REZlVU04QXBUR0IyN2JCYjZ2WjhGZz09
+    - name: Room 4
+      url: https://us02web.zoom.us/j/83113663463?pwd=NGV0VGVTZm1yRGp2cUFzMzQ5REJYQT09
+    - name: Room 5
+      url: https://us02web.zoom.us/j/81795542808?pwd=UXhabFdrcnVJOE4vYk9tVVRiS042Zz09
+    - name: Room 6
+      url: https://us02web.zoom.us/j/85984072814?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09
+
 scheduleurl: https://sessionize.com/api/v2/6l2mfo9t/view/GridSmart
 
 sponsors:

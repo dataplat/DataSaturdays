@@ -30,10 +30,10 @@ subtitle: By The Community For The Community
       </thead>
       <tbody>
         <!-- Events List show future events-->
-        {% assign curDate = site.time | date: '%s' %}
+        {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
         {% for post in site.posts %}
-        {% assign postStartDate = post.date | date: '%s' %}
-        {% if postStartDate >= curDate %}
+          {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %}
+          {% if date >= now %}
         <tr>
           <td>
             <div class="hero-box mt-3 align-self-center">
@@ -83,8 +83,8 @@ subtitle: By The Community For The Community
         <!-- Past Events List Only show if less than now (where now is BUILD TIME)-->
         {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
         {% for post in site.posts %}
-          {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
-          {% if date < now %}
+          {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %}
+          {% if date <= now %}
             <!-- post content here -->
         <tr>
             <td>
