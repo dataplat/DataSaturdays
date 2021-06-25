@@ -23,9 +23,7 @@ description: "<p>
 
 registrationurl: https://www.eventbrite.co.nz/e/data-anzac-2021-tickets-150669086293
 join:
-  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
-  rooms:
-
+  description: Refer to the EventBrite registration page for details on how to register and join the sessions.
 
 scheduleurl: https://sessionize.com/api/v2/7hd8vba1/view/GridSmart
 
