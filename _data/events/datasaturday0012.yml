@@ -23,18 +23,31 @@ description: "<p>
 
 registrationurl: https://www.eventbrite.co.nz/e/data-anzac-2021-tickets-150669086293
 join:
-  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
-  rooms:
+  description: Refer to the EventBrite registration page for details on how to register and join the sessions.
 
-scheduleurl:
 
-sponsors:
+scheduleurl: https://data-anz.azurewebsites.net/
 
-speakerlisturl: https://sessionize.com/data-anzac/
-callforspeakers:  true
+sponsors: 
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0012/Redgate_logo.png
+    height: 150
+  - link: https://purple.telstra.com
+    image: ../assets/img/events/0012/Purple_logo.png
+    height: 150
+  - link: https://www.teradata.com/
+    image: ../assets/img/events/0012/Teradata_logo.png
+    height: 90
+  - link: https://www.microsoft.com/en-au/sql-server/
+    image: ../assets/img/events/0012/Microsoft_logo.png
+    height: 9
+
+
+speakerlisturl: https://data-anz.sessionize.com/speakers
+callforspeakers:  false
 
 volunteerrequesturl:
 organizers:
   - name: The Data ANZ Committee     
-    twitter: 
+    twitter: DataANZ
     email: mailto:dataanzac@gmail.com
