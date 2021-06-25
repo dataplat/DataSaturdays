@@ -26,15 +26,29 @@ join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
 
-scheduleurl:
+
+scheduleurl: https://sessionize.com/api/v2/7hd8vba1/view/GridSmart
 
 sponsors:
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0012/Redgate.png
+    height: 150
+  - link: https://purple.telstra.com
+    image: ../assets/img/events/0012/TelstraPurple.jpg
+    height: 150
+  - link: https://www.teradata.com/
+    image: ../assets/img/events/0012/Teradata.jpg
+    height: 150
+  - link: https://www.microsoft.com/en-au/sql-server/
+    image: ../assets/img/events/0012/Microsoft.jpg
+    height: 150
+    
 
-speakerlisturl: https://sessionize.com/data-anzac/
-callforspeakers:  true
+speakerlisturl: https://sessionize.com/api/v2/7hd8vba1/view/SpeakerWall
+callforspeakers:  false
 
 volunteerrequesturl:
 organizers:
   - name: The Data ANZ Committee     
-    twitter: 
+    twitter: https://twitter.com/DataAnz
     email: mailto:dataanzac@gmail.com
