@@ -1,0 +1,28 @@
+name: "Data Saturday #15 - Plovdiv"
+date: 2021-08-28 08:00:00 -0000
+virtual: true
+description:  'Data Saturday #15 Plovdiv is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+
+We are planning event to be a hybrid event:
+
+Event location is : House of Culture \"Boris Hristov\"
+
+15 ulitsa \"Gladston\", Plovdiv, Plovdiv, 4000
+
+If situation allows we will have sessions in person, but in any case sessions will be streamed.
+'
+registrationurl: https://data-saturday-plovdiv.eventbrite.com
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl:
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/data-saturday-plovdiv/
+callforspeakers: true 
+organizers:
+  - name: Mihail Mateev
+    twitter:
+    email: mailto:michael@mateev.net

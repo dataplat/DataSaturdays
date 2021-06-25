@@ -13,15 +13,16 @@ description: "<p>
 "
 registrationurl: https://www.eventbrite.com/e/data-saturday-southwest-us-tickets-142251707687
 join:
-  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  description: "<p>Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.</p> <p>Please note that the schedule is in Mountain Daylight Savings time UTC -7</p>"
   rooms:
+
 
 scheduleurl: https://sessionize.com/api/v2/eblztjtl/view/GridSmart
 
 sponsors:
 
 speakerlisturl: https://sessionize.com/data-saturday-southwest-us
-callforspeakers:  true
+callforspeakers:  false
 
 volunteerrequesturl: https://datadriventechnologies.org/2021/02/22/2021-data-sql-saturday-call-to-volunteers/
 organizers:
