@@ -17,7 +17,7 @@ description: "<p>
                         We do have a bias towards the Microsoft Data Platform, but we plan to have sessions covering other clouds and technologies.
                     </p>
                     <p>
-                        The Call for Speakers is open. We hope you register and attend the event which covers introductory sessions to in-depth sessions. Enjoy the day!
+                        The Call for Speakers is closed. We hope you register and attend the event which covers introductory sessions to in-depth sessions. Enjoy the day!
                     </p>
 "
 
@@ -25,29 +25,28 @@ registrationurl: https://www.eventbrite.co.nz/e/data-anzac-2021-tickets-15066908
 join:
   description: Refer to the EventBrite registration page for details on how to register and join the sessions.
 
+scheduleurl: https://sessionize.com/api/v2/7hd8vba1/view/GridSmart
 
-scheduleurl: https://data-anz.azurewebsites.net/
-
-sponsors: 
+sponsors:
   - link: https://www.red-gate.com/
-    image: ../assets/img/events/0012/Redgate_logo.png
+    image: ../assets/img/events/0012/Redgate.png
     height: 150
   - link: https://purple.telstra.com
-    image: ../assets/img/events/0012/Purple_logo.png
+    image: ../assets/img/events/0012/TelstraPurple.jpg
     height: 150
   - link: https://www.teradata.com/
-    image: ../assets/img/events/0012/Teradata_logo.png
-    height: 90
+    image: ../assets/img/events/0012/Teradata.jpg
+    height: 150
   - link: https://www.microsoft.com/en-au/sql-server/
-    image: ../assets/img/events/0012/Microsoft_logo.png
-    height: 9
+    image: ../assets/img/events/0012/Microsoft.jpg
+    height: 150
+    
 
-
-speakerlisturl: https://data-anz.sessionize.com/speakers
+speakerlisturl: https://sessionize.com/api/v2/7hd8vba1/view/SpeakerWall
 callforspeakers:  false
 
 volunteerrequesturl:
 organizers:
   - name: The Data ANZ Committee     
-    twitter: DataANZ
+    twitter: https://twitter.com/DataAnz
     email: mailto:dataanzac@gmail.com
