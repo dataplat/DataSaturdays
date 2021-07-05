@@ -20,7 +20,7 @@ join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
 
-scheduleurl:
+scheduleurl: https://sessionize.com/api/v2/uycu08tx/view/GridSmart
 
 sponsors:
   - link: https://www.repsly.com/
@@ -50,7 +50,7 @@ sponsors:
 
 
 speakerlisturl: https://sessionize.com/datasaturday-croatia-2021/
-callforspeakers: true 
+callforspeakers: false 
 organizers:
   - name: SQL Server User Group Croatia
     twitter: https://twitter.com/matesic_damir
