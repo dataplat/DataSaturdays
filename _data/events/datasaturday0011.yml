@@ -46,13 +46,13 @@ sponsors:
     height: 150
   - link: https://www.red-gate.com/
     image: ../assets/img/events/0011/RedgatelogocolourRGB_vert.png
-    height: 62
+    height: 100
   - link: https://www.malizmaj.hr/
     image: ../assets/img/events/0011/MaliZmaj.png
-    height: 95
+    height: 125
 
 
-speakerlisturl: https://sessionize.com/datasaturday-croatia-2021/
+speakerlisturl: https://sessionize.com/api/v2/uycu08tx/view/SpeakerWall
 callforspeakers: false 
 organizers:
   - name: SQL Server User Group Croatia
