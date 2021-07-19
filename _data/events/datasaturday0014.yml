@@ -1,7 +1,10 @@
 name: "Data Saturday #14 - Oslo"
 date: 2021-09-04 09:00:00 -0000
 
-description: "<p style=\"text-align:center;\">
+description: "<p style=\"text-align:center;font-size:2.5rem;\">
+Our schedule is LIVE and open for registration!
+</p>
+<p style=\"text-align:center;\">
 <img src=\"../assets/img/events/0014/datasat_osl_vikingship_trans_650x470.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\">
 </p>
 <p style=\"text-align:center; margin-top: 35px;\">
@@ -18,25 +21,25 @@ Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlc
 <p>
 Due to the current pandemic we will this year also conduct the event online.
 </p>
-<b>The Call for Speakers is open!</b>
+
 "
 
-#registrationurl: This is your registration URL
+registrationurl: https://www.eventbrite.com/e/data-saturday-oslo-2021-tickets-163722322875
 #join:
 #  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
 #  rooms:
 #    - name: Room 1
 #      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
 
-#scheduleurl: This is your schedule URL from Sessionize. You can leave this blank until you have it.
+scheduleurl: https://sessionize.com/api/v2/w7uo9oy1/view/GridSmart
 
 #sponsors:
 #  - link: https://yoursponsorlink
 #    image: your sponsor image
 #    height: image height if required
 
-speakerlisturl: https://sessionize.com/data-saturday-oslo-2021/
-callforspeakers:  true
+speakerlisturl: https://sessionize.com/api/v2/w7uo9oy1/view/SpeakerWall
+callforspeakers:  false
 
 volunteerrequesturl: mailto:datasaturday.oslo@gmail.com
 organizers:
