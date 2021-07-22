@@ -3,7 +3,7 @@ date: 2021-10-16 09:00:00 -0000
 
 description: "A free virtual event for all data learners and professionals seeking to learn!
 <br>
-It will be held virtually during fall 2021."
+It will be held virtually during Fall 2021."
 
 
 registrationurl: https://datasaturday-2021-mn.eventbrite.com
@@ -16,7 +16,7 @@ sponsors:
     height: 200
 
 # commented: uncomment this when you have the sessionize link to the speakers list
-# speakerlisturl: https://sessionize.com/PASSMNDATASATURDAY2021
+speakerlisturl: https://sessionize.com/PASSMNDATASATURDAY2021
 callforspeakers:  true 
 volunteerrequesturl: mailto:events@passmn.com
 organizers:
