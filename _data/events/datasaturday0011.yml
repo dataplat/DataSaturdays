@@ -23,6 +23,9 @@ join:
 scheduleurl: https://sessionize.com/api/v2/uycu08tx/view/GridSmart
 
 sponsors:
+  - link: https://www.zaba.hr
+    image: ../assets/img/events/0011/Zaba.png
+    height: 70
   - link: https://www.repsly.com/
     image: ../assets/img/events/0011/repsly.png
     height: 139
