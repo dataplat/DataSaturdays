@@ -34,7 +34,7 @@ sponsors:
     height: 155
   - link: https://plus-it.de/
     image: ../assets/img/events/0011/plusit.png
-    height: 150
+    height: 125
   - link: https://span.eu/
     image: ../assets/img/events/0011/span.png
     height: 100
@@ -52,7 +52,7 @@ sponsors:
     height: 100
   - link: https://www.malizmaj.hr/
     image: ../assets/img/events/0011/MaliZmaj.png
-    height: 125
+    height: 150
 
 
 speakerlisturl: https://sessionize.com/api/v2/uycu08tx/view/SpeakerWall
