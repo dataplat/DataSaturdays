@@ -25,7 +25,10 @@ scheduleurl: https://sessionize.com/api/v2/uycu08tx/view/GridSmart
 sponsors:
   - link: https://www.zaba.hr
     image: ../assets/img/events/0011/Zaba.png
-    height: 70
+    height: 90
+  - link: https://span.eu/
+    image: ../assets/img/events/0011/span.png
+    height: 120
   - link: https://www.repsly.com/
     image: ../assets/img/events/0011/repsly.png
     height: 139
@@ -35,9 +38,6 @@ sponsors:
   - link: https://plus-it.de/
     image: ../assets/img/events/0011/plusit.png
     height: 125
-  - link: https://span.eu/
-    image: ../assets/img/events/0011/span.png
-    height: 100
   - link: http://www.datasense.hr/
     image: ../assets/img/events/0011/datasense.png
     height: 47
