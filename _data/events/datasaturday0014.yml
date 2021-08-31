@@ -41,7 +41,7 @@ sponsors:
     image: ../assets/img/events/0014/Redgate.png
     height: 150
   - link: https://www.dbwatch.com/
-    image: ../assets/img/events/0014/dbWatch_official_logo-Transparent background.png
+    image: ../assets/img/events/0014/dbWatch_official_logo.png
     height: 100
 
 speakerlisturl: https://sessionize.com/api/v2/w7uo9oy1/view/SpeakerWall
