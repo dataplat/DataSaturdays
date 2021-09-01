@@ -25,18 +25,24 @@ Due to the current pandemic we will this year also conduct the event online.
 "
 
 registrationurl: https://www.eventbrite.com/e/data-saturday-oslo-2021-tickets-163722322875
-#join:
-#  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+join:
+  description: Refer to the EventBrite registration page for details on how to register and join the sessions.
 #  rooms:
 #    - name: Room 1
 #      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
 
 scheduleurl: https://sessionize.com/api/v2/w7uo9oy1/view/GridSmart
 
-#sponsors:
-#  - link: https://yoursponsorlink
-#    image: your sponsor image
-#    height: image height if required
+sponsors:
+  - link: https://www.microsoft.com/sql-server/
+    image: ../assets/img/events/0014/MS-Azure_logo.png
+    height: 200
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0014/Redgate.png
+    height: 150
+  - link: https://www.dbwatch.com/
+    image: ../assets/img/events/0014/dbWatch_official_logo.png
+    height: 100
 
 speakerlisturl: https://sessionize.com/api/v2/w7uo9oy1/view/SpeakerWall
 callforspeakers:  false
