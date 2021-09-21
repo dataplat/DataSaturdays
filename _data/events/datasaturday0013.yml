@@ -15,15 +15,15 @@ join:
   rooms:
     - name: Auditorium
       url: .
-    - name: Room 1 Database Administration
+    - name: Room 1
       url: .
-    - name: Room 2 Business Intelligence
+    - name: Room 2
       url: .
-    - name: Room 3 Application Development
+    - name: Room 3
       url: .
-    - name: Room 4 Data Science
+    - name: Room 4 
       url: .
-    - name: Room 5 Professional Development & Database Administration
+    - name: Room 5
       url: .
     
 sponsors:
