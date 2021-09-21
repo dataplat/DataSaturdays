@@ -14,17 +14,17 @@ join:
   description: These are the rooms to attend the sessions that you prefer. Email links to these will be sent through EventBrite and updated just prior to the event on this site.
   rooms:
     - name: Auditorium
-    url: .
-    - name: Room 1 - Database Administration
-    url: .
-    - name: Room 2 - Business Intelligence
-    url: .
-    - name: Room 3 - Application Development
-    url: .
-    - name: Room 4 - Data Science
-    url: .
-    - name: Room 5 - Professional Development & Database Administration
-    url: .
+      url: .
+    - name: Room 1 Database Administration
+      url: .
+    - name: Room 2 Business Intelligence
+      url: .
+    - name: Room 3 Application Development
+      url: .
+    - name: Room 4 Data Science
+      url: .
+    - name: Room 5 Professional Development & Database Administration
+      url: .
     
 sponsors:
   - link: https://www.passmn.com/
