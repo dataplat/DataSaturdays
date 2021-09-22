@@ -1,0 +1,29 @@
+name: "Data Saturday #16 - Slovenia"
+date: 2021-12-11 08:00:00 -0000
+
+virtual: true
+
+description: "
+
+<p>Data Saturday #16 Slovenia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, 
+cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+<p><b>Event will be held online due to current COVID situation in Slovenia.</b></p>
+"
+registrationurl: 
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+    - name: Room 1
+      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
+scheduleurl: 
+
+
+speakerlisturl: true
+callforspeakers:  true 
+
+volunteerrequesturl: Feel free to collaborate with us as volunteers
+organizers:
+  - name: Mladen Prajdić, Matija Lah, Dejan Sarka, Tomaž Kaštrun
+    twitter: https://twitter.com/mladenprajdic, https://twitter.com/matijalah, https://twitter.com/dejansarka, https://twitter.com/tomaztsql 
+    email: tomaztsql@gmail.com
