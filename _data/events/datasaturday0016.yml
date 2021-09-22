@@ -28,8 +28,8 @@ join:
 scheduleurl: 
 
 
-speakerlisturl: true
-callforspeakers:  https://sessionize.com/data-saturday-slovenia-2021/
+speakerlisturl: https://sessionize.com/data-saturday-slovenia-2021/
+callforspeakers: true
 
 volunteerrequesturl: Feel free to collaborate with us as volunteers
 organizers:
