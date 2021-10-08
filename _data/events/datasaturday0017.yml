@@ -18,7 +18,7 @@ registrationurl: https://datasatsto.se/
 join:
   description: Please see the main event page for details on rooms
 
-scheduleurl: https://datasatsto.se/schedule/
+scheduleurl: ## https://datasatsto.se/schedule/
 
 speakerlisturl: https://sessionize.com/datasatsto-2022/
 callforspeakers: true
