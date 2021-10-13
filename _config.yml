@@ -28,18 +28,17 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "support@datasaturdays.com"
- # facebook: datasaturdays
+#  facebook: datasaturdays
   github: sqlcollaborative/datasaturdays
   twitter: datasaturdays
- # patreon: 
- # youtube: yourname
+#  patreon: 
+#  youtube: yourname
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: yourname
@@ -60,7 +59,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-# rss-description: This website is a virtual proof that I'm awesome
+rss-description: Data Saturdays RSS Feed
 
 # --- General options --- #
 
@@ -191,6 +190,9 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 future: true
 
+feed:
+  posts_limit: 1000
