@@ -1,0 +1,19 @@
+name: "Data Saturday #19 Portugal 2021"
+date: 2021-12-18 09:30:00 -0000
+
+virtual: false
+
+description: '
+<p>Data Saturday #19 Portugal 2021 is a free one-day event for professionals who use the Microsoft data platform.</p>
+
+<p><b>Event will be held online due to current COVID situation in Portugal.</b></p>'
+
+
+speakerlisturl: https://sessionize.com/data-saturday-portugal-2021/
+callforspeakers: true
+
+volunteerrequesturl: If you want to help out, feel free to contact us
+organizers:
+  - name: Ivan Campos
+    twitter: https://twitter.com/wizarddba
+    email: datasaturdayportugal@outlook.com
