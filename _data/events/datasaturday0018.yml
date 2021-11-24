@@ -1,0 +1,26 @@
+name: "Data Saturday #18 - Croatia 2022"
+date: 2022-06-04 08:00:00 -0000
+virtual: false
+description:  '<p>Data Saturday #18 Croatia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+<p><b>Event venue</b></p>
+<p>The event will be in <b>person</b>, on Saturday, June 04, at the <a href="https://goo.gl/maps/4Wag21rGEw4vxcmJ9" target="_blank">Hotel International, Miramarska 24, 10000 Zagreb, Croatia</a>. </p>
+<p><b>Organizers</b></p>
+<p>The event is organized by <a href="https://www.linkedin.com/in/dmatesic/" target="_blank">Damir Matešić, MVP</a> & <a href="https://www.linkedin.com/in/dsavovic/" target="_blank">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>'
+registrationurl: https://www.eventbrite.com/e/data-saturday-croatia-2022-tickets-184906068027
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl: ## https://sessionize.com/api/v2/e5ezn8lt/view/GridSmart
+
+sponsors:
+  - link: https://span.eu/
+    image: ../assets/img/events/0018/span.png
+    height: 120
+
+speakerlisturl: https://sessionize.com/datasaturday-croatia-2022/
+callforspeakers: true 
+organizers:
+  - name: SQL Server User Group Croatia
+    twitter: https://twitter.com/matesic_damir
+    email: mailto:ssugcro@googlegroups.com

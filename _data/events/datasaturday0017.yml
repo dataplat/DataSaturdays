@@ -1,0 +1,30 @@
+name: "Data Saturday #17 - Stockholm"
+date: 2022-05-21 08:30:00 -0000
+
+virtual: false
+
+description: '
+<p>Data Saturday #17 Stockholm is a free one-day event for professionals who use the Microsoft data platform.
+Attend this free, one-day conference in Stockholm to sharpen your skills on the Microsoft data platform, and
+to connect to other professionals in your space! We&apos;ll offer sessions from leading world-class international
+and local speakers, across data management, cloud and hybrid architecture, analytics and BI, and so much more.</p>
+
+<p><b>We&apos;re planning this as an in-person event.</b></p>
+
+<p>We are monitoring developments and will make a final go/no-go decision on the in-person event, no later
+than March 1, 2022. Please register for our email updates to get notified if anything changes.</p>
+'
+registrationurl: https://datasatsto.se/
+join:
+  description: Please see the main event page for details on rooms
+
+scheduleurl: ## https://datasatsto.se/schedule/
+
+speakerlisturl: https://sessionize.com/datasatsto-2022/
+callforspeakers: true
+
+volunteerrequesturl: If you want to help out, feel free to contact us
+organizers:
+  - name: Daniel Hutmacher
+    twitter: https://twitter.com/dhmacher
+    email: hello@datasatsto.se

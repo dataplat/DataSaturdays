@@ -13,8 +13,6 @@ scheduleurl: https://sessionize.com/api/v2/kctkki5f/view/GridSmart
 join:
   description: These are the rooms to attend the sessions that you prefer. Email links to these will be sent through EventBrite and updated just prior to the event on this site.
   rooms:
-    - name: Auditorium
-      url: .
     - name: Room 1
       url: .
     - name: Room 2
@@ -27,9 +25,16 @@ join:
       url: .
     
 sponsors:
+  - link: https://www.minionware.net
+    image: ../assets/img/events/0013/minionware_logo.png
+    height: 200
+  - link: https://www.qlik.com/
+    image: ../assets/img/events/0013/Qlik-Logo_RGB.jpg
+    height: 200
   - link: https://www.passmn.com/
     image: ../assets/img/events/0013/passmn.jpg
     height: 200
+    
 
 # commented: uncomment this when you have the sessionize link to the speakers list
 speakerlisturl: https://sessionize.com/api/v2/kctkki5f/view/SpeakerWall
@@ -39,6 +44,6 @@ callforspeakers:  false
 volunteerrequesturl: mailto:events@passmn.com
 
 organizers:
-  - name: PASSMN - Minnesota Data Community
+  - name: PASSMN - Minnesota Data Community - https://passmn.com/
     twitter: https://twitter.com/passmn
-    email: events@passmn.com
+    email: mailto:events@passmn.com
