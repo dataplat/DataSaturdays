@@ -1,15 +1,12 @@
 name: "Data Saturday #21 - Vienna"
 date: 2022-01-28 09:00:00 -0000
 
-description: " We are back! Wir sind wieder da! 
-<br><br>
-DataSaturday returns to Vienna (virtual) on January 28th, 2022.
-<br><br>
-Am Freitag, 28. Jaenner 2022 ist es wieder soweit: der nächste virtuelle DataSaturday Vienna findet statt.
-<br><br>
-This edition will be a smaller one / Dieses Jahr gehen wir es ruhiger und kleiner an: 
- One Day /  Ein Tag und 1 Track
- Power BI and Data Platform related. "
+description: "Wir sind wieder da!<br><br>Am Freitag, 28. Jaenner 2022 ist es wieder soweit: der nächste virtuelle DataSaturday Vienna findet statt.<br><br>Dieses Jahr gehen wir es ruhiger und kleiner an: <br>
+ # Ein Tag und 1 Track<br>
+ # Power BI und Data Platform <br>
+ # Heuer nur mit Sessions in Deutsch<br>
+ "
+
 registrationurl: http://datacommunity.at/
 
 scheduleurl: 
