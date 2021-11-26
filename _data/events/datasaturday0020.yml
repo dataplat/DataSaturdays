@@ -1,0 +1,29 @@
+name: "Data Saturday #20 - Pordenone 2022"
+date: 2022-02-26 08:00:00 -0000
+virtual: true
+description:  '<p>Data Saturday #20 Pordenone is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+<p><b>Event venue</b></p>
+<p>The event will be <b>online</b>, on Saturday, February 26.</p>
+<p><b>Organizers</b></p>
+<p>The event is organized by <A HREF="https://twitter.com/marco_parenzan">Marco Parenzan</A> and <A HREF="https://twitter.com/marcopozzan">Marco Pozzan</A>.</p>'
+registrationurl: ## https://www.eventbrite.com/e/data-saturday-croatia-2022-tickets-184906068027
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl: ## https://sessionize.com/api/v2/e5ezn8lt/view/GridSmart
+
+sponsors:
+  # - link: https://span.eu/
+  #   image: ../assets/img/events/0018/span.png
+  #   height: 120
+
+speakerlisturl: https://sessionize.com/datasatpn22/
+callforspeakers: true 
+organizers:
+  - name: Marco Parenzan
+    twitter: https://twitter.com/marco_parenzan
+    email: mailto:marco.parenzan@1nn0va.it
+  - name: Marco Pozzan
+    twitter: https://twitter.com/marcopozzan
+    email: mailto:info@marcopozzan.it
