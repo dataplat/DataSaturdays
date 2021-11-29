@@ -16,7 +16,7 @@ join:
   rooms:
     - name: Track Database Administration
       url: 
-    - name: Power BI Analytics
+    - name: Power BI & Analytics
       url: 
 
 scheduleurl: https://sessionize.com/api/v2/h7tm8ty5/view/GridSmart
