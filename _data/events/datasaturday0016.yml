@@ -24,6 +24,8 @@ join:
       url: https://www.gotomeet.me/milambdasp/data-saturday-16-slovenia-track-1
     - name: BI / Analytics
       url: https://www.gotomeet.me/milambdasp/data-saturday-16-slovenia-track-2
+    - name: Community Track / Mixer
+      url: https://www.gotomeet.me/milambdasp/data-saturday-16-slovenia-mixer
 
 scheduleurl: https://sessionize.com/api/v2/1p0xjidz/view/GridSmart
 

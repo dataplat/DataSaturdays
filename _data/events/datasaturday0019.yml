@@ -1,16 +1,27 @@
 name: "Data Saturday #19 Portugal 2021"
-date: 2021-12-18 09:30:00 -0000
+date: 2021-12-18 08:30:00 -0000
 
-virtual: false
+virtual: true
 
-description: '
-<p>Data Saturday #19 Portugal 2021 is a free one-day event for professionals who use the Microsoft data platform.</p>
+description: "<p>
+Data Saturday #19 Portugal is a free one-day event for professionals who use the Microsoft data platform. 
+This community event offer content across data management,cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+<p>
+<b>Event will be held online due to current COVID situation in Portugal.</b>
+</p>"
 
-<p><b>Event will be held online due to current COVID situation in Portugal.</b></p>'
+registrationurl: https://www.eventbrite.pt/e/bilhetes-data-saturday-portugal-2021-217732262057 
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer. The URL for the meeting will be published one week before the event
+  rooms:
+    - name: Track Database Administration
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzE4ZTVlNjYtYTI1YS00NGZmLWJkYjgtOWU0NDA2NTkzMmIx%40thread.v2/0?context=%7b%22Tid%22%3a%22c534cc58-b294-44ab-9c79-42aa1ba303b5%22%2c%22Oid%22%3a%226d29f219-c6d5-455d-96c4-8030888c25a5%22%7d
+    - name: Track Power BI\Analytics
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmUxYzRhNTktOTU4Zi00MmYxLTg4NTYtZmEyZTY2M2M0MjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22c534cc58-b294-44ab-9c79-42aa1ba303b5%22%2c%22Oid%22%3a%2219eb9811-37d7-45cb-bb77-9b52d0e04ab8%22%7d
 
-
-speakerlisturl: https://sessionize.com/data-saturday-portugal-2021/
-callforspeakers: true
+scheduleurl: https://sessionize.com/api/v2/h7tm8ty5/view/GridSmart
+speakerlisturl: https://sessionize.com/api/v2/h7tm8ty5/view/Speakers
+callforspeakers: false
 
 volunteerrequesturl: If you want to help out, feel free to contact us
 organizers:
