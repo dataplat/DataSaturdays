@@ -7,14 +7,19 @@ description: "Wir sind wieder da!<br><br>Am Freitag, 28. Jänner 2022 ist es wie
  # Heuer nur mit Sessions in Deutsch<br>
  "
 
-registrationurl: http://datacommunity.at/
+registrationurl: https://www.eventbrite.at/e/data-saturday-21-vienna-2022-tickets-237372747277
+join:
+  description: Bitte auf Eventbrite anmelden und dort gibt es auch die Infos für den Sessionzugang. 
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/2hct9r5t/view/GridSmart
 
 sponsors:
+  - link: https://www.quest.com/
+    image: ../assets/img/events/0021/datasatvienna22_quest.jpg
+    height: 150
 
-speakerlisturl: mailto:passaustria@outlook.com
-callforspeakers:  true 
+speakerlisturl: https://sessionize.com/api/v2/2hct9r5t/view/Speakers
+callforspeakers:  false 
 
 volunteerrequesturl: mailto:passaustria@outlook.com
 organizers:
