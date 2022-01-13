@@ -14,9 +14,15 @@ join:
 scheduleurl: https://sessionize.com/api/v2/2hct9r5t/view/GridSmart
 
 sponsors:
-  - link: https://www.quest.com/
+  - link: https://www.quest.com/de-de/register/132030/
     image: ../assets/img/events/0021/datasatvienna22_quest.jpg
-    height: 150
+    height: 200
+  - link: https://www.red-gate.com/hub/events/entrypage/spot-the-difference/data-saturday-vienna
+    image: ../assets/img/events/0021/datasatvienna22_redgate.png
+    height: 200    
+  - link: https://info.dbwatch.com/data-saturday-vienna?hs_preview=SbktWdOX-63659999582
+    image: ../assets/img/events/0021/datasatvienna22_dbwatch.png
+    height: 200
 
 speakerlisturl: https://sessionize.com/api/v2/2hct9r5t/view/Speakers
 callforspeakers:  false 
