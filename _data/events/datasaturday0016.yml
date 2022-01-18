@@ -20,10 +20,12 @@ registrationurl: https://www.eventbrite.com/e/data-saturday-16-slovenia-2021-tic
 join:
   description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
   rooms:
-    - name: Track 1
-      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
-    - name: Track 2
-      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+    - name: Azure / SQL / Dev
+      url: https://www.gotomeet.me/milambdasp/data-saturday-16-slovenia-track-1
+    - name: BI / Analytics
+      url: https://www.gotomeet.me/milambdasp/data-saturday-16-slovenia-track-2
+    - name: Community Track / Mixer
+      url: https://www.gotomeet.me/milambdasp/data-saturday-16-slovenia-mixer
 
 scheduleurl: https://sessionize.com/api/v2/1p0xjidz/view/GridSmart
 
