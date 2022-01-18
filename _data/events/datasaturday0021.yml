@@ -1,0 +1,34 @@
+name: "Data Saturday #21 - Vienna 2022"
+date: 2022-01-28 09:00:00 -0000
+
+description: "Wir sind wieder da!<br><br>Am Freitag, 28. Jänner 2022 ist es wieder soweit: der nächste virtuelle DataSaturday Vienna findet statt.<br><br>Dieses Jahr gehen wir es ruhiger und kleiner an: <br>
+ # Ein Tag und 1 Track<br>
+ # Power BI und Data Platform Themen<br>
+ # Heuer nur mit Sessions in Deutsch<br>
+ "
+
+registrationurl: https://www.eventbrite.at/e/data-saturday-21-vienna-2022-tickets-237372747277
+join:
+  description: Bitte auf Eventbrite anmelden und dort gibt es auch die Infos für den Sessionzugang. 
+
+scheduleurl: https://sessionize.com/api/v2/2hct9r5t/view/GridSmart
+
+sponsors:
+  - link: https://www.quest.com/de-de/register/132030/
+    image: ../assets/img/events/0021/datasatvienna22_quest.jpg
+    height: 200
+  - link: https://www.red-gate.com/hub/events/entrypage/spot-the-difference/data-saturday-vienna
+    image: ../assets/img/events/0021/datasatvienna22_redgate.png
+    height: 200    
+  - link: https://info.dbwatch.com/data-saturday-vienna?hs_preview=SbktWdOX-63659999582
+    image: ../assets/img/events/0021/datasatvienna22_dbwatch.png
+    height: 200
+
+speakerlisturl: https://sessionize.com/api/v2/2hct9r5t/view/Speakers
+callforspeakers:  false 
+
+volunteerrequesturl: mailto:passaustria@outlook.com
+organizers:
+  - name: Wolfgang Strasser, Markus Ehrenmueller-Jensen, Martin Poeckl, Bernhard Engleder
+    twitter: https://twitter.com/DataCommunityAT
+    email: mailto:passaustria@outlook.com
