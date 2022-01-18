@@ -11,15 +11,23 @@ join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
 
-scheduleurl: ## https://sessionize.com/api/v2/e5ezn8lt/view/GridSmart
+scheduleurl: https://sessionize.com/api/v2/rav27oh1/view/GridSmart
+
+speakerlisturl: https://sessionize.com/api/v2/rav27oh1/view/SpeakerWall
 
 sponsors:
-  # - link: https://span.eu/
-  #   image: ../assets/img/events/0018/span.png
-  #   height: 120
+  - link: https://ugiss.org
+    image: ../assets/img/events/0020/UGISS-No-Border.png
+    height: 130
+  - link: https://quantumdatis.com
+    image: ../assets/img/events/0020/quantumdatis_path.svg
+    height: 100
+  - link: https://www.alphasys.it/
+    image: ../assets/img/events/0020/alphasys-stacked-blue-transparent-_720x720_round.png
+    height: 200
 
-speakerlisturl: https://sessionize.com/datasatpn22/
-callforspeakers: true 
+
+callforspeakers: false
 organizers:
   - name: Marco Parenzan
     twitter: https://twitter.com/marco_parenzan
