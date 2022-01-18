@@ -6,7 +6,7 @@ description:  '<p>Data Saturday #20 Pordenone is a free one-day event for profes
 <p>The event will be <b>online</b>, on Saturday, February 26.</p>
 <p><b>Organizers</b></p>
 <p>The event is organized by <A HREF="https://twitter.com/marco_parenzan">Marco Parenzan</A> and <A HREF="https://twitter.com/marcopozzan">Marco Pozzan</A>.</p>'
-registrationurl: ## https://www.eventbrite.com/e/data-saturday-croatia-2022-tickets-184906068027
+registrationurl: https://bit.ly/datasatpn2022
 join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
@@ -19,6 +19,9 @@ sponsors:
   - link: https://ugiss.org
     image: ../assets/img/events/0020/UGISS-No-Border.png
     height: 130
+  - link: https://www.realcomm.it/
+    image: ../assets/img/events/0020/realcomm.png
+    height: 110
   - link: https://quantumdatis.com
     image: ../assets/img/events/0020/quantumdatis_path.svg
     height: 100
