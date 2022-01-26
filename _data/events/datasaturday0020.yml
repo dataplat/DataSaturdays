@@ -22,12 +22,15 @@ sponsors:
   - link: https://www.realcomm.it/
     image: ../assets/img/events/0020/realcomm.png
     height: 110
+  - link: https://www.beantech.it/
+    image: ../assets/img/events/0020/beantech.png
+    height: 70
   - link: https://quantumdatis.com
     image: ../assets/img/events/0020/quantumdatis_path.svg
-    height: 100
+    height: 70
   - link: https://www.alphasys.it/
     image: ../assets/img/events/0020/alphasys-stacked-blue-transparent-_720x720_round.png
-    height: 200
+    height: 180
 
 
 callforspeakers: false
