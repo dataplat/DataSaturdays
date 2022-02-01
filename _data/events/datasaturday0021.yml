@@ -5,11 +5,18 @@ description: "Wir sind wieder da!<br><br>Am Freitag, 28. Jänner 2022 ist es wie
  # Ein Tag und 1 Track<br>
  # Power BI und Data Platform Themen<br>
  # Heuer nur mit Sessions in Deutsch<br>
+ <br> 
+ Mit dabei sein unter: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTdmYzkxOGQtZWQxZS00MDlhLWJjYjMtYWIyMTNmNWRiOTY5%40thread.v2/0?context=%7b%22Tid%22%3a%221520fd12-404f-42ab-8096-9615406131a7%22%2c%22Oid%22%3a%227feda6b8-7352-4d8f-9b0d-52d9bf540444%22%7d
  "
 
 registrationurl: https://www.eventbrite.at/e/data-saturday-21-vienna-2022-tickets-237372747277
 join:
-  description: Bitte auf Eventbrite anmelden und dort gibt es auch die Infos für den Sessionzugang. 
+  description: Bitte auf Eventbrite anmelden und dort gibt es auch die Infos für den Sessionzugang. Der Teams Link ist auf dieser Seite zu finden. 
+  rooms:
+    - name: Data Saturdays Vienna
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTdmYzkxOGQtZWQxZS00MDlhLWJjYjMtYWIyMTNmNWRiOTY5%40thread.v2/0?context=%7b%22Tid%22%3a%221520fd12-404f-42ab-8096-9615406131a7%22%2c%22Oid%22%3a%227feda6b8-7352-4d8f-9b0d-52d9bf540444%22%7d
+    
+
 
 scheduleurl: https://sessionize.com/api/v2/2hct9r5t/view/GridSmart
 
