@@ -10,6 +10,16 @@ registrationurl: https://bit.ly/datasatpn2022
 join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
+  rooms:
+    - name: Room 1 
+      url: https://meet.goto.com/136856709
+    - name: Room 2 
+      url: https://meet.goto.com/161362069
+    - name: Room 3 
+      url: https://meet.goto.com/947333877
+    - name: Room 4 
+      url: https://meet.goto.com/539625621
+
 
 scheduleurl: https://sessionize.com/api/v2/rav27oh1/view/GridSmart
 
@@ -44,3 +54,4 @@ organizers:
   - name: Marco Pozzan
     twitter: https://twitter.com/marcopozzan
     email: mailto:info@marcopozzan.it
+    
