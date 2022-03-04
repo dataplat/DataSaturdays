@@ -39,7 +39,7 @@ sponsors:
     image: ../assets/img/events/0018/MaliZmaj.png
     height: 150
 
-speakerlisturl: https://sessionize.com/datasaturday-croatia-2022/
+speakerlisturl: https://sessionize.com/api/v2/e5ezn8lt/view/SpeakerWall
 callforspeakers: false 
 volunteerrequesturl: https://events.3nf.hr/Contact.aspx
 organizers:
