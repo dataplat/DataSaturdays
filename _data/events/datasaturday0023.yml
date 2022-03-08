@@ -1,0 +1,63 @@
+name: "Data Saturday #23 - Oslo"
+date: 2022-09-10 09:00:00 -0000
+
+description: "<p style=\"text-align:center;\">
+<img src=\"../assets/img/events/0023/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\">
+</p>
+<p style=\"text-align:center; margin-top: 35px;\">
+<img src=\"../assets/img/events/0023/AWS_Logo.png\" height=\"150\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+<img src=\"../assets/img/events/0023/azure_new_logo.png\" height=\"150\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+<img src=\"../assets/img/events/0023/gcp_logo_cloud.png\" height=\"150\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
+</p>
+<p>
+Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
+</p>
+<p>
+During these days after the unprovoked aggressive attack by Russia on Ukraine, it is hard to find the right words for our CfS announcement.
+We have friends living in Ukraine and friends from Ukraine living here in Norway with family stuck in a terrible situation in their home country.
+We were looking forward to welcome you all to Oslo for our first in-person in two years and understandably our excitement about this announcement has been dialed down to zero due to the Russian attack.
+</p>
+<p>
+However, the date is for Data Saturday Oslo event is this year on Saturday 10th September. If you would like to submit a talk, please use the link below.
+Please note that even though we welcome speaker submissions from all over the world, we will take a preference to speakers living in Norway, Sweden, Finland and Denmark in our selection.
+</p>
+<p style=\"text-align:center;\">
+<img src=\"../assets/img/events/0023/flag_of_ukraine.png\" height=\"198\" alt=\"Ukraine national flag\" style=\"margin-left: 25px; margin-right: 25px\">
+<p style=\"text-align:center;font-size:2.5rem;\">
+<br>
+<b>SLAVA UKRAINI!</b>
+</p>
+
+<p>
+Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+</p>
+"
+
+# registrationurl: https://www.eventbrite.com/e/data-saturday-oslo-2021-tickets-163722322875
+# join:
+# description: Refer to the EventBrite registration page for details on how to register and join the sessions.
+#  rooms:
+#    - name: Room 1
+#      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
+# scheduleurl: https://sessionize.com/api/v2/w7uo9oy1/view/GridSmart
+
+# sponsors:
+#   - link: https://www.microsoft.com/sql-server/
+#     image: ../assets/img/events/0014/MS-Azure_logo.png
+#     height: 300
+#   - link: https://www.red-gate.com/
+#     image: ../assets/img/events/0014/Redgate.png
+#     height: 150
+#   - link: https://www.dbwatch.com/
+#     image: ../assets/img/events/0014/dbWatch_official_logo.png
+#     height: 50
+
+speakerlisturl: https://sessionize.com/data-saturday-oslo-2022/
+callforspeakers:  true
+
+volunteerrequesturl: mailto:datasaturday.oslo@gmail.com
+organizers:
+  - name: Rune Ovlien Rakeie, Johan Brattås, Magne Fretheim
+    twitter: https://twitter.com/DataSatOslo
+    email: mailto:datasaturday.oslo@gmail.com
