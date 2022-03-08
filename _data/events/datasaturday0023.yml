@@ -4,13 +4,13 @@ date: 2022-09-10 09:00:00 -0000
 description: "<p style=\"text-align:center;\">
 <img src=\"../assets/img/events/0023/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\">
 </p>
+<p>
+Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
+</p>
 <p style=\"text-align:center; margin-top: 35px;\">
 <img src=\"../assets/img/events/0023/AWS_Logo.png\" height=\"150\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
 <img src=\"../assets/img/events/0023/azure_new_logo.png\" height=\"150\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
 <img src=\"../assets/img/events/0023/gcp_logo_cloud.png\" height=\"150\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
-</p>
-<p>
-Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
 </p>
 <p>
 During these days after the unprovoked aggressive attack by Russia on Ukraine, it is hard to find the right words for our CfS announcement.
@@ -24,10 +24,14 @@ Please note that even though we welcome speaker submissions from all over the wo
 <p style=\"text-align:center;\">
 <img src=\"../assets/img/events/0023/flag_of_ukraine.png\" height=\"198\" alt=\"Ukraine national flag\" style=\"margin-left: 25px; margin-right: 25px\">
 <p style=\"text-align:center;font-size:2.5rem;\">
-<br>
 <b>SLAVA UKRAINI!</b>
 </p>
-
+<p>
+If you would like to support the humanitarian relief effort in Ukraine we have added some options below:
+Norwegian Refugee Council: https://www.nrc.no/
+UN High Commissioner for Refugees: https://donate.unhcr.org/int/en/ukraine-emergency
+</p>
+<br>
 <p>
 Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
 </p>
