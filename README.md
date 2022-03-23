@@ -11,7 +11,6 @@ We wanted to include other community leaders to assist with guiding the project 
 
 - [Gianluca Sartori](https://twitter.com/spaghettidba)
 - [Rob Sewell](https://twitter.com/sqldbawithbeard)
-- [Steve Jones](https://twitter.com/way0utwest)
 - [Monica Rathbun](https://twitter.com/sqlespresso)
 - [Randolph West](https://twitter.com/_randolph_west)
 - [Johan Ludvig Brattås](https://twitter.com/intoleranse)
