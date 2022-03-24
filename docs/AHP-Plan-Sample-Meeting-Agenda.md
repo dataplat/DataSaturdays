@@ -20,6 +20,11 @@ It is important to note that what this is, is a suggestion of meeting bullet poi
     - What about if it involves a sponsor?
     - What about refunds?
 7. The plan. Points for discussion, not all will be required
+    - Who to contact from the organisers
+        - Only organisers or helpers as well?
+        - How are they identified? (badge, armband, shirt, etc)
+        - How do the escalate to the right people if needed
+        - Will there be a location that staffed throughout the event
     - Who will communicate with the harasser?
          - Considerations. The person should be confident, good at de-escalation, there are views that choosing a person early in their career or under represented minorities carries risk.
 https://twitter.com/TheStephLocke/status/1506365604214759430?s=20&t=P6CoiWqlcQ3VpR6UM7SsBw
