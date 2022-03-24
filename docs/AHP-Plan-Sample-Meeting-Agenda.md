@@ -1,6 +1,6 @@
 # Anti Harassment Policy Plan - Sample Meeting Agenda
 
-This document is intended to assist event organisers with the creation of the AHP Plan for their event by providing an Agenda for an organisers meeting to ensure all points are thought about
+This document is intended to assist event organisers with the creation of the AHP Plan for their event by providing an Agenda for an organisers meeting to ensure all points are thought about. A sample - framework plan can be found here - https://github.com/dataplat/DataSaturdays/blob/AHP-plan/docs/AHP-sample-plan.md
 
 ## Agenda
 
