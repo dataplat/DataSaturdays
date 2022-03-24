@@ -16,7 +16,7 @@ This document is intended to assist event organisers with the creation of the AH
          - Considerations. The person should be confident, good at de-escalation, there are views that choosing a person early in their career or under represented minorities carries risk.
 https://twitter.com/TheStephLocke/status/1506365604214759430?s=20&t=P6CoiWqlcQ3VpR6UM7SsBw
     - Where will this happen?
-         - Considerations. Not in public, not in view or earshot of person who is harrassed, attendees, speakers, volunteers, organisers.
+         - Considerations. Not in public, not in view or earshot of person who is harrassed, attendees, speakers, volunteers, organisers. Do you need to consider venue security
     - Who will communicate with the person who is harrassed
          - Considerations. 
     - Where will this happen?
