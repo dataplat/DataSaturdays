@@ -35,3 +35,4 @@ https://twitter.com/TheStephLocke/status/1506365604214759430?s=20&t=P6CoiWqlcQ3V
           - venue security? Police? Big beardy person?
           - Contact details need to be made
     - How will you support the harassed person post event, at adjoining social events in public places
+    
