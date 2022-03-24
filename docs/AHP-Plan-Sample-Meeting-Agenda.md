@@ -2,6 +2,8 @@
 
 This document is intended to assist event organisers with the creation of the AHP Plan for their event by providing an Agenda for an organisers meeting to ensure all points are thought about. A sample - framework plan can be found here - https://github.com/dataplat/DataSaturdays/blob/AHP-plan/docs/AHP-sample-plan.md
 
+Feel free to update this, you will need to fork and create a PR - Details of how to this are - https://blog.robsewell.com/blog/source%20control/jupyter%20notebooks/azure%20data%20studio/dbatools/dbachecks/how-to-fork-a-github-repository-and-contribute-to-an-open-source-project/
+
 ## Agenda
 
 1. Welcome
