@@ -47,5 +47,6 @@ https://twitter.com/TheStephLocke/status/1506365604214759430?s=20&t=P6CoiWqlcQ3V
     -  How will denying re-entry to the event be managed
           - venue security? Police? Big beardy person?
           - Contact details need to be made
-    - How will you support the harassed person post event, at adjoining social events in public places
+    - How will you support the harassed person post event, at adjoining social events in public places.
+    - Will you look to implement something similar to the 'Ask for Angela' scheme (https://en.wikipedia.org/wiki/Ask_for_Angela)?
     
