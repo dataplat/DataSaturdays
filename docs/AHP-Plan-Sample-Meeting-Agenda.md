@@ -4,6 +4,8 @@ This document is intended to assist event organisers with the creation of the AH
 
 Feel free to update this, you will need to fork and create a PR - Its not scary, GitHub will do it all for you - https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository
 
+It is important to note that what this is, is a suggestion of meeting bullet points to enable you to discuss "what to do if"
+
 ## Agenda
 
 1. Welcome
@@ -13,7 +15,11 @@ Feel free to update this, you will need to fork and create a PR - Its not scary,
     - It also ensures that all organisers are on the same page
 3. Location of the plan 
 4. who requires access to the plan 
-5. The plan. Points for discussion, not all will be required
+5. Is legal representation, discussion required now or in the future? 
+    - What about ticket terms and conditions?
+    - What about if it involves a sponsor?
+    - What about refunds?
+7. The plan. Points for discussion, not all will be required
     - Who will communicate with the harasser?
          - Considerations. The person should be confident, good at de-escalation, there are views that choosing a person early in their career or under represented minorities carries risk.
 https://twitter.com/TheStephLocke/status/1506365604214759430?s=20&t=P6CoiWqlcQ3VpR6UM7SsBw
