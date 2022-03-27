@@ -1,0 +1,24 @@
+name: "Data Saturday #22 - Parma 2022"
+date: 2022-11-26 08:30:00 -0000
+
+description: "<p>Data Saturday #22 Parma is a free one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p><p><b>Event venue</b></p><p>The event will be held in Parma, at <b>the University's Campus</b>, Viale G.P. Usberti - Parco Area delle Scienze, 181/a, on Saturday, November 26.</p><p><b>Organizers</b></p><p>The event is organized by <a href='https://www.linkedin.com/in/suxstellino'>Alessandro Alpi</a> (<a href='https://it.linkedin.com/company/engage-labs'>Engage Labs</a>)</p>"
+
+registrationurl: https://www.eventbrite.com/e/data-saturday-parma-2022-tickets-276828851547
+join:
+  description: The conference will be held in four rooms, as depicted below 
+  rooms:
+    - name: Aula E
+    - name: Aula 6
+    - name: Aula 7
+    - name: Aula 8
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/data-saturday-parma-2022/
+callforspeakers:  true 
+
+volunteerrequesturl: mailto:alessandro.alpi@engagelabs.it
+organizers:
+  - name: Alessandro Alpi (Engage Labs)
+    twitter: https://it.linkedin.com/company/engage-labs
+    email: mailto:alessandro.alpi@engagelabs.it
