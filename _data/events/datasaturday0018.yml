@@ -9,7 +9,7 @@ description:  '<p>Data Saturday #18 Croatia is a free one-day event for professi
 <ul>
 <li>Dean Vitner and Torsten Strauß - Query Engine and Execution Plans in Microsoft SQL Server</li>
 <li>Miloš Radivojević - Database Development Best Practices</li>
-<li>TBA</li>
+<li>Alberto Ferrari - Improve Power BI performance by optimizing DAX</li>
 </ul>
 <p>More information: <a href="https://events.3nf.hr/" target="_blank">https://events.3nf.hr/</a></p>
 <p><b>Little Dragon</b></p>
@@ -32,9 +32,15 @@ sponsors:
   - link: https://hrprodigy.hr/
     image: ../assets/img/events/0018/hr-prodigy-logo.png
     height: 66
+  - link: https://www.infobip.com/
+    image: ../assets/img/events/0018/infobip.jfif
+    height: 150
   - link: http://www.datasense.hr/
     image: ../assets/img/events/0018/datasense.png
     height: 47
+  - link: https://www.comminus.hr/
+    image: ../assets/img/events/0018/comminus.png
+    height: 110
   - link: https://www.red-gate.com/
     image: ../assets/img/events/0018/RedgatelogocolourRGB_vert.png
     height: 100
