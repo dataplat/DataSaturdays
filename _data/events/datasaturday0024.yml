@@ -1,0 +1,36 @@
+name: "Data Saturday Gothenburg 2022"
+date: 2022-09-03 09:00:00 -0000
+
+virtual: false
+
+description: "<p>Data Saturday Gothenburg is a free one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p><p><b>Event venue</b></p><p>The event will be held in Gothenburg, on Saturday, September 3.</p><p><b>We&apos;re planning this as an in-person event.</b></p>"
+
+registrationurl: https://www.eventbrite.se/e/data-saturday-gothenburg-2022-biljetter-325752543627
+join:
+  description: Please see the main event page for details on sessions and rooms
+  rooms:
+    - name: Room 1
+      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
+
+scheduleurl: https://datasaturday.se/Schedule
+
+# sponsors:
+#   - link: https://www.microsoft.com/sql-server/
+#     image: ../assets/img/events/0014/MS-Azure_logo.png
+#     height: 300
+#   - link: https://www.red-gate.com/
+#     image: ../assets/img/events/0014/Redgate.png
+#     height: 150
+#   - link: https://www.dbwatch.com/
+#     image: ../assets/img/events/0014/dbWatch_official_logo.png
+#     height: 50
+
+speakerlisturl: https://sessionize.com/data-saturday-gothenburg-2022
+callforspeakers:  true
+
+volunteerrequesturl: mailto:info@datasaturday.se
+organizers:
+  - name: Mikael Wedham
+    twitter: 
+    email: mailto:info@datasaturday.se
