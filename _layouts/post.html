@@ -108,7 +108,7 @@ layout: default
         </section>
 
         <!--Volunteers-->
-{% if pagedata.volunteerrequesturl %}
+        {% if pagedata.volunteerrequesturl %}
         <section class="page-section" id="volunteers">
           <div class="container">
               <div class="text-center">
@@ -122,6 +122,21 @@ layout: default
           </div>
       </section>
       {% endif %}
+
+          <!-- Code of conduct -->
+          {% if pagedata.codeofconduct%}
+          <section class="page-section" id="codeofconduct">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Code of Conduct</h2>
+                    <div class="alert alert-light" role="alert">
+                      {{pagedata.codeofconduct}}
+                    </div>
+                </div>
+            </div>
+          </section>
+          {% endif %}
+
           <!-- Contact -->
       
         <section class="page-section" id="contact">
