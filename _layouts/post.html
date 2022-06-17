@@ -8,7 +8,9 @@ layout: default
 <!-- Masthead-->
 <header class="masthead" id="page-top">
   <div class="container">
+      {% if pagedata.hide-toplogo != "yes"%}
           <img src="../assets/design/facebook/c.facebook%201r.png" alt="Data Saturdays">
+      {% endif %}
       <div class="masthead-heading text-uppercase">{{pagedata.name}}</div>
       <div class="masthead-subheading">{{ pagedata.date | date_to_long_string }}</div>
       <div class="alert alert-light" role="alert">
@@ -69,6 +71,9 @@ layout: default
                       <div class="row justify-content-center"></div>
                       {% if pagedata.sponsors %}
                       {%- for sponsor in pagedata.sponsors -%}
+                      {% if sponsor.sponsorlevel %}
+                        <p style="text-align:center;font-size:2.5rem;color: dimgrey;margin-top: 35px;"><b>{{sponsor.sponsorlevel}}</b></p>
+                      {% endif %}
                         <div class="hero-box mr-4 mt-4 ml-4 align-self-center">
                             <a href="{{sponsor.link}}">
                                 <img src="{{sponsor.image}}" height="{{sponsor.height}}"/>
@@ -76,7 +81,7 @@ layout: default
                         </div>
                     {%- endfor %}
                     {% endif %}
-        
+      
                         </div>
                         <div class="row justify-content-center">
                             <div CLASS="mt-5">
