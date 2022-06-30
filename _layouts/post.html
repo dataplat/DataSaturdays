@@ -8,7 +8,7 @@ layout: default
 <!-- Masthead-->
 <header class="masthead" id="page-top">
   <div class="container">
-      {% if pagedata.hide-toplogo != "yes"%}
+      {% if pagedata.hide-toplogo != true %}
           <img src="../assets/design/facebook/c.facebook%201r.png" alt="Data Saturdays">
       {% endif %}
       <div class="masthead-heading text-uppercase">{{pagedata.name}}</div>
@@ -16,28 +16,35 @@ layout: default
       <div class="alert alert-light" role="alert">
         {{pagedata.description}}
       </div>
-      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}">Register now</a>
+      {% if pagedata.open-registration-new-tab and pagedata.open-registration-new-tab == true %}
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}" target="_blank">Register now</a>
+        {% else %}
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}">Register now</a>
+        {% endif %}
   </div>
 </header>
 
     <!-- About-->
-    <section class="page-section" id="join">
-      <div class="container container-sm">
-          <div class="text-center">
-              <h2 class="section-heading text-uppercase">Rooms</h2>
-              <p>
-                {{pagedata.join.description}}
-              </p>
-              <div class="row justify-content-center">
-                  <p>
-                    {%- for room in pagedata.join.rooms -%}
-                      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger mr-4" target="_blank" href="{{room.url}}">{{room.name}}</a>
-                    {%- endfor %}
+    {% if pagedata.hide-join-room-section != true %}
+      <section class="page-section" id="join">
+        <div class="container container-sm">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">Rooms</h2>
+                <p>
+                  {{pagedata.join.description}}
                 </p>
-              </div>
-          </div>
-      </div>
-  </section>
+                <div class="row justify-content-center">
+                    <p>
+                      {%- for room in pagedata.join.rooms -%}
+                        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger mr-4" target="_blank" href="{{room.url}}">{{room.name}}</a>
+                      {%- endfor %}
+                  </p>
+                </div>
+            </div>
+        </div>
+    </section>
+  {% endif %}
+
 
     <!-- Schedule -->
     <section class="page-section" id="schedule">

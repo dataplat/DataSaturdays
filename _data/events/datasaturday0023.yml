@@ -1,65 +1,72 @@
 name: "Data Saturday #23 - Oslo"
 date: 2022-09-10 09:00:00 -0000
 
-hide-toplogo: "yes"
+hide-toplogo: true
+hide-join-room-section: true
+open-registration-new-tab: true
 
-description: "<p style=\"text-align:center;\">
-<img src=\"../assets/img/events/0023/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\">
-</p>
-<p>
-Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
-</p>
-<p style=\"text-align:center; margin-top: 35px;\">
-<img src=\"../assets/img/events/0023/AWS_Logo.png\" height=\"100\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
-<img src=\"../assets/img/events/0023/azure_new_logo.png\" height=\"100\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 35px;\">
-<img src=\"../assets/img/events/0023/gcp_logo_cloud.png\" height=\"100\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px; margin-top: 35px;\">
-</p>
-<br>
-<p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>March 8th 2022</u></p>
-<p style=\"text-align:left;\">
-During these days after the unprovoked aggressive attack by Russia on Ukraine, it is hard to find the right words for our CfS announcement. 
-We have friends living in Ukraine and friends from Ukraine living here in Norway with family stuck in a terrible situation in their home country. 
-We were looking forward to welcome you all to Oslo for our first in-person event in two years and understandably our excitement about this announcement has been dialed down to zero due to the Russian attack.
-</p>
-<br>
-<p style=\"text-align:center;\">
-<img src=\"../assets/img/events/0023/flag_of_ukraine.png\" height=\"198\" alt=\"Ukraine national flag\" style=\"margin-left: 25px; margin-right: 25px\">
-<p style=\"text-align:center;font-size:2.5rem;\">
-<b>SLAVA UKRAINI!</b>
-</p>
-<p>
-If you would like to support the humanitarian relief effort in Ukraine we have added some options below:
-</p>
-<p>Norwegian Refugee Council: <a href=\"https://www.nrc.no/\" target=\"_blank\">https://www.nrc.no/</a></p>
-<p>Nerd Aid (if you are located in Norway): <a href=\"https://www.spleis.no/project/212510\" target=\"_blank\">Nerd Aid 8 - Ukraina (Spleis)</a></p>
-<p>Norwegian Red Cross (page in Norwegian): <a href=\"https://www.rodekors.no/stott-arbeidet/gi-en-gave/nodhjelp-til-ukraina\" target=\"_blank\">Røde Kors - Nødhjelp til Ukraina</a></p>
-<p>UN High Commissioner for Refugees: <a href=\"https://donate.unhcr.org/int/en/ukraine-emergency\" target=\"_blank\">https://donate.unhcr.org</a></p>
-<br>
-<p>
-<p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>June 1st 2022</u></p>
-<p style=\"text-align:left;\">
-Our call for speakers is closed and our team is hard at work evaluating all the great submissions we have received. Our goal is to announce our schedule in week 25, so stay tuned.
-</p>
-<p>
-<br>
-Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
-</p>
-"
+description: "<p style=\"text-align:center;font-size:2.5rem;\">
+  Our schedule is LIVE and open for registration!
+  </p>
+  <p style=\"text-align:center;\">
+    <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo2022.eventbrite.com\" target=\"_blank\">Register now</a>
+  </p>
+  <p style=\"text-align:center;\">
+  <img src=\"../assets/img/events/0023/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\">
+  </p>
+  <p>
+  Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
+  </p>
+  <p style=\"text-align:center; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0023/AWS_Logo.png\" height=\"100\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0023/azure_new_logo.png\" height=\"100\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0023/gcp_logo_cloud.png\" height=\"100\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px; margin-top: 35px;\">
+  </p>
+  <br>
+  <p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>June 30th 2022</u></p>
+  <p style=\"text-align:left;\">
+  Our schedule is LIVE. Click on the Schedule menu-item to check it out. This year 2 full day workshops on Friday 9th which will be announced soon, so stay tuned.
+  </p>
+  <br>
+  <p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>March 8th 2022</u></p>
+  <p style=\"text-align:left;\">
+  During these days after the unprovoked aggressive attack by Russia on Ukraine, it is hard to find the right words for our CfS announcement. 
+  We have friends living in Ukraine and friends from Ukraine living here in Norway with family stuck in a terrible situation in their home country. 
+  We were looking forward to welcome you all to Oslo for our first in-person event in two years and understandably our excitement about this announcement has been dialed down to zero due to the Russian attack.
+  </p>
+  <br>
+  <p style=\"text-align:center;\">
+  <img src=\"../assets/img/events/0023/flag_of_ukraine.png\" height=\"198\" alt=\"Ukraine national flag\" style=\"margin-left: 25px; margin-right: 25px\">
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  <b>SLAVA UKRAINI!</b>
+  </p>
+  <p>
+  If you would like to support the humanitarian relief effort in Ukraine we have added some options below:
+  </p>
+  <p>Norwegian Refugee Council: <a href=\"https://www.nrc.no/\" target=\"_blank\">https://www.nrc.no/</a></p>
+  <p>Nerd Aid (if you are located in Norway): <a href=\"https://www.spleis.no/project/212510\" target=\"_blank\">Nerd Aid 8 - Ukraina (Spleis)</a></p>
+  <p>Norwegian Red Cross (page in Norwegian): <a href=\"https://www.rodekors.no/stott-arbeidet/gi-en-gave/nodhjelp-til-ukraina\" target=\"_blank\">Røde Kors - Nødhjelp til Ukraina</a></p>
+  <p>UN High Commissioner for Refugees: <a href=\"https://donate.unhcr.org/int/en/ukraine-emergency\" target=\"_blank\">https://donate.unhcr.org</a></p>
+  <br>
+  <br>
+  Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+  </p>
+  "
 
-# registrationurl: 
+registrationurl: "https://datasatoslo2022.eventbrite.com"
 # join:
 # description: #Refer to the EventBrite registration page for details on how to register and join the sessions.
 #  rooms:
 #    - name: Room 1
 #      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
 
-scheduleurl: #https://sessionize.com/api/v2/w7uo9oy1/view/GridSmart
+scheduleurl: https://sessionize.com/api/v2/hahdqimt/view/GridSmart
 
 sponsors:
-  # - sponsorlevel: PLATINUM
-  # - link: https://www.dbwatch.com/
-  #   image: ../assets/img/events/0014/dbWatch_official_logo.png
-  #   height: 130
+  - sponsorlevel: PLATINUM
+  - link: https://www.dbwatch.com/
+    image: ../assets/img/events/0023/dbWatch_official_logo.png
+    height: 130
   # - link: https://www.microsoft.com/sql-server/
   #   image: ../assets/img/events/0014/MS-Azure_logo.png
   #   height: 400
@@ -74,7 +81,7 @@ sponsors:
     image: ../assets/img/events/0023/redgate-logo.svg
     height: 80
 
-speakerlisturl: https://sessionize.com/data-saturday-oslo-2022/
+speakerlisturl: https://sessionize.com/api/v2/hahdqimt/view/SpeakerWall
 callforspeakers:  false
 
 volunteerrequesturl: mailto:datasaturday.oslo@gmail.com
@@ -85,4 +92,91 @@ organizers:
 
 sponsorpacklink: "../assets/img/events/0023/DataSaturdayOslo2022_SponsorPlan.pdf"
 
-codeofconduct: 
+codeofconduct: "<p style=\"text-align:left;\">
+      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
+      Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+    </p>
+
+    <h2>The Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Our conference is dedicated to providing an enjoyable environment for everyone involved. 
+      Thus providing a harassment-free experience for everyone, regardless of gender, 
+      gender identity and expression, age, sexual orientation, disability, physical appearance, 
+      body size, race, ethnicity, religion (or lack thereof), or technology choices. 
+      We do not tolerate harassment of conference participants in any form. 
+      Sexual language and imagery is not appropriate for any conference venue, 
+      including talks, workshops, parties, Twitter and other online media. 
+      Conference participants violating these rules may be sanctioned or 
+      expelled from the conference <em>without a refund</em> at the discretion 
+      of the conference organizers.
+    </p>
+    <p style=\"text-align:left;\">
+      The organizer of this event will prioritize marginalized people&#39;s safety over privileged people&#39;s comfort.
+    </p>
+
+    <h2>The Less Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Harassment includes offensive verbal comments related to gender, gender 
+      identity and expression, age, sexual orientation, disability, physical 
+      appearance, body size, race, ethnicity, religion, technology choices, 
+      sexual images in public spaces, deliberate intimidation, stalking, 
+      following, harassing photography or recording, sustained disruption of 
+      talks or other events, inappropriate physical contact, and unwelcome 
+      sexual attention.
+    </p>
+    <p style=\"text-align:left;\">
+      Participants asked to stop any harassing behavior are expected to comply 
+      immediately.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Sponsors are also subject to the anti-harassment policy. In particular, 
+      sponsors should not use sexualized images, activities, or other material. 
+      Booth staff (including volunteers) should not use sexualized 
+      clothing/uniforms/costumes, or otherwise create a sexualized environment.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If a participant engages in harassing behavior, the conference organizers 
+      may take any action they deem appropriate, including warning the offender 
+      or expulsion from the conference with no refund.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If you are being harassed, notice that someone else is being harassed, or 
+      have any other concerns, please contact a member of conference staff 
+      immediately. Conference staff can be identified as they&#39;ll be wearing 
+      branded shirts.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Conference staff will be happy to help participants contact 
+      local law enforcement, provide escorts, or otherwise assist 
+      those experiencing harassment to feel safe for the duration of the 
+      conference. We value your attendance.
+    </p>
+
+    <p style=\"text-align:left;\">
+      We expect participants to follow these rules at conference and workshop 
+      venues and conference-related social events.
+    </p>
+
+    <p style=\"text-align:left;\">
+      <small>
+        <em>Original source and credit:
+          <a href=\"http://2012.jsconf.us/#/about\">http://2012.jsconf.us/#/about</a>
+          &amp;
+          <ahref=\"http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy\">The Ada Initiative</a>
+          <br />
+
+          Please help by translating or improving:
+          <a href=\"https://github.com/confcodeofconduct/confcodeofconduct.com\">on github.com</a>
+          <br />
+
+          This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/deed.en_US\">Creative Commons Attribution 3.0 Unported License</a>
+        </em>
+      </small>
+    </p>
+      "
