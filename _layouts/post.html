@@ -16,7 +16,7 @@ layout: default
       <div class="alert alert-light" role="alert">
         {{pagedata.description}}
       </div>
-      {% if pagedata.open-registration-new-tab and pagedata.open-registration-new-tab == true %}
+        {% if pagedata.open-registration-new-tab and pagedata.open-registration-new-tab == true %}
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}" target="_blank">Register now</a>
         {% else %}
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}">Register now</a>
@@ -44,6 +44,26 @@ layout: default
         </div>
     </section>
   {% endif %}
+
+  {% if pagedata.precondescription %}
+    <!-- Precon -->
+    <section class="page-section" id="precon">
+      <div class="container">
+          <div class="text-left">
+              <h2 class="section-heading text-uppercase text-center">Pre-conference workshop</h2>
+              <div class="alert alert-light" role="alert">
+                <p>
+                  {{pagedata.precondescription}}
+                </p>
+              </div>
+  
+          </div>
+      </div>
+    </section>
+  {% endif %}
+
+
+
 
 
     <!-- Schedule -->

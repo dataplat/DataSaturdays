@@ -15,9 +15,20 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
                 {%- for navitem in site.data.eventnav -%}
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="{{ navitem.link }}">{{ navitem.name }}</a>
-                    </li>
+                    {%- if navitem.name == "Schedule" -%}
+                        <li class="nav-item">
+                            <a class="nav-link js-scroll-trigger" href="{{ navitem.link }}">{{ navitem.name }}</a>
+                        </li>
+                        {%- if pagedata.precondescription -%}
+                            <li class="nav-item">
+                                <a class="nav-link js-scroll-trigger" href="#precon">Precon</a>
+                            </li>            
+                        {%- endif %}    
+                    {%- else %}
+                        <li class="nav-item">
+                            <a class="nav-link js-scroll-trigger" href="{{ navitem.link }}">{{ navitem.name }}</a>
+                        </li>
+                    {%- endif %}
                 {%- endfor %}    
                 {%- if pagedata.sponsorpacklink -%}
                 <li class="nav-item">
