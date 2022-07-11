@@ -1,0 +1,43 @@
+name: "Data Saturday #25 - Slovenia 2022"
+date: 2022-12-10 09:00:00 -0000
+
+virtual: true
+
+description: "<p>Data Saturday Slovenia is a free one-day event for professionals who use the Microsoft data platform technologies. 
+This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p>
+<p>
+<b>Event venue</b></p>
+<p>The event will be held <b>online</b>, on Saturday, December  10th, 2022.</p>
+<p>This year we have decided to create two in-person seminars (pre-cons), both held on Friday, December 9th, 2022 in Ljubljana, Slovenia.</p>"
+
+registrationurl: 
+join:
+  description: Please see the main event page for details on sessions and rooms
+  rooms:
+    - name: Room 1
+      url: Following the link to Room1.
+    - name: Room 2
+      url: Following the link to Room2.
+
+
+scheduleurl: https://datasaturday.se/Schedule
+
+# sponsors:
+#   - link: https://www.microsoft.com/sql-server/
+#     image: ../assets/img/events/0014/MS-Azure_logo.png
+#     height: 300
+#   - link: https://www.red-gate.com/
+#     image: ../assets/img/events/0014/Redgate.png
+#     height: 150
+#   - link: https://www.dbwatch.com/
+#     image: ../assets/img/events/0014/dbWatch_official_logo.png
+#     height: 50
+
+speakerlisturl: https://sessionize.com/data-saturday-slovenia-2022/
+callforspeakers:  true
+
+volunteerrequesturl: mailto:tomaz.kastrun@gmail.com
+organizers:
+  - name: Dejan Sarka, Matija Lah, Mladen Prajdić, Tomaz Kaštrun
+    twitter: 
+    email: mailto:tomaz.kastrun@gmail.com
