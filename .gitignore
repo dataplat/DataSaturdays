@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# The DS _site directory
+_site/**
+.jekyll-cache/**
+
 # User-specific files
 *.suo
 *.user
