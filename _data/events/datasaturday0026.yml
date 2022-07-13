@@ -17,8 +17,8 @@ description: "<p>Data Saturday Dallas is a one-day event for professionals who u
 #    image: your sponsor image
 #    height: image height if required
 
-#speakerlisturl: This is your Call For Speakers URL when you start, once you have chosen your sessions change this to your Sessionize SpeakerWall API URL
-#callforspeakers:  true (until your call for speaker finishes!)
+speakerlisturl: https://sessionize.com/ntssug-data-saturday-dallas-2022
+callforspeakers:  true
 
 #volunteerrequesturl: If you want a link for people to volunteer place it here
 organizers:
