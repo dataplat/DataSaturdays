@@ -1,7 +1,7 @@
---- 
-layout: home 
-title: Data Saturdays 
-subtitle: By The Community For The Community 
+---
+layout: home
+title: Data Saturdays
+subtitle: By The Community For The Community
 ---
 
 <div id="page-top-out" class="page-section">
@@ -19,43 +19,47 @@ subtitle: By The Community For The Community
 	  <h2 class="section-heading text-uppercase">Data Saturdays Events</h2>
   </div>
 
-    <div class="container">
-        <table table cellspacing=0 class="table table-striped table-hover mt-3" id="eventlist" width="100%">
-            <thead>
-                <tr>
-                    <th scope="col"></th>
-                    <th scope="col">Event Name</th>
-                    <th scope="col">Date</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- Events List show future events-->
-                {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %} {% for post in site.posts %} {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %} {% if date >= now %}
-                <tr>
-                    <td>
-                        <div class="hero-box mt-3 align-self-center">
-                            <a href="{{ post.url  }}">
-                                <img src="assets/design/logo/10.png" height="65" />
-                            </a>
-                        </div>
-                    </td>
-                    <td>
-                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                            <a href="{{ post.url }}">
-                                <div class="nav-link">{{ post.title }}</div>
-                            </a>
-                        </div>
-                    </td>
-                    <td>
-                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                            <div class="nav-link">{{ post.date | date_to_long_string }}</div>
-                        </div>
-                    </td>
-                </tr>
-                {% endif %} {%- endfor %}
-            </tbody>
-        </table>
-    </div>
+  <div class="container">
+    <table table cellspacing=0 class="table table-striped table-hover mt-3" id="eventlist" width="100%">
+      <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Event Name</th>
+          <th scope="col">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Events List show future events-->
+        {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+        {% for post in site.posts %}
+          {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %}
+          {% if date >= now %}
+        <tr>
+          <td>
+            <div class="hero-box mt-3 align-self-center">
+              <a href="{{ post.url }}">
+                <img src="assets/design/logo/10.png" height="65" />
+              </a>
+            </div>
+          </td>
+          <td>
+            <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
+              <a href="{{ post.url }}">
+                <div class="nav-link">{{ post.title }}</div>
+              </a>
+            </div>
+          </td>
+          <td>
+            <div class="hero-box mt-3 align-self-center flex-nowrap">
+              <div class="nav-link">{{ post.date | date_to_long_string }}</div>
+            </div>
+          </td>
+        </tr>
+        {% endif %}
+        {%- endfor %}
+      </tbody>
+    </table>
+  </div>
 </div>
 
 <!-- Past Events -->
@@ -76,34 +80,38 @@ subtitle: By The Community For The Community
       </thead>
       <tbody>
 
-                <!-- Past Events List Only show if less than now (where now is BUILD TIME)-->
-                {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %} {% for post in site.posts %} {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %} {% if date
-                <=n ow %} <!-- post content here -->
-                    <tr>
-                        <td>
-                            <div class="hero-box mt-3 align-self-center">
-                                <a href="{{ post.url  }}">
-                                    <img src="assets/design/logo/11.png" height="65" />
-                                </a>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                <a href="{{ post.url  }}">
-                                    <div class="nav-link">{{ post.title }}</div>
-                                </a>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                <div class="nav-link">{{ post.date | date_to_long_string }}</div>
-                            </div>
-                        </td>
-                    </tr>
-                    {% endif %} {% endfor %}
-            </tbody>
-        </table>
-    </div>
+        <!-- Past Events List Only show if less than now (where now is BUILD TIME)-->
+        {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+        {% for post in site.posts %}
+          {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %}
+          {% if date <= now %}
+            <!-- post content here -->
+        <tr>
+            <td>
+              <div class="hero-box mt-3 align-self-center">
+                <a href="{{ post.url }}">
+                  <img src="assets/design/logo/11.png" height="65" />
+                </a>
+              </div>
+            </td>
+            <td>
+              <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
+                <a href="{{ post.url }}">
+                  <div class="nav-link">{{ post.title }}</div>
+                </a>
+              </div>
+            </td>
+            <td>
+              <div class="hero-box mt-3 align-self-center flex-nowrap">
+                <div class="nav-link">{{ post.date | date_to_long_string }}</div>
+              </div>
+            </td>
+          </tr>
+          {% endif %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 </div>
 
 <div id="aboutus-out" class="page-section">
@@ -182,5 +190,5 @@ subtitle: By The Community For The Community
       <li><a href="https://twitter.com/HengeWitch">>Randolph West</a></li>
     </ul>
 
-    </div>
+  </div>
 </div>
