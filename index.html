@@ -1,194 +1,186 @@
----
-layout: home
-title: Data Saturdays
-subtitle: By The Community For The Community
----
+--- layout: home title: Data Saturdays subtitle: By The Community For The Community ---
 
 <div id="page-top-out" class="page-section">
-  <div id="page-top">
-  <img src="../assets/design/facebook/c.facebook%201r.png" alt="Data Saturdays">
-    <h2 class="section-heading text-uppercase">Welcome to Data Saturdays</h2>
-  </div>
-  <div id="page-top-text">
-    <strong>Data Saturdays</strong> is a place for the data community to run <em>small regional events</em> with little outlay or set-up difficulties. Here you can access a set of tools and have open, transparent discussions on how your event should be set up and utilised.
-  </div>
+    <div id="page-top">
+        <img src="../assets/design/facebook/c.facebook%201r.png" alt="Data Saturdays">
+        <h2 class="section-heading text-uppercase">Welcome to Data Saturdays</h2>
+    </div>
+    <div id="page-top-text">
+        <strong>Data Saturdays</strong> is a place for the data community to run <em>small regional events</em> with little outlay or set-up difficulties. Here you can access a set of tools and have open, transparent discussions on how your event should
+        be set up and utilised.
+    </div>
 </div>
 
 <div id="events-out" class="page-section">
-  <div id="events">
-	  <h2 class="section-heading text-uppercase">Data Saturdays Events</h2>
-  </div>
+    <div id="events">
+        <h2 class="section-heading text-uppercase">Data Saturdays Events</h2>
+    </div>
 
-  <div class="container">
-    <table table cellspacing=0 class="table table-striped table-hover mt-3" id="eventlist" width="100%">
-      <thead>
-        <tr>
-          <th scope="col"></th>
-          <th scope="col">Event Name</th>
-          <th scope="col">Date</th>
-        </tr>
-      </thead>
-      <tbody>
-        <!-- Events List show future events-->
-        {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
-        {% for post in site.posts %}
-          {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %}
-          {% if date >= now %}
-        <tr>
-          <td>
-            <div class="hero-box mt-3 align-self-center">
-              <a href="{{ post.url | absolute_url }}">
-                <img src="assets/design/logo/10.png" height="65" />
-              </a>
-            </div>
-          </td>
-          <td>
-            <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-              <a href="{{ post.url | absolute_url }}">
-                <div class="nav-link">{{ post.title }}</div>
-              </a>
-            </div>
-          </td>
-          <td>
-            <div class="hero-box mt-3 align-self-center flex-nowrap">
-              <div class="nav-link">{{ post.date | date_to_long_string }}</div>
-            </div>
-          </td>
-        </tr>
-        {% endif %}
-        {%- endfor %}
-      </tbody>
-    </table>
-  </div>
+    <div class="container">
+        <table table cellspacing=0 class="table table-striped table-hover mt-3" id="eventlist" width="100%">
+            <thead>
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col">Event Name</th>
+                    <th scope="col">Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Events List show future events-->
+                {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %} {% for post in site.posts %} {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %} {% if date >= now %}
+                <tr>
+                    <td>
+                        <div class="hero-box mt-3 align-self-center">
+                            <a href="{{ post.url }}">
+                                <img src="assets/design/logo/10.png" height="65" />
+                            </a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
+                            <a href="{{ post.url }}">
+                                <div class="nav-link">{{ post.title }}</div>
+                            </a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="hero-box mt-3 align-self-center flex-nowrap">
+                            <div class="nav-link">{{ post.date | date_to_long_string }}</div>
+                        </div>
+                    </td>
+                </tr>
+                {% endif %} {%- endfor %}
+            </tbody>
+        </table>
+    </div>
 </div>
 
 <!-- Past Events -->
 
 <div id="events-out" class="page-section">
-  <div id="pastevents">
-	  <h2 class="section-heading text-uppercase">Past Events</h2>
-  </div>
+    <div id="pastevents">
+        <h2 class="section-heading text-uppercase">Past Events</h2>
+    </div>
 
-  <div class="container">
-    <table table cellspacing=0 class="table table-striped table-hover mt-3" id="pasteventlist" width="100%">
-      <thead>
-        <tr>
-          <th scope="col"></th>
-          <th scope="col">Event Name</th>
-          <th scope="col">Date</th>
-        </tr>
-      </thead>
-      <tbody>
+    <div class="container">
+        <table table cellspacing=0 class="table table-striped table-hover mt-3" id="pasteventlist" width="100%">
+            <thead>
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col">Event Name</th>
+                    <th scope="col">Date</th>
+                </tr>
+            </thead>
+            <tbody>
 
-        <!-- Past Events List Only show if less than now (where now is BUILD TIME)-->
-        {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
-        {% for post in site.posts %}
-          {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %}
-          {% if date <= now %}
-            <!-- post content here -->
-        <tr>
-            <td>
-              <div class="hero-box mt-3 align-self-center">
-                <a href="{{ post.url | absolute_url }}">
-                  <img src="assets/design/logo/11.png" height="65" />
-                </a>
-              </div>
-            </td>
-            <td>
-              <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                <a href="{{ post.url | absolute_url }}">
-                  <div class="nav-link">{{ post.title }}</div>
-                </a>
-              </div>
-            </td>
-            <td>
-              <div class="hero-box mt-3 align-self-center flex-nowrap">
-                <div class="nav-link">{{ post.date | date_to_long_string }}</div>
-              </div>
-            </td>
-          </tr>
-          {% endif %}
-        {% endfor %}
-      </tbody>
-    </table>
-  </div>
+                <!-- Past Events List Only show if less than now (where now is BUILD TIME)-->
+                {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %} {% for post in site.posts %} {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %} {% if date
+                <=n ow %} <!-- post content here -->
+                    <tr>
+                        <td>
+                            <div class="hero-box mt-3 align-self-center">
+                                <a href="{{ post.url  }}">
+                                    <img src="assets/design/logo/11.png" height="65" />
+                                </a>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
+                                <a href="{{ post.url }}">
+                                    <div class="nav-link">{{ post.title }}</div>
+                                </a>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="hero-box mt-3 align-self-center flex-nowrap">
+                                <div class="nav-link">{{ post.date | date_to_long_string }}</div>
+                            </div>
+                        </td>
+                    </tr>
+                    {% endif %} {% endfor %}
+            </tbody>
+        </table>
+    </div>
 </div>
 
 <div id="aboutus-out" class="page-section">
-  <div id="aboutus">
-	  <h2 class="section-heading text-uppercase">About Us</h2>
-  </div>
+    <div id="aboutus">
+        <h2 class="section-heading text-uppercase">About Us</h2>
+    </div>
 
-  <div id="aboutus-text">
-    <p><strong>Data Saturdays</strong> is a place for the data community to run <em>small regional events</em> with little outlay or set-up difficulties. Here you can access a set of tools and have open, transparent discussions on how your event should be set up and utilised.</p>
+    <div id="aboutus-text">
+        <p><strong>Data Saturdays</strong> is a place for the data community to run <em>small regional events</em> with little outlay or set-up difficulties. Here you can access a set of tools and have open, transparent discussions on how your event should
+            be set up and utilised.</p>
 
-    <h3>Goals</h3>
+        <h3>Goals</h3>
 
-    <p>
-      <ul>
-        <li>Provide a website for listing events taking place around the world</li>
-        <li>Enable event owners to be able to set up the website and administer it easily</li>
-        <li>Administrative tools for event organizers to use when building their site</li>
-        <li>Integration with various payment providers for different locales</li>
-        <li>Integration with mobile scheduling applications</li>
-        <li>Page to list all sponsors and their contacts</li>
-        <li>Rating of sessions and events</li>
-        <li>Speaker tools</li>
-        <li>Sponsor tools</li>
-      </ul>
-    </p>
+        <p>
+            <ul>
+                <li>Provide a website for listing events taking place around the world</li>
+                <li>Enable event owners to be able to set up the website and administer it easily</li>
+                <li>Administrative tools for event organizers to use when building their site</li>
+                <li>Integration with various payment providers for different locales</li>
+                <li>Integration with mobile scheduling applications</li>
+                <li>Page to list all sponsors and their contacts</li>
+                <li>Rating of sessions and events</li>
+                <li>Speaker tools</li>
+                <li>Sponsor tools</li>
+            </ul>
+        </p>
 
-    <p>Since many of these things already exist, we just need a way to consolidate them, and make them easy for people to use. To paraphrase Jeffrey Snover, don't build what you don't need to. Concentrate on the things that provide value. Don't re-invent the wheel.</p>
+        <p>Since many of these things already exist, we just need a way to consolidate them, and make them easy for people to use. To paraphrase Jeffrey Snover, don't build what you don't need to. Concentrate on the things that provide value. Don't re-invent
+            the wheel.</p>
 
-    <h3>Culture</h3>
+        <h3>Culture</h3>
 
-    <p>We expect and demand that you follow some basic rules. Nothing dramatic here. There will be a proper code of conduct for the websites added soon, but in this repository:</p>
-    <p><strong>BE EXCELLENT TO EACH OTHER</strong></p>
+        <p>We expect and demand that you follow some basic rules. Nothing dramatic here. There will be a proper code of conduct for the websites added soon, but in this repository:</p>
+        <p><strong>BE EXCELLENT TO EACH OTHER</strong></p>
 
-    <p>If your behaviour or communication does not fit within this philosophy, we do not wish for you to help us.</p>
+        <p>If your behaviour or communication does not fit within this philosophy, we do not wish for you to help us.</p>
 
-    <h3>What can you do?</h3>
+        <h3>What can you do?</h3>
 
-    <p>
-      <ul>
-        <li>We have issues and discussions.</li>
-        <li>We would like you to comment on them and provide help and assistance</li>
-        <li>We will have code to write and CI/CD to create</li>
-        <li>We have no idea what else is required, thats for you, the community, to decide</li>
-      </ul>
-    </p>
+        <p>
+            <ul>
+                <li>We have issues and discussions.</li>
+                <li>We would like you to comment on them and provide help and assistance</li>
+                <li>We will have code to write and CI/CD to create</li>
+                <li>We have no idea what else is required, thats for you, the community, to decide</li>
+            </ul>
+        </p>
 
-    <h3>What this is not</h3>
+        <h3>What this is not</h3>
 
-    <p>
-      <ul>
-        <li>For profit</li>
-        <li>Owned by anyone (Data Saturdays is for and by the community, and will succeed or fail in that manner)</li>
-        <li>Holding any personal information</li>
-        <li>Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products.</li>
-      </ul>
-    </p>
+        <p>
+            <ul>
+                <li>For profit</li>
+                <li>Owned by anyone (Data Saturdays is for and by the community, and will succeed or fail in that manner)</li>
+                <li>Holding any personal information</li>
+                <li>Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products.</li>
+            </ul>
+        </p>
 
-    <h3>Statement of declaration</h3>
+        <h3>Statement of declaration</h3>
 
-    <p>Following the announcement of the ending of PASS (<a href="https://web.archive.org/web/20201219035705/https://www.pass.org/PASS-Blog/the-future-of-pass">archived link</a>), this site has been established by the community as a means to continue events under the <i>Data Saturdays</i> name.</p>
-    <p>We believe that by sharing these resources and enabling community input, we can provide the same level of events that SQLSaturday provided.</p>
-    <p>You can join the discussion at: <a href="https://github.com/sqlcollaborative/DataSaturdays">https://github.com/sqlcollaborative/DataSaturdays</a></p>
-    <p>This site and the repo are hosted in the SQL Collaborative organisation, and are for the community.</p>
+        <p>Following the announcement of the ending of PASS (<a href="https://web.archive.org/web/20201219035705/https://www.pass.org/PASS-Blog/the-future-of-pass">archived link</a>), this site has been established by the community as a means to continue
+            events under the <i>Data Saturdays</i> name.</p>
+        <p>We believe that by sharing these resources and enabling community input, we can provide the same level of events that SQLSaturday provided.</p>
+        <p>You can join the discussion at: <a href="https://github.com/sqlcollaborative/DataSaturdays">https://github.com/sqlcollaborative/DataSaturdays</a></p>
+        <p>This site and the repo are hosted in the SQL Collaborative organisation, and are for the community.</p>
 
-    <h4>Admins of the Data Saturdays</h4>
+        <h4>Admins of the Data Saturdays</h4>
 
-    <ul>
-      <li><a href="https://twitter.com/spaghettidba">Gianluca Sartori</a></li>
-      <li><a href="https://twitter.com/sqldbawithbeard">Rob Sewell</a></li>
-      <li><a href="https://twitter.com/intoleranse">Johan Ludvig Bratt&aring;s</a></li>
-      <li><a href="https://twitter.com/sqlatspeed">Matt Gordon</a></li>
-      <li><a href="https://twitter.com/AMtwo">Andy Mallon</a></li>
-      <li><a href="https://twitter.com/SQLZelda">Elizabeth Noble</a></li>
-      <li><a href="https://twitter.com/SQLEspresso">Monica Rathbun</a></li>
-      <li><a href="https://twitter.com/Warwick_Rudd">Warwick Rudd</a></li>
-      <li><a href="https://twitter.com/HengeWitch">>Randolph West</a></li>
-    </ul>
+        <ul>
+            <li><a href="https://twitter.com/spaghettidba">Gianluca Sartori</a></li>
+            <li><a href="https://twitter.com/sqldbawithbeard">Rob Sewell</a></li>
+            <li><a href="https://twitter.com/intoleranse">Johan Ludvig Bratt&aring;s</a></li>
+            <li><a href="https://twitter.com/sqlatspeed">Matt Gordon</a></li>
+            <li><a href="https://twitter.com/AMtwo">Andy Mallon</a></li>
+            <li><a href="https://twitter.com/SQLZelda">Elizabeth Noble</a></li>
+            <li><a href="https://twitter.com/SQLEspresso">Monica Rathbun</a></li>
+            <li><a href="https://twitter.com/Warwick_Rudd">Warwick Rudd</a></li>
+            <li><a href="https://twitter.com/HengeWitch">>Randolph West</a></li>
+        </ul>
 
-  </div>
+    </div>
 </div>
