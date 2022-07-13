@@ -1,0 +1,27 @@
+name: "Data Saturday #26 - Dallas"
+date: 2022-09-24 08:00:00 -0000
+
+description: "<p>Data Saturday Dallas is a one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p><p><b>Event venue</b></p><p>Microsoft Las Colinas<br><p><b>Date - September 24, 2022.</b></p><p>More details to come!</p>"
+
+#registrationurl: This is your registration URL
+#join:
+#  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+#  rooms:
+#    - name: Room 1
+#      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
+#scheduleurl: This is your schedule URL from Sessionize. You can leave this blank until you have it.
+
+#sponsors:
+#  - link: https://yoursponsorlink
+#    image: your sponsor image
+#    height: image height if required
+
+#speakerlisturl: This is your Call For Speakers URL when you start, once you have chosen your sessions change this to your Sessionize SpeakerWall API URL
+#callforspeakers:  true (until your call for speaker finishes!)
+
+#volunteerrequesturl: If you want a link for people to volunteer place it here
+organizers:
+  - name: Amy Herold
+    twitter: https://twitter.com/ntssug
+    email: datasaturday@ntssug.com
