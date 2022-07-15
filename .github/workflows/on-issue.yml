@@ -60,8 +60,8 @@ jobs:
         ## Create the files as required
         [int]$latest = ((Get-ChildItem ./_data/events).Name | Sort-Object -Descending | Select-Object -First 1 ) -replace '.yml','' -replace 'datasaturday',''
         $newNumber = '{0:d4}' -f ($latest + 1)
-        $yamlFileName = './temp/__data/events/datasaturday{0}.yml' -f $newNumber
-        $mdFileName = './temp/__posts/{0}-datasaturday{1}.md' -f $eventDate.ToString("yyyy-MM-dd"), $newNumber
+        $yamlFileName = './_data/events/datasaturday{0}.yml' -f $newNumber
+        $mdFileName = './_posts/{0}-datasaturday{1}.md' -f $eventDate.ToString("yyyy-MM-dd"), $newNumber
         $mdcontent = @"
         ---
         layout: post
