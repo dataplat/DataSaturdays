@@ -46,7 +46,9 @@ body:
       label: description
       description: "Please provide the description of the event  
 
-       Place the description of the event here, you may use HTML. You **may NOT use scripts**.  
+       Place the description of the event here, you may use HTML. You **may NOT use scripts**.
+
+       You *MUST* use `<br>` for new lines - this is to save the need to parse markdown into YAML into HTML and also to stop double new lines. So that you are in control.  
        
        Include as much information as you think is required. Normally, this will include full details of the event, the name, the address, the type of sessions, maybe some history.   
          
@@ -101,7 +103,7 @@ body:
 
         The link is the URL of the sponsor.  
 
-        The name is the name of the sponsor.  
+        The image is the URL to the sponsors image.  
 
         The height is the height of the sponsor image in pixels.  
 
@@ -111,8 +113,8 @@ body:
           
         `sponsor1link;sponsor1name;sponsor1height,sponsor2link;sponsor2name;sponsor2height,sponsor3link;sponsor3name;sponsor3height`
         "
-      placeholder: "sponsor1link;sponsor1name;sponsor1height,sponsor2link;sponsor2name;sponsor2height,sponsor3link;sponsor3name;sponsor3height"
-      value: sponsor1link;sponsor1name;sponsor1height,sponsor2link;sponsor2name;sponsor2height,sponsor3link;sponsor3name;sponsor3height
+      placeholder: "sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height"
+      value: sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
   - type: input
     id: speakerlisturl
     attributes:
