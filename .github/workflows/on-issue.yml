@@ -1,0 +1,147 @@
+name: Create a New Event PR
+
+on: 
+ issues:
+   types:
+     - "opened"
+
+jobs:
+  createNewEventPr:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with: 
+       clean: true
+       fetch-depth: 0
+    - name: Get Information to file
+      run: |
+        Write-Host "What do we have?"
+        $IssueBody =  @"
+        ${{ github.event.issue.body }}
+        "@
+        # Write-Host $IssueBody 
+        $IssueBody | Out-File ./temp/temp.txt
+      shell: pwsh
+      continue-on-error: true   
+    - name: Add & Commit
+      uses: EndBug/add-and-commit@v8.0.2
+      with:
+        author_name: Beardy McBeardFace
+        author_email: mrrobsewell@outlook.com
+        message: 'Added the temp file to the repo for issue number #${{ github.event.issue.number }} raised by @${{ github.event.issue.user.login }} ***NO_CI***'
+        new_branch:  'new-event-issue-${{ github.event.issue.number }}'
+        push: origin new-event-issue-${{ github.event.issue.number }} --set-upstream --force
+      continue-on-error: true
+    - name: Parse the temp file and create the other files
+      run: |
+        # get the temp file contents - I do this so I dont lose anything
+        $file = Get-Content ./temp/temp.txt -Raw
+        # parse the issue
+        $regexResult = [regex]::Matches($file, '(?ms)eventname\n\n(?<eventname>.*)\n\n### date\n\n(?<date>.*)\n\n### description\n\n(?<description>.*)\n\n### registrationurl\n\n(?<registrationurl>.*)\n\n### rooms\n\n(?<rooms>.*)\n\n### scheduleurl\n\n(?<scheduleurl>.*)\n\n### sponsors\n\n(?<sponsors>.*)\n\n### speakerlisturl\n\n(?<speakerlisturl>.*)\n\n### volunteerrequesturl\n\n(?<volunteerrequesturl>.*)\n\n### organizers\n\n(?<organizers>.*)\n')
+        # create an object
+        $eventObject = [PSCustomObject]@{
+            eventname =  $regexResult[0].Groups['eventname'].Value
+            date = $regexResult[0].Groups['date'].Value
+            description = $regexResult[0].Groups['description'].Value
+            registrationurl = $regexResult[0].Groups['registrationurl'].Value
+            rooms = $regexResult[0].Groups['rooms'].Value
+            scheduleurl = $regexResult[0].Groups['scheduleurl'].Value
+            sponsors = $regexResult[0].Groups['sponsors'].Value
+            speakerlisturl = $regexResult[0].Groups['speakerlisturl'].Value
+            volunteerrequesturl = $regexResult[0].Groups['volunteerrequesturl'].Value
+            organizers = $regexResult[0].Groups['organizers'].Value
+        }
+        #save it to a file
+        $eventname = $eventObject.eventname -replace ' ', '-' -replace '''','-' -replace '/','-' -replace '\\','-' -replace ':','-' -replace '\*','-' -replace '\?','-' -replace '"','-' -replace '\|','-'
+        $date = Get-Date -Format "yyyy-MM-dd_HHmmss"
+        $eventDate = [datetime]$eventObject.date
+        $filePath = './temp/{0}_{1}.json' -f $eventname, $date
+        $eventObject |ConvertTo-Json | Out-FIle -FilePath $filePath
+        ## Create the files as required
+        [int]$latest = ((Get-ChildItem ./_data/events).Name | Sort-Object -Descending | Select-Object -First 1 ) -replace '.yml','' -replace 'datasaturday',''
+        $newNumber = '{0:d4}' -f ($latest + 1)
+        $yamlFileName = './temp/__data/events/datasaturday{0}.yml' -f $newNumber
+        $mdFileName = './temp/__posts/{0}-datasaturday{1}.md' -f $eventDate.ToString("yyyy-MM-dd"), $newNumber
+        $mdcontent = @"
+        ---
+        layout: post
+        title: "Data Saturday #{0} {1}"
+        subtitle: "Data Saturday"
+        tags: [event]
+        comments: false
+        data: datasaturday{2}
+        ---
+        "@  -f ($latest + 1), $eventObject.eventname, $newNumber
+        $mdcontent| Out-File $mdFileName
+        [string]$rooms = foreach($room in $eventObject.rooms -split ','){
+            "- name: {0}
+             url: {1}
+          " -f ($room -split ':')[0], ($room -split ':')[1]
+        }
+        [string]$sponsors = foreach($sponsor in $eventObject.sponsors -split ','){
+            "- link: {0}
+            image: {1}
+            height: {2}
+         " -f ($sponsor -split ':')[0], ($sponsor -split ':')[1], ($sponsor -split ':')[2]
+        }
+        [string]$organisers = foreach($organiser in $eventObject.organizers -split ','){
+            "- name: {0}
+            twitter: {1}
+            email: {2}
+         " -f ($organiser -split ':')[0], ($organiser -split ':')[1], ($organiser -split ':')[2]
+        }
+        $ymlcontent = @"
+        name: "Data Saturday  #{0} - {1}"
+        date: {2}
+        
+        description: '
+        {3}
+         '
+        registrationurl: {4}
+        join:
+          description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+          rooms:
+           {5}
+        sponsors: 
+          {6}
+        
+        scheduleurl: {7}
+        
+        speakerlisturl: {8}
+        
+        callforspeakers: true
+        
+        volunteerrequesturl: {9}
+        organizers:
+          {10}
+        "@ -f ($latest + 1), $eventObject.eventname ,$eventObject.date, $eventObject.description, $eventObject.registrationurl, $rooms , $sponsors, $eventObject.scheduleurl, $eventObject.speakerlisturl ,$eventObject.volunteerrequesturl, $organisers
+
+        $ymlcontent | Out-File $yamlFileName
+      shell: pwsh
+      continue-on-error: true   
+    - name: Add & Commit
+      uses: EndBug/add-and-commit@v8.0.2
+      with:
+        author_name: Beardy McBeardFace
+        author_email: mrrobsewell@outlook.com
+        message: 'Added the parsed event file to the repo for issue number #${{ github.event.issue.number }} raised by  @${{ github.event.issue.user.login }} ***NO_CI***'
+        new_branch:  'new-event-issue-${{ github.event.issue.number }}'
+        push: origin new-event-issue-${{ github.event.issue.number }} --set-upstream --force
+      continue-on-error: true
+    - name: pull-request
+      uses: repo-sync/pull-request@v2
+      with:
+        source_branch: 'new-event-issue-${{ github.event.issue.number }}'                                 # If blank, default: triggered branch
+        destination_branch: "main"                      # If blank, default: master
+        pr_title: "Adding a new event for issue number #${{ github.event.issue.number }}" # Title of pull request
+        pr_body: ":crown: *An automated PR*
+        
+        For issue number #${{ github.event.issue.number }} raised by  @${{ github.event.issue.user.login }}
+        
+        "              # Full markdown support, requires pr_title to be set
+        pr_reviewer: "SQLDBAWithABeard,SpaghettiDba"                         # Comma-separated list (no spaces)
+        pr_assignee: "SQLDBAWithABeard,SpaghettiDba"                         # Comma-separated list (no spaces)
+        pr_label: "new-event"                               # Comma-separated list (no spaces)                    # Milestone name
+
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
