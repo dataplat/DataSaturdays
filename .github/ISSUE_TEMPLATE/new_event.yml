@@ -75,9 +75,9 @@ body:
 
         If you do not wish to link to rooms, please delete the entry.
 
-        roomname1:roomurl1,roomname2:roomurl2,roomname3:roomurl3
-      placeholder: "roomname1:roomurl1,roomname2:roomurl2,roomname3:roomurl3"
-      value: roomname1:roomurl1,roomname2:roomurl2,roomname3:roomurl3
+        roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
+      placeholder: "roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3"
+      value: roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
   - type: input
     id: scheduleurl
     attributes:
@@ -105,14 +105,14 @@ body:
 
         The height is the height of the sponsor image in pixels.  
 
-        Each separated by a colon :  
+        Each separated by a semi-colon ;  
 
         Separate each sponsor information with a comma. It will look like this.   
           
-        `sponsor1link:sponsor1name:sponsor1height,sponsor2link:sponsor2name:sponsor2height,sponsor3link:sponsor3name:sponsor3height`
+        `sponsor1link;sponsor1name;sponsor1height,sponsor2link;sponsor2name;sponsor2height,sponsor3link;sponsor3name;sponsor3height`
         "
-      placeholder: "sponsor1link:sponsor1name:sponsor1height,sponsor2link:sponsor2name:sponsor2height,sponsor3link:sponsor3name:sponsor3height"
-      value: sponsor1link:sponsor1name:sponsor1height,sponsor2link:sponsor2name:sponsor2height,sponsor3link:sponsor3name:sponsor3height
+      placeholder: "sponsor1link;sponsor1name;sponsor1height,sponsor2link;sponsor2name;sponsor2height,sponsor3link;sponsor3name;sponsor3height"
+      value: sponsor1link;sponsor1name;sponsor1height,sponsor2link;sponsor2name;sponsor2height,sponsor3link;sponsor3name;sponsor3height
   - type: input
     id: speakerlisturl
     attributes:
@@ -146,11 +146,11 @@ body:
 
         The email address (or other contact method) of the organizer.
 
-        Each separated by a colon :  
+        Each separated by a semi-colon ;  
 
         Separate each organizer information with a comma. It will look like this.  
 
-        `organizer1name:organizer1twitter:organizer1email,organizer2name:organizer2twitter:organizer2email,organizer3name:organizer3twitter:organizer3email`
+        `organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email`
         "
-      placeholder: "organizer1name:organizer1twitter:organizer1email,organizer2name:organizer2twitter:organizer2email,organizer3name:organizer3twitter:organizer3email"
-      value: organizer1name:organizer1twitter:organizer1email,organizer2name:organizer2twitter:organizer2email,organizer3name:organizer3twitter:organizer3email
+      placeholder: "organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email"
+      value: organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email

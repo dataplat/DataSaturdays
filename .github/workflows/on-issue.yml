@@ -76,19 +76,19 @@ jobs:
         [string]$rooms = foreach($room in $eventObject.rooms -split ','){
             "- name: {0}
              url: {1}
-          " -f ($room -split ':')[0], ($room -split ':')[1]
+          " -f ($room -split ';')[0], ($room -split ';')[1]
         }
         [string]$sponsors = foreach($sponsor in $eventObject.sponsors -split ','){
             "- link: {0}
             image: {1}
             height: {2}
-         " -f ($sponsor -split ':')[0], ($sponsor -split ':')[1], ($sponsor -split ':')[2]
+         " -f ($sponsor -split ';')[0], ($sponsor -split ';')[1], ($sponsor -split ';')[2]
         }
         [string]$organisers = foreach($organiser in $eventObject.organizers -split ','){
             "- name: {0}
             twitter: {1}
             email: {2}
-         " -f ($organiser -split ':')[0], ($organiser -split ':')[1], ($organiser -split ':')[2]
+         " -f ($organiser -split ';')[0], ($organiser -split ';')[1], ($organiser -split ';')[2]
         }
         $ymlcontent = @"
         name: "Data Saturday  #{0} - {1}"
