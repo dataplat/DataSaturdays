@@ -1,34 +1,26 @@
 ### eventname
 
-So that I can visit Gianluca
+Atlanta
 
 ### date
 
-2022-12-22 08:00:00 -00:00
+2022-11-01 08:00:00 -00:00
 
 ### description
 
-<h1>Birthday in Italy</h1>
-I want to visit Gianluca on my birthday so I have created this event so that I can. (ok maybe it is just to test some automation!)<br>
-<br>
-I just want to be able to spend some time with him and this is my birthday so I think I should be allowed.<br>
-<br>
-<img alt="A beautiful view" src="https://pbs.twimg.com/media/FXJblDJXkAAPBIa?format=jpg&name=900x900"
-width=120" height="120">
-<br>
-Anyway, here is the event<br>
-<br>
-With some more information<br>
-<br>
-Maybe it will work<br>
+Data Saturday Atlanta is a one-day event for professionals using Microsoft's data platform. This community event will present on topics in data management, cloud and hybrid architecture.<br>
+
+Attendees can register beginning August 1, 2022. Speakers can submit sessions using the Sessionize link below.
+
+
 
 ### registrationurl
 
-https://sessionize.com/api/v2/APITAG/view/GridSmart
+_No response_
 
 ### rooms
 
-_No response_
+The Vortex;https://datasaturdays.com,The Varsity;https://datasaturdays.com,Fox Bros. BBQ;https://datasaturdays.com,Mary Mac's Tea Room;https://datasaturdays.com
 
 ### scheduleurl
 
@@ -36,11 +28,11 @@ _No response_
 
 ### sponsors
 
-https://quantumdatis.com;http://quantumdatis.com/wp-content/uploads/2020/06/quantumdatis_path.svg;120,sponsor2link;sponsor2name;sponsor2height,sponsor3link;sponsor3name;sponsor3height
+_No response_
 
 ### speakerlisturl
 
-https://sessionize.com/data-saturday-parma-2022/
+https://sessionize.com/data-saturday-atlanta/
 
 ### volunteerrequesturl
 
@@ -48,4 +40,4 @@ _No response_
 
 ### organizers
 
-Rob;https://twitter.com/sqldbawithbeard;https://robsewell.com,Gianluca;https://twitter.com/spaghettidba;mailto:gian@there.co.it
+_No response_
