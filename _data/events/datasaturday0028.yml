@@ -35,6 +35,6 @@ callforspeakers: true
 volunteerrequesturl: _No response_
 organizers:
   - name: Atlanta Azure Data
-    twitter: 
+    twitter: https://twitter.com/AtlAzureData
     email: mailto:ATLAzureData@gmail.com
  
