@@ -3,7 +3,7 @@ date: 2022-12-10 09:00:00 -0000
 
 virtual: true
 
-description: "<p>Data Saturday Slovenia is a free one-day event for professionals who use the Microsoft data platform technologies. 
+description: '<p>Data Saturday Slovenia is a free one-day event for professionals who use the Microsoft data platform technologies. 
 This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p>
 <p>
 <b>Event venue</b></p>
@@ -21,7 +21,7 @@ This community event offers content across data management, cloud and hybrid arc
 <p>  
 Reserve your seat today.
 Early bird (until 15.10.2022) price for seminar is 200€ and full price is 250€ (from 15.10.2022 until 09.12.2022).
-</p>"
+</p>'
 
 registrationurl: 
 join:
