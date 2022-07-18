@@ -23,7 +23,7 @@ Reserve your seat today.
 Early bird (until 15.10.2022) price for seminar is 200€ and full price is 250€ (from 15.10.2022 until 09.12.2022).
 </p>'
 
-registrationurl: 
+registrationurl: https://www.eventbrite.com/e/data-saturday-25-slovenia-2022-tickets-387077267527
 join:
   description: Please see the main event page for details on sessions and rooms
   rooms:
@@ -49,8 +49,8 @@ scheduleurl: https://datasaturday.se/Schedule
 speakerlisturl: https://sessionize.com/data-saturday-slovenia-2022/
 callforspeakers:  true
 
-volunteerrequesturl: mailto:tomaz.kastrun@gmail.com
+volunteerrequesturl: mailto:DataSaturdaySlovenia@gmail.com
 organizers:
   - name: Dejan Sarka, Matija Lah, Mladen Prajdić, Tomaz Kaštrun
     twitter: 
-    email: mailto:tomaz.kastrun@gmail.com
+    email: mailto:DataSaturdaySlovenia@gmail.com
