@@ -1,0 +1,43 @@
+### eventname
+
+Atlanta
+
+### date
+
+2022-11-01 08:00:00 -00:00
+
+### description
+
+Data Saturday Atlanta is a one-day event for professionals using Microsoft's data platform. This community event will present on topics in data management, cloud and hybrid architecture.<br>
+
+Attendees can register beginning August 1, 2022. Speakers can submit sessions using the Sessionize link below.
+
+
+
+### registrationurl
+
+_No response_
+
+### rooms
+
+The Vortex;https://datasaturdays.com,The Varsity;https://datasaturdays.com,Fox Bros. BBQ;https://datasaturdays.com,Mary Mac's Tea Room;https://datasaturdays.com
+
+### scheduleurl
+
+_No response_
+
+### sponsors
+
+_No response_
+
+### speakerlisturl
+
+https://sessionize.com/data-saturday-atlanta/
+
+### volunteerrequesturl
+
+_No response_
+
+### organizers
+
+_No response_
