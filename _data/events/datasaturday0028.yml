@@ -19,7 +19,22 @@ The pandemic is fluid and things are constantly changing. As such, please be awa
 <br>
 All speakers and attendees will be required to abide by the Atlanta Azure Data <a href = ''https://www.meetup.com/atlanta-azure-data-user-group/pages/32472984/Code_of_Conduct/''>code of conduct</a> . Anyone violating the terms laid out, will be removed from the event.<br>
 <br>
-<style type="text/css">
+'
+registrationurl: _No response_
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: The Vortex
+     url: https://datasaturdays.com
+   - name: The Varsity
+     url: https://datasaturdays.com
+   - name: Fox Bros. BBQ
+     url: https://datasaturdays.com
+   - name: Mary Mac''s Tea Room
+     url: https://datasaturdays.com
+
+sponsorbenefits: '
+  <style type="text/css">
     .tg {
         border-collapse: collapse;
         border-spacing: 0;
@@ -73,8 +88,6 @@ All speakers and attendees will be required to abide by the Atlanta Azure Data <
         vertical-align: bottom
     }
 </style>
-
-<h2>Sponsorship Benefits</h2>
 <table class="tg" style="undefined;table-layout: fixed; width: 639px">
     <colgroup>
         <col style="width: 403px">
@@ -84,7 +97,7 @@ All speakers and attendees will be required to abide by the Atlanta Azure Data <
     </colgroup>
     <thead>
         <tr>
-            <th class="tg-o5n3">Sponsorships&nbsp;&nbsp;&nbsp;Benefits</th>
+            <th class="tg-o5n3">Sponsorship&nbsp;&nbsp;&nbsp;Benefits</th>
             <th class="tg-o5n3">Gold</th>
             <th class="tg-o5n3">Silver</th>
             <th class="tg-o5n3">Bronze</th>
@@ -161,32 +174,19 @@ All speakers and attendees will be required to abide by the Atlanta Azure Data <
     </tbody>
 </table>
 '
-registrationurl: _No response_
-join:
-  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
-  rooms:
-   - name: The Vortex
-     url: https://datasaturdays.com
-   - name: The Varsity
-     url: https://datasaturdays.com
-   - name: Fox Bros. BBQ
-     url: https://datasaturdays.com
-   - name: Mary Mac''s Tea Room
-     url: https://datasaturdays.com
-  
 sponsors: 
-  - link: _No response_
+  - link: 
     image: 
     height: 
  
 
-scheduleurl: _No response_
+scheduleurl: 
 
 speakerlisturl: https://sessionize.com/data-saturday-atlanta/
 
 callforspeakers: true
 
-volunteerrequesturl: _No response_
+volunteerrequesturl: 
 organizers:
   - name: Atlanta Azure Data
     twitter: https://twitter.com/AtlAzureData
