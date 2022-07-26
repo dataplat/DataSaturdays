@@ -9,7 +9,7 @@ assignees: ''
 
 #  Update a New Data Saturday
 
-Please provide the information that you require to be updated
-# Organisers
+## Please tell us which Data Saturday
 
-Follow the instructions in the wiki to transpose this information into the data files.
+## Please provide the information that you require to be updated
+
