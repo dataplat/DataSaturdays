@@ -1,43 +1,101 @@
-### eventname
+#  Update a New Data Saturday
 
-Atlanta
+## Please tell us which Data Saturday
+Data Saturday Atlanta, Sponsorship section
+## Please provide the information that you require to be updated
 
-### date
-
-2022-11-01 08:00:00 -00:00
-
-### description
-
-Data Saturday Atlanta is a one-day event for professionals using Microsoft's data platform. This community event will present on topics in data management, cloud and hybrid architecture.<br>
-
-Attendees can register beginning August 1, 2022. Speakers can submit sessions using the Sessionize link below.
-
-
-
-### registrationurl
-
-_No response_
-
-### rooms
-
-The Vortex;https://datasaturdays.com,The Varsity;https://datasaturdays.com,Fox Bros. BBQ;https://datasaturdays.com,Mary Mac's Tea Room;https://datasaturdays.com
-
-### scheduleurl
-
-_No response_
-
-### sponsors
-
-_No response_
-
-### speakerlisturl
-
-https://sessionize.com/data-saturday-atlanta/
-
-### volunteerrequesturl
-
-_No response_
-
-### organizers
-
-_No response_
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-o5n3{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-kcps{background-color:#FFF;text-align:left;vertical-align:bottom}
+.tg .tg-0dbi{background-color:#D0CECE;text-align:left;vertical-align:bottom}
+.tg .tg-widl{background-color:#FFF;text-align:right;vertical-align:bottom}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 639px">
+<colgroup>
+<col style="width: 403px">
+<col style="width: 73px">
+<col style="width: 79px">
+<col style="width: 84px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-o5n3">Sponsorships&nbsp;&nbsp;&nbsp;Benefits</th>
+    <th class="tg-o5n3">Gold</th>
+    <th class="tg-o5n3">Silver</th>
+    <th class="tg-o5n3">Bronze</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kcps">Before&nbsp;&nbsp;&nbsp;or after event email to all registrants to highlight lunch session, stop by&nbsp;&nbsp;&nbsp;the table or general marketing message</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps"> </td>
+    <td class="tg-kcps"> </td>
+  </tr>
+  <tr>
+    <td class="tg-kcps">Speaker Dinner&nbsp;&nbsp;&nbsp;or Lunch, sponsored by "Your Name"</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps"> </td>
+    <td class="tg-kcps"> </td>
+  </tr>
+  <tr>
+    <td class="tg-kcps">Table,&nbsp;&nbsp;&nbsp;2 chairs</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps"> </td>
+  </tr>
+  <tr>
+    <td class="tg-kcps">Lunch&nbsp;&nbsp;&nbsp;Session</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps"> </td>
+    <td class="tg-kcps"> </td>
+  </tr>
+  <tr>
+    <td class="tg-kcps">Sponsorship Table </td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps"> </td>
+  </tr>
+  <tr>
+    <td class="tg-kcps">2 guaranteed admission tickets</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+  </tr>
+  <tr>
+    <td class="tg-kcps">Logo&nbsp;&nbsp;&nbsp;on Website</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+  </tr>
+  <tr>
+    <td class="tg-kcps">Logo&nbsp;&nbsp;&nbsp;on Event Emails</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps"> </td>
+  </tr>
+  <tr>
+    <td class="tg-kcps">Raffle&nbsp;&nbsp;&nbsp;Item</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+  </tr>
+  <tr>
+    <td class="tg-kcps">Attendee&nbsp;&nbsp;&nbsp;List</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+    <td class="tg-kcps">*</td>
+  </tr>
+  <tr>
+    <td class="tg-0dbi">Cost Per</td>
+    <td class="tg-widl">2000</td>
+    <td class="tg-widl">1250</td>
+    <td class="tg-widl">600</td>
+  </tr>
+</tbody>
+</table>
