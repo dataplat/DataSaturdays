@@ -1,43 +1,24 @@
-### eventname
+#  Update a New Data Saturday
 
-Atlanta
+## Please tell us which Data Saturday
+Data Saturday Atlanta
+## Please provide the information that you require to be updated
 
-### date
+Data Saturday Atlanta is a one-day event for professionals using Microsoft's data platform. This community event will present on topics in data management, cloud and hybrid architecture and DevOps.  We'll bring you content at all levels of learning, from beginner to advanced.  We'll have deep dives and overviews. 
 
-2022-11-01 08:00:00 -00:00
+Microsoft Offices - Atlantic Yards
+200 17th Street
+South Tower
+Atlanta, GA
 
-### description
+Registration for attendees opens August 1, 2022. Speakers can submit sessions using the Sessionize link below.
 
-Data Saturday Atlanta is a one-day event for professionals using Microsoft's data platform. This community event will present on topics in data management, cloud and hybrid architecture.<br>
+Disclaimers for attendees on the event main page apply to speakers as well.  
 
-Attendees can register beginning August 1, 2022. Speakers can submit sessions using the Sessionize link below.
+1) Guests entering Microsoft buildings in the U.S. must provide proof of vaccination OR self-attest in the tool via [HealthCheck](http://aka.ms/healthcheck) to have received a negative COVID-19 test within the previous three days. 
+
+2) The pandemic is fluid and things are constantly changing. As such, please be aware of our expectations or that of our venue. Attendees MAY be required to wear a mask. By registering for this event, you are agreeing to wear a mask if asked and understand your refusal will result in expulsion from the event.  You will need to self-attest that you are not exhibiting symptoms related to COVID-19 by completing a series of questions.  This process should take just a few minutes and is effective immediately. 
+
+3) All speakers and attendees will be required to abide by the Atlanta Azure Data [code of conduct](https://www.meetup.com/atlanta-azure-data-user-group/pages/32472984/Code_of_Conduct/).  Anyone violating the terms laid out, will be removed from the event.
 
 
-
-### registrationurl
-
-_No response_
-
-### rooms
-
-The Vortex;https://datasaturdays.com,The Varsity;https://datasaturdays.com,Fox Bros. BBQ;https://datasaturdays.com,Mary Mac's Tea Room;https://datasaturdays.com
-
-### scheduleurl
-
-_No response_
-
-### sponsors
-
-_No response_
-
-### speakerlisturl
-
-https://sessionize.com/data-saturday-atlanta/
-
-### volunteerrequesturl
-
-_No response_
-
-### organizers
-
-_No response_
