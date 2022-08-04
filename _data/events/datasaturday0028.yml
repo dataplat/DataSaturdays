@@ -73,7 +73,16 @@ sponsorbenefits: '
     .tg .tg-kcps {
         background-color: #FFF;
         text-align: left;
-        vertical-align: bottom
+        vertical-align: middle;
+    }
+
+    .tg .tg-pro {
+        background-color: #FFF;
+        text-align: center;
+        vertical-align: bottom;
+        font-weight: bold;
+        font-size: 125%;
+        color: #0000BB;
     }
 
     .tg .tg-0dbi {
@@ -105,71 +114,65 @@ sponsorbenefits: '
     </thead>
     <tbody>
         <tr>
-            <td class="tg-kcps">Before&nbsp;&nbsp;&nbsp;or after event email to all registrants to highlight lunch
+            <td class="tg-kcps">Before-&nbsp;&nbsp;&nbsp;or after-event email to all registrants to highlight lunch
                 session, stop by&nbsp;&nbsp;&nbsp;the table or general marketing message</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps"> </td>
-            <td class="tg-kcps"> </td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
+            <td class="tg-pro"> </td>
         </tr>
         <tr>
             <td class="tg-kcps">Speaker Dinner&nbsp;&nbsp;&nbsp;or Lunch, sponsored by "Your Name"</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps"> </td>
-            <td class="tg-kcps"> </td>
-        </tr>
-        <tr>
-            <td class="tg-kcps">Table,&nbsp;&nbsp;&nbsp;2 chairs</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps"> </td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
+            <td class="tg-pro"> </td>
         </tr>
         <tr>
             <td class="tg-kcps">Lunch&nbsp;&nbsp;&nbsp;Session</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps"> </td>
-            <td class="tg-kcps"> </td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
+            <td class="tg-pro"> </td>
         </tr>
         <tr>
-            <td class="tg-kcps">Sponsorship Table </td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps"> </td>
-        </tr>
-        <tr>
-            <td class="tg-kcps">2 guaranteed admission tickets</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
-        </tr>
-        <tr>
-            <td class="tg-kcps">Logo&nbsp;&nbsp;&nbsp;on Website</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
+            <td class="tg-kcps">Sponsorship Table w/ 2 chairs</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
         </tr>
         <tr>
             <td class="tg-kcps">Logo&nbsp;&nbsp;&nbsp;on Event Emails</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps"> </td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">Logo&nbsp;&nbsp;&nbsp;on Website</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">2 guaranteed admission tickets</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
         </tr>
         <tr>
             <td class="tg-kcps">Raffle&nbsp;&nbsp;&nbsp;Item</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
         </tr>
         <tr>
             <td class="tg-kcps">Attendee&nbsp;&nbsp;&nbsp;List</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
-            <td class="tg-kcps">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
         </tr>
         <tr>
             <td class="tg-0dbi">Cost Per</td>
-            <td class="tg-widl">2000</td>
-            <td class="tg-widl">1250</td>
-            <td class="tg-widl">600</td>
+            <td class="tg-widl">$2000</td>
+            <td class="tg-widl">$1250</td>
+            <td class="tg-widl">$600</td>
         </tr>
     </tbody>
 </table>
