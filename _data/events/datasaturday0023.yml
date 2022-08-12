@@ -31,7 +31,7 @@ description: "<p style=\"text-align:center;font-size:2.5rem;\">
   Our full schedule with pre-cons and all is LIVE. Click on the Schedule and Precon menu-items to check them out. Remember, we will as always have a Data Saturday Oslo after-party when we have concluded the event. This is a great place to network with other people who shares your passion for data.
   </p>
   <br>
-  <p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>March 8th 2022</u></p>
+  <p style=\"text-align:left;font-size:1.2rem; margin-bottom: 0px;\"><u>March 8th 2022</u></p>
   <p style=\"text-align:left;\">
   During these days after the unprovoked aggressive attack by Russia on Ukraine, it is hard to find the right words for our CfS announcement. 
   We have friends living in Ukraine and friends from Ukraine living here in Norway with family stuck in a terrible situation in their home country. 
@@ -153,6 +153,10 @@ precondescription: "
     Come join me to level up your Power BI communication skills!
     </p>
     <br>
+    <p style=\"text-align: center; font-size: 1.2rem;font-weight: bold;color: maroon;\">
+    A total of 12 seats available for this pre-con, so make sure to reserve your seat early
+    </p>
+    <br>    
     <p style=\"text-align:center;\">
       <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo22-datamatters.eventbrite.com\" target=\"_blank\">Data Matters pre-con registration</a>
     </p>
@@ -160,14 +164,15 @@ precondescription: "
 
 scheduleurl: https://sessionize.com/api/v2/hahdqimt/view/GridSmart
 
+scheduleapp: https://datasatoslo2022.sessionize.com/
+
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.9755343744257!2d10.757657116683484!3d59.91595338186799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e60c78540dd%3A0xa19b8032c939043a!2sCampus%20Fjerdingen%20%7C%20H%C3%B8yskolen%20Kristiania!5e0!3m2!1sen!2sno!4v1660291032383!5m2!1sen!2sno
+
 sponsors:
   - sponsorlevel: PLATINUM
   - link: https://www.dbwatch.com/
     image: ../assets/img/events/0023/dbWatch_official_logo.png
     height: 130
-  # - link: https://www.microsoft.com/sql-server/
-  #   image: ../assets/img/events/0014/MS-Azure_logo.png
-  #   height: 400
 
   - sponsorlevel: GOLD
   - link: https://www.quest.com/
@@ -178,6 +183,9 @@ sponsors:
   - link: https://www.red-gate.com/
     image: ../assets/img/events/0023/redgate-logo.svg
     height: 80
+  - link: https://www.microsoft.com/sql-server/
+    image: ../assets/img/events/0023/MS-Azure_logo.png
+    height: 280
 
 speakerlisturl: https://sessionize.com/api/v2/hahdqimt/view/SpeakerWall
 callforspeakers:  false
@@ -188,7 +196,15 @@ organizers:
     twitter: https://twitter.com/DataSatOslo
     email: mailto:datasaturday.oslo@gmail.com
 
-sponsorpacklink: "../assets/img/events/0023/DataSaturdayOslo2022_SponsorPlan.pdf"
+#sponsorpacklink: "../assets/img/events/0023/DataSaturdayOslo2022_SponsorPlan.pdf"
+sponsor-menuitem: true
+sponsorbenefits: '
+  <div class="row justify-content-center">
+      <p style="text-align:center;">
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../assets/img/events/0023/DataSaturdayOslo2022_SponsorPlan.pdf" target="_blank">Sponsorplan</a>
+    </p>
+  </div>    
+  '
 
 codeofconduct: "<p style=\"text-align:left;\">
       All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 

@@ -29,10 +29,15 @@
                             <a class="nav-link js-scroll-trigger" href="{{ navitem.link }}">{{ navitem.name }}</a>
                         </li>
                     {%- endif %}
-                {%- endfor %}    
-                {%- if pagedata.sponsorpacklink -%}
+                {%- endfor %}
+                {%- if pagedata.venuemap -%}
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="{{ pagedata.sponsorpacklink }}" target="_blank">Sponsors</a>
+                    <a class="nav-link js-scroll-trigger" href="#venue">Venue</a>
+                </li>            
+                {%- endif %}      
+                {% if pagedata.sponsor-menuitem and pagedata.sponsor-menuitem == true %}
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#sponsors">Sponsors</a>
                 </li>            
                 {%- endif %}  
                 {%- if pagedata.codeofconduct -%}

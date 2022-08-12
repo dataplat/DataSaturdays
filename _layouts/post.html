@@ -49,47 +49,64 @@ layout: default
 {% endif %}
 
 {% if pagedata.precondescription %}
-<!-- Precon -->
-<section class="page-section" id="precon">
-  <div class="container">
-    <div class="text-left">
-      <h2 class="section-heading text-uppercase text-center">Pre-conference workshop</h2>
-      <div class="alert alert-light" role="alert">
-        <p>
-          {{pagedata.precondescription}}
-        </p>
-      </div>
+  <!-- Precon -->
+  <section class="page-section" id="precon">
+    <div class="container">
+      <div class="text-left">
+        <h2 class="section-heading text-uppercase text-center">Pre-conference workshop</h2>
+        <div class="alert alert-light" role="alert">
+          <p>
+            {{pagedata.precondescription}}
+          </p>
+        </div>
 
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 {% endif %}
 
-
-
-
+{% if pagedata.venuemap %}
+  <section class="page-section" id="venue">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase text-center">Venue</h2>
+            <div class="alert alert-light" role="alert">
+                <iframe src="{{pagedata.venuemap}}" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
+  </section>
+{% endif %}
 
 <!-- Schedule -->
 <section class="page-section" id="schedule">
   <div class="container">
-    <div class="text-center">
-      <h2 class="section-heading text-uppercase">Schedule</h2>
-      <div class="alert alert-light" role="alert">
-        {% if pagedata.scheduleurl%}
-        <p>
-          <iframe frameborder="0" STYLE="width: 100%;height:1900px"
-            SRCDOC="<BODY><script type='text/javascript' src='{{pagedata.scheduleurl}}'></script></BODY>">
-          </iframe>
-        </p>
-        {% else %}
-        <p>
-          The schedule has not been announced yet. If you want to <a href="#speakers" class="js-scroll-trigger">submit
-            your own session</a> you can still do so.
-        </p>
-        {% endif %}
-      </div>
+      <div class="text-center">
+          <h2 class="section-heading text-uppercase">Schedule</h2>
+          <div class="alert alert-light" role="alert">
+            {% if pagedata.scheduleurl%}
+                {% if pagedata.scheduleapp%}
+                  <p style="text-align: left;">
+                    We provide an always up to date schedule app you can download to your device. For successful installation on your device please use the recommended web browser.  
+                    For Windows, MacOS and Android use Chromium-based browsers (Chrome, Edge, Brave, Opera, Vivaldi etc.). For IOS please use Safari (click Share-icon and "Add to home screen").
+                    <br>
+                    <br>
+                    Tested and verified: IOS (Safari), Android (Chrome, Opera, DuckDuckGo), MacOS (Brave, Edge), Windows (Chrome)
+                  </p>
+                  <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href="{{pagedata.scheduleapp}}" target="_blank">Download App</a> 
+                {% endif %}
+                <p>
+                    <iframe frameborder="0" STYLE="width: 100%;height:1900px" SRCDOC="<BODY><script type='text/javascript' src='{{pagedata.scheduleurl}}'></script></BODY>">
+                    </iframe>
+                </p>
+            {% else %}
+            <p>
+              The schedule has not been announced yet. If you want to <a href="#speakers" class="js-scroll-trigger">submit your own session</a> you can still do so.
+            </p>
+            {% endif %}
+          </div>
 
-    </div>
+      </div>
   </div>
 </section>
 
@@ -103,9 +120,7 @@ layout: default
         <h2 class="section-heading text-uppercase">Sponsorship Benefits</h2>
         {{pagedata.sponsorbenefits}}
       {% endif %}
-    
-      
-    </div>
+      </div>
       <div class="container">
         <div class="row justify-content-center"></div>
         <h2 class="section-heading text-uppercase">Sponsors</h2>
@@ -131,11 +146,9 @@ layout: default
       </div>
     </div>
   </div>
-  </div>
 </section>
 
 <!-- Speakers -->
-
 <section class="page-section" id="speakers">
   <div class="container">
     <div class="text-center">
