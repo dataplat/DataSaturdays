@@ -9,11 +9,11 @@ Microsoft Offices - Atlantic Yards<br>
 South Tower<br>
 Atlanta, GA<br>
 <br>
-Registration for attendees opens August 1, 2022. Speakers can submit sessions using the <a href=''#speakers''>Sessionize link below</a>.<br>
+Registration for attendees is currently open. Speaker list and schedule are below.<br>
 <br>
 Disclaimers for attendees on the event main page apply to speakers as well.<br>
 <br>
-Guests entering Microsoft buildings in the U.S. must provide proof of vaccination OR self-attest in the tool via <a href=''http://aka.ms/healthcheck''>HealthCheck</a> to have received a negative COVID-19 test within the previous three days.<br>
+Guests entering Microsoft buildings in the U.S. must provide proof of vaccination OR self-attest in the tool via <a href=''http://aka.ms/healthcheck''>HealthCheck</a> to have received a (at-home, rapid) negative COVID-19 test within the previous three days.<br>
 <br>
 The pandemic is fluid and things are constantly changing. As such, please be aware of our expectations or that of our venue. Attendees MAY be required to wear a mask. By registering for this event, you are agreeing to wear a mask if asked and understand your refusal will result in expulsion from the event. You will need to self-attest that you are not exhibiting symptoms related to COVID-19 by completing a series of questions. This process should take just a few minutes and is effective immediately.<br>
 <br>
@@ -183,11 +183,11 @@ sponsors:
     height: 
  
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/iymbw61p/view/GridSmart
 
-speakerlisturl: https://sessionize.com/data-saturday-atlanta/
+speakerlisturl: https://sessionize.com/api/v2/iymbw61p/view/Speakers
 
-callforspeakers: true
+callforspeakers: false
 
 volunteerrequesturl: 
 organizers:
