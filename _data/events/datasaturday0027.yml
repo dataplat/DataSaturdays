@@ -41,7 +41,7 @@ speakerlisturl: https://sessionize.com/data-saturday-parma-2022/
 
 callforspeakers: true
 
-volunteerrequesturl: _No response_
+volunteerrequesturl: 'ready for changes'
 organizers:
   - name: Rob
     twitter: https://twitter.com/sqldbawithbeard
