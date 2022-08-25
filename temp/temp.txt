@@ -1,43 +1,16 @@
-### eventname
+> Hey man! I see that you changed the way the site generator works... I'm totally ok with that, but I guess it needs stronger testing compared to editing the page/yml/whatever of the single event. @SQLDBAWithABeard thoughts?
 
-Atlanta
+That is correct. I have made quite a few changes in order to get the type event page and info we wanted to present.
 
-### date
+These are the changes I have made over the course of a few months:
+* New attribute to show/hide the top-logo: hide-toplogo: true/false
+* New attribute to show/hide the join room section: hide-join-room-section: true/false
+* New attribute that opens the event registration in a new tab: open-registration-new-tab: true/false
+* Added a new section for pre-con's which adds a new menu-item: precondescription
+* Added a new attribute that enables a new button for people to download the Sessionize schedule app for the event:  scheduleapp
+* Added a new attribute that shows the venue physical location using Google Maps: enuemap
+* Added a new attribute that shows the events Code of Conduct which also enables a new menu item: codeofconduct
 
-2022-11-01 08:00:00 -00:00
+I think that was it. As @SQLDBAWithABeard mentions the new attributes for margins for sponsor logos have a default setting and that also applies for all the other functionality I have added
 
-### description
-
-Data Saturday Atlanta is a one-day event for professionals using Microsoft's data platform. This community event will present on topics in data management, cloud and hybrid architecture.<br>
-
-Attendees can register beginning August 1, 2022. Speakers can submit sessions using the Sessionize link below.
-
-
-
-### registrationurl
-
-_No response_
-
-### rooms
-
-The Vortex;https://datasaturdays.com,The Varsity;https://datasaturdays.com,Fox Bros. BBQ;https://datasaturdays.com,Mary Mac's Tea Room;https://datasaturdays.com
-
-### scheduleurl
-
-_No response_
-
-### sponsors
-
-_No response_
-
-### speakerlisturl
-
-https://sessionize.com/data-saturday-atlanta/
-
-### volunteerrequesturl
-
-_No response_
-
-### organizers
-
-_No response_
+_Originally posted by @RuneORakeie in https://github.com/dataplat/DataSaturdays/issues/333#issuecomment-1227065816_
