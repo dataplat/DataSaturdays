@@ -9,9 +9,10 @@ description:  '<p>Data Saturday Croatia 2023 is a free one-day event for profess
 <p><b>Organizers</b></p>
 <p>The event is organized by <a href="https://www.linkedin.com/in/dmatesic/" target="_blank">Damir Matešić, MVP</a> & <a href="https://www.linkedin.com/in/dsavovic/" target="_blank">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>'
 registrationurl: 
-join:
-  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
-  rooms:
+
+#join:
+#  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+#  rooms:
 
 scheduleurl: 
 
