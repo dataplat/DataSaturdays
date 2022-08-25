@@ -132,7 +132,11 @@ layout: default
         {% endif %}
         <div class="hero-box mr-4 mt-4 ml-4 align-self-center">
           <a href="{{sponsor.link}}">
-            <img src="{{sponsor.image}}" height="{{sponsor.height}}" />
+            {% if sponsor.margin-top and sponsor.margin-bottom %}
+              <img src="{{sponsor.image}}" height="{{sponsor.height}}" style="margin-top: {{sponsor.margin-top}}px ; margin-bottom: {{sponsor.margin-bottom}}px" />
+            {% else %}
+              <img src="{{sponsor.image}}" height="{{sponsor.height}}" />
+            {% endif %}
           </a>
         </div>
         {%- endfor %}

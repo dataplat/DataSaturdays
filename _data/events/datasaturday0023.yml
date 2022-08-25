@@ -183,9 +183,19 @@ sponsors:
   - link: https://www.red-gate.com/
     image: ../assets/img/events/0023/redgate-logo.svg
     height: 80
+  - link: https://www.bi-builders.com/xpert-bi/
+    image: ../assets/img/events/0023/Logo_XpertBI.jpg
+    height: 75
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://www.cloudberries.no/
+    image: ../assets/img/events/0023/cloudberries_logo.png
+    height: 300
   - link: https://www.microsoft.com/sql-server/
     image: ../assets/img/events/0023/MS-Azure_logo.png
     height: 280
+    margin-top: -50
+    margin-bottom: 0
 
 speakerlisturl: https://sessionize.com/api/v2/hahdqimt/view/SpeakerWall
 callforspeakers:  false
