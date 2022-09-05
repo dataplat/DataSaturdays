@@ -17,8 +17,7 @@ layout: default
       {{pagedata.description}}
     </div>
     {% if pagedata.open-registration-new-tab and pagedata.open-registration-new-tab == true %}
-    <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}"
-      target="_blank">Register now</a>
+    <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}" target="_blank">Register now</a>
     {% else %}
     <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}">Register
       now</a>
@@ -71,8 +70,27 @@ layout: default
         <div class="text-center">
             <h2 class="section-heading text-uppercase text-center">Venue</h2>
             <div class="alert alert-light" role="alert">
-                <iframe src="{{pagedata.venuemap}}" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe src="{{pagedata.venuemap}}" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
+            {% if pagedata.venuesponsor %}
+              <p style="text-align:center;font-size:2.5rem;color: dimgrey;margin-top: 35px;"><b>VENUE SPONSOR</b>
+              </p>
+              {%- for venue in pagedata.venuesponsor -%}
+                <div class="hero-box mr-4 mt-4 ml-4 align-self-center">
+                  {% if venue.open-in-new-tab == true %}  
+                    <a href="{{venue.link}}" target="_blank">
+                  {% else %}  
+                    <a href="{{venue.link}}">
+                  {% endif %}
+                  {% if venue.margin-top and venue.margin-bottom %}
+                    <img src="{{venue.image}}" height="{{venue.height}}" style="margin-top: {{venue.margin-top}}px ; margin-bottom: {{venue.margin-bottom}}px" />
+                  {% else %}
+                    <img src="{{venue.image}}" height="{{venue.height}}" />
+                  {% endif %}
+                  </a>
+                </div>
+              {%- endfor %}
+            {% endif %}
         </div>
     </div>
   </section>
