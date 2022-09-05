@@ -30,7 +30,9 @@ join:
      url: https://datasaturdays.com
    - name: Fox Bros. BBQ
      url: https://datasaturdays.com
-   - name: Mary Mac''s Tea Room
+   - name: Mary Mac's Tea Room
+     url: https://datasaturdays.com
+   - name: Waffle House
      url: https://datasaturdays.com
 
 sponsorbenefits: '
@@ -178,10 +180,21 @@ sponsorbenefits: '
 </table>
 '
 sponsors: 
-  - link: 
-    image: 
-    height: 
- 
+  - link: https://www.sqlgrease.com/
+    image: ../assets/img/events/0028/large-sqlgrease.png
+    height: 80
+    - link: https://www.microsoft.com/
+    image: ../assets/img/events/0028/microsoft.png
+    height: 80       
+    - link: https://www.purestorage.com/
+    image: ../assets/img/events/0028/pure_storage.png
+    height: 80       
+    - link: https://us.sios.com/
+    image: ../assets/img/events/0028/sios.png
+    height: 80
+   - link: https://improving.com/
+    image: ../assets/img/events/0028/improving-logo-white.png
+    height: 80
 
 scheduleurl: https://sessionize.com/api/v2/iymbw61p/view/GridSmart
 
