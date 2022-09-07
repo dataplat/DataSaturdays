@@ -1,18 +1,20 @@
 ### eventname
 
-Atlanta
+Edinburgh
 
 ### date
 
-2022-11-01 08:00:00 -00:00
+2023-06-03 08:00:00 -17:00
 
 ### description
 
-Data Saturday Atlanta is a one-day event for professionals using Microsoft's data platform. This community event will present on topics in data management, cloud and hybrid architecture.<br>
-
-Attendees can register beginning August 1, 2022. Speakers can submit sessions using the Sessionize link below.
-
-
+With the success of the Data Platform  (SQLSaturday) event on 01st FEB 2020 and to continue the community spirit _the Edinburgh Data Platform user group_ would like to convene another major event on 03rd June 2023. 
+<br>
+**_Data Saturday Edinburgh_** is a free-to-attend '_**in-person'**_ event (one day) for IT professionals who are keen on data platform technologies. This is a community-led event, that offers useful educational & career-supported content across the data platform, cloud computing, analytics, architecture and much more.
+<br>
+Thanks
+<br>
+Satya & Tom
 
 ### registrationurl
 
@@ -20,7 +22,7 @@ _No response_
 
 ### rooms
 
-The Vortex;https://datasaturdays.com,The Varsity;https://datasaturdays.com,Fox Bros. BBQ;https://datasaturdays.com,Mary Mac's Tea Room;https://datasaturdays.com
+_No response_
 
 ### scheduleurl
 
@@ -28,16 +30,18 @@ _No response_
 
 ### sponsors
 
-_No response_
+sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
 
 ### speakerlisturl
 
-https://sessionize.com/data-saturday-atlanta/
+https://sessionize.com/datasaturday-edinburgh/
 
 ### volunteerrequesturl
 
-_No response_
+consulting@dbia.uk
 
 ### organizers
 
-_No response_
+Edinburgh Data Platform user group (https://twitter.com/sqlscot) is managed by Satya Jayanty (https://twitter.com/data_geek_ & Thomas Sykes (https://twitter.com/sqltomato).
+
+For further information about the DataSaturday Edinburgh event get in touch with an email to consulting at dbia.uk.
