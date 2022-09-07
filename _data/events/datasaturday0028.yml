@@ -183,16 +183,16 @@ sponsors:
   - link: https://www.sqlgrease.com/
     image: ../assets/img/events/0028/large-sqlgrease.png
     height: 80
-    - link: https://www.microsoft.com/
+  - link: https://www.microsoft.com/
     image: ../assets/img/events/0028/microsoft.png
     height: 80       
-    - link: https://www.purestorage.com/
+  - link: https://www.purestorage.com/
     image: ../assets/img/events/0028/pure_storage.png
     height: 80       
-    - link: https://us.sios.com/
+  - link: https://us.sios.com/
     image: ../assets/img/events/0028/sios.png
     height: 80
-   - link: https://improving.com/
+  - link: https://improving.com/
     image: ../assets/img/events/0028/improving-logo-complete.png
     height: 80
 
