@@ -182,15 +182,15 @@ callforspeakers:  false
 #    height: image height if required
 
 
-codeofconduct: "<p><b>Disclaimers for attendees, speakers and sponsors</b></p>
-<p>Guests entering Microsoft buildings in the U.S. must provide proof of vaccination OR self-attest in the tool via <a href="http://aka.ms/healthcheck" target="_blank" rel="noopener">HealthCheck</a> to have received a negative COVID-19 test within the previous three days.</p>
-<p>The pandemic is fluid and things are constantly changing. As such, please be aware of our expectations or that of our venue. Attendees MAY be required to wear a mask. By registering for this event, you are agreeing to wear a mask if asked and understand your refusal will result in expulsion from the event. You will need to self-attest that you are not exhibiting symptoms related to COVID-19 by completing a series of questions. This process should take just a few minutes and is effective immediately.</p>
-<p>All speakers, attendees and sponsors will be required to abide by the North Texas SQL Server User Group <a href = "https://www.meetup.com/north-texas-sql-server-user-group/pages/32667381/Code_of_Conduct/" target="_blank" rel="noopener">code of conduct</a> . Anyone violating the terms laid out, will be removed from the event.</p>
-<br>
-</p>"
-
 #volunteerrequesturl: If you want a link for people to volunteer place it here
 organizers:
   - name: Amy Herold
     twitter: https://twitter.com/ntssug
     email: datasaturday@ntssug.com
+
+codeofconduct: "<p><b>Disclaimers for attendees, speakers and sponsors</b></p>
+<p>Guests entering Microsoft buildings in the U.S. must provide proof of vaccination OR self-attest in the tool via <a href=\"http://aka.ms/healthcheck\" target=\"_blank\" rel=\"noopener\">HealthCheck</a> to have received a negative COVID-19 test within the previous three days.</p>
+<p>The pandemic is fluid and things are constantly changing. As such, please be aware of our expectations or that of our venue. Attendees MAY be required to wear a mask. By registering for this event, you are agreeing to wear a mask if asked and understand your refusal will result in expulsion from the event. You will need to self-attest that you are not exhibiting symptoms related to COVID-19 by completing a series of questions. This process should take just a few minutes and is effective immediately.</p>
+<p>All speakers, attendees and sponsors will be required to abide by the North Texas SQL Server User Group <a href = \"https://www.meetup.com/north-texas-sql-server-user-group/pages/32667381/Code_of_Conduct/\" target=\"_blank\" rel=\"noopener\">code of conduct</a> . Anyone violating the terms laid out, will be removed from the event.</p>
+<br>
+</p>"
