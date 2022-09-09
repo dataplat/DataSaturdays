@@ -1,29 +1,24 @@
 name: "Data Saturday #26 - Dallas"
 date: 2022-09-24 08:00:00 -0000
 
+hide-toplogo: true
+hide-join-room-section: true
+open-registration-new-tab: true
+
 description: '<p>Data Saturday Dallas is a one-day <b>in person</b> event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p>
-</br>
+<p style=\"text-align:center;\">
+<a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com/e/data-saturday-dallas-tickets-403508032387" target=\"_blank\">Register now</a>
+</p>
+<p style=\"text-align:center;\">
+<img src="http://amyherold.com/ntssug/ntssug_logo.jpg" height=\"259\" alt=\"North Texas SQL Server User Group">
+</p>
 <p><b>Event venue</b></p>
 <p>Microsoft Las Colinas - LC1<br>7000 North Highway 161<br>Irving, TX 75039</p>
-</br>
-<p><b>Date</b></p>
-<p>September 24, 2022</p>
-</br>
-<p><b>Registration</b></p>
-<p>Event registration is now open! You can register <a href="https://www.eventbrite.com/e/data-saturday-dallas-tickets-403508032387" target="_blank" rel="noopener"><b>HERE</b></a>.</p>
-</br>
-<p><b>Schedule</b></p>
-<p>Coming Soon</p>
-<br>
 <p><b>Sponsoring</b></p>
 <p>More information on sponsoring Data Saturday Dallas can be found <a href="https://amyherold.com/ntssug/Data_Saturday_Dallas_2022_Sponsorship.pdf" target="_blank" rel="noopener"><b>HERE</b></a>. If you would like to become a sponsor you can sign up <a href="https://forms.office.com/r/v7PpdtDgwk" target="_blank" rel="noopener"><b>HERE</b></a>.</p>
-<br>
-<p><b>Disclaimers for attendees, speakers and sponsors</b></p>
-<p>Guests entering Microsoft buildings in the U.S. must provide proof of vaccination OR self-attest in the tool via <a href="http://aka.ms/healthcheck" target="_blank" rel="noopener">HealthCheck</a> to have received a negative COVID-19 test within the previous three days.</p>
-<p>The pandemic is fluid and things are constantly changing. As such, please be aware of our expectations or that of our venue. Attendees MAY be required to wear a mask. By registering for this event, you are agreeing to wear a mask if asked and understand your refusal will result in expulsion from the event. You will need to self-attest that you are not exhibiting symptoms related to COVID-19 by completing a series of questions. This process should take just a few minutes and is effective immediately.</p>
-<p>All speakers, attendees and sponsors will be required to abide by the North Texas SQL Server User Group <a href = "https://www.meetup.com/north-texas-sql-server-user-group/pages/32667381/Code_of_Conduct/" target="_blank" rel="noopener">code of conduct</a> . Anyone violating the terms laid out, will be removed from the event.</p>
-<br>
 '
+
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3349.9400721048614!2d-96.96554758445285!3d32.899752685023564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c2969496a614f%3A0x63afd26db08e8ccd!2sMicrosoft%20Tech%20Center!5e0!3m2!1sen!2sus!4v1662611645465!5m2!1sen!2sus
 
 sponsorbenefits: '
   <style type="text/css">
@@ -178,13 +173,21 @@ registrationurl: https://www.eventbrite.com/e/data-saturday-dallas-tickets-40350
 
 scheduleurl: https://sessionize.com/api/v2/1c3xshy3/view/GridSmart
 
+speakerlisturl: https://sessionize.com/api/v2/1c3xshy3/view/SpeakerWall
+callforspeakers:  false
+
 #sponsors:
 #  - link: 
 #    image: your sponsor image
 #    height: image height if required
 
-speakerlisturl: https://sessionize.com/ntssug-data-saturday-dallas-2022
-callforspeakers:  false
+
+codeofconduct: "<p><b>Disclaimers for attendees, speakers and sponsors</b></p>
+<p>Guests entering Microsoft buildings in the U.S. must provide proof of vaccination OR self-attest in the tool via <a href="http://aka.ms/healthcheck" target="_blank" rel="noopener">HealthCheck</a> to have received a negative COVID-19 test within the previous three days.</p>
+<p>The pandemic is fluid and things are constantly changing. As such, please be aware of our expectations or that of our venue. Attendees MAY be required to wear a mask. By registering for this event, you are agreeing to wear a mask if asked and understand your refusal will result in expulsion from the event. You will need to self-attest that you are not exhibiting symptoms related to COVID-19 by completing a series of questions. This process should take just a few minutes and is effective immediately.</p>
+<p>All speakers, attendees and sponsors will be required to abide by the North Texas SQL Server User Group <a href = "https://www.meetup.com/north-texas-sql-server-user-group/pages/32667381/Code_of_Conduct/" target="_blank" rel="noopener">code of conduct</a> . Anyone violating the terms laid out, will be removed from the event.</p>
+<br>
+</p>"
 
 #volunteerrequesturl: If you want a link for people to volunteer place it here
 organizers:
