@@ -14,7 +14,6 @@ We wanted to include other community leaders to assist with guiding the project 
 - [Monica Rathbun](https://twitter.com/sqlespresso)
 - [Randolph West](https://twitter.com/_randolph_west)
 - [Johan Ludvig Brattås](https://twitter.com/intoleranse)
-- [Andy Mallon](https://twitter.com/amtwo)
 - [Elizabeth Noble](https://twitter.com/sqlzelda)
 - [Warwick Rudd](https://twitter.com/Warwick_Rudd)
 - [Matt Gordon](https://twitter.com/sqlatspeed)
