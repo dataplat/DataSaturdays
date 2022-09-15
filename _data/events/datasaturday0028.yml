@@ -195,7 +195,10 @@ sponsors:
   - link: https://improving.com/
     image: ../assets/img/events/0028/improving_logo_complete.png
     height: 80
-
+  - link: https://ftc-llc.com/
+    image: ../assets/img/events/0028/ftc.png
+    height: 80
+    
 scheduleurl: https://sessionize.com/api/v2/iymbw61p/view/GridSmart
 
 speakerlisturl: https://sessionize.com/api/v2/iymbw61p/view/Speakers
