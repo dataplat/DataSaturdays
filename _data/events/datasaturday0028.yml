@@ -182,7 +182,7 @@ sponsorbenefits: '
 sponsors: 
   - link: https://www.sqlgrease.com/
     image: ../assets/img/events/0028/large-sqlgrease.png
-    height: 80
+    height: 100
   - link: https://www.microsoft.com/
     image: ../assets/img/events/0028/microsoft.png
     height: 80       
@@ -194,11 +194,13 @@ sponsors:
     height: 80
   - link: https://improving.com/
     image: ../assets/img/events/0028/improving_logo_complete.png
-    height: 80
+    height: 100
   - link: https://ftc-llc.com/
     image: ../assets/img/events/0028/ftc.png
     height: 80
-    
+  - link: https://key2consulting.com/
+    image: ../assets/img/events/0028/key2-logo.png
+    height: 80    
 scheduleurl: https://sessionize.com/api/v2/iymbw61p/view/GridSmart
 
 speakerlisturl: https://sessionize.com/api/v2/iymbw61p/view/Speakers
