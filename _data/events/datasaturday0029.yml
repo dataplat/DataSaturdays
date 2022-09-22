@@ -22,8 +22,8 @@ scheduleurl:
 venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.608236646044!2d15.971867215814784!3d45.79907581905612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f5ccd82531%3A0x9f01ada2a1532ad4!2sHotel%20International!5e0!3m2!1sen!2shr!4v1661522326685!5m2!1sen!2shr
 sponsors:
 
-speakerlisturl: 
-callforspeakers: false 
+speakerlisturl: https://sessionize.com/ds-croatia-2023/
+callforspeakers: true 
 volunteerrequesturl: https://events.3nf.hr/Contact.aspx
 organizers:
   - name: SQL Server User Group Croatia
