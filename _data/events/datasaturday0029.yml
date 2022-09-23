@@ -5,7 +5,10 @@ hide-toplogo: true
 hide-join-room-section: true
 open-registration-new-tab: true
 
-description:  '<p>Data Saturday Croatia 2023 is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+description:  '  <p style=\"text-align:center;\">
+  <img src=\"../assets/img/events/0029/EventLogo.png\" height=\"350\" alt=\"Data Saturday Croatia 2023 Logo\">
+  </p>
+<p>Data Saturday Croatia 2023 is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
 <p><b>Event venue</b></p>
 <p>The event will be in <b>person</b>, on Saturday, June 03, at the <a href="https://goo.gl/maps/4Wag21rGEw4vxcmJ9" target="_blank">Hotel International, Miramarska 24, 10000 Zagreb, Croatia</a>. </p>
 <p><b>Sponsors</b></p>
