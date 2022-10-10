@@ -64,4 +64,4 @@ If your behaviour or communication does not fit into this statement, we do not w
 * For profit  
 * Owned by anyone - This is by the community for the community and will succeed or fail in that manner.  
 * Holding any personal information  
-* Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products.  
+* Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products. 
