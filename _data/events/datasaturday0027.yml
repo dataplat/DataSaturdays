@@ -1,0 +1,52 @@
+name: "Data Saturday  #27 - So that I can visit Gianluca"
+date: 2022-12-22 08:00:00 -00:00
+
+description: '
+<h1>Birthday in Italy</h1>
+I want to visit Gianluca on my birthday so I have created this event so that I can. (ok maybe it is just to test some automation!)<br>
+<br>
+I just want to be able to spend some time with him and this is my birthday so I think I should be allowed.<br>
+<br>
+<img alt="A beautiful view" src="https://pbs.twimg.com/media/FXJblDJXkAAPBIa?format=jpg&name=900x900"
+width=120" height="120">
+<br>
+Anyway, here is the event<br>
+<br>
+With some more information<br>
+<br>
+Maybe it will work<br>
+ '
+registrationurl: https://sessionize.com/api/v2/APITAG/view/GridSmart
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url: 
+  
+sponsors: 
+  - link: https://quantumdatis.com
+    image: http://quantumdatis.com/wp-content/uploads/2020/06/quantumdatis_path.svg
+    height: 120
+  - link: sponsor2link
+    image: sponsor2name
+    height: sponsor2height
+  - link: sponsor3link
+    image: sponsor3name
+    height: sponsor3height
+ 
+
+scheduleurl: _No response_
+
+speakerlisturl: https://sessionize.com/data-saturday-parma-2022/
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Rob
+    twitter: https://twitter.com/sqldbawithbeard
+    email: https://robsewell.com
+  - name: Gianluca
+    twitter: https://twitter.com/spaghettidba
+    email: mailto:gian@there.co.it
+ 
