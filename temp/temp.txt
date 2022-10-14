@@ -1,0 +1,45 @@
+### eventname
+
+Edinburgh
+
+### date
+
+2023-06-03 08:00:00 -00:00
+
+### description
+
+With the success of the Data Platform  (SQLSaturday) event on 01st FEB 2020 and to continue the community spirit _the Edinburgh Data Platform user group_ would like to convene another major event on 03rd June 2023. 
+<br>
+**_Data Saturday Edinburgh_** is a free-to-attend '_**in-person'**_ event (one day) for IT professionals who are keen on data platform technologies. This is a community-led event, that offers useful educational & career-supported content across the data platform, cloud computing, analytics, architecture and much more.
+<br>
+Thanks
+<br>
+Satya & Tom
+
+### registrationurl
+
+_No response_
+
+### rooms
+
+roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
+
+### scheduleurl
+
+_No response_
+
+### sponsors
+
+sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
+
+### speakerlisturl
+
+https://sessionize.com/datasaturday-edinburgh/
+
+### volunteerrequesturl
+
+consulting@dbia.uk
+
+### organizers
+
+Edinburgh Data Platform user group;https://twitter.com/sqlscot);,Satya Jayanty; https://twitter.com/data_geek_;,Thomas Sykes; https://twitter.com/sqltomato;

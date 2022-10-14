@@ -1,0 +1,158 @@
+name: Add New Event
+description: "Use this issue to automatically create a pull request to add a new event to the website with all of the required information to create the web-page to promote your event. 
+"
+labels: ["New Event"]
+assignees: [SQLDbaWithABeard,SpaghettiDba]
+body:
+  - type: markdown
+    attributes:
+      value: |
+       **Please** carefully follow all of the instructions to create a pull request to add a new Data Saturday event to the web-site. All of the information should be provided as explained in the description.  
+       The PR should automatically tag Rob or Gianluca to review it but if you are still waiting after  24/36 hours, please feel free to poke one of us on Twitter.
+  - type: input
+    id: name
+    attributes:
+      label: eventname
+      description: "Please provide the name for the event  
+        
+      What is the name of the event?  
+      
+      This is normally the name of the city/country or region.  
+      
+      For example Slovenia, Cambridge, Dallas, Rheinland"
+      placeholder: Slovenia"
+      value: Replace me with the name of your event
+    validations:
+      required: true  
+  - type: input
+    id: date
+    attributes:
+      label: date
+      description: "Please provide the date of the event  
+       
+       The date of your event in YYYY-MM-DD HH:mm:ss TZ format please.  
+
+       For example 2022-06-30 08:00:00 -00:00   
+
+       https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_date_format.htm  
+       "
+      placeholder: "2022-06-30 08:00:00 -00:00"
+      value: "2022-06-30 08:00:00 -00:00"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: description
+      description: "Please provide the description of the event  
+
+       Place the description of the event here, you may use HTML. You **may NOT use scripts**.
+
+       You *MUST* use `<br>` for new lines - this is to save the need to parse markdown into YAML into HTML and also to stop double new lines. So that you are in control.  
+       
+       Include as much information as you think is required. Normally, this will include full details of the event, the name, the address, the type of sessions, maybe some history.   
+         
+       Should you require images then you will need to link to external images with HTML.  
+       "
+    validations:
+      required: true
+  - type: input
+    id: registrationurl
+    attributes:
+      label: registrationurl
+      description:  "Please provide the attendee registration URL  
+
+        This is your attendee registration URL.  
+
+        You can leave this blank at first and update it later if need be.  
+
+        This will be the URL provided by the service that you use for attendee registration such as Eventbrite.  
+       "
+  - type: textarea
+    id: rooms
+    attributes:
+      label: rooms
+      description: |
+        If you are a virtual event with multiple tracks, you can add the name and the entry URL to those rooms. Make sure that it follows the template below.  
+
+        If you do not wish to link to rooms, please delete the entry.
+
+        roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
+      placeholder: "roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3"
+      value: roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
+  - type: input
+    id: scheduleurl
+    attributes:
+      label: scheduleurl
+      description: This is your schedule API URL from Sessionize.   
+
+         You can leave this blank until you have it.
+      placeholder: https://sessionize.com/api/v2/APITAG/view/GridSmart
+  - type: textarea
+    id: sponsors 
+    attributes:
+      label: sponsors 
+      description: "Please provide sponsor information   
+
+        You can add as many sponsors as you wish or none at all (in which case, just make this blank).  
+
+        If there are no sponsors, your site will display a message suggesting that if anyone wishes to sponsor the event to contact you and a link to the organizers (see below)  
+
+        
+        *It is important to make sure* that it follows the template below otherwise Rob's automation will not work and your site will look rubbish.  
+
+        The link is the URL of the sponsor.  
+
+        The image is the URL to the sponsors image.  
+
+        The height is the height of the sponsor image in pixels.  
+
+        Each separated by a semi-colon ;  
+
+        Separate each sponsor information with a comma. It will look like this.   
+          
+        `sponsor1link;sponsor1name;sponsor1height,sponsor2link;sponsor2name;sponsor2height,sponsor3link;sponsor3name;sponsor3height`
+        "
+      placeholder: "sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height"
+      value: sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
+  - type: input
+    id: speakerlisturl
+    attributes:
+      label: speakerlisturl
+      description: "Please provide your Sessionize Call for Speakers Page URL   
+
+        The URL to your Sessionize Call for speakers page should be provided here.    
+
+        You can get this from your Sessionize account.  
+        "
+      placeholder: "https://sessionize.com/data-saturday-parma-2022/"
+      value: https://sessionize.com/data-saturday-parma-2022/
+  - type: input
+    id: volunteerrequesturl
+    attributes:
+      label: volunteerrequesturl
+      description: "Please provide a way for volunteers to contact you  
+      
+        If you want a link for people to volunteer place it here - maybe its a webform, maybe its an email address."
+  - type: textarea
+    id: organizers  
+    attributes:
+      label: organizers  
+      description: "Please provide the event organizers information  
+        
+        Add the details of the organizers and their contact details here. You can add as many as you wish. make sure to use the full twitter URL or other social media URL.  
+        
+        The name of the organizer.   
+
+        The twitter (or other social media) *link* of the organizer - the whole link not the username.  
+
+        The email address (or other contact method) of the organizer.
+
+        Each separated by a semi-colon ;  
+
+        Separate each organizer information with a comma. It will look like this.  
+
+        `organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email`
+        "
+      placeholder: "organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email"
+      value: organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email
