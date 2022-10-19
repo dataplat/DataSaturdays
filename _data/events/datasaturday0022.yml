@@ -1,9 +1,31 @@
 name: "Data Saturday #22 - Parma 2022"
 date: 2022-11-26 08:30:00 -0000
 
-description: "<p>Data Saturday #22 Parma is a free one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p><p><b>Event venue</b></p><p>The event will be held in Parma, at <b>the University's Campus</b>, Viale G.P. Usberti - Parco Area delle Scienze, 181/a, on Saturday, November 26.</p><p><b>Organizers</b></p><p>The event is organized by <a href='https://www.linkedin.com/in/suxstellino'>Alessandro Alpi</a> (<a href='https://it.linkedin.com/company/engage-labs'>Engage Labs</a>)</p>"
-
+description: "<p>Data Saturday #22 Parma is a free one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p><p><b>Event venue</b></p><p>The event will be held in Parma, at <b>the University's Campus</b>, Viale G.P. Usberti - Parco Area delle Scienze, 181/a, on Saturday, November 26.</p><iframe width='800' height='500' frameborder='0' style='border:0' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyDfH6vxBvqCJgF8XI1UvXpSNTmlRkCxFrA&q=Department+of+Engineering+and+Architecture+-+Registered+Education&maptype=satellite&zoom=15' allowfullscreen></iframe><p><b>Organizers</b></p><p>The event is organized by <a href='https://www.linkedin.com/in/suxstellino'>Alessandro Alpi</a> (<a href='https://it.linkedin.com/company/engage-labs'>Engage Labs</a>)</p>"
 registrationurl: https://www.eventbrite.com/e/data-saturday-parma-2022-tickets-276828851547
+sponsors:
+  - link: https://www.dataskills.it/
+    image: ..\assets\img\events\0022\DataSkills.jpg
+    height: 300
+  - link: https://www.packtpub.com/
+    image: ..\assets\img\events\0022\Packt.png
+    height: 300
+  - link: https://www.isolutions.it/
+    image: ..\assets\img\events\0022\iSolutions.png
+    height: 150
+  - link: https://https://www.credemtel.it/
+    image: ..\assets\img\events\0022\CTel.png
+    height: 100
+  - link: https://www.lobrafutura.com/
+    image: ..\assets\img\events\0022\LobraFutura.png
+    height: 100
+  - link: https://www.bifactory.it/en/home-en/
+    image: ..\assets\img\events\0022\BIFactory.svg
+    height: 100
+  - link: https://etlog.it/
+    image: ..\assets\img\events\0022\ETLog.jpg
+    height: 100
+
 join:
   description: The conference will be held in four rooms, as depicted below 
   rooms:
@@ -11,12 +33,9 @@ join:
     - name: Aula 6
     - name: Aula 7
     - name: Aula 8
-
-sponsors:
-
-speakerlisturl: https://sessionize.com/data-saturday-parma-2022/
-callforspeakers:  true 
-
+scheduleurl: https://sessionize.com/api/v2/qaoy5oss/view/GridSmart
+speakerlisturl: https://sessionize.com/api/v2/qaoy5oss/view/SpeakerWall
+callforspeakers:  false
 volunteerrequesturl: mailto:alessandro.alpi@engagelabs.it
 organizers:
   - name: Alessandro Alpi (Engage Labs)
