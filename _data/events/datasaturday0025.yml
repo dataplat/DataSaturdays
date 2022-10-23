@@ -40,7 +40,7 @@ join:
       url: Following the link to Room2.
 
 
-scheduleurl: https://datasaturday.se/Schedule
+scheduleurl: https://sessionize.com/api/v2/u8uzmkab/view/GridSmart
 
 # sponsors:
 #   - link: https://www.microsoft.com/sql-server/
@@ -53,8 +53,8 @@ scheduleurl: https://datasaturday.se/Schedule
 #     image: ../assets/img/events/0014/dbWatch_official_logo.png
 #     height: 50
 
-speakerlisturl: https://sessionize.com/data-saturday-slovenia-2022/
-callforspeakers:  true
+speakerlisturl: https://sessionize.com/api/v2/u8uzmkab/view/Speakers
+callforspeakers:  false
 
 volunteerrequesturl: mailto:DataSaturdaySlovenia@gmail.com
 organizers:
