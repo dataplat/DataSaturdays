@@ -1,24 +1,19 @@
 ### eventname
 
-Edinburgh
+Data Saturday Pordenone 2023
 
 ### date
 
-2023-06-03 08:00:00 -00:00
+2023-02-25 09:00:00 +01:00
 
 ### description
 
-With the success of the Data Platform  (SQLSaturday) event on 01st FEB 2020 and to continue the community spirit _the Edinburgh Data Platform user group_ would like to convene another major event on 03rd June 2023. 
-<br>
-**_Data Saturday Edinburgh_** is a free-to-attend '_**in-person'**_ event (one day) for IT professionals who are keen on data platform technologies. This is a community-led event, that offers useful educational & career-supported content across the data platform, cloud computing, analytics, architecture and much more.
-<br>
-Thanks
-<br>
-Satya & Tom
+Finally, Data Saturday 2023 in Pordenone will be in person, after Data Saturday #0001 Pordenone on line for pandemic.
+Organizer of the first italian Sql Saturday in 2012.
 
 ### registrationurl
 
-_No response_
+http://datasatpn2023.eventbrite.it/
 
 ### rooms
 
@@ -26,20 +21,21 @@ roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
 
 ### scheduleurl
 
-_No response_
+https://sessionize.com/api/v2/eh7st4v3/view/GridSmart
 
 ### sponsors
 
-sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
+_No response_
 
 ### speakerlisturl
 
-https://sessionize.com/datasaturday-edinburgh/
+http://sessionize.com/datasatpn2023
 
 ### volunteerrequesturl
 
-consulting@dbia.uk
+_No response_
 
 ### organizers
 
-Edinburgh Data Platform user group;https://twitter.com/sqlscot);,Satya Jayanty; https://twitter.com/data_geek_;,Thomas Sykes; https://twitter.com/sqltomato;
+https://datasat23.1nn0va.it/
+
