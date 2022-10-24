@@ -1,0 +1,37 @@
+name: "Data Saturday  #31 - Data Saturday Pordenone 2023"
+date: 2023-02-25 09:00:00 +01:00
+
+description: '
+Finally, Data Saturday 2023 in Pordenone will be in person, after Data Saturday #0001 Pordenone on line for pandemic.
+Organizer of the first italian Sql Saturday in 2012.
+ '
+registrationurl: http://datasatpn2023.eventbrite.it/
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: roomname1
+     url: roomurl1
+   - name: roomname2
+     url: roomurl2
+   - name: roomname3
+     url: roomurl3
+  
+sponsors: 
+  - link: _No response_
+    image: 
+    height: 
+ 
+
+scheduleurl: https://sessionize.com/api/v2/eh7st4v3/view/GridSmart
+
+speakerlisturl: http://sessionize.com/datasatpn2023
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: https://datasat23.1nn0va.it/
+
+    twitter: 
+    email: 
+ 
