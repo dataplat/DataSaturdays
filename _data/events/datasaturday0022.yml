@@ -25,6 +25,9 @@ sponsors:
   - link: https://etlog.it/
     image: ..\assets\img\events\0022\ETLog.jpg
     height: 100
+  - link: https://quantumdatis.com/
+    image: ..\assets\img\events\0022\quantumdatis_path.svg
+    height: 100
 
 join:
   description: The conference will be held in four rooms, as depicted below 
