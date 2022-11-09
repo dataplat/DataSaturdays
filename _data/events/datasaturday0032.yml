@@ -1,0 +1,44 @@
+name: "Data Saturday  #32 - Data Saturday Denmark"
+date: 2023-03-25 08:00:00 -00:00
+
+description: '
+Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. 
+This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+ '
+registrationurl: _No response_
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: roomname1
+     url: roomurl1
+   - name: roomname2
+     url: roomurl2
+   - name: roomname3
+     url: roomurl3
+  
+sponsors: 
+  - link: ![image](https://user-images.githubusercontent.com/108015731/200780577-db7f242d-1cf8-47f4-af14-577e69f9c01e.png)
+
+If you want to sponsor this event [get in touch with the organizers](https://datasaturdays.com/2023-25-03-datasaturday0032/#contact)
+    image: 
+    height: 
+ 
+
+scheduleurl: _No response_
+
+speakerlisturl: https://sessionize.com/datasatdk23/
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Jens Vestergaard
+    twitter: @vestergaardj
+    email: jv@t-sql.dk
+  - name: Brian Bønk
+    twitter: @brbonk
+    email: brianbonk@gmail.com
+  - name: Mathias Halkjær
+    twitter: @halkjaerm
+    email: halkjaer@live.dk
+ 
