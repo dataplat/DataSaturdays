@@ -1,0 +1,12 @@
+{
+  "eventname": "Data Saturday Denmark",
+  "date": "2023-03-25 08:00:00 -00:00",
+  "description": "Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. \r\nThis community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.",
+  "registrationurl": "_No response_",
+  "rooms": "roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3",
+  "scheduleurl": "_No response_",
+  "sponsors": "![image](https://user-images.githubusercontent.com/108015731/200780577-db7f242d-1cf8-47f4-af14-577e69f9c01e.png)\r\n\r\nIf you want to sponsor this event [get in touch with the organizers](https://datasaturdays.com/2023-25-03-datasaturday0032/#contact)",
+  "speakerlisturl": "https://sessionize.com/datasatdk23/",
+  "volunteerrequesturl": "_No response_",
+  "organizers": "Jens Vestergaard;@vestergaardj;jv@t-sql.dk,Brian Bønk;@brbonk;brianbonk@gmail.com,Mathias Halkjær;@halkjaerm;halkjaer@live.dk"
+}
