@@ -42,7 +42,10 @@ join:
 
 scheduleurl: https://sessionize.com/api/v2/u8uzmkab/view/GridSmart
 
-# sponsors:
+sponsors:
+  - link: https://www.b2-bi.com/en
+    image: ../assets/img/events/0025/B2BI_Color.png
+    height: 173
 #   - link: https://www.microsoft.com/sql-server/
 #     image: ../assets/img/events/0014/MS-Azure_logo.png
 #     height: 300
