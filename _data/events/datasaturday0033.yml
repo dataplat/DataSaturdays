@@ -1,0 +1,31 @@
+name: "Data Saturday  #33 - Data Saturday Stockholm 2023"
+date: 2023-05-13 09:00:00 +02:00
+
+description: '
+Attend this free, one-day conference in Stockholm to sharpen your skills on the Microsoft data platform, and to connect to other professionals in your space! We’ll offer sessions from leading world-class international and local speakers, across data management, cloud and hybrid architecture, analytics and BI, and so much more.
+ '
+registrationurl: https://datasatsto.se/
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url: 
+  
+sponsors: 
+  - link: _No response_
+    image: 
+    height: 
+ 
+
+scheduleurl: _No response_
+
+speakerlisturl: _No response_
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Daniel Hutmacher
+    twitter: https://twitter.com/dhmacher
+    email: hello@datasatsto.se
+ 
