@@ -30,12 +30,12 @@ callforspeakers: true
 volunteerrequesturl: _No response_
 organizers:
   - name: Jens Vestergaard
-    twitter: @vestergaardj
+    twitter: https://twitter.com/vestergaardj
     email: jv@t-sql.dk
   - name: Brian Bonk
-    twitter: @brbonk
+    twitter: https://twitter.com/brbonk
     email: brianbonk@gmail.com
   - name: Mathias Halkjær
-    twitter: @halkjaerm
+    twitter: https://twitter.com/halkjaerm
     email: halkjaer@live.dk
  
