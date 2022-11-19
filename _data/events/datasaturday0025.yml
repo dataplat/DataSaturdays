@@ -34,10 +34,10 @@ registrationurl: https://www.eventbrite.com/e/data-saturday-25-slovenia-2022-tic
 join:
   description: Please see the main event page for details on sessions and rooms
   rooms:
-    - name: Room 1
-      url: Following the link to Room1.
-    - name: Room 2
-      url: Following the link to Room2.
+    - name: DBA / DEV
+      url: https://meet.goto.com/milambdasp/data-saturday-slovenia-2022-dba-dev
+    - name: BI
+      url: https://meet.goto.com/milambdasp/data-saturday-slovenia-2022-bi
 
 
 scheduleurl: https://sessionize.com/api/v2/u8uzmkab/view/GridSmart
