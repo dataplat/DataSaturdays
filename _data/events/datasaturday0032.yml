@@ -16,13 +16,9 @@ join:
    - name: roomname3
      url: roomurl3
   
-sponsors: 
-  - link: ![image](https://user-images.githubusercontent.com/108015731/200780577-db7f242d-1cf8-47f4-af14-577e69f9c01e.png)
-
-If you want to sponsor this event [get in touch with the organizers](https://datasaturdays.com/2023-25-03-datasaturday0032/#contact)
-    image: 
-    height: 
- 
+sponsorbenefits: '
+ <img src="https://user-images.githubusercontent.com/108015731/200780577-db7f242d-1cf8-47f4-af14-577e69f9c01e.png">
+'
 
 scheduleurl: _No response_
 
@@ -33,12 +29,12 @@ callforspeakers: true
 volunteerrequesturl: _No response_
 organizers:
   - name: Jens Vestergaard
-    twitter: @vestergaardj
+    twitter: https://twitter.com/vestergaardj
     email: jv@t-sql.dk
   - name: Brian Bønk
-    twitter: @brbonk
+    twitter: https://twitter.com/brbonk
     email: brianbonk@gmail.com
   - name: Mathias Halkjær
-    twitter: @halkjaerm
+    twitter: https://twitter.com/halkjaerm
     email: halkjaer@live.dk
  

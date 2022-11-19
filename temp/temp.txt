@@ -1,23 +1,22 @@
 ### eventname
 
-Data Saturday Denmark
+Data Saturday Stockholm 2023
 
 ### date
 
-2023-03-25 08:00:00 -00:00
+2023-05-13 09:00:00 +02:00
 
 ### description
 
-Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. 
-This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+Attend this free, one-day conference in Stockholm to sharpen your skills on the Microsoft data platform, and to connect to other professionals in your space! We’ll offer sessions from leading world-class international and local speakers, across data management, cloud and hybrid architecture, analytics and BI, and so much more.
 
 ### registrationurl
 
-_No response_
+https://datasatsto.se/
 
 ### rooms
 
-roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
+_No response_
 
 ### scheduleurl
 
@@ -25,13 +24,11 @@ _No response_
 
 ### sponsors
 
-![image](https://user-images.githubusercontent.com/108015731/200780577-db7f242d-1cf8-47f4-af14-577e69f9c01e.png)
-
-If you want to sponsor this event [get in touch with the organizers](https://datasaturdays.com/2023-25-03-datasaturday0032/#contact)
+_No response_
 
 ### speakerlisturl
 
-https://sessionize.com/datasatdk23/
+_No response_
 
 ### volunteerrequesturl
 
@@ -39,4 +36,4 @@ _No response_
 
 ### organizers
 
-Jens Vestergaard;@vestergaardj;jv@t-sql.dk,Brian Bønk;@brbonk;brianbonk@gmail.com,Mathias Halkjær;@halkjaerm;halkjaer@live.dk
+Daniel Hutmacher;https://twitter.com/dhmacher;hello@datasatsto.se
