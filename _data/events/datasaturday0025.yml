@@ -43,6 +43,9 @@ join:
 scheduleurl: https://sessionize.com/api/v2/u8uzmkab/view/GridSmart
 
 sponsors:
+  - link: https://www.kompas-xnet.si/
+    image: ../assets/img/events/0025/KompasXnet.png
+    height: 286
   - link: https://www.b2-bi.com/en
     image: ../assets/img/events/0025/B2BI_Color.png
     height: 173
