@@ -8,6 +8,10 @@ This community event offers content across data management, cloud and hybrid arc
 <p>
 <b>Event venue</b></p>
 <p>The event will be held <b>online</b>, on Saturday, December  10th, 2022.</p>
+
+<p><b>UPDATE:</b></p>
+<p>The Plenary Q&A session for DBA/DEV and BI with Miloš Radivojević and Nikola Ilić (Saturday, 10/Dec/2022, at 10:10) will be hosted by Microsoft Slovenia, at <a href="https://t.co/wgAgSBFKmZ" target="_blank">https://t.co/wgAgSBFKmZ</a>. The rest of the schedule remains unchanged.</p>
+
 <p>This year we have decided to create two in-person seminars (pre-cons), both held on Friday, December 9th, 2022 in Ljubljana, Slovenia.</p>
 
 <p><b>Pre-conference seminars</b></p>
@@ -38,6 +42,8 @@ join:
       url: https://meet.goto.com/milambdasp/data-saturday-slovenia-2022-dba-dev
     - name: BI
       url: https://meet.goto.com/milambdasp/data-saturday-slovenia-2022-bi
+    - name: Plenary Q&A
+      url: https://t.co/wgAgSBFKmZ
 
 
 scheduleurl: https://sessionize.com/api/v2/u8uzmkab/view/GridSmart
