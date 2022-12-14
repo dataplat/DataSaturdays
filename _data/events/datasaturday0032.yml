@@ -2,29 +2,24 @@ name: "Data Saturday  #32 - Data Saturday Denmark"
 date: 2023-03-25 08:00:00 -00:00
 
 description: '
-Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. 
-This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.<br><br>The community revolves around Microsoft Data Platform and Cloud (SQL Server, Power BI, Synapse, Azure, PowerShell, etc), but we invite other topics as well (other cloud vendors, interesting technologies).<br><br>At this point, we are not able to cover any travel/accommodation expenses.<br><br>The event is a free in-person event.
  '
 registrationurl: _No response_
 join:
   description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
   rooms:
-   - name: roomname1
-     url: roomurl1
-   - name: roomname2
-     url: roomurl2
-   - name: roomname3
-     url: roomurl3
+   - name: _No response_
+     url: 
   
 sponsorbenefits: '
  <img src="https://user-images.githubusercontent.com/108015731/200780577-db7f242d-1cf8-47f4-af14-577e69f9c01e.png">
 '
 
-scheduleurl: _No response_
+scheduleurl: https://sessionize.com/api/v2/ztilolfa/view/GridSmart
 
 speakerlisturl: https://sessionize.com/datasatdk23/
 
-callforspeakers: true
+callforspeakers: false
 
 volunteerrequesturl: _No response_
 organizers:
