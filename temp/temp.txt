@@ -1,18 +1,20 @@
 ### eventname
 
-Data Saturday Denmark
+Data Saturday Rheinland 2023
 
 ### date
 
-2023-03-25 09:00:00 -00:00
+2023-06-17 08:00:00 +01:00
 
 ### description
 
-Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.<br><br>The community revolves around Microsoft Data Platform and Cloud (SQL Server, Power BI, Synapse, Azure, PowerShell, etc), but we invite other topics as well (other cloud vendors, interesting technologies).<br><br>At this point, we are not able to cover any travel/accommodation expenses.<br><br>The event is a free in-person event.
+Data Saturday Rheinland is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.
+
+Data Saturday Rheinland 2023 is already the 8th community conference that we organize at the  University of Applied Sciences Bonn-Rhein-Sieg. The Data Saturday Rheinland 2023 is organized by PASS Deutschland e.V. UG Rheinland together with the University of Applied Sciences Bonn -Rhein-Sieg.
 
 ### registrationurl
 
-_No response_
+https://sessionize.com/datasaturday-rheinland-2023/
 
 ### rooms
 
@@ -20,15 +22,15 @@ _No response_
 
 ### scheduleurl
 
-https://sessionize.com/api/v2/ztilolfa/view/GridSmart
+_No response_
 
 ### sponsors
 
-_No response_
+sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
 
 ### speakerlisturl
 
-https://sessionize.com/datasatdk23
+https://sessionize.com/datasaturday-rheinland-2023/
 
 ### volunteerrequesturl
 
@@ -36,4 +38,4 @@ _No response_
 
 ### organizers
 
-Jens Vestergaard;https://twitter.com/vestergaardj;jv@t-sql.dk,Brian Bønk Rueløkke;https://twitter.com/brbonk;brianbonk@gmail.com,Mathias Halkjær Petersen;https://twitter.com/HalkjaerM;halkjaer@live.dk
+Tillmann Eitelberg;https://twitter.com/_Tillmann;tei@sqlpass.de;Oliver Engels;https://twitter.com/oengels;oen@sqlpass.de
