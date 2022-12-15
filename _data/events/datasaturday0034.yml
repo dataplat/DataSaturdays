@@ -1,0 +1,39 @@
+name: "Data Saturday  #34 - Data Saturday Rheinland 2023"
+date: 2023-06-17 08:00:00 +01:00
+
+description: '
+Data Saturday Rheinland is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.
+
+Data Saturday Rheinland 2023 is already the 8th community conference that we organize at the  University of Applied Sciences Bonn-Rhein-Sieg. The Data Saturday Rheinland 2023 is organized by PASS Deutschland e.V. UG Rheinland together with the University of Applied Sciences Bonn -Rhein-Sieg.
+ '
+registrationurl: https://sessionize.com/datasaturday-rheinland-2023/
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url: 
+  
+sponsors: 
+  - link: sponsor1link
+    image: sponsor1image
+    height: sponsor1height
+  - link: sponsor2link
+    image: sponsor2image
+    height: sponsor2height
+  - link: sponsor3link
+    image: sponsor3image
+    height: sponsor3height
+ 
+
+scheduleurl: _No response_
+
+speakerlisturl: https://sessionize.com/datasaturday-rheinland-2023/
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Tillmann Eitelberg
+    twitter: https://twitter.com/_Tillmann
+    email: tei@sqlpass.de
+ 
