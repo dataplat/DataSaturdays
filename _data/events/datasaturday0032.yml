@@ -19,7 +19,7 @@ scheduleurl: https://sessionize.com/api/v2/ztilolfa/view/GridSmart
 
 speakerlisturl: https://sessionize.com/datasatdk23/
 
-callforspeakers: false
+callforspeakers: true
 
 volunteerrequesturl: _No response_
 organizers:
