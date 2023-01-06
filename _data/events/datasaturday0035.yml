@@ -1,0 +1,342 @@
+name: "Data Saturday #35 - Oslo"
+date: 2023-09-02 09:00:00 -0000
+
+hide-toplogo: true
+hide-join-room-section: true
+open-registration-new-tab: true
+
+# <p style=\"text-align:center;font-size:2.5rem;\">
+# Registration for our pre-con and the Saturday is LIVE! 
+# </p>
+# <p style=\"text-align:center;font-size:1.5rem;\">
+# Scroll down or click menu-item shorcuts for more information 
+# </p>
+# <p style=\"text-align:center;\">
+#   <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo2022.eventbrite.com\" target=\"_blank\">Register now</a>
+# </p>
+# <p style=\"text-align:center;\">
+# <img src=\"../assets/img/events/0023/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\">
+# </p>
+
+# However, the date for Data Saturday Oslo event is this year on Saturday 10th September. We are also aiming on offering a pre-conference full-day of training on Friday 9th. If you would like to submit a regular talk for Saturday or a pre-con session for Friday, please click the appropriate button(s) below.
+# <br>
+# Please note that even though we welcome speaker submissions from all over the world, we will take a preference to speakers living in Norway, Sweden, Finland and Denmark in our selection process.
+# </p>
+# <p>
+# <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://sessionize.com/data-saturday-oslo-2022/\" style=\"margin-left: 35px; margin-right: 35px;\" target=\"_blank\">Submit your session</a>
+# <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://forms.gle/2y3k3FPzS9XTZHM19\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 35px;\" target=\"_blank\">Submit pre-con</a>
+# </p>
+# <br>
+
+
+description: "<p style=\"text-align:center;font-size:4rem;\">
+  WELCOME TO OSLO!
+  </p>
+  <p style=\"text-align:center;\">
+  <img src=\"../assets/img/events/0035/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\" style=\"margin-bottom: 35px;\">
+  </p>
+  <p>
+  Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
+  </p>
+  <p style=\"text-align:center; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0035/AWS_Logo.png\" height=\"100\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0035/azure_new_logo.png\" height=\"100\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0035/gcp_logo_cloud.png\" height=\"100\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
+  </p>
+  <br>
+  <p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>January 6th 2023</u></p>
+  <p style=\"text-align:left;\">
+  We are very happy to welcome you all again to Oslo on Saturday 2nd September. We are also aiming on offering a pre-conference full-day of training on Friday 1st. If you would like to submit a regular talk for Saturday or a pre-con session for Friday, please revisit soon when we have opened up CfS.
+  <br>
+  <br>
+  Please note that even though we welcome speaker submissions from all over the world, we will take a preference to speakers living in Norway, Sweden, Finland and Denmark in our selection process.
+  <br>
+  <br>
+  If you plan to attend remember to set a side the whole day and evening as per usual we will have our traditional Data Saturday Oslo after-party when we have concluded the event. This is a great place to network with other people who shares your passion for data.
+  </p>
+  <br>
+  <p style=\"text-align:left;\">
+  Sadly the unprovoked aggressive attacks by Russia on Ukraine is still ongoing. We are in such an awe of the efforts of the Ukranian defense forces to push back the Russian forces and the will of the Ukranian people to fight to keep their sovereignty. 
+  The need for humanitarian relief is constant and please consider to help out if you have the opportunity (see links below).
+  </p>
+  <br>
+  <p style=\"text-align:center;\">
+  <img src=\"../assets/img/events/0023/flag_of_ukraine.png\" height=\"198\" alt=\"Ukraine national flag\" style=\"margin-left: 25px; margin-right: 25px\">
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  <b>SLAVA UKRAINI!</b>
+  </p>
+  <p>
+  If you would like to support the humanitarian relief effort in Ukraine we have added some options below:
+  </p>
+  <p>Norwegian Refugee Council: <a href=\"https://www.nrc.no/\" target=\"_blank\">https://www.nrc.no/</a></p>
+  <p>Norwegian Red Cross (page in Norwegian): <a href=\"https://www.rodekors.no/stott-arbeidet/gi-en-gave/nodhjelp-til-ukraina\" target=\"_blank\">Røde Kors - Nødhjelp til Ukraina</a></p>
+  <p>UN High Commissioner for Refugees: <a href=\"https://donate.unhcr.org/int/en/ukraine-emergency\" target=\"_blank\">https://donate.unhcr.org</a></p>
+  <br>
+  <br>
+  Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+  </p>
+  "
+
+#registrationurl: "https://datasatoslo2022.eventbrite.com"
+# join:
+# description: #Refer to the EventBrite registration page for details on how to register and join the sessions.
+#  rooms:
+#    - name: Room 1
+#      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
+# precondescription: "
+#     <p>
+#     We are delighted to present the world class speakers, Margarita Neumova and Alexander Arvidsson, which will hold this year's pre-conference workshops. Check out the workshop descriptions below and reserve your seat today. 
+#     </p>
+#     <p>
+#     The workshops will be held on Friday preceding our main event on Saturday and will have the affordable cost of NOK 3000 (lunch included) for a full day of high quality learning. 
+#     </p>
+#     <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+#     <p style=\"text-align: center; font-size: 1.5rem;\">
+#     Azure Synapse Analytics Fast Track for Data Engineers
+#     </p>
+#     <p style=\"text-align: center; font-size: 1.3rem;\">
+#     with <a href=\"https://sessionize.com/margarita-naumova\">Margarita Naumova</a>
+#     <img src=\"../assets/img/events/0023/Margarita_Naumova.jpg\" height=\"170\" alt=\"Margarita Naumova\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+#     </p> 
+#     <p>
+#     Azure Synapse Analytics is one of the most exciting platforms for Data analytics in the cloud. To unleash its potential, you must discover all the elements of it and gain a good understanding when and how to use what.
+#     </p>
+#     <p>
+#     This pre-con covers all you need to know to start or continue your journey to a Modern Analytics Platform with Azure with Synapse Analytics. 
+#     We will discover all the elements of Synapse Analytics and will dive deeper into most important of them – Builtin Pool and SQLPool. 
+#     By understanding these Synapse Analytics components, you will build the foundation knowledge for architecting your Modern DW Platform. 
+#     You will be able to use them to design your relational DW in SQL Pool and to integrate your big data with the relational DW in a single solution.
+#     </p>
+#     <p>
+#     The pre-con breaks down the Synapse Analytics in its elements and gives you a solid foundation of knowledge on most important of them. We will cover :
+#     <br>
+#     •	The concept and architecture of combining big data and relational data in one data platform
+#     <br>
+#     •	SQL Dedicated Pool – how it works, how to load data, optimizing the physical database design and the performance
+#     <br>
+#     •	Azure Data Lakehouse with Built-in Pool including data lake common design rules 
+#     <br>
+#     •	SPARK cluster and when to use it, Orchestration, code base and integration with tools and services
+#     <br>
+#     </p>
+#     <p style=\"text-align:center;\">
+#       <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo22-synapseanalytics.eventbrite.com\" target=\"_blank\">Synapse pre-con registration</a>
+#     </p>
+#     </div>
+
+#     <br>
+
+#     <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+#     <p style=\"text-align: center; font-size: 1.5rem;\">
+#     Making Data Matter - Combining Data, Visual Storytelling and Presentation Skills for Maximum Impact
+#     </p>
+#     <p style=\"text-align: center; font-size: 1.3rem;\">
+#     with <a href=\"https://sessionize.com/alexanderarvidsson\">Alexander Arvidsson</a>
+
+#     <img src=\"../assets/img/events/0023/alexander_arvidsson.png\" height=\"170\" alt=\"Alexander Arvidsson\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+#     </p>
+#     <p>
+#     A friend once explained her experience with a \"data driven company\" like this: \"we collect millions of points of data every day, we clean it, we analyse it, we make it actionable - and then we implement whatever happens to be the mood of the day\". 
+#     </p>
+#     <p>
+#     Power BI is one of the most powerful tools for data professionals and business users alike. It makes it possible to create amazing reports providing deep insight into just about any data. The insights this tool unlocks can drive decisions at every level - but do they? 
+#     </p>
+#     <p>
+#     Why is it then, that in this age of \"data-driven decisionmaking\", that so many decisions are still based on \"gut feeling\"? 
+#     <br>
+#     One of the reasons is that we still like to think that data will drive decisions on its own. 
+#     </p>
+#     <p>
+#     The challenge is using Power BI to efficiently communicating said insight.
+#     </p>
+#     <p>
+#     Efficiently communicating data means not only being able to clearly and concisely visualizing it, but also being able to explain why the data matters to your audience - in a way that is engaging, interesting and relevant.
+#     </p>
+#     <p>
+#     This, in turn, require knowledge of how to write a compelling story that is engaging and relatable for your audience, as well as presentation skills to help bridge the gap between data and people.
+#     </p>
+#     <p>
+#     By making the data and the story matter to the audience we can align feelings with hard data, essentially influencencing decisions and improving business outcomes. 
+#     </p>
+#     <p>
+#     In this full-day workshop, you will learn the skills to take your ability to communicate using Power BI to a whole new level.
+#     <br>
+#     We will start with an overview of the fundamentals of visual communication in order to make the foundation of our data storytelling as clear, concise and understandable as can be.
+#     </p>
+#     <p>
+#     We will then discuss how to craft a relevant and relatable story to build on top of our data. We will learn how, through a clear message with a clear structure, to apply classic storytelling techniques as suspense, surprise and conflict to a technical narrative.
+#     </p>
+#     <p>
+#     Finally we will explore how to improve your presentation skills to enable you to bridge the gap between the data and people to really drive your point home.
+#     </p>
+#     <p>
+#     Come join me to level up your Power BI communication skills!
+#     </p>
+#     <br>
+#     <p style=\"text-align: center; font-size: 1.2rem;font-weight: bold;color: maroon;\">
+#     A total of 12 seats available for this pre-con, so make sure to reserve your seat early
+#     </p>
+#     <br>    
+#     <p style=\"text-align:center;\">
+#       <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo22-datamatters.eventbrite.com\" target=\"_blank\">Data Matters pre-con registration</a>
+#     </p>
+#     </div>"
+
+#scheduleurl: https://sessionize.com/api/v2/hahdqimt/view/GridSmart
+
+#scheduleapp: https://datasatoslo2022.sessionize.com/
+
+# venuesponsor: 
+#   - link: https://www.kristiania.no/
+#     open-in-new-tab: true
+#     image: ../assets/img/events/0023/hoyskolen_kristiania.png
+#     height: 200
+#     margin-top: 0
+#     margin-bottom: 0
+
+#venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.9755343744257!2d10.757657116683484!3d59.91595338186799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e60c78540dd%3A0xa19b8032c939043a!2sCampus%20Fjerdingen%20%7C%20H%C3%B8yskolen%20Kristiania!5e0!3m2!1sen!2sno!4v1660291032383!5m2!1sen!2sno
+
+sponsors:
+#   - sponsorlevel: PLATINUM
+#   - link: https://www.dbwatch.com/
+#     image: ../assets/img/events/0023/dbWatch_official_logo.png
+#     height: 130
+
+#   - sponsorlevel: GOLD
+#   - link: https://www.quest.com/
+#     image: ../assets/img/events/0023/Quest-R-Orange-RGB.jpg
+#     height: 100
+
+#   - sponsorlevel: SILVER
+#   - link: https://www.red-gate.com/
+#     image: ../assets/img/events/0023/redgate-logo.svg
+#     height: 80
+#   - link: https://www.bi-builders.com/xpert-bi/
+#     image: ../assets/img/events/0023/Logo_XpertBI.jpg
+#     height: 75
+#     margin-top: 50
+#     margin-bottom: 30
+#   - link: https://www.cloudberries.no/
+#     image: ../assets/img/events/0023/cloudberries_logo.png
+#     height: 300
+#   - link: https://www.microsoft.com/sql-server/
+#     image: ../assets/img/events/0023/MS-Azure_logo.png
+#     height: 280
+#     margin-top: -50
+#     margin-bottom: 0
+
+#   - link: https://www.inspirit.bg/
+#     image: ../assets/img/events/0023/inspirit_Logo.png
+#     height: 175
+#     margin-top: -60
+#     margin-bottom: 0
+    
+
+#speakerlisturl: https://sessionize.com/api/v2/hahdqimt/view/SpeakerWall
+callforspeakers:  true
+
+volunteerrequesturl: mailto:datasaturday.oslo@gmail.com
+organizers:
+  - name: Marthe Moengen, Emilie Rønning, Wilde Thyholt, Rodney Kidd, Rune Ovlien Rakeie, Johan Ludvig Brattås, Magne Fretheim & Bjørn Wang
+    twitter: https://twitter.com/DataSatOslo
+    email: mailto:datasaturday.oslo@gmail.com
+
+#sponsorpacklink: "../assets/img/events/0023/DataSaturdayOslo2022_SponsorPlan.pdf"
+sponsor-menuitem: true
+sponsorbenefits: '
+  <div class="row justify-content-center">
+      <p style="text-align:center;">
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Sponsorplan</a>
+    </p>
+  </div>    
+  '
+
+codeofconduct: "<p style=\"text-align:left;\">
+      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
+      Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+    </p>
+
+    <h2>The Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Our conference is dedicated to providing an enjoyable environment for everyone involved. 
+      Thus providing a harassment-free experience for everyone, regardless of gender, 
+      gender identity and expression, age, sexual orientation, disability, physical appearance, 
+      body size, race, ethnicity, religion (or lack thereof), or technology choices. 
+      We do not tolerate harassment of conference participants in any form. 
+      Sexual language and imagery is not appropriate for any conference venue, 
+      including talks, workshops, parties, Twitter and other online media. 
+      Conference participants violating these rules may be sanctioned or 
+      expelled from the conference <em>without a refund</em> at the discretion 
+      of the conference organizers.
+    </p>
+    <p style=\"text-align:left;\">
+      The organizer of this event will prioritize marginalized people&#39;s safety over privileged people&#39;s comfort.
+    </p>
+
+    <h2>The Less Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Harassment includes offensive verbal comments related to gender, gender 
+      identity and expression, age, sexual orientation, disability, physical 
+      appearance, body size, race, ethnicity, religion, technology choices, 
+      sexual images in public spaces, deliberate intimidation, stalking, 
+      following, harassing photography or recording, sustained disruption of 
+      talks or other events, inappropriate physical contact, and unwelcome 
+      sexual attention.
+    </p>
+    <p style=\"text-align:left;\">
+      Participants asked to stop any harassing behavior are expected to comply 
+      immediately.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Sponsors are also subject to the anti-harassment policy. In particular, 
+      sponsors should not use sexualized images, activities, or other material. 
+      Booth staff (including volunteers) should not use sexualized 
+      clothing/uniforms/costumes, or otherwise create a sexualized environment.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If a participant engages in harassing behavior, the conference organizers 
+      may take any action they deem appropriate, including warning the offender 
+      or expulsion from the conference with no refund.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If you are being harassed, notice that someone else is being harassed, or 
+      have any other concerns, please contact a member of conference staff 
+      immediately. Conference staff can be identified as they&#39;ll be wearing 
+      branded shirts.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Conference staff will be happy to help participants contact 
+      local law enforcement, provide escorts, or otherwise assist 
+      those experiencing harassment to feel safe for the duration of the 
+      conference. We value your attendance.
+    </p>
+
+    <p style=\"text-align:left;\">
+      We expect participants to follow these rules at conference and workshop 
+      venues and conference-related social events.
+    </p>
+
+    <p style=\"text-align:left;\">
+      <small>
+        <em>Original source and credit:
+          <a href=\"http://2012.jsconf.us/#/about\">http://2012.jsconf.us/#/about</a>
+          &amp;
+          <ahref=\"http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy\">The Ada Initiative</a>
+          <br />
+
+          Please help by translating or improving:
+          <a href=\"https://github.com/confcodeofconduct/confcodeofconduct.com\">on github.com</a>
+          <br />
+
+          This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/deed.en_US\">Creative Commons Attribution 3.0 Unported License</a>
+        </em>
+      </small>
+    </p>
+      "
