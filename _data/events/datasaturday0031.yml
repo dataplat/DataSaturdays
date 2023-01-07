@@ -17,16 +17,26 @@ join:
      url: roomurl3
   
 sponsors: 
-  - link: _No response_
-    image: 
-    height: 
+  - link: https://www.beantech.it/
+    image: ../assets/img/events/0031/beantech.png
+    height: 100
+  - link: https://www.fluentis.com/
+    image: ../assets/img/events/0031/fluentis.png
+    height: 140
+  - link: https://www.stesi.it/
+    image: ../assets/img/events/0031/stesi.png
+    height: 180
+  - link: https://www.quantumdatis.com/
+    image: ../assets/img/events/0031/quantumdatis_path.svg
+    height: 80
+
  
 
 scheduleurl: https://sessionize.com/api/v2/eh7st4v3/view/GridSmart
 
-speakerlisturl: http://sessionize.com/datasatpn2023
+speakerlisturl: https://sessionize.com/api/v2/eh7st4v3/view/SpeakerWall
 
-callforspeakers: true
+callforspeakers: false
 
 volunteerrequesturl: _No response_
 organizers:
