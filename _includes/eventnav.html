@@ -30,6 +30,11 @@
                         </li>
                     {%- endif %}
                 {%- endfor %}
+                {%- if pagedata.milestones -%}
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#milestones">Milestones</a>
+                </li>            
+                {%- endif %}      
                 {%- if pagedata.venuemap -%}
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#venue">Venue</a>
