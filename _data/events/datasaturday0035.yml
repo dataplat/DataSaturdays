@@ -46,13 +46,13 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   <br>
   <p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>January 6th 2023</u></p>
   <p style=\"text-align:left;\">
-  We are very happy to welcome you all again to Oslo on Saturday 2nd September. We are also aiming on offering a pre-conference full-day of training on Friday 1st. If you would like to submit a regular talk for Saturday or a pre-con session for Friday, please revisit soon when we have opened up CfS.
+  We are very happy to welcome you all again to Oslo on Saturday September 2nd. We also aim to offer a full-day pre-conference Friday September 1st. If you would like to submit a regular talk for Saturday or a pre-con session for Friday, please revisit soon when we have opened up CfS.
   <br>
   <br>
   Please note that even though we welcome speaker submissions from all over the world, we will take a preference to speakers living in Norway, Sweden, Finland and Denmark in our selection process.
   <br>
   <br>
-  If you plan to attend remember to set a side the whole day and evening as per usual we will have our traditional Data Saturday Oslo after-party when we have concluded the event. This is a great place to network with other people who shares your passion for data.
+  If you plan to attend remember to set aside the whole day and evening as per usual we will have our traditional Data Saturday Oslo after-party when we have concluded the event. This is a great place to network with other people who share your passion for data.
   </p>
   <br>
   <p style=\"text-align:left;\">
@@ -76,6 +76,36 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
   </p>
   "
+
+#<span style=\"color: #04be64;font-weight:bold\">&#x2713;</span>
+
+milestones: "
+    <div class=\"row justify-content-center\">
+      <p style=\"text-align:left;font-size:1.5rem\">
+        * January 2023: Call for speakers open 
+  <br>
+        * January 2023: Registration opens
+  <br>
+        * February 28 2023: Pre-conference Call for Speakers closes
+  <br>
+        * Late February, 2023: Pre-conference sessions announced
+  <br>
+        * March 31, 2023: Call for speakers closes
+  <br>
+        * Late March, 2023: Session selection, notifying speakers
+  <br>
+        * April, 2023: Speakers and sessions published
+  <br>
+        * April, 2023: Schedule published
+  <br>
+        * September 1, 2023: Pre-conference sessions
+  <br>
+        * September 2, 2023: Main conference event
+    </p>
+  </div>    
+
+ "
+
 
 #registrationurl: "https://datasatoslo2022.eventbrite.com"
 # join:

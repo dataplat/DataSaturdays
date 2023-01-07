@@ -47,6 +47,20 @@ layout: default
 </section>
 {% endif %}
 
+<!-- Milestones -->
+{% if pagedata.milestones%}
+<section class="page-section" id="milestones">
+  <div class="container">
+    <div class="text-center">
+      <h2 class="section-heading text-uppercase">Milestones</h2>
+      <div class="alert alert-light" role="alert">
+        {{pagedata.milestones}}
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+
 {% if pagedata.precondescription %}
   <!-- Precon -->
   <section class="page-section" id="precon">
