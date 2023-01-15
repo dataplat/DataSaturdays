@@ -23,14 +23,21 @@ open-registration-new-tab: true
 # Please note that even though we welcome speaker submissions from all over the world, we will take a preference to speakers living in Norway, Sweden, Finland and Denmark in our selection process.
 # </p>
 # <p>
-# <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://sessionize.com/data-saturday-oslo-2022/\" style=\"margin-left: 35px; margin-right: 35px;\" target=\"_blank\">Submit your session</a>
-# <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://forms.gle/2y3k3FPzS9XTZHM19\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 35px;\" target=\"_blank\">Submit pre-con</a>
+# <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://sessionize.com/data-saturday-oslo-2023/\" style=\"margin-left: 35px; margin-right: 35px;\" target=\"_blank\">Submit your session</a>
+# <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://forms.gle/nY8D48kvXfw6LtzP6\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 35px;\" target=\"_blank\">Submit pre-con</a>
 # </p>
 # <br>
 
 
 description: "<p style=\"text-align:center;font-size:4rem;\">
   WELCOME TO OSLO!
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Call for Speakers for Pre-Cons & Saturday sessions is open! 
+  </p>
+  <p>
+  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://sessionize.com/data-saturday-oslo-2023/\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Submit your session</a>
+  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://forms.gle/nY8D48kvXfw6LtzP6\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Submit pre-con</a>
   </p>
   <p style=\"text-align:center;\">
   <img src=\"../assets/img/events/0035/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\" style=\"margin-bottom: 35px;\">
@@ -80,27 +87,27 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
 #<span style=\"color: #04be64;font-weight:bold\">&#x2713;</span>
 
 milestones: "
-    <div class=\"row justify-content-center\">
-      <p style=\"text-align:left;font-size:1.5rem\">
-        * January 2023: Call for speakers open 
+  <div class=\"row justify-content-center\">
+    <p style=\"text-align:left;font-size:1.5rem\">
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> January 2023: Call for speakers open 
   <br>
         * January 2023: Registration opens
   <br>
-        * February 28 2023: Pre-conference Call for Speakers closes
+        * <strong>February 28th, 2023</strong>: Pre-conference Call for Speakers closes
   <br>
-        * Late February, 2023: Pre-conference sessions announced
+        * Late March, 2023: Pre-conference sessions announced
   <br>
-        * March 31, 2023: Call for speakers closes
+        * <strong>March 31st, 2023</strong>: Call for speakers closes
   <br>
-        * Late March, 2023: Session selection, notifying speakers
+        * April, 2023: Session selection, notifying speakers
   <br>
         * April, 2023: Speakers and sessions published
   <br>
         * April, 2023: Schedule published
   <br>
-        * September 1, 2023: Pre-conference sessions
+        * September 1st, 2023: Pre-conference sessions
   <br>
-        * September 2, 2023: Main conference event
+        * September 2nd, 2023: Main conference event
     </p>
   </div>    
 
@@ -264,6 +271,7 @@ sponsors:
     
 
 #speakerlisturl: https://sessionize.com/api/v2/hahdqimt/view/SpeakerWall
+speakerlisturl: https://sessionize.com/data-saturday-oslo-2023/
 callforspeakers:  true
 
 volunteerrequesturl: mailto:datasaturday.oslo@gmail.com
