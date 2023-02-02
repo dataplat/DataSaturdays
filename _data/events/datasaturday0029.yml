@@ -15,7 +15,7 @@ description:  "<p style=\"text-align:center;\">
 <p>Thanks to all the sponsors involved who made this event possible.</p>
 <p><b>Organizers</b></p>
 <p>The event is organized by <a href=\"https://www.linkedin.com/in/dmatesic/\" target=\"_blank\">Damir Matešić, MVP</a> & <a href=\"https://www.linkedin.com/in/dsavovic/\" target=\"_blank\">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>"
-registrationurl: 
+registrationurl: https://www.eventbrite.co.uk/e/data-saturday-croatia-2023-tickets-407961352387
 
 precondescription: "
     <p>
@@ -128,7 +128,10 @@ sponsors:
   - link: https://www.span.eu/
     image: ../assets/img/events/0029/span.png
     height: 120
-
+  - sponsorlevel: SILVER
+  - link: https://bonsai.tech/
+    image: ../assets/img/events/0029/bonsaitech.gif
+    height: 80
   - sponsorlevel: BRONZE
   - link: https://www.gethynellis.com/
     image: ../assets/img/events/0029/GE-Logo.png
@@ -136,6 +139,9 @@ sponsors:
   - link: https://unitfly.com/
     image: ../assets/img/events/0029/Unitfly_logo_color_png.png
     height: 80
+  - link: http://www.datasense.hr/
+    image: ../assets/img/events/0029/datasense.png
+    height: 47
 
 speakerlisturl: https://sessionize.com/ds-croatia-2023/
 callforspeakers: false 
