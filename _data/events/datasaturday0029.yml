@@ -68,7 +68,6 @@ precondescription: "
     <img src=\"../assets/img/events/0029/sarka.jpg\" height=\"170\" alt=\"Dejan Sarka\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
     </p>
 
-<p>Summary</p>
 <p>Even the best logical model can’t help when the physical implementation is bad. Therefore, it is important to know how SQL Server, Azure SQL Database, and partially also Azure Synapse Analytics, store data in row and columnar format and how the engines access this data. You will learn about heaps, balanced trees, and columnar indexes. In addition, this course introduces query optimization for both, transactional and analytical queries.</p>
 <p style=\"text-align:center;\">
     <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=8595f517-2ce8-4716-94d2-b6bf6b3991d0\" target=\"_blank\">More info & registrations</a>
@@ -104,7 +103,7 @@ sponsors:
     image: ../assets/img/events/0029/datasense.png
     height: 47
   - link: https://www.malizmaj.hr/
-    image: ../assets/img/events/0018/MaliZmaj.png
+    image: ../assets/img/events/0029/MaliZmaj.png
     height: 150
 
 speakerlisturl: https://sessionize.com/api/v2/3jdakbt0/view/SpeakerWall
