@@ -35,24 +35,8 @@ precondescription: "
     </p>
 
 <p>If you already know and use the DAX, but you want to move to the next level, by unleashing the full power of evaluation context manipulation, learn about shadow filter context, author complex queries and solve advanced scenarios, then this is the workshop for you.</p>
-<p>Prerequisite:</p>
-<ul>
-<li>attending the pre-con “From 0 to DAX” or having an equivalent experience,</li>
-<li>knowing how to create a measure and a calculated column,</li>
-<li>understanding the concepts of row context, filter context and context transition,</li>
-<li>and being able to write good expressions in CALCULATE and CALCULATETABLE functions</li>
-</ul>
-<p>Remember, this is the prerequisite!</p>
-<p>In this workshop, you will learn how to:</p>
-<ul>
-<li>Manipulate the filter context in an efficient way reducing the granularity of complex filters</li>
-<li>Use expanded table or CROSSFILTER depending on the requirements</li>
-<li>Control data lineage and play with it using TREATAS</li>
-<li>Read the content of the filter context to identify user selection vs. cross-filters</li>
-<li>Control materialization caused by context transition</li>
-</ul>
 <p style=\"text-align:center;\">
-    <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=6085ace7-bb09-4ad6-9357-40fd2d12e476\" target=\"_blank\">Pre-con registration</a>
+    <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=6085ace7-bb09-4ad6-9357-40fd2d12e476\" target=\"_blank\">More info & registrations</a>
 </p>
 </div>
 <br>
@@ -66,20 +50,9 @@ precondescription: "
     <img src=\"../assets/img/events/0029/milos2023.jpg\" height=\"170\" alt=\"Miloš Radivojević\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
     </p>
 
-<p>„Pretraga je juče bila super brza, a danas za iste parametre dobijamo tajm aut! Developer se kune životom i ranjenom dušom svojom da niko ništa nije dirao, da je nekako usporilo samo od sebe“. </p>
-<p>„Ovi iz odjela A se žale da im je spora aplikacija, jutros je bilo sve OK, posle toga katastrofa. Ovi iz odjela B se ne žale, oni su se žalili prošle nedjelje na isto to!“ </p>
-<p>Neki su riješili problem na ove načine:</p>
-<ul>
-<li>Bilo nam je veoma sporo izlistavanje taskova, a onda sam ja restartovao SQL Server i sve je proradilo!</li>
-<li>Ja sam, pak, ribildovao indekse prošli put i odjednom sve radi kao sat! Jutros su se ponovo neki žalili, pa sam probao sa indeksima opet, ali ovoga puta nije upalilo, i dalje je sporo ☹. </li>
-</ul>
-<p>„I nije bio nikakav rollout, niko ništa nije menjao, nekako samo od sebe uspori pa se onda vrati na normalno, al sve je nekako nepouzdano…“</p>
-<p>Verujem da je svako ko čita ovaj abstract ili čuo ili izgovorio neke od ovih rečenica. I to nemali broj puta. Ako još pritom u radu koristite SQL Server bazu podataka, onda je ovaj seminar prava stvar za Vas. </p>
-<p>Nakon njega razumećete zašto se sve gore opisano događa. To su sve simptomi fenomena koji se zove Parameter Sniffing. To je nekada veoma poželjna pojava, nekada zna da bude neprijatna, a nekada može da izazove pravu katastrofu. Ovaj seminar učiniće da prepoznate opasnost na vreme i identifikujete probleme koji su posledica Parameter Sniffinga.</p>
-<p>Kroz nekoliko tipičnih i detaljnih primera naučićete kako da se borite protiv toga, koje od desetak mogućih rešenja treba da koristite u kojoj situaciji i koji kriterijume treba da Vas rukovode prilikom donošenja odluke.</p>
-<p>Opisani problemi prate SQL Server (i sve ostale relacione baze) još od ranih verzija i u poslednjoj je verziji SQL Servera (2022) Microsoft pokušao da ga konačno reši. Ovaj seminar odgovoriće Vam i na pitanje koliko je u tome uspeo i da li ćete upgrade-om na SQL Server 2022 prepustiti ovaj vrući krompir samom serveru.</p>
+<p>Ukoliko želite naučiti kako se boriti protiv Parameter Sniffinga u SQL Serveru i ubrzati svoje upite, ovo je seminar za vas.</p>
 <p style=\"text-align:center;\">
-    <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=c3caa9b0-0970-4e84-aba5-80820484eda5\" target=\"_blank\">Pre-con registration</a>
+    <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=c3caa9b0-0970-4e84-aba5-80820484eda5\" target=\"_blank\">More info & registrations</a>
 </p>
 </div>
 <br>
@@ -95,25 +68,8 @@ precondescription: "
 
 <p>Summary</p>
 <p>Even the best logical model can’t help when the physical implementation is bad. Therefore, it is important to know how SQL Server, Azure SQL Database, and partially also Azure Synapse Analytics, store data in row and columnar format and how the engines access this data. You will learn about heaps, balanced trees, and columnar indexes. In addition, this course introduces query optimization for both, transactional and analytical queries.</p>
-<p>In order to achieve a good compromise between data integrity and performance suitable for the business needs, it is essential to select the appropriate transaction isolation level. A developer needs to thoroughly understand the possible problems by selecting an inappropriate isolation level. Fortunately, SQL Server offers all possible isolation levels with both, optimistic and pessimistic locking. Memory-optimized tables do not use locking, but introduce their own set of possible issues. With locking hints, it is possible to control the locking on a lower granularity than with the session-level options. The seminar explains the possible problems and shows how the problems are solved with different transaction isolation levels.</p>
-<p>Basic familiarity with SQL Server is recommended for this course. If you are a complete beginner in this area, then we recommend that you watch the Starting with SQL Server and Azure SQL Database course first.</p>
-<p>Abstract</p>
-<p>You will learn about physical structures in a SQL Server database, including pages, extents, heaps, and balanced trees. By knowing the internals, you will be able to use the appropriate structure and design optimal indices. The seminar will guide you how to write efficient queries and support them with indices for a transactional system. Optimizing storage and queries for analytical applications is many times quite different than for transactional applications. In this module, you will learn about the columnar storage inside SQL Server and how to write efficient analytical queries.</p>
-<p>In the pessimistic concurrency approach, locks are used to prevent users from modifying data in a way that affects other users. Once a lock has been applied, other users cannot perform actions that would conflict with the lock until the owner releases it. Locks are used for reading and writing. Only one copy of data elements at any time. Update conflicts can’t occur.</p>
-<p>In the optimistic concurrency approach, multiple copies (with multiple versions) of data elements are created. The copies are from the state before updates for on-disk tables and show the new data for in-memory tables. Locks might be used for writing only for on-disk tables. Readers read stored old versions of data elements. Update conflicts can occur. Memory-optimized tables always use the optimistic approach. There is no locking at all. The module starts by introducing the memory-optimized tables.</p>
-<p>The worst issue with the locks is deadlocks. The module explains how a deadlock can occur, and shows how to solve it. Then the module introduces table-level locking hints.</p>
-<p>Modules</p>
-<ol>
-  <li>Table and index structures</li>
-  <li>Optimizing queries for a transactional system</li>
-  <li>Columnar storage and optimizing analytical queries</li>
-  <li>Pessimistic isolation levels</li>
-  <li>Optimistic isolation levels</li>
-  <li>Memory-optimized tables and isolation levels</li>
-  <li>Deadlocks and locking hints</li>
-</ol> 
 <p style=\"text-align:center;\">
-    <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=8595f517-2ce8-4716-94d2-b6bf6b3991d0\" target=\"_blank\">Pre-con registration</a>
+    <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=8595f517-2ce8-4716-94d2-b6bf6b3991d0\" target=\"_blank\">More info & registrations</a>
 </p>
 </div>"
 
@@ -121,7 +77,10 @@ precondescription: "
 #  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
 #  rooms:
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/3jdakbt0/view/GridSmart
+
+scheduleapp: https://ds-croatia-2023.sessionize.com
+
 venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.608236646044!2d15.971867215814784!3d45.79907581905612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f5ccd82531%3A0x9f01ada2a1532ad4!2sHotel%20International!5e0!3m2!1sen!2shr!4v1661522326685!5m2!1sen!2shr
 sponsors:
   - sponsorlevel: GOLD
@@ -131,7 +90,7 @@ sponsors:
   - sponsorlevel: SILVER
   - link: https://bonsai.tech/
     image: ../assets/img/events/0029/bonsaitech.gif
-    height: 80
+    height: 60
   - sponsorlevel: BRONZE
   - link: https://www.gethynellis.com/
     image: ../assets/img/events/0029/GE-Logo.png
@@ -143,7 +102,7 @@ sponsors:
     image: ../assets/img/events/0029/datasense.png
     height: 47
 
-speakerlisturl: https://sessionize.com/ds-croatia-2023/
+speakerlisturl: https://sessionize.com/api/v2/3jdakbt0/view/SpeakerWall
 callforspeakers: false 
 volunteerrequesturl: https://events.3nf.hr/Contact.aspx
 organizers:
