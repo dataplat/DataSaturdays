@@ -13,6 +13,8 @@ description:  "<p style=\"text-align:center;\">
 <p>The event will be in <b>person</b>, on Saturday, June 03, at the <a href=\"https://goo.gl/maps/4Wag21rGEw4vxcmJ9\" target=\"_blank\">Hotel International, Miramarska 24, 10000 Zagreb, Croatia</a>. </p>
 <p><b>Sponsors</b></p>
 <p>Thanks to all the sponsors involved who made this event possible.</p>
+<p><b>Little Dragon</b></p>
+<p>The Society for Improving the Quality of Life of Poor and Homeless Children <a href=\"https://www.malizmaj.hr/\" target=\"_blank\">Mali zmaj</a> (Little Dragon) regularly organizes humanitarian actions to help poor and homeless children. This year we have joined their work so the Mali Zmaj will be present at our conference where you will be able to participate in fundraising. Mali Zmaj is currently helping 150 families and around 350 children, they help with paying school trips, field lessons, graduation trips and so on.</p>
 <p><b>Organizers</b></p>
 <p>The event is organized by <a href=\"https://www.linkedin.com/in/dmatesic/\" target=\"_blank\">Damir Matešić, MVP</a> & <a href=\"https://www.linkedin.com/in/dsavovic/\" target=\"_blank\">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>"
 registrationurl: https://www.eventbrite.co.uk/e/data-saturday-croatia-2023-tickets-407961352387
@@ -66,7 +68,6 @@ precondescription: "
     <img src=\"../assets/img/events/0029/sarka.jpg\" height=\"170\" alt=\"Dejan Sarka\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
     </p>
 
-<p>Summary</p>
 <p>Even the best logical model can’t help when the physical implementation is bad. Therefore, it is important to know how SQL Server, Azure SQL Database, and partially also Azure Synapse Analytics, store data in row and columnar format and how the engines access this data. You will learn about heaps, balanced trees, and columnar indexes. In addition, this course introduces query optimization for both, transactional and analytical queries.</p>
 <p style=\"text-align:center;\">
     <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=8595f517-2ce8-4716-94d2-b6bf6b3991d0\" target=\"_blank\">More info & registrations</a>
@@ -101,6 +102,9 @@ sponsors:
   - link: http://www.datasense.hr/
     image: ../assets/img/events/0029/datasense.png
     height: 47
+  - link: https://www.malizmaj.hr/
+    image: ../assets/img/events/0029/MaliZmaj.png
+    height: 150
 
 speakerlisturl: https://sessionize.com/api/v2/3jdakbt0/view/SpeakerWall
 callforspeakers: false 
