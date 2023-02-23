@@ -32,9 +32,9 @@ callforspeakers: true
 volunteerrequesturl: _No response_
 organizers:
   - name: Michael Johnson
-    twitter: @MikeJohnsonZA
+    twitter: https://twitter.com/MikeJohnsonZA
     email: michaelAdrianJohnson@live.com
   - name: Warren Rocchi
-    twitter: @wazdarocsta
+    twitter: https://twitter.com/Wazdarocsta
     email: rocsta@gmail.com
  
