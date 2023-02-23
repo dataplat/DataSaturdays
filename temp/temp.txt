@@ -1,24 +1,24 @@
 ### eventname
 
-Data Saturday Rheinland 2023
+Data Saturday Johannesburg
 
 ### date
 
-2023-06-17 08:00:00 +01:00
+2023-05-13 08:00:00 +02:00
 
 ### description
 
-Data Saturday Rheinland is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.
-
-Data Saturday Rheinland 2023 is already the 8th community conference that we organize at the  University of Applied Sciences Bonn-Rhein-Sieg. The Data Saturday Rheinland 2023 is organized by PASS Deutschland e.V. UG Rheinland together with the University of Applied Sciences Bonn -Rhein-Sieg.
+Data Saturday Johannesburg is a free full day on volunteer led in person data platform training over various tracks and topics happening at Microsoft in Bryanston, 3012 William Nicol Drive, Bryanston, Johannesburg
+The event will kick off at 8am with a keynote address and thereafter split into sessions breaking for lunch and refreshments. The final session and prizegiving will finish by 5pm
+Previously year's events ran under the PASS SQL Saturday branding the organisers wanted to me more inclusive of the data community at large and felt that the Data Saturday guise was more accommodating
 
 ### registrationurl
 
-https://sessionize.com/datasaturday-rheinland-2023/
+https://www.meetup.com/johannesburg-data-platform-user-group/events/291022594/
 
 ### rooms
 
-_No response_
+roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
 
 ### scheduleurl
 
@@ -26,11 +26,11 @@ _No response_
 
 ### sponsors
 
-sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
+_No response_
 
 ### speakerlisturl
 
-https://sessionize.com/datasaturday-rheinland-2023/
+https://sessionize.com/data-saturday-johannesburg3228
 
 ### volunteerrequesturl
 
@@ -38,4 +38,4 @@ _No response_
 
 ### organizers
 
-Tillmann Eitelberg;https://twitter.com/_Tillmann;tei@sqlpass.de;Oliver Engels;https://twitter.com/oengels;oen@sqlpass.de
+Michael Johnson;@MikeJohnsonZA;[michaelAdrianJohnson@live.com](mailto:michaelAdrianJohnson@live.com),Warren Rocchi;@wazdarocsta;[rocsta@gmail.com](mailto:rocsta@gmail.com)
