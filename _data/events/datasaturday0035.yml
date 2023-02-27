@@ -114,7 +114,7 @@ milestones: "
  "
 
 
-#registrationurl: "https://datasatoslo2022.eventbrite.com"
+registrationurl: "https://datasatoslo2023.eventbrite.com"
 # join:
 # description: #Refer to the EventBrite registration page for details on how to register and join the sessions.
 #  rooms:
@@ -245,7 +245,17 @@ sponsors:
 #     image: ../assets/img/events/0023/Quest-R-Orange-RGB.jpg
 #     height: 100
 
-#   - sponsorlevel: SILVER
+  - sponsorlevel: SILVER
+  - link: https://www.quarks.no/
+    image: ../assets/img/events/0035/quarks_logo.png
+    height: 90
+    margin-top: 0
+    margin-bottom: 0
+  - link: https://www.dbwatch.com/
+    image: ../assets/img/events/0023/dbWatch_official_logo.png
+    height: 75
+    margin-top: 50
+    margin-bottom: 30
 #   - link: https://www.red-gate.com/
 #     image: ../assets/img/events/0023/redgate-logo.svg
 #     height: 80
@@ -285,7 +295,7 @@ sponsor-menuitem: true
 sponsorbenefits: '
   <div class="row justify-content-center">
       <p style="text-align:center;">
-      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="" target="_blank">Sponsorplan</a>
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../assets/img/events/0035/DataSaturdayOslo2023_SponsorPlan.pdf" target="_blank">Sponsorplan</a>
     </p>
   </div>    
   '
