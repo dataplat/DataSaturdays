@@ -53,7 +53,33 @@ precondescription: "<p>
             <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com/e/data-saturday-32-precon-tickets-500018467697\" target=\"_blank\">More info & registrations</a>
         </p>
     </div>"
-  
+
+sponsors:
+  - link: https://www.kapacity.dk/
+    image: ../assets/img/events/0032/twoday-kapacity.png
+    height: 120
+  - link: https://www.fellowmindcompany.com/da-dk/
+    image: ../assets/img/events/0032/fellowmind.png
+    height: 120
+  - link: https://www.catmansolution.com/
+    image: ../assets/img/events/0032/catman-solution.png
+    height: 120
+  - link: https://strd.co/
+    image: ../assets/img/events/0032/structured-concepts.png
+    height: 120
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0032/redgate.png
+    height: 120
+  - link: https://www.biwise.dk/
+    image: ../assets/img/events/0032/biwise.png
+    height: 120
+  - link: https://www.arrow.dk/
+    image: ../assets/img/events/0032/arrow.png
+    height: 120
+  - link: https://inspari.dk/
+    image: ../assets/img/events/0032/inspari.jpg
+    height: 120
+
 sponsorbenefits: '
  <img src="https://user-images.githubusercontent.com/108015731/200780577-db7f242d-1cf8-47f4-af14-577e69f9c01e.png">
 '
@@ -61,8 +87,8 @@ sponsorbenefits: '
 scheduleurl: https://sessionize.com/api/v2/ztilolfa/view/GridSmart
 
 speakerlisturl: https://sessionize.com/api/v2/ztilolfa/view/SpeakerWall
-
 callforspeakers: false
+
 
 volunteerrequesturl: _No response_
 organizers:
