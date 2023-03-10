@@ -33,12 +33,17 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   WELCOME TO OSLO!
   </p>
   <p style=\"text-align:center;font-size:2.5rem;\">
-  Call for Speakers for Pre-Cons & Saturday sessions is open! 
+  Call for Speakers for Saturday sessions is still open! 
   </p>
   <p>
   <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://sessionize.com/data-saturday-oslo-2023/\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Submit your session</a>
-  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://forms.gle/nY8D48kvXfw6LtzP6\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Submit pre-con</a>
   </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  and we registration for our first <a href=\"#precon\">precon</a> and Saturday is open! 
+  </p>
+  <p>
+  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo2023.eventbrite.com\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Register now</a>
+
   <p style=\"text-align:center;\">
   <img src=\"../assets/img/events/0035/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\" style=\"margin-bottom: 35px;\">
   </p>
@@ -91,9 +96,9 @@ milestones: "
     <p style=\"text-align:left;font-size:1.5rem\">
         * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> January 2023: Call for speakers open 
   <br>
-        * January 2023: Registration opens
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> January 2023: Registration opens
   <br>
-        * <strong>February 28th, 2023</strong>: Pre-conference Call for Speakers closes
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>February 28th, 2023</strong>: Pre-conference Call for Speakers closes
   <br>
         * Late March, 2023: Pre-conference sessions announced
   <br>
@@ -121,46 +126,30 @@ registrationurl: "https://datasatoslo2023.eventbrite.com"
 #    - name: Room 1
 #      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
 
-# precondescription: "
-#     <p>
-#     We are delighted to present the world class speakers, Margarita Neumova and Alexander Arvidsson, which will hold this year's pre-conference workshops. Check out the workshop descriptions below and reserve your seat today. 
-#     </p>
-#     <p>
-#     The workshops will be held on Friday preceding our main event on Saturday and will have the affordable cost of NOK 3000 (lunch included) for a full day of high quality learning. 
-#     </p>
-#     <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
-#     <p style=\"text-align: center; font-size: 1.5rem;\">
-#     Azure Synapse Analytics Fast Track for Data Engineers
-#     </p>
-#     <p style=\"text-align: center; font-size: 1.3rem;\">
-#     with <a href=\"https://sessionize.com/margarita-naumova\">Margarita Naumova</a>
-#     <img src=\"../assets/img/events/0023/Margarita_Naumova.jpg\" height=\"170\" alt=\"Margarita Naumova\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
-#     </p> 
-#     <p>
-#     Azure Synapse Analytics is one of the most exciting platforms for Data analytics in the cloud. To unleash its potential, you must discover all the elements of it and gain a good understanding when and how to use what.
-#     </p>
-#     <p>
-#     This pre-con covers all you need to know to start or continue your journey to a Modern Analytics Platform with Azure with Synapse Analytics. 
-#     We will discover all the elements of Synapse Analytics and will dive deeper into most important of them – Builtin Pool and SQLPool. 
-#     By understanding these Synapse Analytics components, you will build the foundation knowledge for architecting your Modern DW Platform. 
-#     You will be able to use them to design your relational DW in SQL Pool and to integrate your big data with the relational DW in a single solution.
-#     </p>
-#     <p>
-#     The pre-con breaks down the Synapse Analytics in its elements and gives you a solid foundation of knowledge on most important of them. We will cover :
-#     <br>
-#     •	The concept and architecture of combining big data and relational data in one data platform
-#     <br>
-#     •	SQL Dedicated Pool – how it works, how to load data, optimizing the physical database design and the performance
-#     <br>
-#     •	Azure Data Lakehouse with Built-in Pool including data lake common design rules 
-#     <br>
-#     •	SPARK cluster and when to use it, Orchestration, code base and integration with tools and services
-#     <br>
-#     </p>
-#     <p style=\"text-align:center;\">
-#       <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo22-synapseanalytics.eventbrite.com\" target=\"_blank\">Synapse pre-con registration</a>
-#     </p>
-#     </div>
+precondescription: "
+    <p>
+    We are delighted to present the first world class precon speaker, Brent Ozar, which will hold one of this year's pre-conference workshops. Check out the workshop descriptions below and reserve your seat today. 
+    </p>
+    <p>
+    The workshops will be held on Friday preceding our main event on Saturday and will have the affordable cost of NOK 3000 (lunch included) for a full day of high quality learning. 
+    </p>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    Mastering Query Tuning 
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with <a href=\"https://sessionize.com/brent-ozar\" target=\"_blank\">Brent Ozar</a>
+    <img src=\"../assets/img/events/0035/Brent_Ozar_Luftgekuhlt.jpg\" height=\"170\" alt=\"Brent Ozar\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    </p> 
+    <p>
+    You need to speed up an existing app, and you’re allowed to change both queries & indexes, but you can’t throw hardware at it. Let’s tackle it together in a fast-paced 1-day version of my full 3-day class, and because we can’t cover everything, attendees get a year’s access to <a href=\"https://training.brentozar.com/p/mastering-server-tuning\" target=\"_blank\">the full 3-day recorded class too.</a>
+    </p>
+    <br>
+    </p>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://training.brentozar.com/p/mastering-query-tuning-live\" target=\"_blank\">Query tuning pre-con registration</a>
+    </p>
+    </div>"
 
 #     <br>
 
@@ -240,10 +229,12 @@ sponsors:
 #     image: ../assets/img/events/0023/dbWatch_official_logo.png
 #     height: 130
 
-#   - sponsorlevel: GOLD
-#   - link: https://www.quest.com/
-#     image: ../assets/img/events/0023/Quest-R-Orange-RGB.jpg
-#     height: 100
+  - sponsorlevel: GOLD
+  - link: https://tabulareditor.com/
+    image: ../assets/img/events/0035/te3-logo-with-text.png
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
 
   - sponsorlevel: SILVER
   - link: https://www.quarks.no/
@@ -251,11 +242,11 @@ sponsors:
     height: 90
     margin-top: 0
     margin-bottom: 0
-  - link: https://www.dbwatch.com/
-    image: ../assets/img/events/0023/dbWatch_official_logo.png
-    height: 75
-    margin-top: 50
-    margin-bottom: 30
+  # - link: https://www.dbwatch.com/
+  #   image: ../assets/img/events/0023/dbWatch_official_logo.png
+  #   height: 75
+  #   margin-top: 50
+  #   margin-bottom: 30
 #   - link: https://www.red-gate.com/
 #     image: ../assets/img/events/0023/redgate-logo.svg
 #     height: 80
