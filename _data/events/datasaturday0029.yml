@@ -88,17 +88,20 @@ sponsors:
   - link: https://www.span.eu/
     image: ../assets/img/events/0029/span.png
     height: 120
+  - link: http://www.tria.hr/
+    image: ../assets/img/events/0029/TRIA.png
+    height: 120
   - sponsorlevel: SILVER
   - link: https://bonsai.tech/
     image: ../assets/img/events/0029/bonsaitech.gif
-    height: 60
+    height: 50
   - sponsorlevel: BRONZE
   - link: https://www.gethynellis.com/
     image: ../assets/img/events/0029/GE-Logo.png
     height: 120
   - link: https://unitfly.com/
     image: ../assets/img/events/0029/Unitfly_logo_color_png.png
-    height: 80
+    height: 65
   - link: http://www.datasense.hr/
     image: ../assets/img/events/0029/datasense.png
     height: 47
