@@ -45,14 +45,14 @@ precondescription: "
 
 <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
     <p style=\"text-align: center; font-size: 1.5rem;\">
-    Sve što ste hteli da znate o Parameter Sniffingu u SQL Serveru
+    Intelligent Query Processing in SQL Server - Lessons Learned from Production
     </p>
     <p style=\"text-align: center; font-size: 1.3rem;\">
     with <a href=\"https://sessionize.com/milossql\">Miloš Radivojević</a>
     <img src=\"../assets/img/events/0029/milos2023.jpg\" height=\"170\" alt=\"Miloš Radivojević\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
     </p>
 
-<p>Ukoliko želite naučiti kako se boriti protiv Parameter Sniffinga u SQL Serveru i ubrzati svoje upite, ovo je seminar za vas.</p>
+<p>Introduced with SQL Server 2017, further developed and significantly extended in both SQL Server 2019 and 2022, the Intelligent Query Processing (IQP) is one of the most important investments Microsoft has made in SQL Server. It contains new functionalities and enhancements that can improve the performance of existing workloads (both OLTP and OLAP) without changing the code.</p>
 <p style=\"text-align:center;\">
     <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=c3caa9b0-0970-4e84-aba5-80820484eda5\" target=\"_blank\">More info & registrations</a>
 </p>
@@ -90,7 +90,7 @@ sponsors:
     height: 120
   - link: http://www.tria.hr/
     image: ../assets/img/events/0029/TRIA.png
-    height: 120
+    height: 100
   - sponsorlevel: SILVER
   - link: https://bonsai.tech/
     image: ../assets/img/events/0029/bonsaitech.gif
