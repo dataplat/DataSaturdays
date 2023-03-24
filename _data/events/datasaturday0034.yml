@@ -6,9 +6,12 @@ Data Saturday Rheinland is a free one-day event for professionals who use the Mi
 
 Data Saturday Rheinland 2023 is already the 8th community conference that we organize at the  University of Applied Sciences Bonn-Rhein-Sieg. The Data Saturday Rheinland 2023 is organized by PASS Deutschland e.V. UG Rheinland together with the University of Applied Sciences Bonn -Rhein-Sieg.
  '
-registrationurl: https://sessionize.com/datasaturday-rheinland-2023/
+registrationurl: https://www.eventbrite.com/cc/data-saturday-rheinland-2023-1827759
   
 sponsors: 
+  - link: SOLISYON
+    image: https://www.solisyon.de/wp-content/uploads/2019/08/solisyon-gmbH-wortbildmarke-100px-@1x.png
+    height: 75
   - link: oh22 Group
     image: https://oh22.is/wp-content/uploads/sites/14/2021/02/oh22_Logo_grau_75.png
     height: 75
@@ -17,7 +20,7 @@ scheduleurl: _No response_
 
 speakerlisturl: https://sessionize.com/datasaturday-rheinland-2023/
 
-callforspeakers: true
+callforspeakers: false
 
 organizers:
   - name: Tillmann Eitelberg
