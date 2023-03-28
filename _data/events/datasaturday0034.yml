@@ -14,7 +14,7 @@ venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80855.8346659138
 sponsors: 
  - sponsorlevel: YOU ROCK!
  - link: https://www.solisyon.de
-   image: https://www.solisyon.de/wp-content/uploads/2019/08/solisyon-gmbH-wortbildmarke-100px-@1x.png
+   image: https://raw.githubusercontent.com/bweissman/code/master/misc/solisyon.png
    height: 75
  - sponsorlevel: GOLD
  - link: https://oh22.is/
