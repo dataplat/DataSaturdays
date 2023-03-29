@@ -18,12 +18,11 @@ We wanted to include other community leaders to assist with guiding the project 
 - [Warwick Rudd](https://twitter.com/Warwick_Rudd)
 - [Matt Gordon](https://twitter.com/sqlatspeed)
 
-We have now (03-2021) enabled 10 Data Saturday events to exist, which we still think is amazing!
+We have now (03-2024) enabled 34 Data Saturday events to exist, which we still think is amazing!
 
 # Where is it?
 
 The website can be found at [DataSaturdays.com](https://datasaturdays.com) and is hosted on Github Pages
-![Screenshot of DataSaturdays.com](https://user-images.githubusercontent.com/6729780/102750927-b229c200-435e-11eb-9daf-e4c730f29e04.png)
 
 ## Wiki
 
