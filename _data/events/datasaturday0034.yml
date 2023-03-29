@@ -28,6 +28,52 @@ sponsors:
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/GDS.jpg
    height: 75
 
+precondescription: "
+    <p>
+    We are delighted to present offer two precons again this year! 
+    </p>
+    <p>
+    The workshops will be held on Friday preceding our main event on Saturday.
+    </p>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    Kubernetes from 0 to 100 in one day
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with Sascha Dittmann
+    </p> 
+    <p>
+    Modern application delivery must be fast and consistent to keep pace with business goals. This is why container-based applications have become increasingly popular in recent years. Kubernetes has established itself as a quasi-standard for running these applications securely and scalable in a cluster.​
+	   <br><br>
+	   If you - just like many of my customers - are asking yourself how to get started with this toolset, this workshop is for you.​
+	   <br><br>
+	   In this one-day workshop, we will start with the basics of Docker and containers and of course put our acquired knowledge into practice right away. We will then get an architectural overview of Kubernetes clusters and how they are implemented by the various cloud providers. Once our own cluster is up and running, we learn how to interact with it and roll out our first applications. Finally, we will delve deeper into the development of container-based solutions and how we can operate them securely and scalable in the cluster.
+    </p>
+    <br>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com/e/pre-con-data-saturday-2023-rheinland-tickets-562557072347" target=\"_blank\">pre-con registration</a>
+    </p>
+    </div>
+	   <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    Data Protection in Power BI
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with Gabi Münster and Oliver Engels
+    </p> 
+    <p>
+    Power BI has been, is and will be a self-service oriented service. No reason to deny this, or to think differently. But this doesn’t mean that the focus of Power BI is not to be used by companies with an enterprise architecture approach. This also doesn’t mean, that Data Governance aspects are neglected. The plan is to combine self-service features with the necessary amount of governance and control.​
+	   <br><br>
+	   One important aspect of Data governance is Data Security. And this is one of the major concerns for many companies when thinking about their key users creating and sharing data artifacts. Let’s spend a whole day on investigating the challenges of data protection and the offerings already available in Power Live, Interactive and Hands On…
+	   <br><br>
+	   What you need: A notebook with a Windows OS, as we will use Power BI Desktop. Please make sure that you will be able to connect to public internet and Azure, as the hands-on part will work with Azure services. Please understand that a basic understanding of both Power BI and data protection is expected. There will be explanations, but this is not a beginner session, and there won’t be time to explain the basics. You don’t need to be an expert, but for the sake of your own experience, please consider this course only if you feel you have the proper background.​
+    </p>
+    <br>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com/e/pre-con-data-saturday-2023-rheinland-tickets-562557072347" target=\"_blank\">pre-con registration</a>
+    </p>
+    </div>"
+
 speakerlisturl: https://sessionize.com/api/v2/nn9diwo7/view/SpeakerWall
 callforspeakers: false
 
