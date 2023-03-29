@@ -1,0 +1,12 @@
+{
+  "eventname": "The nam of your event",
+  "date": "2022-06-30 08:00:00 -00:00 ",
+  "description": ":-(",
+  "registrationurl": "_No response_",
+  "rooms": "roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3",
+  "scheduleurl": "_No response_",
+  "sponsors": "sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height",
+  "speakerlisturl": "https://sessionize.com/data-saturday-parma-2022/",
+  "volunteerrequesturl": "_No response_",
+  "organizers": "organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email"
+}
