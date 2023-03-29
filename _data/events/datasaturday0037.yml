@@ -1,0 +1,47 @@
+name: "Data Saturday  #37 - I dont like Wednesdays"
+date: 2022-06-30 08:00:00 -00:00 
+
+description: '
+xzcvzxcv
+ '
+registrationurl: _No response_
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: roomname1
+     url: roomurl1
+   - name: roomname2
+     url: roomurl2
+   - name: roomname3
+     url: roomurl3
+  
+sponsors: 
+  - link: sponsor1link
+    image: sponsor1image
+    height: sponsor1height
+  - link: sponsor2link
+    image: sponsor2image
+    height: sponsor2height
+  - link: sponsor3link
+    image: sponsor3image
+    height: sponsor3height
+ 
+
+scheduleurl: _No response_
+
+speakerlisturl: https://sessionize.com/data-saturday-parma-2022/
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: organizer1name
+    twitter: organizer1twitter
+    email: organizer1email
+  - name: organizer2name
+    twitter: organizer2twitter
+    email: organizer2email
+  - name: organizer3name
+    twitter: organizer3twitter
+    email: organizer3email
+ 
