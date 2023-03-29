@@ -9,9 +9,9 @@ Data Saturday Rheinland is a free one-day event for professionals who use the Mi
 Data Saturday Rheinland 2023 is already the 8th community conference that we organize at the  University of Applied Sciences Bonn-Rhein-Sieg. The Data Saturday Rheinland 2023 is organized by PASS Deutschland e.V. UG Rheinland together with the University of Applied Sciences Bonn -Rhein-Sieg.
  '
 registrationurl: https://www.eventbrite.com/cc/data-saturday-rheinland-2023-1827759
-  
+
 venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80855.83466591383!2d7.044624092593844!3d50.70611953405292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bee7453906f18b%3A0xf70b98d04da5155e!2sHochschule%20Bonn-Rhein-Sieg%20%2F%20Campus%20Hennef!5e0!3m2!1sen!2sde!4v1679920912383!5m2!1sen!2sde
-sponsors: 
+sponsors:
  - sponsorlevel: YOU ROCK!
  - link: https://www.solisyon.de
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/solisyon.png
@@ -28,6 +28,53 @@ sponsors:
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/GDS.jpg
    height: 75
 
+precondescription: '
+    <p>
+    We are delighted to present offer two precons again this year!
+    </p>
+    <p>
+    The workshops will be held on Friday preceding our main event on Saturday.
+    </p>
+    <div style="width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;">
+    <p style="text-align: center; font-size: 1.5rem;">
+    Kubernetes from 0 to 100 in one day
+    </p>
+    <p style="text-align: center; font-size: 1.3rem;">
+    with Sascha Dittmann
+    </p>
+    <p>
+    Modern application delivery must be fast and consistent to keep pace with business goals. This is why container-based applications have become increasingly popular in recent years. Kubernetes has established itself as a quasi-standard for running these applications securely and scalable in a cluster.​
+	   <br><br>
+	   If you - just like many of my customers - are asking yourself how to get started with this toolset, this workshop is for you.​
+	   <br><br>
+	   In this one-day workshop, we will start with the basics of Docker and containers and of course put our acquired knowledge into practice right away. We will then get an architectural overview of Kubernetes clusters and how they are implemented by the various cloud providers. Once our own cluster is up and running, we learn how to interact with it and roll out our first applications. Finally, we will delve deeper into the development of container-based solutions and how we can operate them securely and scalable in the cluster.
+    </p>
+    <br>
+    <p style="text-align:center;">
+    <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.eventbrite.com/e/pre-con-data-saturday-2023-rheinland-tickets-562557072347" target="_blank">Pre-Con Registration</a>
+
+    </p>
+    </div>
+    <div style="width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;">
+    <p style="text-align: center; font-size: 1.5rem;">
+    Data Protection in Power BI
+    </p>
+    <p style="text-align: center; font-size: 1.3rem;">
+    with Gabi Münster and Oliver Engels
+    </p>
+    <p>
+    Power BI has been, is and will be a self-service oriented service. No reason to deny this, or to think differently. But this doesn’t mean that the focus of Power BI is not to be used by companies with an enterprise architecture approach. This also doesn’t mean, that Data Governance aspects are neglected. The plan is to combine self-service features with the necessary amount of governance and control.​
+	   <br><br>
+	   One important aspect of Data governance is Data Security. And this is one of the major concerns for many companies when thinking about their key users creating and sharing data artifacts. Let’s spend a whole day on investigating the challenges of data protection and the offerings already available in Power Live, Interactive and Hands On…
+	   <br><br>
+	   What you need: A notebook with a Windows OS, as we will use Power BI Desktop. Please make sure that you will be able to connect to public internet and Azure, as the hands-on part will work with Azure services. Please understand that a basic understanding of both Power BI and data protection is expected. There will be explanations, but this is not a beginner session, and there won’t be time to explain the basics. You don’t need to be an expert, but for the sake of your own experience, please consider this course only if you feel you have the proper background.​
+    </p>
+    <br>
+    <p style="text-align:center;">
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.eventbrite.com/e/pre-con-data-saturday-2023-rheinland-tickets-562557072347" target="_blank">Pre-Con Registration</a>
+    </p>
+    </div>'
+
 speakerlisturl: https://sessionize.com/api/v2/nn9diwo7/view/SpeakerWall
 callforspeakers: false
 
@@ -41,22 +88,22 @@ organizers:
  - name: Ben Weissman (he/him)
    twitter: https://twitter.com/bweissman
    email: mailto:bwe@sqlpass.de
- 
+
 codeofconduct: "<p style=\"text-align:left;\">
-      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
+      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct.
       Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
     </p>
     <h2>The Short Version</h2>
     <p style=\"text-align:left;\">
-      Our conference is dedicated to providing an enjoyable environment for everyone involved. 
-      Thus providing a harassment-free experience for everyone, regardless of gender, 
-      gender identity and expression, age, sexual orientation, disability, physical appearance, 
-      body size, race, ethnicity, religion (or lack thereof), or technology choices. 
-      We do not tolerate harassment of conference participants in any form. 
-      Sexual language and imagery is not appropriate for any conference venue, 
-      including talks, workshops, parties, Twitter and other online media. 
-      Conference participants violating these rules may be sanctioned or 
-      expelled from the conference <em>without a refund</em> at the discretion 
+      Our conference is dedicated to providing an enjoyable environment for everyone involved.
+      Thus providing a harassment-free experience for everyone, regardless of gender,
+      gender identity and expression, age, sexual orientation, disability, physical appearance,
+      body size, race, ethnicity, religion (or lack thereof), or technology choices.
+      We do not tolerate harassment of conference participants in any form.
+      Sexual language and imagery is not appropriate for any conference venue,
+      including talks, workshops, parties, Twitter and other online media.
+      Conference participants violating these rules may be sanctioned or
+      expelled from the conference <em>without a refund</em> at the discretion
       of the conference organizers.
     </p>
     <p style=\"text-align:left;\">
@@ -64,43 +111,43 @@ codeofconduct: "<p style=\"text-align:left;\">
     </p>
     <h2>The Less Short Version</h2>
     <p style=\"text-align:left;\">
-      Harassment includes offensive verbal comments related to gender, gender 
-      identity and expression, age, sexual orientation, disability, physical 
-      appearance, body size, race, ethnicity, religion, technology choices, 
-      sexual images in public spaces, deliberate intimidation, stalking, 
-      following, harassing photography or recording, sustained disruption of 
-      talks or other events, inappropriate physical contact, and unwelcome 
+      Harassment includes offensive verbal comments related to gender, gender
+      identity and expression, age, sexual orientation, disability, physical
+      appearance, body size, race, ethnicity, religion, technology choices,
+      sexual images in public spaces, deliberate intimidation, stalking,
+      following, harassing photography or recording, sustained disruption of
+      talks or other events, inappropriate physical contact, and unwelcome
       sexual attention.
     </p>
     <p style=\"text-align:left;\">
-      Participants asked to stop any harassing behavior are expected to comply 
+      Participants asked to stop any harassing behavior are expected to comply
       immediately.
     </p>
     <p style=\"text-align:left;\">
-      Sponsors are also subject to the anti-harassment policy. In particular, 
-      sponsors should not use sexualized images, activities, or other material. 
-      Booth staff (including volunteers) should not use sexualized 
+      Sponsors are also subject to the anti-harassment policy. In particular,
+      sponsors should not use sexualized images, activities, or other material.
+      Booth staff (including volunteers) should not use sexualized
       clothing/uniforms/costumes, or otherwise create a sexualized environment.
     </p>
     <p style=\"text-align:left;\">
-      If a participant engages in harassing behavior, the conference organizers 
-      may take any action they deem appropriate, including warning the offender 
+      If a participant engages in harassing behavior, the conference organizers
+      may take any action they deem appropriate, including warning the offender
       or expulsion from the conference with no refund.
     </p>
     <p style=\"text-align:left;\">
-      If you are being harassed, notice that someone else is being harassed, or 
-      have any other concerns, please contact a member of conference staff 
-      immediately. Conference staff can be identified as they&#39;ll be wearing 
+      If you are being harassed, notice that someone else is being harassed, or
+      have any other concerns, please contact a member of conference staff
+      immediately. Conference staff can be identified as they&#39;ll be wearing
       branded shirts.
     </p>
     <p style=\"text-align:left;\">
-      Conference staff will be happy to help participants contact 
-      local law enforcement, provide escorts, or otherwise assist 
-      those experiencing harassment to feel safe for the duration of the 
+      Conference staff will be happy to help participants contact
+      local law enforcement, provide escorts, or otherwise assist
+      those experiencing harassment to feel safe for the duration of the
       conference. We value your attendance.
     </p>
     <p style=\"text-align:left;\">
-      We expect participants to follow these rules at conference and workshop 
+      We expect participants to follow these rules at conference and workshop
       venues and conference-related social events.
     </p>
     <p style=\"text-align:left;\">
