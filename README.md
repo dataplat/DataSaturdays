@@ -18,7 +18,7 @@ We wanted to include other community leaders to assist with guiding the project 
 - [Warwick Rudd](https://twitter.com/Warwick_Rudd)
 - [Matt Gordon](https://twitter.com/sqlatspeed)
 
-We have now (03-2024) enabled 34 Data Saturday events to exist, which we still think is amazing!
+We have now (03-2023) enabled 34 Data Saturday events to exist, which we still think is amazing!
 
 # Where is it?
 
