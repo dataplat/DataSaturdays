@@ -132,9 +132,15 @@ layout: default
                     </iframe>
                 </p>
             {% else %}
-            <p>
-              The schedule has not been announced yet. If you want to <a href="#speakers" class="js-scroll-trigger">submit your own session</a> you can still do so.
-            </p>
+				{% if pagedata.callforspeakers == false %}
+				<p>
+				The schedule has not been announced yet.
+				</p>
+				{% else %}	
+				<p>
+				The schedule has not been announced yet. If you want to <a href="#speakers" class="js-scroll-trigger">submit your own session</a> you can still do so.
+				</p>
+				{% endif %}
             {% endif %}
           </div>
 
