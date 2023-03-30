@@ -4,14 +4,14 @@ virtual: false
 hide-join-room-section: true
 
 description: '
-Data Saturday Rheinland is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.
-
-Data Saturday Rheinland 2023 is already the 8th community conference that we organize at the  University of Applied Sciences Bonn-Rhein-Sieg. The Data Saturday Rheinland 2023 is organized by PASS Deutschland e.V. UG Rheinland together with the University of Applied Sciences Bonn -Rhein-Sieg.
-
-The event will take place at
-
-Hochschule Bonn-Rhein-Sieg/ Campus Sankt Augustin
-Grantham-Allee 20
+Data Saturday Rheinland is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br>
+<br>
+Data Saturday Rheinland 2023 is already the 8th community conference that we organize at the  University of Applied Sciences Bonn-Rhein-Sieg. The Data Saturday Rheinland 2023 is organized by PASS Deutschland e.V. UG Rheinland together with the University of Applied Sciences Bonn -Rhein-Sieg.<br>
+<br>
+The event will take place at<br>
+<br>
+Hochschule Bonn-Rhein-Sieg/ Campus Sankt Augustin<br>
+Grantham-Allee 20<br>
 53757 Sankt Augustin
 
  '
@@ -28,7 +28,6 @@ sponsors:
  - link: https://oh22.is/
    image: https://oh22.is/wp-content/uploads/sites/14/2021/02/oh22_Logo_grau_75.png
    height: 75
- - sponsorlevel: GOLD
  - link: https://melissa.com/
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/melissa.jpg
    height: 75
