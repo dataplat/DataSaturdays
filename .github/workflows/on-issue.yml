@@ -7,7 +7,7 @@ on:
 
 jobs:
   createNewEventPr:
-    if: github.event.label.name == 'New Event'
+    if: contains(github.event.issue.labels.*.name, 'new-event')
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -17,6 +17,10 @@ jobs:
     - name: Get Information to file
       run: |
         Write-Host "What do we have?"
+        $Event = @"
+        ${{ toJson(github.event) }}
+        "@
+        Write-Host $Event
         $IssueBody =  @"
         ${{ github.event.issue.body }}
         "@
