@@ -7,10 +7,17 @@ description: '
 Data Saturday Rheinland is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.
 
 Data Saturday Rheinland 2023 is already the 8th community conference that we organize at the  University of Applied Sciences Bonn-Rhein-Sieg. The Data Saturday Rheinland 2023 is organized by PASS Deutschland e.V. UG Rheinland together with the University of Applied Sciences Bonn -Rhein-Sieg.
+
+The event will take place at
+
+Hochschule Bonn-Rhein-Sieg/ Campus Sankt Augustin
+Grantham-Allee 20
+53757 Sankt Augustin
+
  '
 registrationurl: https://www.eventbrite.com/cc/data-saturday-rheinland-2023-1827759
 
-venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80855.83466591383!2d7.044624092593844!3d50.70611953405292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bee7453906f18b%3A0xf70b98d04da5155e!2sHochschule%20Bonn-Rhein-Sieg%20%2F%20Campus%20Hennef!5e0!3m2!1sen!2sde!4v1679920912383!5m2!1sen!2sde
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23998.37173962651!2d7.170177954417717!3d50.784506276572486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bee7b47988afeb%3A0xd1d985bac94ce3!2sHochschule%20Bonn-Rhein-Sieg%2F%20Campus%20Sankt%20Augustin!5e0!3m2!1sen!2sde!4v1680119011900!5m2!1sen!2sde
 sponsors:
  - sponsorlevel: YOU ROCK!
  - link: https://www.solisyon.de
@@ -19,6 +26,10 @@ sponsors:
  - sponsorlevel: GOLD
  - link: https://oh22.is/
    image: https://oh22.is/wp-content/uploads/sites/14/2021/02/oh22_Logo_grau_75.png
+   height: 75
+ - sponsorlevel: GOLD
+ - link: https://melissa.com/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/melissa.jpg
    height: 75
  - sponsorlevel: SILVER
  - link: https://www.red-gate.com/
@@ -74,6 +85,8 @@ precondescription: '
       <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.eventbrite.com/e/pre-con-data-saturday-2023-rheinland-tickets-562557072347" target="_blank">Pre-Con Registration</a>
     </p>
     </div>'
+
+scheduleurl: https://sessionize.com/api/v2/nn9diwo7/view/GridSmart
 
 speakerlisturl: https://sessionize.com/api/v2/nn9diwo7/view/SpeakerWall
 callforspeakers: false
