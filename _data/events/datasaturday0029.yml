@@ -111,6 +111,9 @@ sponsors:
   - link: https://www.malizmaj.hr/
     image: ../assets/img/events/0029/MaliZmaj.png
     height: 150
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0029/RedgatelogocolourRGB_vert.png
+    height: 100
 
 speakerlisturl: https://sessionize.com/api/v2/3jdakbt0/view/SpeakerWall
 callforspeakers: false 
