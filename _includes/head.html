@@ -3,7 +3,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Data Saturdays website" />
     <meta name="author" content="" />
-    <title>Data Saturdays</title>
+    <title>
+      {% if page.title %}
+        {{ page.title }}
+      {% else %}
+        Data Saturdays
+      {% endif %}
+    </title>
     {% if page.id %}
       <link rel="icon" type="image/x-icon" href="../assets/img/favicon.ico" /> 
     {% else %}
