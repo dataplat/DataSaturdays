@@ -6,25 +6,25 @@ description: '
 <p>
 	<b>Event venue</b>
 </p>
-<p>The event will be held in Parma, at <b>the University's Campus</b>, Viale G.P. Usberti - Parco Area delle Scienze, 181/a, on Saturday, November 26.</p>
+<p>The event will be held in Parma, at <b>the University''s Campus</b>, Viale G.P. Usberti - Parco Area delle Scienze, 181/a, on Saturday, November 26.</p>
 <iframe width="800" height="500" frameborder="0" style="border:0" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDfH6vxBvqCJgF8XI1UvXpSNTmlRkCxFrA&amp;q=Department+of+Engineering+and+Architecture+-+Registered+Education&amp;maptype=satellite&amp;zoom=15" allowfullscreen=""/>
 <p>
 	<b>Organizers</b>
 </p>
 <p>The event is organized by <a href="https://www.linkedin.com/in/suxstellino">Alessandro Alpi</a> (<a href="https://it.linkedin.com/company/engage-labs">Engage Labs</a>)</p>
- '
+'
 registrationurl: _No response_
 join:
   description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
   rooms:
    - name: _No response_
-     url: 
-  
-sponsors: 
+     url:
+
+sponsors:
   - link: _No response_
-    image: 
-    height: 
- 
+    image:
+    height:
+
 
 scheduleurl: _No response_
 
@@ -35,6 +35,6 @@ callforspeakers: true
 volunteerrequesturl: _No response_
 organizers:
   - name: Alessandro Alpi (Engage Labs)
-    twitter: [organizer1twitter](https://it.linkedin.com/company/engage-labs)
-    email: alessandro.alpi@engagelabs.it
- 
+    twitter:
+    email: mailto:alessandro.alpi@engagelabs.it
+
