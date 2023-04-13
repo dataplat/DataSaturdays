@@ -5,6 +5,9 @@
   --warning: #4793e0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   overflow-x: hidden;
@@ -44,9 +47,13 @@ p {
   max-width: 100% !important;
 }
 
+.btn-continue {
+  border-radius: 50%;
+  aspect-ratio: 1;
+}
 
 .page-section {
-  padding: 2rem 0 calc(8rem + 4vw);
+  min-height: 100vh;
 }
 
 .page-section h2.section-heading {
@@ -132,8 +139,9 @@ img::-moz-selection {
   text-transform: uppercase;
 }
 #mainNav .navbar-brand img {
-  height: 1.5rem;
+  height: 2rem;
 }
+
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.95rem;
@@ -158,7 +166,7 @@ img::-moz-selection {
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
-    height: 2rem;
+    height: 3rem;
     transition: height 0.3s ease-in-out;
   }
   #mainNav.navbar-shrink {
@@ -171,7 +179,7 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink .navbar-brand svg,
 #mainNav.navbar-shrink .navbar-brand img {
-    height: 1.5rem;
+    height: 2rem;
   }
   #mainNav .navbar-nav .nav-item {
     margin-right: 1rem;
