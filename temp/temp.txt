@@ -1,24 +1,31 @@
 ### eventname
 
-Data Saturday Johannesburg
+Data saturday Parma 2023
 
 ### date
 
-2023-05-13 08:00:00 +02:00
+2023-11-18 08:30:00 +02:00
 
 ### description
 
-Data Saturday Johannesburg is a free full day on volunteer led in person data platform training over various tracks and topics happening at Microsoft in Bryanston, 3012 William Nicol Drive, Bryanston, Johannesburg
-The event will kick off at 8am with a keynote address and thereafter split into sessions breaking for lunch and refreshments. The final session and prizegiving will finish by 5pm
-Previously year's events ran under the PASS SQL Saturday branding the organisers wanted to me more inclusive of the data community at large and felt that the Data Saturday guise was more accommodating
+<p>Data Saturday #23 Parma is a free one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p>
+<p>
+	<b>Event venue</b>
+</p>
+<p>The event will be held in Parma, at <b>the University's Campus</b>, Viale G.P. Usberti - Parco Area delle Scienze, 181/a, on Saturday, November 26.</p>
+<iframe width="800" height="500" frameborder="0" style="border:0" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDfH6vxBvqCJgF8XI1UvXpSNTmlRkCxFrA&amp;q=Department+of+Engineering+and+Architecture+-+Registered+Education&amp;maptype=satellite&amp;zoom=15" allowfullscreen=""/>
+<p>
+	<b>Organizers</b>
+</p>
+<p>The event is organized by <a href="https://www.linkedin.com/in/suxstellino">Alessandro Alpi</a> (<a href="https://it.linkedin.com/company/engage-labs">Engage Labs</a>)</p>
 
 ### registrationurl
 
-https://www.meetup.com/johannesburg-data-platform-user-group/events/291022594/
+_No response_
 
 ### rooms
 
-roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
+_No response_
 
 ### scheduleurl
 
@@ -30,7 +37,7 @@ _No response_
 
 ### speakerlisturl
 
-https://sessionize.com/data-saturday-johannesburg3228
+https://sessionize.com/data-saturday-parma-2023/
 
 ### volunteerrequesturl
 
@@ -38,4 +45,4 @@ _No response_
 
 ### organizers
 
-Michael Johnson;@MikeJohnsonZA;[michaelAdrianJohnson@live.com](mailto:michaelAdrianJohnson@live.com),Warren Rocchi;@wazdarocsta;[rocsta@gmail.com](mailto:rocsta@gmail.com)
+Alessandro Alpi (Engage Labs);[organizer1twitter](https://it.linkedin.com/company/engage-labs);alessandro.alpi@engagelabs.it
