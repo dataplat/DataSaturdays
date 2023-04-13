@@ -1,13 +1,7 @@
-### eventname
+name: "Data Saturday  #37 - Data saturday Parma 2023"
+date: 2023-11-18 08:30:00 +02:00
 
-Data saturday Parma 2023
-
-### date
-
-2023-11-18 08:30:00 +02:00
-
-### description
-
+description: '
 <p>Data Saturday #23 Parma is a free one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p>
 <p>
 	<b>Event venue</b>
@@ -18,31 +12,29 @@ Data saturday Parma 2023
 	<b>Organizers</b>
 </p>
 <p>The event is organized by <a href="https://www.linkedin.com/in/suxstellino">Alessandro Alpi</a> (<a href="https://it.linkedin.com/company/engage-labs">Engage Labs</a>)</p>
+ '
+registrationurl: _No response_
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url: 
+  
+sponsors: 
+  - link: _No response_
+    image: 
+    height: 
+ 
 
-### registrationurl
+scheduleurl: _No response_
 
-_No response_
+speakerlisturl: https://sessionize.com/data-saturday-parma-2023/
 
-### rooms
+callforspeakers: true
 
-_No response_
-
-### scheduleurl
-
-_No response_
-
-### sponsors
-
-_No response_
-
-### speakerlisturl
-
-https://sessionize.com/data-saturday-parma-2023/
-
-### volunteerrequesturl
-
-_No response_
-
-### organizers
-
-Alessandro Alpi (Engage Labs);[organizer1twitter](https://it.linkedin.com/company/engage-labs);alessandro.alpi@engagelabs.it
+volunteerrequesturl: _No response_
+organizers:
+  - name: Alessandro Alpi (Engage Labs)
+    twitter: [organizer1twitter](https://it.linkedin.com/company/engage-labs)
+    email: alessandro.alpi@engagelabs.it
+ 
