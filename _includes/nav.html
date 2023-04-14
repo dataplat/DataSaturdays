@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark sticky-top bg-dark" id="mainNav">
     <a class="navbar-brand js-scroll-trigger" href="index.html#page-top">
-        Data Saturdays
+        <img src="../assets/img/nav-logo.png" alt="Data Saturdays" />
     </a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
@@ -9,10 +9,10 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ml-auto">
             {%- for link in site.navbar-links -%}
-            <li class="nav-item">
-                <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
                 </li>
-                {%- endfor %}
+            {%- endfor %}
         </ul>
     </div>
   </nav>
