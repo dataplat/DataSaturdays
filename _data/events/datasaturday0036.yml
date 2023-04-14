@@ -6,7 +6,7 @@ Data Saturday Johannesburg is a free full day on volunteer led in person data pl
 The event will kick off at 8am with a keynote address and thereafter split into sessions breaking for lunch and refreshments. The final session and prizegiving will finish by 5pm
 Previously year''s events ran under the PASS SQL Saturday branding the organisers wanted to me more inclusive of the data community at large and felt that the Data Saturday guise was more accommodating
  '
-registrationurl: https://github.com/JoburgDataPlatformUserGroup/DataSaturdays
+registrationurl: https://datasaturdayjhb2023.eventbrite.com
 join:
   description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
   rooms:
@@ -23,13 +23,14 @@ sponsors:
     height: 
  
 
-scheduleurl: _No response_
+scheduleurl: https://sessionize.com/api/v2/myngqbq1/view/GridSmart
 
 speakerlisturl: https://sessionize.com/data-saturday-johannesburg3228
 
 callforspeakers: true
 
 volunteerrequesturl: _No response_
+
 organizers:
   - name: Michael Johnson
     twitter: https://twitter.com/MikeJohnsonZA
