@@ -10,15 +10,6 @@ If you are interested in Speaking at our event, we hope you submit via Sessioniz
 We are always looking for volunteers as well. For Volunteer information, please see our meetup page.
  '
 registrationurl: _No response_
-join:
-  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
-  rooms:
-   - name: roomname1
-     url: roomurl1
-   - name: roomname2
-     url: roomurl2
-   - name: roomname3
-     url: roomurl3
 
 sponsors:
   - link: sponsor1link
