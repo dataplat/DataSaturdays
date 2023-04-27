@@ -33,7 +33,7 @@ precondescription: "
 
     <b>SQL Server Query Tuning & Optimization</b>
     </p> with <a href=\"https://www.facebook.com/BenjaminNevarez\">Benjamin Nevarez</a>
-    <img src=\"../assets/img/events/0030/Benjamin_Nevarez.jpg\" height=\"170\" alt=\"Benjamin Nevarez\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    <img src=\"..\assets\img\events\0030\Benjamin_Nevarez.jpg\" height=\"170\" alt=\"Benjamin Nevarez\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
     </p>
 <p style="font-size:30px;
 This full-day seminar will show you how to optimize SQL Server queries and create high-performance applications. You will learn about the inner workings of the query optimizer so you can write better queries and provide the query processor with the quality information it needs to produce efficient execution plans. You will also get tips for troubleshooting underperforming queries. Seminar is updated to SQL Server 2022</p>
