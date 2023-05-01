@@ -1,5 +1,5 @@
 name: "Data Saturday  #36 - Data Saturday Johannesburg"
-date: 2023-08-05 08:30:00 -0000
+date: 2023-08-05 08:30:00 +02:00
 virtual: false
 hide-toplogo: true
 hide-join-room-section: true
@@ -30,6 +30,7 @@ precondescription: "
       <p>TBC</p>
       <p style=\"text-align:center;\"><a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.quicket.co.za/\" target=\"_blank\">More info & registrations</a></p>
     </div>
+"
 
 scheduleurl: https://sessionize.com/api/v2/myngqbq1/view/GridSmart
 
