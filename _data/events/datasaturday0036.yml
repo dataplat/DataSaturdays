@@ -6,12 +6,13 @@ hide-join-room-section: true
 open-registration-new-tab: true
 
 description:  '
-Data Saturday Johannesburg is a free full day on volunteer led in person data platform training over various tracks and topics happening at Microsoft in Bryanston, 3012 William Nicol Drive, Bryanston, Johannesburg
-The event will kick off at 8am with a keynote address and thereafter split into sessions breaking for lunch and refreshments. The final session and prizegiving will finish by 5pm
-Previously year''s events ran under the PASS SQL Saturday branding the organisers wanted to me more inclusive of the data community at large and felt that the Data Saturday guise was more accommodating
+Data Saturday Johannesburg is a free, full-day, volunteer-led, in-person event that covers a variety of topics within the Microsoft data platform ecosystem. The event will take place in the Microsoft offices in Johannesburg, South Africa. 
+<p>Formally known as <b>SQL Saturday Johannesburg</b>, this event provides attendees the oppertunity to interact with their fellow data professionals to network and discuss challenges and solutions to some of their most pressing problems. 
  '
 
 registrationurl: https://datasaturdayjhb2023.eventbrite.com
+callforspeakers: true 
+speakerlisturl: https://sessionize.com/data-saturday-johannesburg2023/
 
 precondescription: "
     <p>This year we will be hosting two precons.</p>
@@ -31,25 +32,23 @@ precondescription: "
       <p style=\"text-align:center;\"><a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.quicket.co.za/\" target=\"_blank\">More info & registrations</a></p>
     </div>
 "
-
 scheduleurl: https://sessionize.com/api/v2/myngqbq1/view/GridSmart
-
 #scheduleapp: https://ds-croatia-2023.sessionize.com
-
 #venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.608236646044!2d15.971867215814784!3d45.79907581905612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f5ccd82531%3A0x9f01ada2a1532ad4!2sHotel%20International!5e0!3m2!1sen!2shr!4v1661522326685!5m2!1sen!2shr
-
 sponsors:
   - sponsorlevel: GOLD
-  #- link: https://www.span.eu/
-  #  image: ../assets/img/events/0029/span.png
-  #  height: 120
+  - link: https://www.microsoft.com/
+    image: ../assets/img/events/0036/microsoft.png
+    height: 150
+    width: 300
   #- link: http://www.tria.hr/
   #  image: ../assets/img/events/0029/TRIA.png
   #  height: 100
   - sponsorlevel: SILVER
   - link: https://cobaltAnalytics.io
     image: ../assets/img/events/0036/CobaltAnalytics.png
-    height: 50
+    height: 150
+    width: 300
   - sponsorlevel: BRONZE
   #- link: https://www.gethynellis.com/
   #  image: ../assets/img/events/0029/GE-Logo.png
@@ -70,9 +69,6 @@ sponsors:
   #  image: ../assets/img/events/0029/RedgatelogocolourRGB_vert.png
   #  height: 100
 
-speakerlisturl: https://sessionize.com/data-saturday-johannesburg3228
-
-callforspeakers: true 
 
 #volunteerrequesturl: https://events.3nf.hr/Contact.aspx
 
