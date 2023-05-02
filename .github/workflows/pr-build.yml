@@ -8,6 +8,10 @@ jobs:
   buildsite:
    runs-on: ubuntu-latest
    steps:
+   - uses: actions/checkout@v2
+     with:
+      clean: true
+      fetch-depth: 0
    - name: Build Jekyll for GitHub Pages
      uses: actions/jekyll-build-pages@v1.0.7
      with:
