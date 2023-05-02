@@ -149,7 +149,7 @@ sponsorbenefits: '
   '
 #      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../assets/img/events/0030/SponsorPlan.pdf" target="_blank">Sponsorplan</a>
 
-speakerlisturl: https://sessionize.com/datasaturday-edinburgh/
+speakerlisturl: https://sessionize.com/api/v2/2xh5facq/view/SpeakerWall
 callforspeakers: false
 volunteerrequesturl: email:consulting@dbia.uk
 organizers:
