@@ -103,7 +103,7 @@ precondescription: "
 #  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
 #  rooms:
 
-scheduleurl:
+scheduleurl: https://sessionize.com/api/v2/2nugq4hl/view/GridSmart
 
 venuemap: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8938.230887727672!2d-3.1696047!3d55.9397048!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b87e1d27d98f%3A0xa04a3830d14ae922!2sJohn%20McIntyre%20Conference%20Centre%2C%20The%20University%20of%20Edinburgh!5e0!3m2!1sno!2sno!4v1682961452499!5m2!1sno!2sno
     #The hmtl below does not work in this section. I have added a working embedded link above.
