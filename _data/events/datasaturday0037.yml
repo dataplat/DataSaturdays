@@ -1,0 +1,40 @@
+name: "Data Saturday  #37 - Data saturday Parma 2023"
+date: 2023-11-18 08:30:00 +02:00
+
+description: '
+<p>Data Saturday #37 Parma is a free one-day event for professionals who use the Microsoft data platform technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p>
+<p>
+	<b>Event venue</b>
+</p>
+<p>The event will be held in Parma, at <b>the University''s Campus - Engineering and Architecture department</b>, Parco Area delle Scienze, 59, on Saturday, November 18.</p>
+<iframe src="https://www.google.com/maps/embed?key=AIzaSyDfH6vxBvqCJgF8XI1UvXpSNTmlRkCxFrA&amp;pb=!1m18!1m12!1m3!1d3544.6420461861867!2d10.309606115534175!3d44.765251179098854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47806b65c9e2e8f5%3A0x3289a46dccba18a4!2sUnipr%20-%20Dipartimento%20di%20Ingegneria%20e%20Architettura%20-%20Sede%20didattica!5e1!3m2!1sit!2sit!4v1682576979214!5m2!1sit!2sit" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p>
+	<b>Organizers</b>
+</p>
+<p>The event is organized by <a href="https://www.linkedin.com/in/suxstellino">Alessandro Alpi</a> (<a href="https://it.linkedin.com/company/engage-labs">Engage Labs</a>)</p>
+'
+registrationurl: _No response_
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url:
+
+sponsors:
+  - link: _No response_
+    image:
+    height:
+
+
+scheduleurl: _No response_
+
+speakerlisturl: https://sessionize.com/data-saturday-parma-2023/
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Alessandro Alpi (Engage Labs)
+    twitter:
+    email: mailto:alessandro.alpi@engagelabs.it
+

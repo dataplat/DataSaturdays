@@ -1,0 +1,40 @@
+name: "Data Saturday  #38 - Data Saturday Phoenix 2024"
+date: 2024-03-23
+
+description: '
+Data SQL Saturday Phoenix is rising again! The Arizona Data Platform users group has been holding this training event for data professionals since 2011, and after a short Covid related pause we are back. We plan on providing training sessions focusing on data technologies locally and in the cloud, providing content on data analytics, machine learning, SQL, business intelligence, data architecture and much more.
+Data Saturday will be held on March 23, 2024 to provide training to all who want to learn how to elevate their careers to the next level.  We will be hosting this event on the campus of Grand Canyon University Please register soon as seating is limited, and let friends and colleagues know about the event.  This event is hosted by the Arizona Data Platform Users Group.  We meet the second Wednesday of every month at Drivetime in Tempe.  For more information please see our meetup page [Arizona Data Platform User Group (Tempe, AZ) | Meetup](https://www.meetup.com/arizona-data-platform-user-group/)
+
+If you are interested in Speaking at our event, we hope you submit via Sessionize. The call for speakers will be closing January 5th, 2024.
+
+We are always looking for volunteers as well. For Volunteer information, please see our meetup page.
+ '
+registrationurl: _No response_
+
+sponsors:
+  - link: sponsor1link
+    image: sponsor1image
+    height: sponsor1height
+  - link: sponsor2link
+    image: sponsor2image
+    height: sponsor2height
+  - link: sponsor3link
+    image: sponsor3image
+    height: sponsor3height
+
+
+scheduleurl: _No response_
+
+speakerlisturl: https://sessionize.com/data-saturday-phoenix-2024/
+
+callforspeakers: true
+
+volunteerrequesturl: https://www.meetup.com/arizona-data-platform-user-group/discussions/
+organizers:
+  - name: GingerGrant
+    twitter: https://twitter.com/desertislesql
+    email: ginger.grant@desertislesql.com
+  - name: Matt Deoring
+    twitter:
+    email: doeringm.uc@gmail.com
+

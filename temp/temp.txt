@@ -1,20 +1,23 @@
 ### eventname
 
-Data Saturday Johannesburg
+Data Saturday Phoenix 2024
 
 ### date
 
-2023-05-13 08:00:00 +02:00
+2024-03-23
 
 ### description
 
-Data Saturday Johannesburg is a free full day on volunteer led in person data platform training over various tracks and topics happening at Microsoft in Bryanston, 3012 William Nicol Drive, Bryanston, Johannesburg
-The event will kick off at 8am with a keynote address and thereafter split into sessions breaking for lunch and refreshments. The final session and prizegiving will finish by 5pm
-Previously year's events ran under the PASS SQL Saturday branding the organisers wanted to me more inclusive of the data community at large and felt that the Data Saturday guise was more accommodating
+Data SQL Saturday Phoenix is rising again! The Arizona Data Platform users group has been holding this training event for data professionals since 2011, and after a short Covid related pause we are back. We plan on providing training sessions focusing on data technologies locally and in the cloud, providing content on data analytics, machine learning, SQL, business intelligence, data architecture and much more.
+Data Saturday will be held on March 23, 2024 to provide training to all who want to learn how to elevate their careers to the next level.  We will be hosting this event on the campus of Grand Canyon University Please register soon as seating is limited, and let friends and colleagues know about the event.  This event is hosted by the Arizona Data Platform Users Group.  We meet the second Wednesday of every month at Drivetime in Tempe.  For more information please see our meetup page [Arizona Data Platform User Group (Tempe, AZ) | Meetup](https://www.meetup.com/arizona-data-platform-user-group/)
+
+If you are interested in Speaking at our event, we hope you submit via Sessionize. The call for speakers will be closing January 5th, 2024.
+
+We are always looking for volunteers as well. For Volunteer information, please see our meetup page.
 
 ### registrationurl
 
-https://www.meetup.com/johannesburg-data-platform-user-group/events/291022594/
+_No response_
 
 ### rooms
 
@@ -26,16 +29,16 @@ _No response_
 
 ### sponsors
 
-_No response_
+sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
 
 ### speakerlisturl
 
-https://sessionize.com/data-saturday-johannesburg3228
+https://sessionize.com/data-saturday-phoenix-2024/
 
 ### volunteerrequesturl
 
-_No response_
+https://www.meetup.com/arizona-data-platform-user-group/discussions/
 
 ### organizers
 
-Michael Johnson;@MikeJohnsonZA;[michaelAdrianJohnson@live.com](mailto:michaelAdrianJohnson@live.com),Warren Rocchi;@wazdarocsta;[rocsta@gmail.com](mailto:rocsta@gmail.com)
+GingerGrant;@desertislesql;ginger.grant@desertislesql.com,Matt Deoring; ;doeringm.uc@gmail.com

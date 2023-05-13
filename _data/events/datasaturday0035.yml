@@ -5,44 +5,18 @@ hide-toplogo: true
 hide-join-room-section: true
 open-registration-new-tab: true
 
-# <p style=\"text-align:center;font-size:2.5rem;\">
-# Registration for our pre-con and the Saturday is LIVE! 
-# </p>
-# <p style=\"text-align:center;font-size:1.5rem;\">
-# Scroll down or click menu-item shorcuts for more information 
-# </p>
-# <p style=\"text-align:center;\">
-#   <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo2022.eventbrite.com\" target=\"_blank\">Register now</a>
-# </p>
-# <p style=\"text-align:center;\">
-# <img src=\"../assets/img/events/0023/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\">
-# </p>
-
-# However, the date for Data Saturday Oslo event is this year on Saturday 10th September. We are also aiming on offering a pre-conference full-day of training on Friday 9th. If you would like to submit a regular talk for Saturday or a pre-con session for Friday, please click the appropriate button(s) below.
-# <br>
-# Please note that even though we welcome speaker submissions from all over the world, we will take a preference to speakers living in Norway, Sweden, Finland and Denmark in our selection process.
-# </p>
-# <p>
-# <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://sessionize.com/data-saturday-oslo-2023/\" style=\"margin-left: 35px; margin-right: 35px;\" target=\"_blank\">Submit your session</a>
-# <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://forms.gle/nY8D48kvXfw6LtzP6\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 35px;\" target=\"_blank\">Submit pre-con</a>
-# </p>
-# <br>
-
-
 description: "<p style=\"text-align:center;font-size:4rem;\">
   WELCOME TO OSLO!
   </p>
   <p style=\"text-align:center;font-size:2.5rem;\">
-  Call for Speakers for Saturday sessions is still open! 
-  </p>
-  <p>
-  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://sessionize.com/data-saturday-oslo-2023/\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Submit your session</a>
+  Registration for the Saturday and 2 (out of 3) pre-cons is LIVE! 
   </p>
   <p style=\"text-align:center;font-size:2.5rem;\">
-  and we registration for our first <a href=\"#precon\">precon</a> and Saturday is open! 
+  Check out the <a href=\"#precon\">pre-conference workshop descriptions</a> and reserve your seat today
   </p>
-  <p>
-  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo2023.eventbrite.com\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Register now</a>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Click button below to register for the Saturday
+  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo2023.eventbrite.com\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Register for Saturday now</a>
 
   <p style=\"text-align:center;\">
   <img src=\"../assets/img/events/0035/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\" style=\"margin-bottom: 35px;\">
@@ -58,10 +32,7 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   <br>
   <p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>January 6th 2023</u></p>
   <p style=\"text-align:left;\">
-  We are very happy to welcome you all again to Oslo on Saturday September 2nd. We also aim to offer a full-day pre-conference Friday September 1st. If you would like to submit a regular talk for Saturday or a pre-con session for Friday, please revisit soon when we have opened up CfS.
-  <br>
-  <br>
-  Please note that even though we welcome speaker submissions from all over the world, we will take a preference to speakers living in Norway, Sweden, Finland and Denmark in our selection process.
+  We are very happy to welcome you all again to Oslo on Saturday September 2nd. We also offer full-day pre-conferences Friday September 1st. Check out the <a href=\"#precon\">pre-conference workshop descriptions</a> and reserve your seat today.
   <br>
   <br>
   If you plan to attend remember to set aside the whole day and evening as per usual we will have our traditional Data Saturday Oslo after-party when we have concluded the event. This is a great place to network with other people who share your passion for data.
@@ -100,9 +71,9 @@ milestones: "
   <br>
         * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>February 28th, 2023</strong>: Pre-conference Call for Speakers closes
   <br>
-        * Late March, 2023: Pre-conference sessions announced
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>Late March, 2023: Pre-conference sessions announced
   <br>
-        * <strong>March 31st, 2023</strong>: Call for speakers closes
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>March 31st, 2023</strong>: Call for speakers closes
   <br>
         * April, 2023: Session selection, notifying speakers
   <br>
@@ -128,11 +99,22 @@ registrationurl: "https://datasatoslo2023.eventbrite.com"
 
 precondescription: "
     <p>
-    We are delighted to present the first world class precon speaker, Brent Ozar, which will hold one of this year's pre-conference workshops. Check out the workshop descriptions below and reserve your seat today. 
+    We are delighted to present our world class precon speakers. We are planning for 3 different precons and the two first is now open for registration.
     </p>
     <p>
-    The workshops will be held on Friday preceding our main event on Saturday and will have the affordable cost of NOK 3000 (lunch included) for a full day of high quality learning. 
+    The workshops will be held on Friday preceding our main event on Saturday and will have the affordable cost of NOK 3000, including lunch, for a full day of high quality learning. 
     </p>
+    <p><i>For the precons where we use Eventbrite for ticketing a small fee will be added to the ticket price.</i></p>
+    <p>
+    Check out the workshop descriptions below and reserve your seat today.
+    <ul>
+      <li><a href=\"#mastertuning\">Mastering Query Tuning with Brent Ozar</a></li>
+      <li><a href=\"#hybriddba\">The DBA in a hybrid environment with Jess Pomfret and Rob Sewell</a></li>
+    </ul>
+    </p>
+    <div id=\"mastertuning\"/>
+    <br>
+    <br>
     <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
     <p style=\"text-align: center; font-size: 1.5rem;\">
     Mastering Query Tuning 
@@ -149,79 +131,60 @@ precondescription: "
     <p style=\"text-align:center;\">
       <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://training.brentozar.com/p/mastering-query-tuning-live\" target=\"_blank\">Query tuning pre-con registration</a>
     </p>
+    </div>
+
+    <div id=\"hybriddba\"/>
+    <br>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    The DBA in a hybrid environment
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with <a href=\"https://sessionize.com/jpomfret\">Jess Pomfret</a> 
+    <img src=\"../assets/img/events/0035/jess_pomfret.jpg\" height=\"170\" alt=\"Jess Pomfret\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    <a href=\"https://sessionize.com/rob-sewell\">Rob Sewell</a>
+    <img src=\"../assets/img/events/0035/rob_sewell.jpg\" height=\"170\" alt=\"Rob Sewell\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    </p>
+    <p>
+    The role of a DBA is evolving in today's hybrid computing landscape, where applications are deployed on both on-premises and cloud platforms. This training day is specifically designed for DBAs who are required to work in a hybrid environment, where some applications use Platform as a Service databases while others are supported on-premises or on Azure VMs.
+    </p>
+    <p>
+    We will provide you with a hands-on experience in using automation tooling including PowerShell and community-developed modules such as dbatools, dbachecks, and ImportExcel, to automate many everyday tasks in your estate, whether it is totally on-prem, hybrid, or 100% cloud. You will learn from Jess Pomfret and Rob Sewell, two of the dbatools in a Month of Lunches authors, how to take your Data Platform skills to the next level.
+    </p>
+    <p>
+    We will also cover the basic concept of infrastructure as code. You will learn how to manage your infrastructure through code, allowing you to automate the provisioning, configuration, and management of your SQL Server instances and PaaS services. You will also see how this approach can improve the reliability and consistency of your environment, reduce errors, and increase the efficiency of your operations.
+    </p>
+    <p>
+    Finally, we will touch on how you can use GitHub Actions or Azure Functions to automate your workflows and integrate with other tools in your environment. You will learn how to create workflows that trigger when specific events occur, such as a new pull request or a database schema change and automate the execution of scripts or the deployment of changes to your SQL Server instances. This approach will help you streamline your operations, reduce manual intervention, and improve the overall quality of your work.
+    </p>
+    <p>
+    Overall, this training day will provide you with a comprehensive set of skills to manage your hybrid SQL Server estate. There are many tools for you to add to your toolbox and we’ll show you how to get the most out of your available time and effort by utilising PowerShell, a collection of community-written modules with some CI\\CD tools mixed in.
+    </p>
+    <p>
+    Whether you are a senior or junior DBA, a developer who interacts with SQL Server, an accidental DBA, or someone with DevOps in your job title, this training is for you. You will improve your PowerShell skills for SQL Server and reduce the time you and your team spend administering SQL Server. You do not need any specific equipment or tools for this training, but we recommend bringing something to take notes with. All scripts and slides will be provided to you, and you will have the opportunity to follow along with most of the demos on a machine that can run Docker or with PowerShell v5 or above and a SQL Server 2012 or above instance. 
+    </p>
+    <br>    
+    Join us for a wonderful day of PowerShell and SQL, full of demos and useful solutions that you will be able to take back to your workplace.
+    <br>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo23-hybrid-dba.eventbrite.com\" target=\"_blank\">Hybrid DBA pre-con registration</a>
+    </p>
     </div>"
-
-#     <br>
-
-#     <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
-#     <p style=\"text-align: center; font-size: 1.5rem;\">
-#     Making Data Matter - Combining Data, Visual Storytelling and Presentation Skills for Maximum Impact
-#     </p>
-#     <p style=\"text-align: center; font-size: 1.3rem;\">
-#     with <a href=\"https://sessionize.com/alexanderarvidsson\">Alexander Arvidsson</a>
-
-#     <img src=\"../assets/img/events/0023/alexander_arvidsson.png\" height=\"170\" alt=\"Alexander Arvidsson\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
-#     </p>
-#     <p>
-#     A friend once explained her experience with a \"data driven company\" like this: \"we collect millions of points of data every day, we clean it, we analyse it, we make it actionable - and then we implement whatever happens to be the mood of the day\". 
-#     </p>
-#     <p>
-#     Power BI is one of the most powerful tools for data professionals and business users alike. It makes it possible to create amazing reports providing deep insight into just about any data. The insights this tool unlocks can drive decisions at every level - but do they? 
-#     </p>
-#     <p>
-#     Why is it then, that in this age of \"data-driven decisionmaking\", that so many decisions are still based on \"gut feeling\"? 
-#     <br>
-#     One of the reasons is that we still like to think that data will drive decisions on its own. 
-#     </p>
-#     <p>
-#     The challenge is using Power BI to efficiently communicating said insight.
-#     </p>
-#     <p>
-#     Efficiently communicating data means not only being able to clearly and concisely visualizing it, but also being able to explain why the data matters to your audience - in a way that is engaging, interesting and relevant.
-#     </p>
-#     <p>
-#     This, in turn, require knowledge of how to write a compelling story that is engaging and relatable for your audience, as well as presentation skills to help bridge the gap between data and people.
-#     </p>
-#     <p>
-#     By making the data and the story matter to the audience we can align feelings with hard data, essentially influencencing decisions and improving business outcomes. 
-#     </p>
-#     <p>
-#     In this full-day workshop, you will learn the skills to take your ability to communicate using Power BI to a whole new level.
-#     <br>
-#     We will start with an overview of the fundamentals of visual communication in order to make the foundation of our data storytelling as clear, concise and understandable as can be.
-#     </p>
-#     <p>
-#     We will then discuss how to craft a relevant and relatable story to build on top of our data. We will learn how, through a clear message with a clear structure, to apply classic storytelling techniques as suspense, surprise and conflict to a technical narrative.
-#     </p>
-#     <p>
-#     Finally we will explore how to improve your presentation skills to enable you to bridge the gap between the data and people to really drive your point home.
-#     </p>
-#     <p>
-#     Come join me to level up your Power BI communication skills!
-#     </p>
-#     <br>
-#     <p style=\"text-align: center; font-size: 1.2rem;font-weight: bold;color: maroon;\">
-#     A total of 12 seats available for this pre-con, so make sure to reserve your seat early
-#     </p>
-#     <br>    
-#     <p style=\"text-align:center;\">
-#       <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo22-datamatters.eventbrite.com\" target=\"_blank\">Data Matters pre-con registration</a>
-#     </p>
-#     </div>"
 
 #scheduleurl: https://sessionize.com/api/v2/hahdqimt/view/GridSmart
 
 #scheduleapp: https://datasatoslo2022.sessionize.com/
 
-# venuesponsor: 
-#   - link: https://www.kristiania.no/
-#     open-in-new-tab: true
-#     image: ../assets/img/events/0023/hoyskolen_kristiania.png
-#     height: 200
-#     margin-top: 0
-#     margin-bottom: 0
+venuesponsor: 
+  - link: https://www.kristiania.no/
+    open-in-new-tab: true
+    image: ../assets/img/events/0023/hoyskolen_kristiania.png
+    height: 200
+    margin-top: 0
+    margin-bottom: 0
 
-#venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.9755343744257!2d10.757657116683484!3d59.91595338186799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e60c78540dd%3A0xa19b8032c939043a!2sCampus%20Fjerdingen%20%7C%20H%C3%B8yskolen%20Kristiania!5e0!3m2!1sen!2sno!4v1660291032383!5m2!1sen!2sno
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.9755343744257!2d10.757657116683484!3d59.91595338186799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e60c78540dd%3A0xa19b8032c939043a!2sCampus%20Fjerdingen%20%7C%20H%C3%B8yskolen%20Kristiania!5e0!3m2!1sen!2sno!4v1660291032383!5m2!1sen!2sno
 
 sponsors:
 #   - sponsorlevel: PLATINUM
@@ -235,6 +198,11 @@ sponsors:
     height: 90
     margin-top: -20
     margin-bottom: 0
+  - link: https://fraktal.no/
+    image: ../assets/img/events/0035/fraktal_color_rgb.svg
+    height: 120
+    margin-top: 30
+    margin-bottom: 0
 
   - sponsorlevel: SILVER
   - link: https://www.quarks.no/
@@ -242,19 +210,19 @@ sponsors:
     height: 90
     margin-top: 0
     margin-bottom: 0
-  # - link: https://www.dbwatch.com/
-  #   image: ../assets/img/events/0023/dbWatch_official_logo.png
-  #   height: 75
-  #   margin-top: 50
-  #   margin-bottom: 30
+  - link: https://www.gethynellis.com/
+    image: ../assets/img/events/0035/GE-BlackBack.png
+    height: 150
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://www.dbwatch.com/
+    image: ../assets/img/events/0035/dbWatch_official_logo.png
+    height: 75
+    margin-top: 50
+    margin-bottom: 30
 #   - link: https://www.red-gate.com/
 #     image: ../assets/img/events/0023/redgate-logo.svg
 #     height: 80
-#   - link: https://www.bi-builders.com/xpert-bi/
-#     image: ../assets/img/events/0023/Logo_XpertBI.jpg
-#     height: 75
-#     margin-top: 50
-#     margin-bottom: 30
 #   - link: https://www.cloudberries.no/
 #     image: ../assets/img/events/0023/cloudberries_logo.png
 #     height: 300
