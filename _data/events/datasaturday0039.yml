@@ -1,9 +1,7 @@
 name: "Data Saturday  #39 - Data Saturday Gothenburg 2023"
 date: 2023-08-26 08:30:00 +02:00
 
-description: '
-Attend this free, one-day conference in Gothenburg to sharpen your skills on the Microsoft data platform, and to connect to other professionals in your space! We’ll offer sessions from leading world-class international and local speakers, across data management, cloud and hybrid architecture, analytics and BI, and so much more.
- '
+description: 'Attend this free, one-day conference in Gothenburg to sharpen your skills on the Microsoft data platform, and to connect to other professionals in your space! We will offer sessions from leading world-class international and local speakers, across data management, cloud and hybrid architecture, analytics and BI, and so much more.'
 registrationurl: https://datasaturday.se/
 join:
   description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
@@ -21,7 +19,7 @@ scheduleurl: _No response_
 
 speakerlisturl: _No response_
 
-callforspeakers: true
+callforspeakers: false
 
 volunteerrequesturl: _No response_
 organizers:
