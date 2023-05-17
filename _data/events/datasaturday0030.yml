@@ -5,93 +5,132 @@ hide-toplogo: true
 hide-join-room-section: true
 open-registration-new-tab: true
 
-description: '<p style="font-size:20px;<b>Data Saturday Edinburgh</b> is a free-to-attend <u>in-person</u> event (one day) for IT professionals who are keen on data platform technologies. <br>This is a community-led event, that offers useful educational & career-supported content across the data platform, cloud computing, analytics, architecture and much more.
-<p style="font-size:40px>;"With the success of the Data Platform  (SQLSaturday) event in the year 2020 (01/02/2020) and to continue the community spirit <b>the Edinburgh Data Platform user group</b> hosting another major event on <b>03rd June 2023</b>.  
-<br></p>
-<p><p style="font-size:40px;<b>Event venue</b></p>
-<p><p style="font-size:30px;The event will be in <b>person</b>, on Saturday, June 03, at the <a href=\"https://shorturl.at/kIMW2" target=\"_blank\">John McIntyre Conference Centre, The University of Edinburgh, Pollock Halls, 18 Holyrood Park Rd, Edinburgh EH16 5AY</a>. </p>
-<p><b><p style="font-size:40pxSponsors</b></p>
-<p style="font-size:30px>
-<b>Gold: Quorum, SolarWinds, SIOS & TimeXtender<br>
-Silver: Advancing Analytics, Power BI Sentinel & RedGate Software<br>
-Bronze: Gethyn Ellis (GRE Solutions)</b><br>
-Thanks to all the sponsors above involved made this event possible. Do not miss the event!</p>
+description: '
+  <p style="font-size:20px;">
+    <b>Data Saturday Edinburgh</b> is a free-to-attend <u>in-person</u> event (one day) for IT professionals who are keen on data platform technologies.
+    <br>
+    This is a community-led event, that offers useful educational & career-supported content across the data platform, cloud computing, analytics, architecture and much more.
+  </p>
+  <p style="font-size:40px;">
+    With the success of the Data Platform (SQLSaturday) event in the year 2020 (01/02/2020) and to continue the community spirit <b>the Edinburgh Data Platform user group</b> hosting another major event on <b>03rd June 2023</b>.
+    <br>
+  </p>
+  <p style="font-size:40px;">
+    <b>Event venue</b>
+  </p>
+  <p style="font-size:30px;">
+    The event will be <b>in person</b>, on Saturday, June 03, at the <a href="#venue">John McIntyre Conference Centre</a>, The University of Edinburgh, Pollock Halls, 18 Holyrood Park Rd, Edinburgh EH16 5AY.
+  </p>
+  <p style="text-align:center;">
+    <img src="../assets/img/events/0030/JohnMcintyre.png" height="350" alt="Venue" >
+  </p>
 
-We look forward to see you there, record your interest using register now link below.<br>
-Thanks
-<br>
-Satya & Tom'
+  <p style="font-size:40px">
+    <b>Sponsors</b></p>
+  <p style="font-size:30px">
+    <b>
+      Gold: Quorum, SolarWinds, SIOS & TimeXtender
+      <br>
+      Silver: Advancing Analytics, Power BI Sentinel & RedGate Software
+      <br>
+      Bronze: Gethyn Ellis (GRE Solutions)
+    </b>
+    <br>
+    Thanks to all the sponsors above involved made this event possible. Do not miss the event!
+  </p>
+
+  We look forward to see you there, record your interest using register now link below.<br>
+  Thanks
+  <br>
+  Satya & Tom
+  '
 registrationurl: https://www.eventbrite.com/e/data-saturday-edinburgh-ds30-tickets-621947420477
 
 precondescription: "
-    <p style="font-size:50px>;>PRE-CONFERENCE WORKSHOPS</p>
-    <p style="font-size:30px>;
-    For Data Saturday Edinburgh (DS30) event's pre-con workshops, we are elated to get you the specialist speakers with popular topics for the pre-conference workshops. Check out the pre-con workshop details below. 
+  <p style=\"font-size:20px;\">
+    For Data Saturday Edinburgh (DS30) event's pre-con workshops, we are elated to get you the specialist speakers with popular topics for the pre-conference workshops. Check out the pre-con workshop details below.
     <br>
-    The workshops will be held on Friday (02nd June), day before the main event on Saturday. The pre-con workshops are conducted in-person at  an affordable cost of GBP 249.00 (+VAT) (coffee/tea, lunch included) on your full-day worthwhile learning. 
-    <br></p>
-
-    <b>SQL Server Query Tuning & Optimization</b>
-    </p> with <a href=\"https://www.facebook.com/BenjaminNevarez">Benjamin Nevarez</a>
-    <img src=\"../assets/img/events/0030/Benjamin_Nevarez.jpg\" height=\"170\" alt=\"Benjamin Nevarez\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
-    </p>
-<p style="font-size:30px;
-This full-day seminar will show you how to optimize SQL Server queries and create high-performance applications. You will learn about the inner workings of the query optimizer so you can write better queries and provide the query processor with the quality information it needs to produce efficient execution plans. You will also get tips for troubleshooting underperforming queries. Seminar is updated to SQL Server 2022</p>
-<br>
-Check this registration link <a href=\"https://www.eventbrite.com/e/data-saturday-edinburgh-pre-conference-workshops-tickets-625718229067" target=\"_blank\">DS30 PRE-CONFERENCE WORKSHOP REGISTRATION</a> to get your training booked.<br>
-</p>
-<br>    
- <b>Next steps with Power BI </b>
-    </p> with <a href=\"https://twitter.com/sqlbobscot">Robert French</a>
-    <img src=\"../assets/img/events/0030/RobFrench.jpg\" height=\"170\" alt=\"Benjamin Nevarez\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
-    </p>
-<p style="font-size:30px;
-So who is the Pre-Con for? <br>Well, you have opened the Power BI desktop/service and discovered some of the features; you have got very excited and want to learn more.
-There are all these features and tools you have read about which you wish to know more about. <br>The challenge is you do know where to start. This could be just the starting point you are looking for. So yes, this is the ideal Pre-Con for a beginner or someone who has started their journey with Power BI. Or maybe you know a few things about Power BI in the Pre-Con; perhaps you will learn something you did not know or discover something rather exciting. Come and join me.
-At the end of this Pre-Con, you will leave with a better understanding of the topics covered. <br>Also, you will have access to a list of resources for further research and exploration.<br>
-Check this registration link <a href=\"https://www.eventbrite.com/e/data-saturday-edinburgh-pre-conference-workshops-tickets-625718229067" target=\"_blank\">DS30 PRE-CONFERENCE WORKSHOP REGISTRATION</a> to get your training booked.<br>
-</p>
-<br>  
+    The workshop will be held on Friday (02nd June), day before the main event on Saturday. The pre-con workshops are conducted in-person at an affordable cost of GBP 249.00 (+VAT) (coffee/tea, lunch included) on your full-day worthwhile learning.
+    <br>
+  </p>
+  <p style=\"font-size:30px;\">
+    <b>Next steps with Power BI </b>
+  </p>
+  <p style=\"font-size:25px;\">
+    with <a href=\"https://twitter.com/sqlbobscot\">Robert French</a>
+    <img src=\"../assets/img/events/0030/RobFrench.jpg\" height=\"170\" alt=\"Robert French\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+  </p>
+  <p style=\"font-size:20px;\">
+      So who is the Pre-Con for?
+    <br>
+      Well, you have opened the Power BI desktop/service and discovered some of the features; you have got very excited and want to learn more.
+      There are all these features and tools you have read about which you wish to know more about.
+    <br>
+      The challenge is you do know where to start. This could be just the starting point you are looking for.
+      So yes, this is the ideal Pre-Con for a beginner or someone who has started their journey with Power BI.
+      Or maybe you know a few things about Power BI in the Pre-Con; perhaps you will learn something you did not know or discover something rather exciting.
+      Come and join me.
+      At the end of this Pre-Con, you will leave with a better understanding of the topics covered.
+    <br>
+      Also, you will have access to a list of resources for further research and exploration.
+    <br>
+  </p>
+  <p style=\"font-size:20px;\">
+      Check this registration link <a href=\"https://www.eventbrite.com/e/data-saturday-edinburgh-pre-conference-workshops-tickets-625718229067\" target=\"_blank\">DS30 PRE-CONFERENCE WORKSHOP REGISTRATION</a> to get your training booked.
+  </p>
+  "
 
 #join:
 #  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
 #  rooms:
 
-scheduleurl: 
-venuemap: https://www.google.com/maps/dir/?api=1&origin=&destination=55.939906,-3.16972
-    <img src=\"../assets/img/events/0030/JohnMcintyre.png\" height=\"170\" alt=\"Venue\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+scheduleurl: https://sessionize.com/api/v2/2nugq4hl/view/GridSmart
+
+venuemap: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8938.230887727672!2d-3.1696047!3d55.9397048!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b87e1d27d98f%3A0xa04a3830d14ae922!2sJohn%20McIntyre%20Conference%20Centre%2C%20The%20University%20of%20Edinburgh!5e0!3m2!1sno!2sno!4v1682961452499!5m2!1sno!2sno
+    #The hmtl below does not work in this section. I have added a working embedded link above.
+    #Rune Rakeie 01.05.2023
+    #https://www.google.com/maps/dir/?api=1&origin=&destination=55.939906,-3.16972
+    #<img src=\"../assets/img/events/0030/JohnMcintyre.png\" height=\"170\" alt=\"Venue\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
 
 sponsors:
 - sponsorlevel: GOLD
-  - link: https://www.qnrl.com/
-    image: ../assets/img/events/0030/Quorum.png
-    height: 140
-  - link: http://www.solarwinds.com/
-    image: ../assets/img/events/0030/Solarwinds.png
-    height: 140
-  - link: http://www.https://us.sios.com/
-    image: ../assets/img/events/0030/sios.jpg
-    height: 140
-  - link: http://www.https://www.timextender.com/
-    image: ../assets/img/events/0030/TimeXtender.jpg
-    height: 140
-  - sponsorlevel: SILVER
-  - link: https://www.powerbisentinel.com/
-    image: ../assets/img/events/0030/PowerBISentinel.png
-    height: 100
- - link: https://www.advancinganalytics.co.uk/
-    image: ../assets/img/events/0030/AdvancingAnalytics.png
-    height: 100
-  - link: https://www.red-gate.com/
-    image: ../assets/img/events/0030/Redgate.jpg
-    height: 100
-   - sponsorlevel: BRONZE
-  - link: https://www.gethynellis.com/
-    image: ../assets/img/events/0030/GethynEllis.jpg
-    height: 80
-  
+- link: https://www.qnrl.com/
+  image: ../assets/img/events/0030/Quorum.png
+  height: 140
+- link: http://www.solarwinds.com/
+  image: ../assets/img/events/0030/Solarwinds.png
+  height: 140
+- link: http://www.https://us.sios.com/
+  image: ../assets/img/events/0030/SIOS.jpg
+  height: 140
+- link: http://www.https://www.timextender.com/
+  image: ../assets/img/events/0030/TimeXtender.jpg
+  height: 140
+- sponsorlevel: SILVER
+- link: https://www.powerbisentinel.com/
+  image: ../assets/img/events/0030/PowerBISentinel.png
+  height: 100
+- link: https://www.advancinganalytics.co.uk/
+  image: ../assets/img/events/0030/AdvancingAnalytics.png
+  height: 100
+- link: https://www.red-gate.com/
+  image: ../assets/img/events/0030/Redgate.jpg
+  height: 100
+- sponsorlevel: BRONZE
+- link: https://www.gethynellis.com/
+  image: ../assets/img/events/0030/GethynEllis.jpg
+  height: 80
 
-speakerlisturl: https://sessionize.com/datasaturday-edinburgh/
+sponsor-menuitem: true
+sponsorbenefits: '
+  <div class="row justify-content-center">
+      <p style="text-align:center;">
+    </p>
+  </div>
+  '
+#      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../assets/img/events/0030/SponsorPlan.pdf" target="_blank">Sponsorplan</a>
+
+speakerlisturl: https://sessionize.com/api/v2/2xh5facq/view/SpeakerWall
 callforspeakers: false
 volunteerrequesturl: email:consulting@dbia.uk
 organizers:
@@ -106,22 +145,22 @@ organizers:
     email: consulting@dbia.uk
 
 codeofconduct: "<p style=\"text-align:left;\">
-      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
+      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct.
       Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
     </p>
 
     <h2>The Short Version</h2>
 
     <p style=\"text-align:left;\">
-      Our conference is dedicated to providing an enjoyable environment for everyone involved. 
-      Thus providing a harassment-free experience for everyone, regardless of gender, 
-      gender identity and expression, age, sexual orientation, disability, physical appearance, 
-      body size, race, ethnicity, religion (or lack thereof), or technology choices. 
-      We do not tolerate harassment of conference participants in any form. 
-      Sexual language and imagery is not appropriate for any conference venue, 
-      including talks, workshops, parties, Twitter and other online media. 
-      Conference participants violating these rules may be sanctioned or 
-      expelled from the conference <em>without a refund</em> at the discretion 
+      Our conference is dedicated to providing an enjoyable environment for everyone involved.
+      Thus providing a harassment-free experience for everyone, regardless of gender,
+      gender identity and expression, age, sexual orientation, disability, physical appearance,
+      body size, race, ethnicity, religion (or lack thereof), or technology choices.
+      We do not tolerate harassment of conference participants in any form.
+      Sexual language and imagery is not appropriate for any conference venue,
+      including talks, workshops, parties, Twitter and other online media.
+      Conference participants violating these rules may be sanctioned or
+      expelled from the conference <em>without a refund</em> at the discretion
       of the conference organizers.
     </p>
     <p style=\"text-align:left;\">
@@ -131,48 +170,48 @@ codeofconduct: "<p style=\"text-align:left;\">
     <h2>The Less Short Version</h2>
 
     <p style=\"text-align:left;\">
-      Harassment includes offensive verbal comments related to gender, gender 
-      identity and expression, age, sexual orientation, disability, physical 
-      appearance, body size, race, ethnicity, religion, technology choices, 
-      sexual images in public spaces, deliberate intimidation, stalking, 
-      following, harassing photography or recording, sustained disruption of 
-      talks or other events, inappropriate physical contact, and unwelcome 
+      Harassment includes offensive verbal comments related to gender, gender
+      identity and expression, age, sexual orientation, disability, physical
+      appearance, body size, race, ethnicity, religion, technology choices,
+      sexual images in public spaces, deliberate intimidation, stalking,
+      following, harassing photography or recording, sustained disruption of
+      talks or other events, inappropriate physical contact, and unwelcome
       sexual attention.
     </p>
     <p style=\"text-align:left;\">
-      Participants asked to stop any harassing behavior are expected to comply 
+      Participants asked to stop any harassing behavior are expected to comply
       immediately.
     </p>
 
     <p style=\"text-align:left;\">
-      Sponsors are also subject to the anti-harassment policy. In particular, 
-      sponsors should not use sexualized images, activities, or other material. 
-      Booth staff (including volunteers) should not use sexualized 
+      Sponsors are also subject to the anti-harassment policy. In particular,
+      sponsors should not use sexualized images, activities, or other material.
+      Booth staff (including volunteers) should not use sexualized
       clothing/uniforms/costumes, or otherwise create a sexualized environment.
     </p>
 
     <p style=\"text-align:left;\">
-      If a participant engages in harassing behavior, the conference organizers 
-      may take any action they deem appropriate, including warning the offender 
+      If a participant engages in harassing behavior, the conference organizers
+      may take any action they deem appropriate, including warning the offender
       or expulsion from the conference with no refund.
     </p>
 
     <p style=\"text-align:left;\">
-      If you are being harassed, notice that someone else is being harassed, or 
-      have any other concerns, please contact a member of conference staff 
-      immediately. Conference staff can be identified as they&#39;ll be wearing 
+      If you are being harassed, notice that someone else is being harassed, or
+      have any other concerns, please contact a member of conference staff
+      immediately. Conference staff can be identified as they&#39;ll be wearing
       branded shirts.
     </p>
 
     <p style=\"text-align:left;\">
-      Conference staff will be happy to help participants contact 
-      local law enforcement, provide escorts, or otherwise assist 
-      those experiencing harassment to feel safe for the duration of the 
+      Conference staff will be happy to help participants contact
+      local law enforcement, provide escorts, or otherwise assist
+      those experiencing harassment to feel safe for the duration of the
       conference. We value your attendance.
     </p>
 
     <p style=\"text-align:left;\">
-      We expect participants to follow these rules at conference and workshop 
+      We expect participants to follow these rules at conference and workshop
       venues and conference-related social events.
     </p>
 

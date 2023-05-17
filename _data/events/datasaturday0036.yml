@@ -1,40 +1,166 @@
 name: "Data Saturday  #36 - Data Saturday Johannesburg"
-date: 2023-08-05 08:00:00 +02:00
+date: 2023-08-05 08:30:00 +02:00
+virtual: false
+hide-toplogo: true
+hide-join-room-section: true
+open-registration-new-tab: true
 
-description: '
-Data Saturday Johannesburg is a free full day on volunteer led in person data platform training over various tracks and topics happening at Microsoft in Bryanston, 3012 William Nicol Drive, Bryanston, Johannesburg
-The event will kick off at 8am with a keynote address and thereafter split into sessions breaking for lunch and refreshments. The final session and prizegiving will finish by 5pm
-Previously year''s events ran under the PASS SQL Saturday branding the organisers wanted to me more inclusive of the data community at large and felt that the Data Saturday guise was more accommodating
+description:  '
+Data Saturday Johannesburg is a free, full-day, volunteer-led, in-person event that covers a variety of topics within the Microsoft data platform ecosystem. The event will take place in the Microsoft offices in Johannesburg, South Africa. 
+<p>Formally known as <b>SQL Saturday Johannesburg</b>, this event provides attendees the oppertunity to interact with their fellow data professionals to network and discuss challenges and solutions to some of their most pressing problems. 
  '
-registrationurl: https://github.com/JoburgDataPlatformUserGroup/DataSaturdays
-join:
-  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
-  rooms:
-   - name: roomname1
-     url: roomurl1
-   - name: roomname2
-     url: roomurl2
-   - name: roomname3
-     url: roomurl3
-  
-sponsors: 
-  - link: _No response_
-    image: 
-    height: 
- 
 
-scheduleurl: _No response_
+registrationurl: https://datasaturdayjhb2023.eventbrite.com
+callforspeakers: true 
+speakerlisturl: https://sessionize.com/data-saturday-johannesburg2023/
 
-speakerlisturl: https://sessionize.com/data-saturday-johannesburg3228
+precondescription: "
+    <p>This year we will be hosting two precons.</p>
+    <p>The workshops will be held on Friday the 4th of August 2023, the day preceding the main event on Saturday. Precons are afforadable ways to recieve great training at a great price.</p>
+    
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+      <p style=\"text-align: center; font-size: 1.5rem;\">TBA</p>
+      <p style=\"text-align: center; font-size: 1.3rem;\">with <a href=\"https://sessionize.com/alberto-ferrari\">Donovan White & Michael Johnson</a><img src=\"../assets/img/events/0036/unknown.png\" height=\"170\" alt=\"Donovan White\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\"></p>
+      <p>TBC</p>
+      <p style=\"text-align:center;\"><a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.quicket.co.za/\" target=\"_blank\">More info & registrations</a></p>
+    </div>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+      <p style=\"text-align: center; font-size: 1.5rem;\">TBC</p>
+      <p style=\"text-align: center; font-size: 1.3rem;\">with <a href=\"https://sessionize.com/milossql\">TBC</a><img src=\"../assets/img/events/0036/unknown.png\" height=\"170\" alt=\"Unknown\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\"></p>
+      <p>TBC</p>
+      <p style=\"text-align:center;\"><a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.quicket.co.za/\" target=\"_blank\">More info & registrations</a></p>
+    </div>
+"
+scheduleurl: https://sessionize.com/api/v2/myngqbq1/view/GridSmart
+#scheduleapp: https://ds-croatia-2023.sessionize.com
+#venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.608236646044!2d15.971867215814784!3d45.79907581905612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f5ccd82531%3A0x9f01ada2a1532ad4!2sHotel%20International!5e0!3m2!1sen!2shr!4v1661522326685!5m2!1sen!2shr
+sponsors:
+  - sponsorlevel: GOLD
+  - link: https://www.microsoft.com/
+    image: ../assets/img/events/0036/microsoft.png
+    height: 150
+    width: 300
+  #- link: http://www.tria.hr/
+  #  image: ../assets/img/events/0029/TRIA.png
+  #  height: 100
+  - sponsorlevel: SILVER
+  - link: https://cobaltAnalytics.io
+    image: ../assets/img/events/0036/CobaltAnalytics.png
+    height: 150
+    width: 300
+  - sponsorlevel: BRONZE
+  #- link: https://www.gethynellis.com/
+  #  image: ../assets/img/events/0029/GE-Logo.png
+  #  height: 120
+  #- link: https://unitfly.com/
+  #  image: ../assets/img/events/0029/Unitfly_logo_color_png.png
+  #  height: 65
+  #- link: http://www.datasense.hr/
+  #  image: ../assets/img/events/0029/datasense.png
+  #  height: 47
+  #- link: https://www.comminus.hr/
+  #  image: ../assets/img/events/0029/comminus.png
+  #  height: 110
+  #- link: https://www.malizmaj.hr/
+  #  image: ../assets/img/events/0029/MaliZmaj.png
+  #  height: 150
+  #- link: https://www.red-gate.com/
+  #  image: ../assets/img/events/0029/RedgatelogocolourRGB_vert.png
+  #  height: 100
 
-callforspeakers: true
 
-volunteerrequesturl: _No response_
+#volunteerrequesturl: https://events.3nf.hr/Contact.aspx
+
 organizers:
-  - name: Michael Johnson
-    twitter: https://twitter.com/MikeJohnsonZA
-    email: michaelAdrianJohnson@live.com
-  - name: Warren Rocchi
-    twitter: https://twitter.com/Wazdarocsta
-    email: rocsta@gmail.com
- 
+  - name: Johannesburg Data platform User Group
+    email: mailto:michaelAdrianJohnson@Line.com
+
+codeofconduct: "<p style=\"text-align:left;\">
+      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
+      Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+    </p>
+
+    <h2>The Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Our conference is dedicated to providing an enjoyable environment for everyone involved. 
+      Thus providing a harassment-free experience for everyone, regardless of gender, 
+      gender identity and expression, age, sexual orientation, disability, physical appearance, 
+      body size, race, ethnicity, religion (or lack thereof), or technology choices. 
+      We do not tolerate harassment of conference participants in any form. 
+      Sexual language and imagery is not appropriate for any conference venue, 
+      including talks, workshops, parties, Twitter and other online media. 
+      Conference participants violating these rules may be sanctioned or 
+      expelled from the conference <em>without a refund</em> at the discretion 
+      of the conference organizers.
+    </p>
+    <p style=\"text-align:left;\">
+      The organizer of this event will prioritize marginalized people&#39;s safety over privileged people&#39;s comfort.
+    </p>
+
+    <h2>The Less Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Harassment includes offensive verbal comments related to gender, gender 
+      identity and expression, age, sexual orientation, disability, physical 
+      appearance, body size, race, ethnicity, religion, technology choices, 
+      sexual images in public spaces, deliberate intimidation, stalking, 
+      following, harassing photography or recording, sustained disruption of 
+      talks or other events, inappropriate physical contact, and unwelcome 
+      sexual attention.
+    </p>
+    <p style=\"text-align:left;\">
+      Participants asked to stop any harassing behavior are expected to comply 
+      immediately.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Sponsors are also subject to the anti-harassment policy. In particular, 
+      sponsors should not use sexualized images, activities, or other material. 
+      Booth staff (including volunteers) should not use sexualized 
+      clothing/uniforms/costumes, or otherwise create a sexualized environment.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If a participant engages in harassing behavior, the conference organizers 
+      may take any action they deem appropriate, including warning the offender 
+      or expulsion from the conference with no refund.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If you are being harassed, notice that someone else is being harassed, or 
+      have any other concerns, please contact a member of conference staff 
+      immediately. Conference staff can be identified as they&#39;ll be wearing 
+      branded shirts.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Conference staff will be happy to help participants contact 
+      local law enforcement, provide escorts, or otherwise assist 
+      those experiencing harassment to feel safe for the duration of the 
+      conference. We value your attendance.
+    </p>
+
+    <p style=\"text-align:left;\">
+      We expect participants to follow these rules at conference and workshop 
+      venues and conference-related social events.
+    </p>
+
+    <p style=\"text-align:left;\">
+      <small>
+        <em>Original source and credit:
+          <a href=\"http://2012.jsconf.us/#/about\">http://2012.jsconf.us/#/about</a>
+          &amp;
+          <ahref=\"http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy\">The Ada Initiative</a>
+          <br />
+
+          Please help by translating or improving:
+          <a href=\"https://github.com/confcodeofconduct/confcodeofconduct.com\">on github.com</a>
+          <br />
+
+          This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/deed.en_US\">Creative Commons Attribution 3.0 Unported License</a>
+        </em>
+      </small>
+    </p>
+      "
