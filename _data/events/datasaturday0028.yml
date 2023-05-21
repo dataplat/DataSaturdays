@@ -1,0 +1,217 @@
+name: "Data Saturday  #28 - Atlanta"
+date: 2022-10-01 08:00:00 -00:00
+
+description: '
+Data Saturday Atlanta is a one-day event for professionals using Microsoft''s data platform. This community event will present on topics in data management, cloud and hybrid architecture and DevOps. We''ll bring you content at all levels of learning, from beginner to advanced. We''ll have deep dives and overviews.<br>
+<br>
+Microsoft Offices - Atlantic Yards<br>
+200 17th Street<br>
+South Tower<br>
+Atlanta, GA<br>
+<br>
+Registration for attendees is currently open. Speaker list and schedule are below.<br>
+<br>
+Disclaimers for attendees on the event main page apply to speakers as well.<br>
+<br>
+Guests entering Microsoft buildings in the U.S. must provide proof of vaccination OR self-attest in the tool via <a href=''http://aka.ms/healthcheck''>HealthCheck</a> to have received a (at-home, rapid) negative COVID-19 test within the previous three days.<br>
+<br>
+The pandemic is fluid and things are constantly changing. As such, please be aware of our expectations or that of our venue. Attendees MAY be required to wear a mask. By registering for this event, you are agreeing to wear a mask if asked and understand your refusal will result in expulsion from the event. You will need to self-attest that you are not exhibiting symptoms related to COVID-19 by completing a series of questions. This process should take just a few minutes and is effective immediately.<br>
+<br>
+All speakers and attendees will be required to abide by the Atlanta Azure Data <a href = ''https://www.meetup.com/atlanta-azure-data-user-group/pages/32472984/Code_of_Conduct/''>code of conduct</a> . Anyone violating the terms laid out, will be removed from the event.<br>
+<br>
+Attendee registration for Data Saturday Atlanta is now closed. Please sign up with our Meetup group if you would like to be notified about future events.
+<br>
+'
+registrationurl: 
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: The Vortex
+     url: https://datasaturdays.com
+   - name: The Varsity
+     url: https://datasaturdays.com
+   - name: Fox Bros. BBQ
+     url: https://datasaturdays.com
+   - name: Mary Mac's Tea Room
+     url: https://datasaturdays.com
+   - name: Waffle House
+     url: https://datasaturdays.com
+
+sponsorbenefits: '
+  <style type="text/css">
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg .tg-o5n3 {
+        background-color: #FFF;
+        font-weight: bold;
+        text-align: left;
+        vertical-align: bottom
+    }
+
+    .tg .tg-kcps {
+        background-color: #FFF;
+        text-align: left;
+        vertical-align: middle;
+    }
+
+    .tg .tg-pro {
+        background-color: #FFF;
+        text-align: center;
+        vertical-align: bottom;
+        font-weight: bold;
+        font-size: 125%;
+        color: #0000BB;
+    }
+
+    .tg .tg-0dbi {
+        background-color: #D0CECE;
+        text-align: left;
+        vertical-align: bottom
+    }
+
+    .tg .tg-widl {
+        background-color: #FFF;
+        text-align: right;
+        vertical-align: bottom
+    }
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 639px">
+    <colgroup>
+        <col style="width: 403px">
+        <col style="width: 73px">
+        <col style="width: 79px">
+        <col style="width: 84px">
+    </colgroup>
+    <thead>
+        <tr>
+            <th class="tg-o5n3">Sponsorship&nbsp;&nbsp;&nbsp;Benefits</th>
+            <th class="tg-o5n3">Gold</th>
+            <th class="tg-o5n3">Silver</th>
+            <th class="tg-o5n3">Bronze</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="tg-kcps">Before-&nbsp;&nbsp;&nbsp;or after-event email to all registrants to highlight lunch
+                session, stop by&nbsp;&nbsp;&nbsp;the table or general marketing message</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
+            <td class="tg-pro"> </td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">Speaker Dinner&nbsp;&nbsp;&nbsp;or Lunch, sponsored by "Your Name"</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
+            <td class="tg-pro"> </td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">Lunch&nbsp;&nbsp;&nbsp;Session</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
+            <td class="tg-pro"> </td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">Sponsorship Table w/ 2 chairs</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">Logo&nbsp;&nbsp;&nbsp;on Event Emails</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro"> </td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">Logo&nbsp;&nbsp;&nbsp;on Website</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">2 guaranteed admission tickets</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">Raffle&nbsp;&nbsp;&nbsp;Item</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+        </tr>
+        <tr>
+            <td class="tg-kcps">Attendee&nbsp;&nbsp;&nbsp;List</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+            <td class="tg-pro">*</td>
+        </tr>
+        <tr>
+            <td class="tg-0dbi">Cost Per</td>
+            <td class="tg-widl">$2000</td>
+            <td class="tg-widl">$1250</td>
+            <td class="tg-widl">$600</td>
+        </tr>
+    </tbody>
+</table>
+'
+sponsors: 
+  - link: https://www.sqlgrease.com/
+    image: ../assets/img/events/0028/large-sqlgrease.png
+    height: 100
+  - link: https://www.microsoft.com/
+    image: ../assets/img/events/0028/microsoft.png
+    height: 80       
+  - link: https://www.purestorage.com/
+    image: ../assets/img/events/0028/pure_storage.png
+    height: 80       
+  - link: https://us.sios.com/
+    image: ../assets/img/events/0028/sios.png
+    height: 80
+  - link: https://improving.com/
+    image: ../assets/img/events/0028/improving_logo_complete.png
+    height: 100
+  - link: https://ftc-llc.com/
+    image: ../assets/img/events/0028/ftc.png
+    height: 80
+  - link: https://key2consulting.com/
+    image: ../assets/img/events/0028/key2-logo.png
+    height: 80    
+scheduleurl: https://sessionize.com/api/v2/iymbw61p/view/GridSmart
+
+speakerlisturl: https://sessionize.com/api/v2/iymbw61p/view/Speakers
+
+callforspeakers: false
+
+volunteerrequesturl: 
+organizers:
+  - name: Atlanta Azure Data
+    twitter: https://twitter.com/AtlAzureData
+    email: mailto:ATLAzureData@gmail.com
+ 

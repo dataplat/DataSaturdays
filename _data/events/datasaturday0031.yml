@@ -1,0 +1,56 @@
+name: "Data Saturday  #31 - Pordenone 2023"
+date: 2023-02-25 09:00:00 +01:00
+
+description: '
+Finally, Data Saturday 2023 in Pordenone will be in person, after Data Saturday #0001 Pordenone on line for pandemic.
+Organizer of the first italian Sql Saturday in 2012.
+ '
+registrationurl: http://datasatpn2023.eventbrite.it/
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: roomname1
+     url: roomurl1
+   - name: roomname2
+     url: roomurl2
+   - name: roomname3
+     url: roomurl3
+  
+sponsors: 
+  - link: https://www.beantech.it/
+    image: ../assets/img/events/0031/beantech.png
+    height: 100
+  - link: https://www.fluentis.com/
+    image: ../assets/img/events/0031/fluentis.png
+    height: 140
+  - link: https://www.stesi.it/
+    image: ../assets/img/events/0031/stesi.png
+    height: 180
+  - link: https://www.quantumdatis.com/
+    image: ../assets/img/events/0031/quantumdatis_path.svg
+    height: 80
+  - link: https://www.packtpub.com/
+    image: ../assets/img/events/0031/packt.svg
+    height: 140
+  - link: https://www.altitudo.com/
+    image: ../assets/img/events/0031/altitudo.svg
+    height: 100
+  - link: https://www.credemtel.it/
+    image: ../assets/img/events/0031/LogoCredemtel.png
+    height: 160
+
+ 
+
+scheduleurl: https://sessionize.com/api/v2/eh7st4v3/view/GridSmart
+
+speakerlisturl: https://sessionize.com/api/v2/eh7st4v3/view/SpeakerWall
+
+callforspeakers: false
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: https://datasat23.1nn0va.it/
+
+    twitter: 
+    email: 
+ 

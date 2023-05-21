@@ -1,0 +1,12 @@
+{
+  "eventname": "Data Saturday Pordenone 2023",
+  "date": "2023-02-25 09:00:00 +01:00",
+  "description": "Finally, Data Saturday 2023 in Pordenone will be in person, after Data Saturday #0001 Pordenone on line for pandemic.\r\nOrganizer of the first italian Sql Saturday in 2012.",
+  "registrationurl": "http://datasatpn2023.eventbrite.it/",
+  "rooms": "roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3",
+  "scheduleurl": "https://sessionize.com/api/v2/eh7st4v3/view/GridSmart",
+  "sponsors": "_No response_",
+  "speakerlisturl": "http://sessionize.com/datasatpn2023",
+  "volunteerrequesturl": "_No response_",
+  "organizers": "https://datasat23.1nn0va.it/\r\n"
+}
