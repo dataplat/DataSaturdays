@@ -1,0 +1,28 @@
+name: "Data Saturday #40 - Data Saturday Brisbane 2023"
+date: 2023-09-30 08:30:00 +10:00
+
+description: 'Attend this free, one-day conference in Brisbane to sharpen your skills on the Microsoft data platform, and to connect to other professionals in your space! We will offer sessions from leading world-class international and local speakers, across data management, cloud and hybrid architecture, analytics and BI, and so much more.'
+registrationurl: TBA
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url: 
+  
+sponsors: 
+  - link: _No response_
+    image: 
+    height: 
+ 
+
+scheduleurl: _No response_
+
+speakerlisturl: _No response_
+
+callforspeakers: false
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Warwick Rudd
+    email:  Warwick@sqlmastersconsulting.com.au
+ 
