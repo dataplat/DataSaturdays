@@ -6,36 +6,18 @@ Data Saturday Brisbane is a free one-day event for professionals who use the Mic
 <br>
 We will update the venue in Brisbane shortly.
  '
-registrationurl: _No response_
-join:
-  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
-  rooms:
-   - name: roomname1
-     url: roomurl1
-   - name: roomname2
-     url: roomurl2
-   - name: roomname3
-     url: roomurl3
+registrationurl:
 
 sponsors:
-  - link: sponsor1link
-    image: sponsor1image
-    height: sponsor1height
-  - link: sponsor2link
-    image: sponsor2image
-    height: sponsor2height
-  - link: sponsor3link
-    image: sponsor3image
-    height: sponsor3height
 
 
-scheduleurl: _No response_
+scheduleurl:
 
 speakerlisturl: _No response_
 
 callforspeakers: true
 
-volunteerrequesturl: _No response_
+volunteerrequesturl:
 organizers:
   - name: Warwick Rudd
     twitter:  https://twitter.com/Warwick_Rudd
