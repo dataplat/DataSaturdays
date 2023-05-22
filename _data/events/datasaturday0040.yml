@@ -1,0 +1,34 @@
+name: "Data Saturday  #40 - Data Saturday München 2024"
+date: 2024-02-24 08:00:00 +02:00
+
+description: '
+Data Saturday München is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br><br>It is being held at the Microsoft Germany Headquarters in Munich.
+ '
+registrationurl:
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url:
+
+sponsors:
+  - link: _No response_
+    image:
+    height:
+
+
+scheduleurl: _No response_
+
+speakerlisturl: _No response_
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Erik Esmaty
+    twitter: https://twitter.com/erikesmaty
+    email: ees@sqlpass.de
+  - name: Ben Weissman (he/him)
+    twitter: https://twitter.com/bweissman
+    email: bwe@sqlpass.de
+
