@@ -1,14 +1,16 @@
 ### eventname
 
-Data Saturday München 2024
+Data Saturday Brisbane 2023
 
 ### date
 
-2024-02-24 08:00:00 +02:00
+2023-09-30 08:30:00 +10:00
 
 ### description
 
-Data Saturday München is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br><br>It is being held at the Microsoft Germany Headquarters in Munich.
+Data Saturday Brisbane is a free one-day event for professionals who use the Microsoft Data Platform and Microsoft Azure Technologies. This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artificial Intelligence, DevOps, Application Development and more.<br>
+<br>
+We will update the venue in Brisbane shortly.
 
 ### registrationurl
 
@@ -16,7 +18,7 @@ _No response_
 
 ### rooms
 
-_No response_
+roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
 
 ### scheduleurl
 
@@ -24,7 +26,7 @@ _No response_
 
 ### sponsors
 
-_No response_
+sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
 
 ### speakerlisturl
 
@@ -36,4 +38,4 @@ _No response_
 
 ### organizers
 
-Erik Esmaty;https://twitter.com/erikesmaty;ees@sqlpass.de,Ben Weissman (he/him);https://twitter.com/bweissman;bwe@sqlpass.de
+Warwick Rudd; https://twitter.com/Warwick_Rudd; [warwick@sqlmastersconsulting.com.au](mailto:warwick@sqlmastersconsulting.com.au)
