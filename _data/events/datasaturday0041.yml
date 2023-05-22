@@ -16,8 +16,8 @@ join:
      url: roomurl2
    - name: roomname3
      url: roomurl3
-  
-sponsors: 
+
+sponsors:
   - link: sponsor1link
     image: sponsor1image
     height: sponsor1height
@@ -27,7 +27,7 @@ sponsors:
   - link: sponsor3link
     image: sponsor3image
     height: sponsor3height
- 
+
 
 scheduleurl: _No response_
 
@@ -39,5 +39,5 @@ volunteerrequesturl: _No response_
 organizers:
   - name: Warwick Rudd
     twitter:  https://twitter.com/Warwick_Rudd
-    email:  [warwick@sqlmastersconsulting.com.au](mailto:warwick@sqlmastersconsulting.com.au)
- 
+    email:  warwick@sqlmastersconsulting.com.au
+
