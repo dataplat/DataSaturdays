@@ -1,18 +1,15 @@
-name: "Data Saturday  #40 - Data Saturday München 2024"
+name: "Data Saturday #40 - Data Saturday München 2024"
 date: 2024-02-24 08:00:00 +02:00
 
 description: '
-Data Saturday München is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br><br>It is being held at the Microsoft Germany Headquarters in Munich.
+Data Saturday München is a free one-day event for professionals who use the Microsoft data platform and Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br><br>It is being held at the Microsoft Germany Headquarters in Munich.
  '
-registrationurl:
 
 sponsors:
  - sponsorlevel: YOU ROCK!
  - link: https://www.solisyon.de
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/solisyon.png
    height: 75
-
-scheduleurl: 
 
 speakerlisturl: https://sessionize.com/data-saturday-muc-2024
 callforspeakers: true
@@ -25,7 +22,6 @@ organizers:
   - name: Ben Weissman (he/him)
     twitter: https://twitter.com/bweissman
     email: bwe@sqlpass.de
-
 
 codeofconduct: "<p style=\"text-align:left;\">
       All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct.
