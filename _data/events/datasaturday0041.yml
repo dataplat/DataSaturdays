@@ -1,14 +1,67 @@
 name: "Data Saturday  #41 - Data Saturday Brisbane 2023"
-date: 2023-09-30 08:30:00 +10:00
+date: 2023-09-30 08:30:00 -0000
 
-description: '
-Data Saturday Brisbane is a free one-day event for professionals who use the Microsoft Data Platform and Microsoft Azure Technologies. This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artificial Intelligence, DevOps, Application Development and more.<br>
-<br>
-We will update the venue in Brisbane shortly.
- '
-registrationurl:
+description: "<p style=\"text-align:center;font-size:4rem;\">
+  Data Saturday Brisbane is Back!
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Registration for the Saturday is LIVE! 
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Click the button below to register for the Saturday
+  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com.au/e/data-saturday-41-brisbane-2023-tickets-645847456127\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Register for Saturday now</a>
+  <p>
+  Data Saturday Brisbane is a free one-day event for professionals who use either On-premises or cloud technologies in 1 or more of the 3 Major public cloud providers (Amazon Web Services, Microsoft Azure or Google Cloud Platform).
+  </p>
+  <p style=\"text-align:center; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0041/AWS_Logo.png\" height=\"100\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0041/azure_new_logo.png\" height=\"100\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0041/gcp_logo_cloud.png\" height=\"100\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
+  </p>
+  <br>
+  <br>
+  Data Saturday #41 - Brisbane 2023 is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across Microsoft Azure Technologies. This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artificial Intelligence, DevOps, Application Development and more.
+  </p>
+ "
+
+milestones: "
+  <div class=\"row justify-content-center\">
+    <p style=\"text-align:left;font-size:1.5rem\">
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> May 22nd, 2023: Call for speakers open 
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> May 30th, 2023: Registration opens
+  <br>
+        * <strong>July 14th, 2023</strong>: Call for speakers closes
+  <br>
+        * July, 2023: Session selection, notifying speakers
+  <br>
+        * August, 2023: Speakers and sessions published
+  <br>
+        * August, 2023: Schedule published
+  <br>
+        * September 30th, 2023: Main conference event
+    </p>
+  </div>    
+
+ "
+
+registrationurl: "https://www.eventbrite.com.au/e/data-saturday-41-brisbane-2023-tickets-645847456127"
+
+venuemap: "<p style=\"text-align:center;font-size:2.5rem;\">
+  We will update the venue details shortly! 
+  </p>"
 
 sponsors:
+  - sponsorlevel: Platinum
+  
+  - sponsorlevel: Gold
+  - link: https://sqlmastersconsulting.com.au
+    image: ../assets/img/events/0041/SQL_Highlight_Logo_RHB.jpg
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
+
+  - sponsorlevel: Silver
 
 
 scheduleurl:
@@ -16,7 +69,7 @@ scheduleurl:
 speakerlisturl: https://sessionize.com/data-saturday-40-brisbane
 callforspeakers: true
 
-volunteerrequesturl:
+volunteerrequesturl: mailto:warwick@sqlmastersconsulting.com.au
 organizers:
   - name: Warwick Rudd
     twitter:  https://twitter.com/Warwick_Rudd
