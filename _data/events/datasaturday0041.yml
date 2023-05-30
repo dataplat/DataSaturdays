@@ -1,6 +1,9 @@
 name: "Data Saturday  #41 - Data Saturday Brisbane 2023"
 date: 2023-09-30 08:30:00 -0000
 
+hide-join-room-section: true
+open-registration-new-tab: true
+
 description: "<p style=\"text-align:center;font-size:4rem;\">
   Data Saturday Brisbane is Back!
   </p>
@@ -21,6 +24,9 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   <br>
   <br>
   Data Saturday #41 - Brisbane 2023 is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across Microsoft Azure Technologies. This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artificial Intelligence, DevOps, Application Development and more.
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  We will update the venue details shortly! 
   </p>
  "
 
@@ -47,11 +53,10 @@ milestones: "
 
 registrationurl: "https://www.eventbrite.com.au/e/data-saturday-41-brisbane-2023-tickets-645847456127"
 
-venuemap: "<p style=\"text-align:center;font-size:2.5rem;\">
-  We will update the venue details shortly! 
-  </p>"
+venuemap: 
 
 sponsors:
+
   - sponsorlevel: Platinum
   
   - sponsorlevel: Gold
