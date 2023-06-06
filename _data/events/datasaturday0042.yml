@@ -5,20 +5,20 @@ hide-toplogo: true
 hide-join-room-section: true
 open-registration-new-tab: true
 
-description:  "<p>Data Saturday Croatia 2024 is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+description:  '<p>Data Saturday Croatia 2024 is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
 <p><b>Event venue</b></p>
 <p>The event will be in <b>person</b>, on Saturday, June 08, at the <a href=\"https://goo.gl/maps/4Wag21rGEw4vxcmJ9\" target=\"_blank\">Hotel International, Miramarska 24, 10000 Zagreb, Croatia</a>. </p>
 <p><b>Sponsors</b></p>
 <p>Thanks to all the sponsors involved who made this event possible.</p>
 <p><b>Organizers</b></p>
-<p>The event is organized by <a href=\"https://www.linkedin.com/in/dmatesic/\" target=\"_blank\">Damir Matešić, MVP</a> & <a href=\"https://www.linkedin.com/in/dsavovic/\" target=\"_blank\">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>"
+<p>The event is organized by <a href=\"https://www.linkedin.com/in/dmatesic/\" target=\"_blank\">Damir Matešić, MVP</a> & <a href=\"https://www.linkedin.com/in/dsavovic/\" target=\"_blank\">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>'
 registrationurl: 
 
-precondescription: "
+precondescription: '
     <p>
     TBA
     </p>
-    "
+    '
 
 #join:
 #  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
