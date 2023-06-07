@@ -14,13 +14,13 @@ registrationurl: _No response_
 sponsors:
   - link: sponsor1link
     image: sponsor1image
-    height: sponsor1height
+    height: 
   - link: sponsor2link
     image: sponsor2image
-    height: sponsor2height
+    height: 
   - link: sponsor3link
     image: sponsor3image
-    height: sponsor3height
+    height: 
 
 
 scheduleurl: _No response_
