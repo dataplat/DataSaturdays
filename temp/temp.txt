@@ -1,20 +1,18 @@
 ### eventname
 
-Data Saturday Brisbane 2023
+Data Saturday Cape Town
 
 ### date
 
-2023-09-30 08:30:00 +10:00
+2023-08-12 08:00:00 -16:00
 
 ### description
 
-Data Saturday Brisbane is a free one-day event for professionals who use the Microsoft Data Platform and Microsoft Azure Technologies. This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artificial Intelligence, DevOps, Application Development and more.<br>
-<br>
-We will update the venue in Brisbane shortly.
+Data Saturday is a free community‐focused event dedicated to educating and engaging members of the local technical and business community. Data Saturday draws upon the expertise of local and international data professionals, developers and solutions architects and business users who come together to share their real-world experiences, lessons learned, best practices, and general knowledge with other like‐minded individuals.
 
 ### registrationurl
 
-_No response_
+https://www.eventbrite.com/e/data-saturday-cape-town-tickets-657452266427
 
 ### rooms
 
@@ -30,7 +28,7 @@ sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2hei
 
 ### speakerlisturl
 
-_No response_
+https://sessionize.com/data-saturday-cape-town-2023
 
 ### volunteerrequesturl
 
@@ -38,4 +36,4 @@ _No response_
 
 ### organizers
 
-Warwick Rudd; https://twitter.com/Warwick_Rudd; [warwick@sqlmastersconsulting.com.au](mailto:warwick@sqlmastersconsulting.com.au)
+organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email
