@@ -5,11 +5,11 @@ description:  '<p>Data Saturday #20 Pordenone is a free one-day event for profes
 <p><b>Event venue</b></p>
 <p>The event will be <b>online</b>, on Saturday, February 26.</p>
 <p><b>Organizers</b></p>
-<p>The event is organized by <A HREF="https://twitter.com/marco_parenzan">Marco Parenzan</A> and <A HREF="https://twitter.com/marcopozzan">Marco Pozzan</A>.</p>'
+<p>The event is organized by <A HREF="https://twitter.com/marco_parenzan">Marco Parenzan</A> and <A HREF="https://twitter.com/marcopozzan">Marco Pozzan</A>.</p>
+'
 registrationurl: https://bit.ly/datasatpn2022
 join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
-  rooms:
   rooms:
     - name: Room 1 
       url: https://meet.goto.com/136856709

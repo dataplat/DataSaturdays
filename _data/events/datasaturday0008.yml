@@ -1,7 +1,7 @@
 name: "Data Saturday #8 - Southwest US"
 date: 2021-05-15 08:00:00 -0000
 virtual: true
-description: "<p>
+description: '<p>
                         This Data Saturday Event is being jointly developed by the Albequerque Data Platform Users Group, Arizona Data Platform Users Group, and the Santa Fe Data Platform Users Groups. This event will include sessions on many Microsoft Data Platform related topics.
                     </p>
                     <p>
@@ -10,7 +10,7 @@ description: "<p>
                     <p>
                         In particular we would like to encourage speakers local to the southwest region of the United States to submit 60 minute sessions.
                     </p>
-"
+'
 registrationurl: https://www.eventbrite.com/e/data-saturday-southwest-us-tickets-142251707687
 join:
   description: "<p>Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.</p> <p>Please note that the schedule is in Mountain Daylight Savings time UTC -7</p>"
