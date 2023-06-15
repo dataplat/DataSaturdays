@@ -14,7 +14,7 @@ registrationurl: https://datasaturdayjhb2023.eventbrite.com
 callforspeakers: true 
 speakerlisturl: https://sessionize.com/data-saturday-johannesburg2023/
 
-precondescription: "
+precondescription: '
     <p>This year we will be hosting two precons.</p>
     <p>The workshops will be held on Friday the 4th of August 2023, the day preceding the main event on Saturday. Precons are afforadable ways to recieve great training at a great price.</p>
     
@@ -31,7 +31,7 @@ precondescription: "
       <p>TBC</p>
       <p style=\"text-align:center;\"><a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.quicket.co.za/\" target=\"_blank\">More info & registrations</a></p>
     </div>
-"
+'
 scheduleurl: https://sessionize.com/api/v2/myngqbq1/view/GridSmart
 #scheduleapp: https://ds-croatia-2023.sessionize.com
 #venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.608236646044!2d15.971867215814784!3d45.79907581905612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f5ccd82531%3A0x9f01ada2a1532ad4!2sHotel%20International!5e0!3m2!1sen!2shr!4v1661522326685!5m2!1sen!2shr
@@ -74,7 +74,7 @@ sponsors:
 
 organizers:
   - name: Johannesburg Data platform User Group
-    email: mailto:michaelAdrianJohnson@Line.com
+    email: mailto:michaelAdrianJohnson@Live.com
 
 codeofconduct: "<p style=\"text-align:left;\">
       All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
