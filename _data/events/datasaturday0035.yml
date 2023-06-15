@@ -165,7 +165,9 @@ precondescription: "
     Whether you are a senior or junior DBA, a developer who interacts with SQL Server, an accidental DBA, or someone with DevOps in your job title, this training is for you. You will improve your PowerShell skills for SQL Server and reduce the time you and your team spend administering SQL Server. You do not need any specific equipment or tools for this training, but we recommend bringing something to take notes with. All scripts and slides will be provided to you, and you will have the opportunity to follow along with most of the demos on a machine that can run Docker or with PowerShell v5 or above and a SQL Server 2012 or above instance. 
     </p>
     <br>    
+    <p>
     Join us for a wonderful day of PowerShell and SQL, full of demos and useful solutions that you will be able to take back to your workplace.
+    </p>
     <br>
     <p style=\"text-align:center;\">
       <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo23-hybrid-dba.eventbrite.com\" target=\"_blank\">Hybrid DBA pre-con registration</a>
@@ -216,7 +218,9 @@ precondescription: "
     After this day you will have a clear understanding of how Fabric works and what components you have to use for you own top notch analytical solution!
     </p>
     <br>    
+    <p>
     Fabric is brand new, so instead of throwing terminology here, we are inviting you to join us and become the analytics superhero!
+    </p>
     <br>
     <p style=\"text-align:center;\">
       <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo23-ms-fabric.eventbrite.com\" target=\"_blank\">MS Fabric pre-con registration</a>
@@ -255,6 +259,17 @@ sponsors:
     height: 120
     margin-top: 30
     margin-bottom: 0
+  - link: https://www.cloudberries.no/
+    image: ../assets/img/events/0035/cloudberries_logo.png
+    height: 260
+    margin-top: 30
+    margin-bottom: 0
+  - link: https://ingraphic.no/
+    image: ../assets/img/events/0035/Ingraphic_Logo.png
+    height: 65
+    margin-top: 30
+    margin-bottom: 30
+    
 
   - sponsorlevel: SILVER
   - link: https://www.quarks.no/
@@ -272,12 +287,15 @@ sponsors:
     height: 75
     margin-top: 50
     margin-bottom: 30
+  - link: https://www.rikstoto.no/
+    image: ../assets/img/events/0035/Rikstoto_Logo_kvadrat_fullfarge_rgb.png
+    height: 175
+    margin-top: 50
+    margin-bottom: 30
+
 #   - link: https://www.red-gate.com/
 #     image: ../assets/img/events/0023/redgate-logo.svg
 #     height: 80
-#   - link: https://www.cloudberries.no/
-#     image: ../assets/img/events/0023/cloudberries_logo.png
-#     height: 300
 #   - link: https://www.microsoft.com/sql-server/
 #     image: ../assets/img/events/0023/MS-Azure_logo.png
 #     height: 280
@@ -289,6 +307,7 @@ sponsors:
 #     height: 175
 #     margin-top: -60
 #     margin-bottom: 0
+    
     
 
 speakerlisturl: https://sessionize.com/api/v2/izirnf5l/view/SpeakerWall
