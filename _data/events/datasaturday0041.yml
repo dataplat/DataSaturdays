@@ -58,6 +58,11 @@ venuemap:
 sponsors:
 
   - sponsorlevel: Platinum
+  - link: https://varigence.com/
+    image: ../assets/img/events/0041/varigence-logo.png
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
   
   - sponsorlevel: Gold
   - link: https://sqlmastersconsulting.com.au
