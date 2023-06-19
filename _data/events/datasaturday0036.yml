@@ -11,25 +11,44 @@ Data Saturday Johannesburg is a free, full-day, volunteer-led, in-person event t
  '
 
 registrationurl: https://datasaturdayjhb2023.eventbrite.com
-callforspeakers: true 
+callforspeakers: false 
 speakerlisturl: https://sessionize.com/data-saturday-johannesburg2023/
 
 precondescription: '
     <p>This year we will be hosting two precons.</p>
     <p>The workshops will be held on Friday the 4th of August 2023, the day preceding the main event on Saturday. Precons are afforadable ways to recieve great training at a great price.</p>
-    
     <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
-      <p style=\"text-align: center; font-size: 1.5rem;\">TBA</p>
-      <p style=\"text-align: center; font-size: 1.3rem;\">with <a href=\"https://sessionize.com/alberto-ferrari\">Donovan White & Michael Johnson</a><img src=\"../assets/img/events/0036/unknown.png\" height=\"170\" alt=\"Donovan White\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\"></p>
-      <p>TBC</p>
-      <p style=\"text-align:center;\"><a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.quicket.co.za/\" target=\"_blank\">More info & registrations</a></p>
+      <h2>Precon 1: A beginners guide to Microsoft Fabric</h2>
+      <img src="../assets/img/events/0036/PreConBanner1.jpg" height="300" />
+      <p style=\"text-align: center; font-size: 1.3rem;\">Presented by: <b>Donovan White & Michael Johnson</b></p>
+      <p style=\"text-align: center; font-size: 1.3rem;\">Date and Time: <b>4 August 2023 8:30 to 16:00</b></p>
+      <p style=\"text-align: center; font-size: 1.3rem;\">Venue: <b>Microsoft Bryanston</b></p>
+      <p style=\"text-align: center; font-size: 1.3rem;\">Registration link: <b><a href="https://qkt.io/3584wZ" target="_blank">Register Here</a></b></p>
+      <p><b>Agenda</b></p>
+      <p>Microsoft Fabric, an end-to-end Saas cloud-based analytics platform. Microsoft Fabric brings together all the data and analytics tools that organizations need. Fabric integrates technologies like Azure Data Factory, Azure Synapse Analytics, and Power BI into a single unified product, empowering data and business professionals alike to unlock the potential of their data and lay the foundation for the era of AI. </p>
+      <p>During this full-day training event, your hosts Donovan White a Microsoft Cloud Solutions Architect, and Michael Johnson a Microsoft Pataplatfrom MVP will guide you through the process of creating your first Microsoft Fabric project. You will learn</p>
+      <lu>
+        <li>Creating a workspace and assigning it to a Fabric capacity</li>
+        <li>Creating a lakehouse</li>
+        <li>Importing data into your lakehouse using Data factory</li>
+        <li>Process incoming data using a spark notebook to enrich data. </li>
+        <li>Build a Power BI dataset using Direct Lake.</li>
+      </lu>
     </div>
     <br>
+    <HR />
     <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
-      <p style=\"text-align: center; font-size: 1.5rem;\">TBC</p>
-      <p style=\"text-align: center; font-size: 1.3rem;\">with <a href=\"https://sessionize.com/milossql\">TBC</a><img src=\"../assets/img/events/0036/unknown.png\" height=\"170\" alt=\"Unknown\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\"></p>
-      <p>TBC</p>
-      <p style=\"text-align:center;\"><a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.quicket.co.za/\" target=\"_blank\">More info & registrations</a></p>
+      <h2>Precon 2: A Day of Azure OpenAI: Exploring Azure OpenAI and Azure AI Studio for Effective AI Development</h2>
+      <img src="../assets/img/events/0036/PreConBanner2.jpg" height="300" />
+      <p style=\"text-align: center; font-size: 1.3rem;\">Presented by: <b>Neils Bergland & Michael Johnson</b></p>
+      <p style=\"text-align: center; font-size: 1.3rem;\">Date and Time: <b>4 August 2023 8:30 to 16:00</b></p>
+      <p style=\"text-align: center; font-size: 1.3rem;\">Venue: <b>Microsoft Bryanston</b></p>
+      <p style=\"text-align: center; font-size: 1.3rem;\">Registration link: <b><a href="https://qkt.io/XHUwpa" target="_blank">Register Here</a></b></p>
+      <p><b>Agenda</b></p>
+      <p>A Day of Azure OpenAI is an intensive one-day program designed to provide attendees with a comprehensive understanding of Azure OpenAI and Azure AI Studio. This training combines presentations, hands-on lab work, and interactive sessions to ensure participants gain practical knowledge and skills in leveraging Azure`s AI capabilities effectively.</p>
+      <p>In this training class, attendees will embark on a journey to discover the power of Azure OpenAI and Azure AI Studio, Microsoft`s cutting-edge AI development platform. </p>
+      <p>The training will commence with an overview of Azure OpenAI, introducing attendees to the fundamental concepts and components of the platform. Participants will learn about the seamless integration of OpenAI technologies into Azure and how it enables developers to build innovative AI solutions.</p>
+      <p>By the end of the training, attendees will have a solid understanding of Azure OpenAI and Azure AI Studio. They will be able to confidently navigate the Azure AI ecosystem, leverage the platform`s powerful tools and services, and develop AI solutions that meet their unique business needs.</p>
     </div>
 '
 scheduleurl: https://sessionize.com/api/v2/myngqbq1/view/GridSmart
@@ -37,8 +56,8 @@ scheduleurl: https://sessionize.com/api/v2/myngqbq1/view/GridSmart
 #venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.608236646044!2d15.971867215814784!3d45.79907581905612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f5ccd82531%3A0x9f01ada2a1532ad4!2sHotel%20International!5e0!3m2!1sen!2shr!4v1661522326685!5m2!1sen!2shr
 sponsors:
   - sponsorlevel: GOLD
-  - link: https://www.microsoft.com/
-    image: ../assets/img/events/0036/microsoft.png
+  - link: https://entelect.co.za/
+    image: ../assets/img/events/0036/Entelect.png
     height: 150
     width: 300
   #- link: http://www.tria.hr/
@@ -49,7 +68,12 @@ sponsors:
     image: ../assets/img/events/0036/CobaltAnalytics.png
     height: 150
     width: 300
-  - sponsorlevel: BRONZE
+  #- sponsorlevel: BRONZE
+  - sponsorlevel: Venue
+  - link: https://www.microsoft.com/
+    image: ../assets/img/events/0036/microsoft.png
+    height: 50
+    width: 100 
   #- link: https://www.gethynellis.com/
   #  image: ../assets/img/events/0029/GE-Logo.png
   #  height: 120
