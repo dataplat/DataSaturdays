@@ -26,7 +26,12 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   Data Saturday #41 - Brisbane 2023 is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across Microsoft Azure Technologies. This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artificial Intelligence, DevOps, Application Development and more.
   </p>
   <p style=\"text-align:center;font-size:2.5rem;\">
-  We will update the venue details shortly! 
+  Strategix International College is where we will be! 
+  </p>
+  <br>
+  A short walk from central station, you can either use the back entrance at central station to pop out on Wickham Terrace or the side entrance and pop out on Turbot Street along Upper Edward Street.
+  <p style=\"text-align:center; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0041/Event_Directions.png\" height=\"350\" alt=\"\" style=\"margin-left: 35px; margin-right: 35px;\">
   </p>
  "
 
@@ -53,7 +58,15 @@ milestones: "
 
 registrationurl: "https://www.eventbrite.com.au/e/data-saturday-41-brisbane-2023-tickets-645847456127"
 
-venuemap: 
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.233752358647!2d153.02107867592414!3d-27.461981216378224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9159f85ffdde47%3A0xf8ae46b82cd04cf8!2s88%20Leichhardt%20St%2C%20Spring%20Hill%20QLD%204000!5e0!3m2!1sen!2sau!4v1687140235826!5m2!1sen!2sau
+
+venuesponsor: 
+  - link: strategix.edu.au
+    open-in-new-tab: true
+    image: ../assets/img/events/0041/STX_INT_Stacked_Full_Colour.png
+    height: 180
+    margin-top: -20
+    margin-bottom: 0
 
 sponsors:
 
@@ -65,10 +78,15 @@ sponsors:
     margin-bottom: 0
   
   - sponsorlevel: Gold
+  - link: http://red-gate.com/
+    image: ../assets/img/events/0041/PNG_Holding_Redgate_logo.png
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
   - link: https://sqlmastersconsulting.com.au
     image: ../assets/img/events/0041/SQL_Highlight_Logo_RHB.jpg
     height: 90
-    margin-top: -20
+    margin-top: 30
     margin-bottom: 0
 
   - sponsorlevel: Silver
