@@ -1,0 +1,38 @@
+name: "Data Saturday  #45 - Data Saturday Lublin"
+date: 2023-09-30 09:00:00 +02:00
+
+description: '
+A very first Data Saturday in Poland! Data Community Poland invites you to join us in Lublin to meet together and to absorb data-related presentations, demos and rumors. Local, cloud, relational, multidimensional, visualized and encrypted - we will cover it all.<br>
+Data Saturday Lublin will be held on September 30th, 2023 to provide training sessions for all who would like to raise their skills level in data processing and administration. Our venue is Lublin University of Technology (Politechnika Lubelska).
+ '
+registrationurl: _No response_
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url: 
+  
+sponsors: 
+  - link: _No response_
+    image: 
+    height: 
+ 
+
+scheduleurl: _No response_
+
+speakerlisturl: https://sessionize.com/data-saturday-lublin/
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Agnieszka Cieplak
+    twitter: https://twitter.com/AgCieplak
+    email: agnieszka.cieplak@datacommunity.pl
+  - name: Tomasz Cieplak
+    twitter: https://twitter.com/TomaszCieplak
+    email: tomasz@cieplak.net
+  - name: Data Community Poland
+    twitter: https://twitter.com/DataCommunityPL
+    email: sqlday@datacommunity.pl
+ 
