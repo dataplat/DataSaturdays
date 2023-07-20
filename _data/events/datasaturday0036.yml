@@ -35,21 +35,6 @@ precondescription: '
         <li>Build a Power BI dataset using Direct Lake.</li>
       </lu>
     </div>
-    <br>
-    <HR />
-    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
-      <h2>Precon 2: A Day of Azure OpenAI: Exploring Azure OpenAI and Azure AI Studio for Effective AI Development</h2>
-      <img src="../assets/img/events/0036/PreConBanner2.jpg" height="300" />
-      <p style=\"text-align: center; font-size: 1.3rem;\">Presented by: <b>Neils Bergland & Michael Johnson</b></p>
-      <p style=\"text-align: center; font-size: 1.3rem;\">Date and Time: <b>4 August 2023 8:30 to 16:00</b></p>
-      <p style=\"text-align: center; font-size: 1.3rem;\">Venue: <b>Microsoft Bryanston</b></p>
-      <p style=\"text-align: center; font-size: 1.3rem;\">Registration link: <b><a href="https://qkt.io/XHUwpa" target="_blank">Register Here</a></b></p>
-      <p><b>Agenda</b></p>
-      <p>A Day of Azure OpenAI is an intensive one-day program designed to provide attendees with a comprehensive understanding of Azure OpenAI and Azure AI Studio. This training combines presentations, hands-on lab work, and interactive sessions to ensure participants gain practical knowledge and skills in leveraging Azure`s AI capabilities effectively.</p>
-      <p>In this training class, attendees will embark on a journey to discover the power of Azure OpenAI and Azure AI Studio, Microsoft`s cutting-edge AI development platform. </p>
-      <p>The training will commence with an overview of Azure OpenAI, introducing attendees to the fundamental concepts and components of the platform. Participants will learn about the seamless integration of OpenAI technologies into Azure and how it enables developers to build innovative AI solutions.</p>
-      <p>By the end of the training, attendees will have a solid understanding of Azure OpenAI and Azure AI Studio. They will be able to confidently navigate the Azure AI ecosystem, leverage the platform`s powerful tools and services, and develop AI solutions that meet their unique business needs.</p>
-    </div>
 '
 scheduleurl: https://sessionize.com/api/v2/myngqbq1/view/GridSmart
 #scheduleapp: https://ds-croatia-2023.sessionize.com
@@ -66,6 +51,10 @@ sponsors:
   - sponsorlevel: SILVER
   - link: https://cobaltAnalytics.io
     image: ../assets/img/events/0036/CobaltAnalytics.png
+    height: 150
+    width: 300
+  - link: https://ats.co.za/
+    image: ../assets/img/events/0036/atsnwm1.jpg
     height: 150
     width: 300
   #- sponsorlevel: BRONZE
