@@ -57,6 +57,10 @@ sponsors:
     image: ../assets/img/events/0036/atsnwm1.jpg
     height: 150
     width: 300
+  - link: https://www.solarwinds.com/
+    image: ../assets/img/events/0036/SW_Logo_Web_Orange.png
+    height: 150
+    width: 300
   #- sponsorlevel: BRONZE
   - sponsorlevel: Venue
   - link: https://www.microsoft.com/
