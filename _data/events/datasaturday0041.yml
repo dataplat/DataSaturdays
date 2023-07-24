@@ -42,7 +42,7 @@ milestones: "
   <br>
         * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> May 30th, 2023: Registration opens
   <br>
-        * <strong>July 14th, 2023</strong>: Call for speakers closes
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> July 14th, 2023: Call for speakers closes
   <br>
         * July, 2023: Session selection, notifying speakers
   <br>
@@ -56,12 +56,66 @@ milestones: "
 
  "
 
+precondescription: "
+    <p>
+    We are delighted to present our world class precon speaker. We are having a single precon and it is now open for registration.
+    </p>
+    <p>
+    The workshop will be held on Friday preceding our main event on Saturday and will have the affordable cost of AUD$450, including lunch, for a full day of high quality learning. 
+    </p>
+    <p><i>For the precon where we use Eventbrite for ticketing a small fee will be added to the ticket price.</i></p>
+    <p>
+    Check out the workshop description below and reserve your seat today.
+    <ul>
+      <li><a href=\"#ms-fabric\">Enterprise Data Solutions with Power BI and the Azure Cloud with Grant</a></li>
+    </ul>
+    </p>
+        
+    <div id=\"ms-fabric\"/>
+    <br>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    Enterprise Data Solutions with Power BI and the Azure Cloud
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with <a href=\"https://sessionize.com/ginger-grant\">Ginger Grant</a> 
+    <img src=\"../assets/img/events/0041/Ginger_Grant.jpg\" height=\"170\" alt=\"Ginger Grant\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    </p>
+    <p>
+    Developing a centralized repository of data is only useful when you can use it to better explain what is going on in your organization, and for that you are going to want to create Power BI reports to provide that analysis.
+    </p>
+    <p>
+    Designing for large scale models is different as one needs to be able to accommodate data from multiple different sources and include complex transformations. Data solutions need to accommodate different types of users including methods to support departments as well as releasing enterprise-wide reports.
+    </p>
+    <p>
+    Data models should be able to provide ad hoc querying, data science as well as self-service reporting models. To govern the solution, there needs to be a plan for providing a location for people to find the answers to the questions they may have about access, design and security in a user accessible design.
+    </p>
+    <p>
+    During this all day session we will explore the following topics
+      - Power BI Large Scale modeling
+      - Enterprise Data Transformation Techniques
+      - Release management and lifecycle of Workspaces and Apps 
+      - Data Security and Source Control 
+      - Self Service Reporting Techniques
+      - Power BI Governance
+    </p>
+    <p>
+    As part of the session attendees will gain hands on experience to apply the skills discussed on their own laptops.
+    </p>
+    <br>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatbrisbane23-enterprisedatasolutions.eventbrite.com.au\" target=\"_blank\">Enterprise Data Solutions Registration</a>
+    </p>
+    </div>
+    "
+
 registrationurl: "https://www.eventbrite.com.au/e/data-saturday-41-brisbane-2023-tickets-645847456127"
 
 venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.233752358647!2d153.02107867592414!3d-27.461981216378224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9159f85ffdde47%3A0xf8ae46b82cd04cf8!2s88%20Leichhardt%20St%2C%20Spring%20Hill%20QLD%204000!5e0!3m2!1sen!2sau!4v1687140235826!5m2!1sen!2sau
 
 venuesponsor: 
-  - link: strategix.edu.au
+  - link: https://strategix.edu.au
     open-in-new-tab: true
     image: ../assets/img/events/0041/STX_INT_Stacked_Full_Colour.png
     height: 180
@@ -72,6 +126,7 @@ sponsors:
 
   - sponsorlevel: Platinum
   - link: https://varigence.com/
+    open-in-new-tab: true
     image: ../assets/img/events/0041/varigence-logo.png
     height: 90
     margin-top: -20
@@ -79,11 +134,13 @@ sponsors:
   
   - sponsorlevel: Gold
   - link: http://red-gate.com/
+    open-in-new-tab: true
     image: ../assets/img/events/0041/PNG_Holding_Redgate_logo.png
     height: 90
     margin-top: -20
     margin-bottom: 0
   - link: https://sqlmastersconsulting.com.au
+    open-in-new-tab: true
     image: ../assets/img/events/0041/SQL_Highlight_Logo_RHB.jpg
     height: 90
     margin-top: 30
