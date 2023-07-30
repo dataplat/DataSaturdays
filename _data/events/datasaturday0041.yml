@@ -44,11 +44,11 @@ milestones: "
   <br>
         * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> July 14th, 2023: Call for speakers closes
   <br>
-        * July, 2023: Session selection, notifying speakers
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> July, 2023: Session selection, notifying speakers
   <br>
-        * August, 2023: Speakers and sessions published
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> August, 2023: Speakers and sessions published
   <br>
-        * August, 2023: Schedule published
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> August, 2023: Schedule published
   <br>
         * September 30th, 2023: Main conference event
     </p>
@@ -112,6 +112,10 @@ precondescription: "
 
 registrationurl: "https://www.eventbrite.com.au/e/data-saturday-41-brisbane-2023-tickets-645847456127"
 
+scheduleurl: https://sessionize.com/api/v2/qjjxxn1u/view/GridSmart
+
+scheduleapp: https://data-saturday-40-brisbane/
+
 venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.233752358647!2d153.02107867592414!3d-27.461981216378224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9159f85ffdde47%3A0xf8ae46b82cd04cf8!2s88%20Leichhardt%20St%2C%20Spring%20Hill%20QLD%204000!5e0!3m2!1sen!2sau!4v1687140235826!5m2!1sen!2sau
 
 venuesponsor: 
@@ -149,9 +153,7 @@ sponsors:
   - sponsorlevel: Silver
 
 
-scheduleurl:
-
-speakerlisturl: https://sessionize.com/data-saturday-40-brisbane
+speakerlisturl: https://sessionize.com/api/v2/qjjxxn1u/view/SpeakerWall
 callforspeakers: true
 
 volunteerrequesturl: mailto:warwick@sqlmastersconsulting.com.au
