@@ -155,7 +155,7 @@ sponsors:
 
 
 speakerlisturl: https://sessionize.com/api/v2/qjjxxn1u/view/SpeakerWall
-callforspeakers: true
+callforspeakers: false
 
 volunteerrequesturl: mailto:warwick@sqlmastersconsulting.com.au
 organizers:
