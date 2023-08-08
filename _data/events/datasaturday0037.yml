@@ -13,26 +13,35 @@ description: '
 </p>
 <p>The event is organized by <a href="https://www.linkedin.com/in/suxstellino">Alessandro Alpi</a> (<a href="https://it.linkedin.com/company/engage-labs">Engage Labs</a>)</p>
 '
-registrationurl: _No response_
-join:
-  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
-  rooms:
-   - name: _No response_
-     url:
+registrationurl: https://www.eventbrite.com/e/biglietti-data-saturday-parma-2023-615662040737?aff=ebdssbdestsearch&from=86374ce3356411ee83aa96848783ce2f&keep_tld=1
+hide-join-room-section: true
+# join:
+#   description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+#   rooms:
+#    - name: _No response_
+#      url:
 
 sponsors:
-  - link: _No response_
-    image:
-    height:
+  - link: https://www.dataskills.it/
+    image: ../assets/img/events/0037/logoDataskills-white.png
+    height: 90
+  - link: https://www.isolutions.it/
+    image: ../assets/img/events/0037/isolutions-logo-header.png
+    height: 110
+  - link: https://www.bifactory.it/
+    image: ../assets/img/events/0037/logo-bifactory-3.webp
+    height: 120
+  - link: https://www.dataskills.it/
+    image: ../assets/img/events/0037/quantumdatis_path.svg
+    height: 90
 
-
-scheduleurl: _No response_
+# scheduleurl: _No response_
 
 speakerlisturl: https://sessionize.com/data-saturday-parma-2023/
 
 callforspeakers: true
 
-volunteerrequesturl: _No response_
+# volunteerrequesturl: _No response_
 organizers:
   - name: Alessandro Alpi (Engage Labs)
     twitter:
