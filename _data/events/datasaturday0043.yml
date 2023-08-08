@@ -7,33 +7,13 @@ Data Saturday Durban is a free, full-day, volunteer-led, in-person event that co
 Formally known as SQL Saturday Durban, this event provides attendees the opportunity to interact with their fellow data professionals to network and discuss challenges and solutions to some of their most pressing problems.
  '
 registrationurl: https://www.eventbrite.com/e/data-saturday-durban-tickets-654900674547?aff=oddtdtcreator
-join:
-  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
-  rooms:
-   - name: _No response_
-     url: 
-  
-sponsors: 
-  - link: sponsor1link
-    image: sponsor1image
-    height: sponsor1height
-  - link: sponsor2link
-    image: sponsor2image
-    height: sponsor2height
-  - link: sponsor3link
-    image: sponsor3image
-    height: sponsor3height
- 
 
-scheduleurl: _No response_
+scheduleurl: https://sessionize.com/api/v2/fzzn4muv/view/GridSmart
 
-speakerlisturl: _No response_
+callforspeakers: false
 
-callforspeakers: true
-
-volunteerrequesturl: _No response_
 organizers:
-  - name: _No response_
+  - name: 
     twitter: 
     email: 
  
