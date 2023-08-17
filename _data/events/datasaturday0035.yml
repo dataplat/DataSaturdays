@@ -235,13 +235,13 @@ scheduleapp: https://datasatoslo2023.sessionize.com/
 venuesponsor: 
   - link: https://www.kristiania.no/
     open-in-new-tab: true
-    image: ../assets/img/events/0023/hoyskolen_kristiania.png
+    image: ../assets/img/events/0035/hoyskolen_kristiania.png
     height: 200
     margin-top: 0
     margin-bottom: 0
   - link: https://www.microsoft.com/sql-server/
     open-in-new-tab: true
-    image: ../assets/img/events/0023/MS-Azure_logo.png
+    image: ../assets/img/events/0035/MS-Azure_logo.png
     height: 300
     margin-top: -50
     margin-bottom: 0
