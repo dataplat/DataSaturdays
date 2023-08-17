@@ -235,9 +235,15 @@ scheduleapp: https://datasatoslo2023.sessionize.com/
 venuesponsor: 
   - link: https://www.kristiania.no/
     open-in-new-tab: true
-    image: ../assets/img/events/0023/hoyskolen_kristiania.png
+    image: ../assets/img/events/0035/hoyskolen_kristiania.png
     height: 200
     margin-top: 0
+    margin-bottom: 0
+  - link: https://www.microsoft.com/sql-server/
+    open-in-new-tab: true
+    image: ../assets/img/events/0035/MS-Azure_logo.png
+    height: 300
+    margin-top: -50
     margin-bottom: 0
 
 venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.9755343744257!2d10.757657116683484!3d59.91595338186799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e60c78540dd%3A0xa19b8032c939043a!2sCampus%20Fjerdingen%20%7C%20H%C3%B8yskolen%20Kristiania!5e0!3m2!1sen!2sno!4v1660291032383!5m2!1sen!2sno
