@@ -8,19 +8,9 @@ description: "Wir sind zurück - in Farbe, in-person und wieder in der JUFA Wien
   "
 
 
-registrationurl: This is your registration URL
-join:
-  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
-  rooms:
-    - name: Room 1
-      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+registrationurl: https://www.datacommunity.at
 
 scheduleurl: This is your schedule URL from Sessionize. You can leave this blank until you have it.
-
-sponsors:
-  - link: https://yoursponsorlink
-    image: your sponsor image
-    height: image height if required
 
 speakerlisturl: https://www.datacommunity.at
 callforspeakers:  false 
