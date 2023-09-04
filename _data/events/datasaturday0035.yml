@@ -264,7 +264,7 @@ sponsors:
     margin-bottom: 0
   - link: https://fraktal.no/
     image: ../assets/img/events/0035/fraktal_color_rgb.svg
-    height: 120
+    height: 130
     margin-top: 30
     margin-bottom: 0
   - link: https://www.cloudberries.no/
@@ -276,6 +276,21 @@ sponsors:
     image: ../assets/img/events/0035/Ingraphic_Logo.png
     height: 65
     margin-top: 30
+    margin-bottom: 30
+  - link: https://www.timextender.com/no/
+    image: ../assets/img/events/0035/TimeXtender-LOGO-RGB.png
+    height: 45
+    margin-top: 30
+    margin-bottom: 30
+  - link: https://www.deloitte.no/
+    image: ../assets/img/events/0035/deloitte.webp
+    height: 160
+    margin-top: 0
+    margin-bottom: 30
+  - link: https://www.webstep.no/
+    image: ../assets/img/events/0035/WEBSTEP_logo.png
+    height: 55
+    margin-top: 0
     margin-bottom: 30
     
 
@@ -300,21 +315,17 @@ sponsors:
     height: 175
     margin-top: 50
     margin-bottom: 30
+  - link: https://datamasterminds.io/
+    image: ../assets/img/events/0035/DataMasteminds_logo_smaller.png
+    height: 140
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://www.databrothers.cz/en/make-your-data-shine/
+    image: ../assets/img/events/0035/databrothers-companyLogo.png
+    height: 100
+    margin-top: 50
+    margin-bottom: 30
 
-#   - link: https://www.red-gate.com/
-#     image: ../assets/img/events/0023/redgate-logo.svg
-#     height: 80
-#   - link: https://www.microsoft.com/sql-server/
-#     image: ../assets/img/events/0023/MS-Azure_logo.png
-#     height: 280
-#     margin-top: -50
-#     margin-bottom: 0
-
-#   - link: https://www.inspirit.bg/
-#     image: ../assets/img/events/0023/inspirit_Logo.png
-#     height: 175
-#     margin-top: -60
-#     margin-bottom: 0
     
     
 
