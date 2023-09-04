@@ -14,8 +14,18 @@ join:
    - name: _No response_
      url: 
   
+sponsor-menuitem: true
+sponsorbenefits: '
+  <div class="row justify-content-center">
+      <p style="text-align:center;">
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../assets/img/events/0045/DataSaturday_oferta_sponsorska.pdf" target="_blank">Sponsorplan</a>
+    </p>
+  </div>    
+  '
+
+
 sponsors: 
-  - link: _No response_
+  - link: mailto:sponsors@datacommunity.pl
     image: 
     height: 
  
@@ -80,15 +90,15 @@ precondescription: '
         </div>
 '
 
-volunteerrequesturl: _No response_
+volunteerrequesturl: https://forms.office.com/e/DFS6mQnCsC
 organizers:
   - name: Data Community Poland
     twitter: https://twitter.com/DataCommunityPL
-    email: sqlday@datacommunity.pl
+    email: mailto:sqlday@datacommunity.pl
   - name: Agnieszka Cieplak
     twitter: https://twitter.com/AgCieplak
-    email: agnieszka.cieplak@datacommunity.pl
+    email: mailto:agnieszka.cieplak@datacommunity.pl
   - name: Tomasz Cieplak
     twitter: https://twitter.com/TomaszCieplak
-    email: tomasz@cieplak.net
+    email: mailto:tomasz@cieplak.net
  
