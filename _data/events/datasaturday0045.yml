@@ -32,7 +32,9 @@ sponsors:
 
 scheduleurl: https://sessionize.com/api/v2/vemxsb4s/view/GridSmart
 
-speakerlisturl: https://sessionize.com/data-saturday-lublin/
+scheduleapp: https://data-saturday-lublin.sessionize.com/
+
+speakerlisturl: https://data-saturday-lublin.sessionize.com/speakers
 
 callforspeakers: false
 
