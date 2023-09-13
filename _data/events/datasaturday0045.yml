@@ -1,38 +1,104 @@
 name: "Data Saturday  #45 - Data Saturday Lublin"
 date: 2023-09-30 09:00:00 +02:00
+hide-join-room-section: true
+
 
 description: '
 A very first Data Saturday in Poland! Data Community Poland invites you to join us in Lublin to meet together and to absorb data-related presentations, demos and rumors. Local, cloud, relational, multidimensional, visualized and encrypted - we will cover it all.<br>
 Data Saturday Lublin will be held on September 30th, 2023 to provide training sessions for all who would like to raise their skills level in data processing and administration. Our venue is Lublin University of Technology (Politechnika Lubelska).
  '
-registrationurl: _No response_
+registrationurl: https://datasaturday.conrego.com/
 join:
   description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
   rooms:
    - name: _No response_
      url: 
   
+sponsor-menuitem: true
+sponsorbenefits: '
+  <div class="row justify-content-center">
+      <p style="text-align:center;">
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../assets/img/events/0045/DataSaturday_oferta_sponsorska.pdf" target="_blank">Sponsorplan</a>
+    </p>
+  </div>    
+  '
+
+
 sponsors: 
-  - link: _No response_
+  - link: mailto:sponsors@datacommunity.pl
     image: 
     height: 
  
 
-scheduleurl: _No response_
+scheduleurl: https://sessionize.com/api/v2/vemxsb4s/view/GridSmart
 
 speakerlisturl: https://sessionize.com/data-saturday-lublin/
 
-callforspeakers: true
+callforspeakers: false
 
-volunteerrequesturl: _No response_
+precondescription: '
+        <p>This section is in Polish as all pre-con sessions are held in that language.</p>
+        <p>Wszystkie warsztaty odbywają się w piątek, 29 września 2023 r. na terenie Politechniki Lubelskiej (dokładny adres podamy niebawem, nie przewidujemy transmisji on-line). Będą to jednodniowe zajęcia, standardowo w formie seminarium technicznego i są doskonałą okazją do poszerzenia wiedzy od najlepszych specjalistów w bardzo przystępnej cenie.</p>
+        <p style=\"text-align: center; font-size: 1.3rem;\">Rejestracja: <b><a href="https://datasaturday.conrego.com/" target="_blank">tutaj</a></b></p>
+        <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+          <h2>Warsztat 1: Microsoft Fabric w praktyce</h2>
+          <!-- <img src="../assets/img/events/0036/PreConBanner1.jpg" height="300" /> -->
+          <p style=\"text-align: center; font-size: 1.3rem;\">Trener: <b>Damian Widera</b></p>
+          <p style=\"text-align: center; font-size: 1.3rem;\">Sala: <b>(pojawi sie wkrótce)</b></p>
+          <p><b>Abstrakt</b></p>
+          <p>Zapraszam na warsztaty poświęcone platformie Microsoft Fabric, w trakcie których poruszone zostaną następujące zagadnienia:</p>
+            <ul>
+                <li>Dlaczego powstała nowa architektura Microsoft Fabric</li>
+                <li>Jak wygląda architektura Microsoft Fabric</li>
+                <li>Jakie są możliwości nowej platformy</li>
+                <li>Jaki wpływ ma Microsoft Fabric na obecne i przyszłe projekty analityczne</li>
+                <li>W jaki sposób pracować z komponentami platformy: One Lake, Data Factory, Data Warehouse, Power Bi oraz innymi</li>
+            </ul>
+            <p>W trakcie warsztatu wykonamy wspólnie wiele demonstracji pokazujących sposób pracy  z Microsoft Fabric, czyli zbudujemy rozwiązane End-to-End</p>
+            
+            <p>Uczestnicy mogą mieć swoje laptopy, o ile będą mieć możliwość dołączenia do wersji próbnej Fabric.</p>
+        </div>
+        <br>
+        <HR />
+        <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+            <h2>Warsztat 2: Tworzenie modeli danych dla zwykłych śmiertelników</h2>
+            <!-- <img src="../assets/img/events/0036/PreConBanner1.jpg" height="300" /> -->
+            <p style=\"text-align: center; font-size: 1.3rem;\">Trener: <b>Grzegorz Stolecki</b></p>
+            <p style=\"text-align: center; font-size: 1.3rem;\">Sala: <b>(pojawi sie wkrótce)</b></p>
+            <p><b>Abstrakt</b></p>
+            <p>Dość teorii, czas na praktykę. Przynieś swój sprzęt, bo w końcu zamiast tylko słuchać pobrudzisz sobie ręce...</p>
+            <p>W trakcie warsztatu zbudujesz kilka modeli danych. Nie będą mocno skomplikowane, ale każdy z nich pokaże pewien niuans modelowania wielowymiarowego. Zaczniesz od analizy wymagań na podstawie makiet raportów. Zobaczysz jak sobie poradzić (i sam tego dokonasz) z wymiarami odgrywającymi różne role, filtrami dwukierunkowymi, niejednoznacznością relacji oraz ich płynnym przełączaniem. Nauczysz się dokonywać wyborów: miara czy kolumna kalkulowana, DAX czy PowerQuery, kolumna w istniejącej tabeli czy nowa tabela. Wszystko na podstawie realnych, spotykanych na co dzień scenariuszy.</p>
+            <p>Przykładów będzie tylko kilka - ale przeprowadzisz je własnoręcznie od A do Z.</p>
+        </div>
+        <br>
+        <HR />
+        <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+            <h2>Warsztat 3: Odkryj potencjał swojej bazy danych</h2>
+            <!-- <img src="../assets/img/events/0036/PreConBanner1.jpg" height="300" /> -->
+            <p style=\"text-align: center; font-size: 1.3rem;\">Trenerzy: <b>Michał Sadowski i Tomasz Waloszek</b></p>
+            <p style=\"text-align: center; font-size: 1.3rem;\">Sala: <b>(pojawi sie wkrótce)</b></p>
+            <p><b>Abstrakt</b></p>
+            <p>Warsztat skupia się na praktycznych technikach optymalizacji i wykorzystaniu istniejących funkcjonalności w środowisku Microsoft SQL Server. W trakcie warsztatu uczestnicy zdobędą wiedzę na temat efektywnego wykorzystania zasobów oraz poprawy wydajności baz danych. Główne zagadnienia poruszane podczas warsztatu:</p>
+            <ol>
+                <li>Wprowadzenie do tematu optymalizacji i wydajności w SQL Server.</li>
+                <li>Wykorzystanie indeksów - zasady tworzenia odpowiednich indeksów w zależności od typu tabeli (heap, clustered, non-clustered, columnstore).</li>
+                <li>Partycjonowanie: Przeanalizujemy, kiedy warto rozważyć zastosowanie partycjonowania i jakie korzyści może przynieść. Przedstawimy również przypadki, w których partycjonowanie może nie być zalecane lub nie przynosić znaczących korzyści.</li>
+                <li>Staging - praktyki optymalizacji procesu stagingu danych oraz omówienie, dlaczego stosowanie struktury danych typu heap nie zawsze jest korzystne.</li>
+                <li>Raporty operacyjne - przykłady i zasady tworzenia efektywnych raportów operacyjnych, uwzględniających optymalizację zapytań oraz wydajne wykorzystanie zasobów.</li>
+            </ol>
+            <p>Warsztat <i>Odkryj potencjał swojej bazy danych</i> stanowi niezastąpioną okazję do zdobycia praktycznej wiedzy oraz umiejętności w zakresie optymalizacji baz danych w środowisku Microsoft SQL Server. Uczestnicy będą mieli możliwość praktycznego zgłębienia aspektów optymalizacji, dzięki czemu będą w stanie poprawić wydajność swoich baz danych i zwiększyć efektywność swojej pracy.</p>
+        </div>
+'
+
+volunteerrequesturl: https://forms.office.com/e/DFS6mQnCsC
 organizers:
-  - name: Agnieszka Cieplak
-    twitter: https://twitter.com/AgCieplak
-    email: agnieszka.cieplak@datacommunity.pl
-  - name: Tomasz Cieplak
-    twitter: https://twitter.com/TomaszCieplak
-    email: tomasz@cieplak.net
   - name: Data Community Poland
     twitter: https://twitter.com/DataCommunityPL
-    email: sqlday@datacommunity.pl
+    email: mailto:sqlday@datacommunity.pl
+  - name: Agnieszka Cieplak
+    twitter: https://twitter.com/AgCieplak
+    email: mailto:agnieszka.cieplak@datacommunity.pl
+  - name: Tomasz Cieplak
+    twitter: https://twitter.com/TomaszCieplak
+    email: mailto:tomasz@cieplak.net
  
