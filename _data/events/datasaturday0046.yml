@@ -11,7 +11,7 @@ description: "Wir sind zurück - in Farbe, in-person und wieder in der JUFA Wien
 
 registrationurl: https://www.datacommunity.at
 
-scheduleurl: This is your schedule URL from Sessionize. You can leave this blank until you have it.
+scheduleurl: https://sessionize.com/api/v2/jqjna667/view/GridSmart
 
 speakerlisturl: https://www.datacommunity.at
 callforspeakers:  false 
