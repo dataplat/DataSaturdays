@@ -32,13 +32,15 @@ sponsors:
 
 scheduleurl: https://sessionize.com/api/v2/vemxsb4s/view/GridSmart
 
-speakerlisturl: https://sessionize.com/data-saturday-lublin/
+scheduleapp: https://data-saturday-lublin.sessionize.com/
+
+speakerlisturl: https://sessionize.com/view/vemxsb4s/SpeakerWall
 
 callforspeakers: false
 
 precondescription: '
         <p>This section is in Polish as all pre-con sessions are held in that language.</p>
-        <p>Wszystkie warsztaty odbywają się w piątek, 29 września 2023 r. na terenie Politechniki Lubelskiej (dokładny adres podamy niebawem, nie przewidujemy transmisji on-line). Będą to jednodniowe zajęcia, standardowo w formie seminarium technicznego i są doskonałą okazją do poszerzenia wiedzy od najlepszych specjalistów w bardzo przystępnej cenie.</p>
+        <p>Wszystkie warsztaty odbywają się w piątek, 29 września 2023 r. na terenie Politechniki Lubelskiej (dokładny adres podamy niebawem, nie przewidujemy transmisji on-line). Będą to jednodniowe zajęcia, standardowo w formie seminarium technicznego i są doskonałą okazją do poszerzenia wiedzy od najlepszych specjalistów w bardzo przystępnej cenie - <b>777 PLN (+ VAT)</b>.</p>
         <p style=\"text-align: center; font-size: 1.3rem;\">Rejestracja: <b><a href="https://datasaturday.conrego.com/" target="_blank">tutaj</a></b></p>
         <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
           <h2>Warsztat 1: Microsoft Fabric w praktyce</h2>
@@ -61,7 +63,7 @@ precondescription: '
         <br>
         <HR />
         <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
-            <h2>Warsztat 2: Tworzenie modeli danych dla zwykłych śmiertelników</h2>
+            <h2>Warsztat 2: PowerBi - Tworzenie modeli danych dla zwykłych śmiertelników</h2>
             <!-- <img src="../assets/img/events/0036/PreConBanner1.jpg" height="300" /> -->
             <p style=\"text-align: center; font-size: 1.3rem;\">Trener: <b>Grzegorz Stolecki</b></p>
             <p style=\"text-align: center; font-size: 1.3rem;\">Sala: <b>(pojawi sie wkrótce)</b></p>
