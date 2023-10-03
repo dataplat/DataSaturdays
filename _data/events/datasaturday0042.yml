@@ -35,8 +35,8 @@ sponsors:
     image: ../assets/img/events/0029/MaliZmaj.png
     height: 150
 
-speakerlisturl: 
-callforspeakers: false 
+speakerlisturl: https://sessionize.com/data-saturday-croatia-2024/
+callforspeakers: true 
 volunteerrequesturl: https://events.3nf.hr/Contact.aspx
 organizers:
   - name: SQL Server User Group Croatia
