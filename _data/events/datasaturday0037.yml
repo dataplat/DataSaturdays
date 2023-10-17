@@ -40,9 +40,10 @@ sponsors:
 
 # scheduleurl: _No response_
 
-speakerlisturl: https://sessionize.com/data-saturday-parma-2023/
+scheduleurl: https://sessionize.com/api/v2/pa001v9u/view/GridSmart
+speakerlisturl: https://sessionize.com/api/v2/pa001v9u/view/SpeakerWall
 
-callforspeakers: true
+callforspeakers: false
 
 # volunteerrequesturl: _No response_
 organizers:
