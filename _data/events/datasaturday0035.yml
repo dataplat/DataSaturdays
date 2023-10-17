@@ -235,18 +235,26 @@ scheduleapp: https://datasatoslo2023.sessionize.com/
 venuesponsor: 
   - link: https://www.kristiania.no/
     open-in-new-tab: true
-    image: ../assets/img/events/0023/hoyskolen_kristiania.png
+    image: ../assets/img/events/0035/hoyskolen_kristiania.png
     height: 200
     margin-top: 0
+    margin-bottom: 0
+  - link: https://www.microsoft.com/sql-server/
+    open-in-new-tab: true
+    image: ../assets/img/events/0035/MS-Azure_logo.png
+    height: 300
+    margin-top: -50
     margin-bottom: 0
 
 venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.9755343744257!2d10.757657116683484!3d59.91595338186799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e60c78540dd%3A0xa19b8032c939043a!2sCampus%20Fjerdingen%20%7C%20H%C3%B8yskolen%20Kristiania!5e0!3m2!1sen!2sno!4v1660291032383!5m2!1sen!2sno
 
 sponsors:
-#   - sponsorlevel: PLATINUM
-#   - link: https://www.dbwatch.com/
-#     image: ../assets/img/events/0023/dbWatch_official_logo.png
-#     height: 130
+  - sponsorlevel: PLATINUM
+  - link: https://evidi.com/
+    image: ../assets/img/events/0035/Evidi_Logo_RGB_3.png
+    height: 150
+    margin-top: -30
+    margin-bottom: 0
 
   - sponsorlevel: GOLD
   - link: https://tabulareditor.com/
@@ -256,7 +264,7 @@ sponsors:
     margin-bottom: 0
   - link: https://fraktal.no/
     image: ../assets/img/events/0035/fraktal_color_rgb.svg
-    height: 120
+    height: 130
     margin-top: 30
     margin-bottom: 0
   - link: https://www.cloudberries.no/
@@ -268,6 +276,21 @@ sponsors:
     image: ../assets/img/events/0035/Ingraphic_Logo.png
     height: 65
     margin-top: 30
+    margin-bottom: 30
+  - link: https://www.timextender.com/no/
+    image: ../assets/img/events/0035/TimeXtender-LOGO-RGB.png
+    height: 45
+    margin-top: 30
+    margin-bottom: 30
+  - link: https://www.deloitte.no/
+    image: ../assets/img/events/0035/deloitte.webp
+    height: 160
+    margin-top: 0
+    margin-bottom: 30
+  - link: https://www.webstep.no/
+    image: ../assets/img/events/0035/WEBSTEP_logo.png
+    height: 55
+    margin-top: 0
     margin-bottom: 30
     
 
@@ -292,21 +315,17 @@ sponsors:
     height: 175
     margin-top: 50
     margin-bottom: 30
+  - link: https://datamasterminds.io/
+    image: ../assets/img/events/0035/DataMasteminds_logo_smaller.png
+    height: 140
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://www.databrothers.cz/en/make-your-data-shine/
+    image: ../assets/img/events/0035/databrothers-companyLogo.png
+    height: 100
+    margin-top: 50
+    margin-bottom: 30
 
-#   - link: https://www.red-gate.com/
-#     image: ../assets/img/events/0023/redgate-logo.svg
-#     height: 80
-#   - link: https://www.microsoft.com/sql-server/
-#     image: ../assets/img/events/0023/MS-Azure_logo.png
-#     height: 280
-#     margin-top: -50
-#     margin-bottom: 0
-
-#   - link: https://www.inspirit.bg/
-#     image: ../assets/img/events/0023/inspirit_Logo.png
-#     height: 175
-#     margin-top: -60
-#     margin-bottom: 0
     
     
 

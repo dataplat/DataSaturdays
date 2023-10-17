@@ -1,0 +1,36 @@
+name: "DataSaturday #47 - Data Saturday Slovenia 2023"
+date: 2023-12-09 09:00:00 -0000
+
+
+virtual: true
+
+description: '<p>Data Saturday Slovenia is a free one-day event for professionals who use the Microsoft data platform technologies. 
+This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p>
+<p>
+<b>Event venue</b></p>
+<p>The event will be held <b>online</b>, on Saturday, December  9th, 2023.</p>
+
+
+<p><b>Highlights from our last in-person event in 2019</b></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GByLHds-sYQ" title="SQL Saturday Slovenia 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>&nbsp;</p>
+<p><b>Sponsorship Plan</b></p>
+<p>Even though our event takes place online, there are still costs associated with it that we can only address with the kind contributions from our sponsors. If you are interested in helping us deliver this event as a sponsor, you can find more information in <a href="../assets/img/events/0025/DataSaturdaySlovenia2022_Sponsorship.pdf"><b>our sponsorship plan</b></a>.</p>'
+
+
+registrationurl: https://www.eventbrite.com/e/data-saturday-47-slovenia-2023-tickets-731251542047
+
+scheduleurl: 
+
+speakerlisturl: https://sessionize.com/data-saturday-slovenia-20226716
+callforspeakers:  true 
+
+volunteerrequesturl: mailto:DataSaturdaySlovenia@gmail.com
+organizers:
+  - name: Matija Lah, Mladen Prajdić, Tomaž Kaštrun
+    twitter: 
+    email: mailto:DataSaturdaySlovenia@gmail.com
+
+
+
