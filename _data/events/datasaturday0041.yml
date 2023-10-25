@@ -1,22 +1,163 @@
 name: "Data Saturday  #41 - Data Saturday Brisbane 2023"
-date: 2023-09-30 08:30:00 +10:00
+date: 2023-09-30 08:30:00 -0000
 
-description: '
-Data Saturday Brisbane is a free one-day event for professionals who use the Microsoft Data Platform and Microsoft Azure Technologies. This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artificial Intelligence, DevOps, Application Development and more.<br>
-<br>
-We will update the venue in Brisbane shortly.
- '
-registrationurl:
+hide-join-room-section: true
+open-registration-new-tab: true
+
+description: "<p style=\"text-align:center;font-size:4rem;\">
+  Data Saturday Brisbane is Back!
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Registration for the Saturday is LIVE! 
+  Sessions for the Saturday are LIVE!
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Click the button below to register for the Saturday
+  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com.au/e/data-saturday-41-brisbane-2023-tickets-645847456127\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Register for Saturday now</a>
+  <p>
+  Data Saturday Brisbane is a free one-day event for professionals who use either On-premises or cloud technologies in 1 or more of the 3 Major public cloud providers (Amazon Web Services, Microsoft Azure or Google Cloud Platform).
+  </p>
+  <p style=\"text-align:center; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0041/AWS_Logo.png\" height=\"100\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0041/azure_new_logo.png\" height=\"100\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0041/gcp_logo_cloud.png\" height=\"100\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
+  </p>
+  <br>
+  <br>
+  Data Saturday #41 - Brisbane 2023 is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across Microsoft Azure Technologies. This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artificial Intelligence, DevOps, Application Development and more.
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Strategix International College is where we will be! 
+  </p>
+  <br>
+  A short walk from central station, you can either use the back entrance at central station to pop out on Wickham Terrace or the side entrance and pop out on Turbot Street along Upper Edward Street.
+  <p style=\"text-align:center; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0041/Event_Directions.png\" height=\"350\" alt=\"\" style=\"margin-left: 35px; margin-right: 35px;\">
+  </p>
+ "
+
+milestones: "
+  <div class=\"row justify-content-center\">
+    <p style=\"text-align:left;font-size:1.5rem\">
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> May 22nd, 2023: Call for speakers open 
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> May 30th, 2023: Registration opens
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> July 14th, 2023: Call for speakers closes
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> July, 2023: Session selection, notifying speakers
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> August, 2023: Speakers and sessions published
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> August, 2023: Schedule published
+  <br>
+        * September 30th, 2023: Main conference event
+    </p>
+  </div>    
+
+ "
+
+precondescription: "
+    <p>
+    We are delighted to present our world class precon speaker. We are having a single precon and it is now open for registration.
+    </p>
+    <p>
+    The workshop will be held on Friday preceding our main event on Saturday and will have the affordable cost of AUD$450, including lunch, for a full day of high quality learning. 
+    </p>
+    <p><i>For the precon where we use Eventbrite for ticketing a small fee will be added to the ticket price.</i></p>
+    <p>
+    Check out the workshop description below and reserve your seat today.
+    <ul>
+      <li><a href=\"#ms-fabric\">Enterprise Data Solutions with Power BI and the Azure Cloud with Grant</a></li>
+    </ul>
+    </p>
+        
+    <div id=\"ms-fabric\"/>
+    <br>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    Enterprise Data Solutions with Power BI and the Azure Cloud
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with <a href=\"https://sessionize.com/ginger-grant\">Ginger Grant</a> 
+    <img src=\"../assets/img/events/0041/Ginger_Grant.jpg\" height=\"170\" alt=\"Ginger Grant\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    </p>
+    <p>
+    Developing a centralized repository of data is only useful when you can use it to better explain what is going on in your organization, and for that you are going to want to create Power BI reports to provide that analysis.
+    </p>
+    <p>
+    Designing for large scale models is different as one needs to be able to accommodate data from multiple different sources and include complex transformations. Data solutions need to accommodate different types of users including methods to support departments as well as releasing enterprise-wide reports.
+    </p>
+    <p>
+    Data models should be able to provide ad hoc querying, data science as well as self-service reporting models. To govern the solution, there needs to be a plan for providing a location for people to find the answers to the questions they may have about access, design and security in a user accessible design.
+    </p>
+    <p>
+    During this all day session we will explore the following topics
+      - Power BI Large Scale modeling
+      - Enterprise Data Transformation Techniques
+      - Release management and lifecycle of Workspaces and Apps 
+      - Data Security and Source Control 
+      - Self Service Reporting Techniques
+      - Power BI Governance
+    </p>
+    <p>
+    As part of the session attendees will gain hands on experience to apply the skills discussed on their own laptops.
+    </p>
+    <br>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatbrisbane23-enterprisedatasolutions.eventbrite.com.au\" target=\"_blank\">Enterprise Data Solutions Registration</a>
+    </p>
+    </div>
+    "
+
+registrationurl: "https://www.eventbrite.com.au/e/data-saturday-41-brisbane-2023-tickets-645847456127"
+
+scheduleurl: https://sessionize.com/api/v2/qjjxxn1u/view/GridSmart
+
+scheduleapp: https://data-saturday-40-brisbane/
+
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.233752358647!2d153.02107867592414!3d-27.461981216378224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9159f85ffdde47%3A0xf8ae46b82cd04cf8!2s88%20Leichhardt%20St%2C%20Spring%20Hill%20QLD%204000!5e0!3m2!1sen!2sau!4v1687140235826!5m2!1sen!2sau
+
+venuesponsor: 
+  - link: https://strategix.edu.au
+    open-in-new-tab: true
+    image: ../assets/img/events/0041/STX_INT_Stacked_Full_Colour.png
+    height: 180
+    margin-top: -20
+    margin-bottom: 0
 
 sponsors:
 
+  - sponsorlevel: Platinum
+  - link: https://varigence.com/
+    open-in-new-tab: true
+    image: ../assets/img/events/0041/varigence-logo.png
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
+  
+  - sponsorlevel: Gold
+  - link: http://red-gate.com/
+    open-in-new-tab: true
+    image: ../assets/img/events/0041/PNG_Holding_Redgate_logo.png
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
+  - link: https://sqlmastersconsulting.com.au
+    open-in-new-tab: true
+    image: ../assets/img/events/0041/SQL_Highlight_Logo_RHB.jpg
+    height: 90
+    margin-top: 30
+    margin-bottom: 0
 
-scheduleurl:
+  - sponsorlevel: Silver
 
-speakerlisturl: https://sessionize.com/data-saturday-40-brisbane
-callforspeakers: true
 
-volunteerrequesturl:
+speakerlisturl: https://sessionize.com/api/v2/qjjxxn1u/view/SpeakerWall
+callforspeakers: false
+
+volunteerrequesturl: mailto:warwick@sqlmastersconsulting.com.au
 organizers:
   - name: Warwick Rudd
     twitter:  https://twitter.com/Warwick_Rudd

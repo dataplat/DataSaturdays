@@ -1,0 +1,23 @@
+name: "DataSaturday #46 - Data Community Austria Day 2024"
+date: 2024-01-26 09:00:00 -0000
+
+description: "Wir sind zurück - in Farbe, in-person und wieder in der JUFA Wien. <br>
+ # Am Freitag, 26. Jänner 2024 ist es wieder soweit - die Data Community trifft sich in Wien zur mittlerweile 10ten Ausgabe unserer Daten-Community Konferenz. <br>
+ # Wir sind wieder zurück in der JUFA Wien (Mautner-Markhof-Gasse 50, 1110 Wien) und freuen uns auf einen spannenden Tag mit vielen interessanten Vorträgen und Sessions. <br>
+ # Das Programm ist in Arbeit und wird in den nächsten Wochen veröffentlicht.<br>
+ <br> 
+  "
+
+
+registrationurl: https://www.eventbrite.at/e/data-community-austria-day-2024-tickets-718369541637?aff=oddtdtcreator
+
+scheduleurl: https://sessionize.com/api/v2/jqjna667/view/GridSmart
+
+speakerlisturl: https://www.datacommunity.at
+callforspeakers:  false 
+
+volunteerrequesturl: We will need volunteers to help us run the event. If you are interested, please contact us at mailto:mailto:passaustria@outlook.com
+organizers:
+  - name: Wolfgang Strasser, Markus Ehrenmueller-Jensen, Martin Poeckl
+    twitter: https://twitter.com/DataCommunityAT
+    email: mailto:passaustria@outlook.com

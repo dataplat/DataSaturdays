@@ -1,7 +1,7 @@
 name: "Data Saturday #14 - Oslo"
 date: 2021-09-04 09:00:00 -0000
 
-description: "<p style=\"text-align:center;font-size:2.5rem;\">
+description: '<p style=\"text-align:center;font-size:2.5rem;\">
 Our schedule is LIVE and open for registration!
 </p>
 <p style=\"text-align:center;\">
@@ -23,10 +23,10 @@ We are proud to present our keynote speaker <a href=\"https://sessionize.com/cat
 </p>
 <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
 <p style=\"text-align: center; font-size: 1.5rem;\">
-\"I can't keep up!\" - Turning Discomfort into Personal Growth in a Fast-Paced World
+\"I can''t keep up!\" - Turning Discomfort into Personal Growth in a Fast-Paced World
 </p>
 <p>
-Do you sometimes think the world is moving so fast that you're struggling to keep up?
+Do you sometimes think the world is moving so fast that you''re struggling to keep up?
 </p>
 <p>
 Does it make you feel a little uncomfortable?
@@ -41,16 +41,16 @@ That means that you have ambitions. You want to learn new things, take that next
 It just might not be easy. All growth requires some discomfort. You need to manage and balance that discomfort, find a way to push yourself a little bit every day without feeling overwhelmed. In a fast-paced world, you need to know how to break down your goals into smaller chunks, how to prioritize, and how to optimize your learning.
 </p>
 <p>
-Are you ready to turn your \"I can't keep up\" into \"I can't believe I did all of that in just a year\"?
+Are you ready to turn your \"I can''t keep up\" into \"I can''t believe I did all of that in just a year\"?
 </p>
 </div>
 <p>
-Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+Data Saturday Oslo is an event run by volunteers from the \#datacommunity & \#sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
 </p>
 <p>
 Due to the current pandemic we will this year also conduct the event online.
 </p>
-"
+'
 
 registrationurl: https://www.eventbrite.com/e/data-saturday-oslo-2021-tickets-163722322875
 join:

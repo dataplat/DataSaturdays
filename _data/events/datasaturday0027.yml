@@ -29,10 +29,10 @@ sponsors:
     height: 120
   - link: sponsor2link
     image: sponsor2name
-    height: sponsor2height
+    height: 
   - link: sponsor3link
     image: sponsor3name
-    height: sponsor3height
+    height: 
  
 
 scheduleurl: _No response_
