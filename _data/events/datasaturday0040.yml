@@ -10,6 +10,20 @@ sponsors:
  - link: https://www.solisyon.de
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/solisyon.png
    height: 75
+ - sponsorlevel: GOLD
+ - link: https://oh22.is/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/oh22.png
+   height: 75
+ - link: https://www.pmone.com/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/pmone.png
+   height: 75
+ - link: https://www.timextender.com/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/timeextender.png
+   height: 75
+ - link: https://gds-business-intelligence.de/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/GDS.jpg
+   height: 75
+
 
 speakerlisturl: https://sessionize.com/data-saturday-muc-2024
 callforspeakers: true
