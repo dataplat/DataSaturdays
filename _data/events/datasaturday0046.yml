@@ -4,7 +4,20 @@ date: 2024-01-26 09:00:00 -0000
 description: "Wir sind zurück - in Farbe, in-person und wieder in der JUFA Wien. <br>
  # Am Freitag, 26. Jänner 2024 ist es wieder soweit - die Data Community trifft sich in Wien zur mittlerweile 10ten Ausgabe unserer Daten-Community Konferenz. <br>
  # Wir sind wieder zurück in der JUFA Wien (Mautner-Markhof-Gasse 50, 1110 Wien) und freuen uns auf einen spannenden Tag mit vielen interessanten Vorträgen und Sessions. <br>
- # Das Programm ist in Arbeit und wird in den nächsten Wochen veröffentlicht.<br>
+ <br> <br>
+ We are back - out 10th edition of SQL/Data Saturday Vienna aka Data Community Austria Day is happening again: Mark your calendar and come to Vienna on Thursday 25th and Friday 26th January 2024. 
+ <br>
+ The event takes place at the JUFA Wien Hotel (Mautner-Markhof-Gasse 50, 1110 Wien). <br>
+ <h3>Pre-Con Workshops on Thursday </h3>
+ * Precon #1: Using Microsoft Fabric to become an analytics super hero! (with Stijn Wynants & Filip Popovic, both Microsoft)
+ * Precon #2: Improve your Skills as a SQL Server DBA (with Uwe Ricken)
+ * Precon #3: Designing and developing enterprise-scale solutions with Power BI Premium (with Paul Turley)
+ <br>
+ <br>
+ # Registration for the pre-con workshops: https://www.eventbrite.at/o/data-community-austria-3211886920 
+ <br><br> 
+ <h3>Conference Day on Friday </h3>
+ Read more about the schedule, planned sessions and speakers that you will meet in Vienna below. 
  <br> 
   "
 
@@ -13,8 +26,49 @@ registrationurl: https://www.eventbrite.at/e/data-community-austria-day-2024-tic
 
 scheduleurl: https://sessionize.com/api/v2/jqjna667/view/GridSmart
 
-speakerlisturl: https://www.datacommunity.at
+speakerlisturl: https://sessionize.com/api/v2/jqjna667/view/SpeakerWall
 callforspeakers:  false 
+
+precondescription: '
+
+ <p>Data Community Austria Day will have <b>three Pre-Con Workshops on Thursday, 25<sup>th</sup> January 2025. </b>The workshops also take place at JUFA Wien City (Mautner-Markhof-Gasse 50, 1110 Wien). <o:p></o:p></span></p>
+
+ <p><o:p>&nbsp;</o:p></span></p>
+
+ <p><b><h1>Workshop #1 - Using Microsoft Fabric to become an analytics super hero!<o:p></o:p></h1></b></p>
+
+ <p><i>With Stijn Wynants (Microsoft) and Filip Popvic (Microsoft)<o:p></o:p></i></p>
+
+ <p>Hesitate no more! Microsoft Fabric is out and building analytics solution cannot get any easier! If you believe that the best way to learn is to learn by example, join us!<o:p></o:p></p>
+
+ <p>Sign-up here: <a href="https://www.eventbrite.at/e/using-microsoft-fabric-to-become-an-analytics-super-hero-tickets-723913413507?aff=oddtdtcreator">https://www.eventbrite.at/e/using-microsoft-fabric-to-become-an-analytics-super-hero-tickets-723913413507?aff=oddtdtcreator</a><o:p></o:p></p>
+
+ <p><img src=\"../assets/img/events/0046/dcatday24_precon_stijn_filip.jpeg\" width=\"600\" alt=\"Fabric Precon\" style=\"margin-left: 35px; margin-right: 35px;\"></p>
+ 
+ <br>
+
+ <p><b>Workshop #2 - Improve Your Skills as a SQL Server DBA<o:p></o:p></b></p>
+
+ <p><i>Uwe Ricken (db-berater)<o:p></o:p></i></p>
+
+ <p>Are you a SQL Server Database Administrator (DBA) looking to advance your expertise and enhance your career? Whether youa re an experienced DBA or just starting your journey in database administration, this comprehensive workshop is designed to equip you with the knowledge and skills needed to excel in your role as a SQL Server DBA.<o:p></o:p></p>
+
+ <p>Sign-up here: <a href="https://www.eventbrite.at/e/improve-your-skills-as-a-sql-server-dba-tickets-723921547837?aff=oddtdtcreator">https://www.eventbrite.at/e/improve-your-skills-as-a-sql-server-dba-tickets-723921547837?aff=oddtdtcreator</a><o:p></o:p></p>
+
+ <p><img src=\"../assets/img/events/0046/dcatday24_precon_uwericken.jpeg\" width=\"600\" alt=\"DBA Precon\" style=\"margin-left: 35px; margin-right: 35px;\"></p>
+ <br>
+
+ <p><b>Workshop #2 - Designing and developing enterprise-scale solutions with Power BI Premium</b><o:p></o:p></p>
+
+ <p><i>Paul Turley<o:p></o:p></i></p>
+
+ <p>This full-day workshop session will provide participants with essential best practice knowledge and practical tools to begin designing enterprise-ready solutions with Power BI. We will design a report, but this session will primarily focus on enterprise data modeling and dataset delivery for reporting &amp; analytics.<o:p></o:p></p>
+
+ <p>Sign-up here: <a href="https://www.eventbrite.at/e/designing-and-developing-enterprise-scale-solutions-with-power-bi-premium-tickets-723917937037?aff=oddtdtcreator">https://www.eventbrite.at/e/designing-and-developing-enterprise-scale-solutions-with-power-bi-premium-tickets-723917937037?aff=oddtdtcreator</a><o:p></o:p></p>
+
+ <p><img src=\"../assets/img/events/0046/dcatday24_precon_paulturley.jpeg\" width=\"600\" alt=\"Power BI Precon\" style=\"margin-left: 35px; margin-right: 35px;\"></p>
+
+ '
 
 volunteerrequesturl: We will need volunteers to help us run the event. If you are interested, please contact us at mailto:mailto:passaustria@outlook.com
 organizers:
