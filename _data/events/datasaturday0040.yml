@@ -4,6 +4,17 @@ date: 2024-02-24 08:00:00 +02:00
 description: '
 Data Saturday München is a free one-day event for professionals who use the Microsoft data platform and Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br><br>It is being held at the Microsoft Germany Headquarters in Munich.
  '
+ 
+precondescription: '
+    <p>
+    We are delighted to present offer two precons again this year!
+    </p>
+    <p>
+    The workshops will be held on Friday preceding our main event on Saturday.
+    </p>
+    Details: https://www.eventbrite.de/e/pre-con-data-saturday-40-munich-tickets-713811709037
+ '
+registrationurl: https://www.eventbrite.de/e/data-saturday-40-munich-tickets-713827054937
 
 sponsors:
  - sponsorlevel: YOU ROCK!
@@ -29,8 +40,11 @@ sponsors:
    height: 75
 
 
-speakerlisturl: https://sessionize.com/data-saturday-muc-2024
-callforspeakers: true
+scheduleurl: https://sessionize.com/api/v2/gipgaci8/view/GridSmart
+
+speakerlisturl: https://sessionize.com/api/v2/gipgaci8/view/SpeakerWall
+callforspeakers: false
+
 
 volunteerrequesturl: 
 organizers:
