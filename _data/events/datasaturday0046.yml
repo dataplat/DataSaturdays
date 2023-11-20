@@ -29,6 +29,37 @@ scheduleurl: https://sessionize.com/api/v2/jqjna667/view/GridSmart
 speakerlisturl: https://sessionize.com/api/v2/jqjna667/view/SpeakerWall
 callforspeakers:  false 
 
+sponsors:
+  - sponsorlevel: Platinum
+  - link: https://oh22.is
+    image: ../assets/img/events/0046/oh22.png
+    height: 150
+  - sponsorlevel: Gold
+  - link: https://tabulareditor.com
+    image: ../assets/img/events/0046/tabulareditor.svg
+    height: 150 
+  - link: https://www.timextender.com
+    image: ../assets/img/events/0046/timextender.png
+    height: 150
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0046/redgate.png
+    height: 150
+  - link: https://www.btelligent.com/
+    image: ../assets/img/events/0046/btelligent.png
+    height: 150
+  - link: https://lucient.com/de 
+    image: ../assets/img/events/0046/lucient.png
+    height: 150
+  - sponsorlevel: Bronze
+  - link: https://www.solisyon.de
+    image: ../assets/img/events/0046/solisyon.png
+    height: 150
+  - link: https://www.cubido.at
+    image: ../assets/img/events/0046/cubido.png
+    height: 150
+
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.607948684393!2d16.417524377074336!3d48.17563687124786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476daa03aa770395%3A0x7c0ef9fb0945a9ea!2sJUFA%20Hotel%20Wien%20City!5e0!3m2!1sen!2sat!4v1700418479695!5m2!1sen!2sat
+
 precondescription: '
 
  <p>Data Community Austria Day will have <b>three Pre-Con Workshops on Thursday, 25<sup>th</sup> January 2025. </b>The workshops also take place at JUFA Wien City (Mautner-Markhof-Gasse 50, 1110 Wien). <o:p></o:p></span></p>
@@ -43,7 +74,7 @@ precondescription: '
 
  <p>Sign-up here: <a href="https://www.eventbrite.at/e/using-microsoft-fabric-to-become-an-analytics-super-hero-tickets-723913413507?aff=oddtdtcreator">https://www.eventbrite.at/e/using-microsoft-fabric-to-become-an-analytics-super-hero-tickets-723913413507?aff=oddtdtcreator</a><o:p></o:p></p>
 
- <p><img src=\"../assets/img/events/0046/dcatday24_precon_stijn_filip.jpeg\" width=\"600\" alt=\"Fabric Precon\" style=\"margin-left: 35px; margin-right: 35px;\"></p>
+ <p><img src="../assets/img/events/0046/dcatday24_precon_stijn_filip.jpeg" width="600" alt=Fabric Precon" style="margin-left: 35px; margin-right: 35px;"></p>
  
  <br>
 
@@ -55,7 +86,7 @@ precondescription: '
 
  <p>Sign-up here: <a href="https://www.eventbrite.at/e/improve-your-skills-as-a-sql-server-dba-tickets-723921547837?aff=oddtdtcreator">https://www.eventbrite.at/e/improve-your-skills-as-a-sql-server-dba-tickets-723921547837?aff=oddtdtcreator</a><o:p></o:p></p>
 
- <p><img src=\"../assets/img/events/0046/dcatday24_precon_uwericken.jpeg\" width=\"600\" alt=\"DBA Precon\" style=\"margin-left: 35px; margin-right: 35px;\"></p>
+ <p><img src="../assets/img/events/0046/dcatday24_precon_uwericken.jpeg" width="600" alt="DBA Precon" style="margin-left: 35px; margin-right: 35px;"></p>
  <br>
 
  <p><b>Workshop #2 - Designing and developing enterprise-scale solutions with Power BI Premium</b><o:p></o:p></p>
@@ -66,7 +97,7 @@ precondescription: '
 
  <p>Sign-up here: <a href="https://www.eventbrite.at/e/designing-and-developing-enterprise-scale-solutions-with-power-bi-premium-tickets-723917937037?aff=oddtdtcreator">https://www.eventbrite.at/e/designing-and-developing-enterprise-scale-solutions-with-power-bi-premium-tickets-723917937037?aff=oddtdtcreator</a><o:p></o:p></p>
 
- <p><img src=\"../assets/img/events/0046/dcatday24_precon_paulturley.jpeg\" width=\"600\" alt=\"Power BI Precon\" style=\"margin-left: 35px; margin-right: 35px;\"></p>
+ <p><img src="../assets/img/events/0046/dcatday24_precon_paulturley.jpeg" width="600" alt="Power BI Precon" style="margin-left: 35px; margin-right: 35px;"></p>
 
  '
 
