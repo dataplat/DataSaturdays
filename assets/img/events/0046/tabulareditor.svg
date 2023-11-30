@@ -1,0 +1,10 @@
+<svg version="1.1" id="svg2" width="256" height="256" viewBox="0 0 385 385" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs6">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath32">
+      <path d="M 0,2000 H 3000 V 0 H 0 Z" id="path30"></path>
+    </clipPath>
+  </defs>
+  <path d="M 275 165 L 220 110 L 165 110 L 110 110 L 110 165 L 165 165 L 165 275 L 220 275 L 220 165 L 275 165 Z" style="fill:#00a99d;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path12"></path>
+  <path d="M 330 55 L 330 330 L 55 330 L 110 385 L 330 385 L 385 385 L 385 330 L 385 110 L 330 55 Z" style="fill:#00766e;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path16"></path>
+  <path d="M 330 55 L 275 0 L 55 0 L 0 0 L 0 55 L 0 275 L 55 330 L 55 55 L 330 55 Z" style="fill:#39b54a;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path20"></path>
+</svg>
