@@ -3,26 +3,58 @@ date: 2022-12-10 09:00:00 -0000
 
 virtual: true
 
-description: "<p>Data Saturday Slovenia is a free one-day event for professionals who use the Microsoft data platform technologies. 
+description: '<p>Data Saturday Slovenia is a free one-day event for professionals who use the Microsoft data platform technologies. 
 This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p>
 <p>
 <b>Event venue</b></p>
 <p>The event will be held <b>online</b>, on Saturday, December  10th, 2022.</p>
-<p>This year we have decided to create two in-person seminars (pre-cons), both held on Friday, December 9th, 2022 in Ljubljana, Slovenia.</p>"
 
-registrationurl: 
+<p><b>UPDATE:</b></p>
+<p>The Plenary Q&A session for DBA/DEV and BI with Miloš Radivojević and Nikola Ilić (Saturday, 10/Dec/2022, at 10:10) will be hosted by Microsoft Slovenia, at <a href="https://t.co/wgAgSBFKmZ" target="_blank">https://t.co/wgAgSBFKmZ</a>. The rest of the schedule remains unchanged.</p>
+
+<p>This year we have decided to create two in-person seminars (pre-cons), both held on Friday, December 9th, 2022 in Ljubljana, Slovenia.</p>
+
+<p><b>Pre-conference seminars</b></p>
+<p>We have prepared two excellent pre-conference seminars for you on Friday, December 9th, 2022.</p>
+<ul>
+<li>Miloš Radivojević - <a href="https://www.kompas-xnet.si/izobrazevanja/koledar-tecajev-t/PreconSQL22-2" target="_blank">SQL Server Query Tuning for Developers</a></li>
+<li>Nikola Ilić -  <a href="https://www.kompas-xnet.si/izobrazevanja/koledar-tecajev-t/PreconSQL22-1"  target="_blank">PBI Performance</a></li>
+</ul>
+
+<p>Both seminars will be held at <a href="https://www.kompas-xnet.si/o-podjetju/vizitka"  target="_blank">Kompas Xnet</a>.</p>
+<p>  
+Reserve your seat today.
+Early bird (until 15.11.2022) price for seminar is 200€ and full price is 250€ (from 15.11.2022 until 09.12.2022).
+</p>
+
+<p><b>Highlights from our last in-person event in 2019</b></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GByLHds-sYQ" title="SQL Saturday Slovenia 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>&nbsp;</p>
+<p><b>Sponsorship Plan</b></p>
+<p>Even though our event takes place online, there are still costs associated with it that we can only address with the kind contributions from our sponsors. If you are interested in helping us deliver this event as a sponsor, you can find more information in <a href="../assets/img/events/0025/DataSaturdaySlovenia2022_Sponsorship.pdf"><b>our sponsorship plan</b></a>.</p>'
+
+registrationurl: https://www.eventbrite.com/e/data-saturday-25-slovenia-2022-tickets-387077267527
 join:
   description: Please see the main event page for details on sessions and rooms
   rooms:
-    - name: Room 1
-      url: Following the link to Room1.
-    - name: Room 2
-      url: Following the link to Room2.
+    - name: DBA / DEV
+      url: https://meet.goto.com/milambdasp/data-saturday-slovenia-2022-dba-dev
+    - name: BI
+      url: https://meet.goto.com/milambdasp/data-saturday-slovenia-2022-bi
+    - name: Plenary Q&A
+      url: https://t.co/wgAgSBFKmZ
 
 
-scheduleurl: https://datasaturday.se/Schedule
+scheduleurl: https://sessionize.com/api/v2/u8uzmkab/view/GridSmart
 
-# sponsors:
+sponsors:
+  - link: https://www.kompas-xnet.si/
+    image: ../assets/img/events/0025/KompasXnet.png
+    height: 190
+  - link: https://www.b2-bi.com/en
+    image: ../assets/img/events/0025/B2BI_Color.png
+    height: 173
 #   - link: https://www.microsoft.com/sql-server/
 #     image: ../assets/img/events/0014/MS-Azure_logo.png
 #     height: 300
@@ -33,11 +65,11 @@ scheduleurl: https://datasaturday.se/Schedule
 #     image: ../assets/img/events/0014/dbWatch_official_logo.png
 #     height: 50
 
-speakerlisturl: https://sessionize.com/data-saturday-slovenia-2022/
-callforspeakers:  true
+speakerlisturl: https://sessionize.com/api/v2/u8uzmkab/view/Speakers
+callforspeakers:  false
 
-volunteerrequesturl: mailto:tomaz.kastrun@gmail.com
+volunteerrequesturl: mailto:DataSaturdaySlovenia@gmail.com
 organizers:
   - name: Dejan Sarka, Matija Lah, Mladen Prajdić, Tomaz Kaštrun
     twitter: 
-    email: mailto:tomaz.kastrun@gmail.com
+    email: mailto:DataSaturdaySlovenia@gmail.com

@@ -14,17 +14,15 @@ We wanted to include other community leaders to assist with guiding the project 
 - [Monica Rathbun](https://twitter.com/sqlespresso)
 - [Randolph West](https://twitter.com/_randolph_west)
 - [Johan Ludvig Brattås](https://twitter.com/intoleranse)
-- [Andy Mallon](https://twitter.com/amtwo)
 - [Elizabeth Noble](https://twitter.com/sqlzelda)
 - [Warwick Rudd](https://twitter.com/Warwick_Rudd)
 - [Matt Gordon](https://twitter.com/sqlatspeed)
 
-We have now (03-2021) enabled 10 Data Saturday events to exist, which we still think is amazing!
+We have now (03-2023) enabled 34 Data Saturday events to exist, which we still think is amazing!
 
 # Where is it?
 
 The website can be found at [DataSaturdays.com](https://datasaturdays.com) and is hosted on Github Pages
-![Screenshot of DataSaturdays.com](https://user-images.githubusercontent.com/6729780/102750927-b229c200-435e-11eb-9daf-e4c730f29e04.png)
 
 ## Wiki
 
@@ -65,4 +63,4 @@ If your behaviour or communication does not fit into this statement, we do not w
 * For profit  
 * Owned by anyone - This is by the community for the community and will succeed or fail in that manner.  
 * Holding any personal information  
-* Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products.  
+* Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products. 

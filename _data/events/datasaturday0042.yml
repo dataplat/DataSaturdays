@@ -1,0 +1,133 @@
+name: "Data Saturday Croatia 2024"
+date: 2024-06-08 08:30:00 -0000
+virtual: false
+hide-toplogo: true
+hide-join-room-section: true
+open-registration-new-tab: true
+
+description:  '<p>Data Saturday Croatia 2024 is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+<p><b>Event venue</b></p>
+<p>The event will be in <b>person</b>, on Saturday, June 08, at the <a href=\"https://goo.gl/maps/4Wag21rGEw4vxcmJ9\" target=\"_blank\">Hotel International, Miramarska 24, 10000 Zagreb, Croatia</a>. </p>
+<p><b>Sponsors</b></p>
+<p>Thanks to all the sponsors involved who made this event possible.</p>
+<p><b>Organizers</b></p>
+<p>The event is organized by <a href=\"https://www.linkedin.com/in/dmatesic/\" target=\"_blank\">Damir Matešić, MVP</a> & <a href=\"https://www.linkedin.com/in/dsavovic/\" target=\"_blank\">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>'
+registrationurl: 
+
+precondescription: '
+    <p>
+    TBA
+    </p>
+    '
+
+#join:
+#  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+#  rooms:
+
+scheduleurl: 
+
+scheduleapp: 
+
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.608236646044!2d15.971867215814784!3d45.79907581905612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f5ccd82531%3A0x9f01ada2a1532ad4!2sHotel%20International!5e0!3m2!1sen!2shr!4v1661522326685!5m2!1sen!2shr
+sponsors:
+  - sponsorlevel: BRONZE
+  - link: https://www.malizmaj.hr/
+    image: ../assets/img/events/0029/MaliZmaj.png
+    height: 150
+
+speakerlisturl: https://sessionize.com/data-saturday-croatia-2024/
+callforspeakers: true 
+volunteerrequesturl: https://events.3nf.hr/Contact.aspx
+organizers:
+  - name: SQL Server User Group Croatia
+    twitter: https://twitter.com/matesic_damir
+    email: mailto:ssugcro@googlegroups.com
+
+codeofconduct: "<p style=\"text-align:left;\">
+      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
+      Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+    </p>
+
+    <h2>The Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Our conference is dedicated to providing an enjoyable environment for everyone involved. 
+      Thus providing a harassment-free experience for everyone, regardless of gender, 
+      gender identity and expression, age, sexual orientation, disability, physical appearance, 
+      body size, race, ethnicity, religion (or lack thereof), or technology choices. 
+      We do not tolerate harassment of conference participants in any form. 
+      Sexual language and imagery is not appropriate for any conference venue, 
+      including talks, workshops, parties, Twitter and other online media. 
+      Conference participants violating these rules may be sanctioned or 
+      expelled from the conference <em>without a refund</em> at the discretion 
+      of the conference organizers.
+    </p>
+    <p style=\"text-align:left;\">
+      The organizer of this event will prioritize marginalized people&#39;s safety over privileged people&#39;s comfort.
+    </p>
+
+    <h2>The Less Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Harassment includes offensive verbal comments related to gender, gender 
+      identity and expression, age, sexual orientation, disability, physical 
+      appearance, body size, race, ethnicity, religion, technology choices, 
+      sexual images in public spaces, deliberate intimidation, stalking, 
+      following, harassing photography or recording, sustained disruption of 
+      talks or other events, inappropriate physical contact, and unwelcome 
+      sexual attention.
+    </p>
+    <p style=\"text-align:left;\">
+      Participants asked to stop any harassing behavior are expected to comply 
+      immediately.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Sponsors are also subject to the anti-harassment policy. In particular, 
+      sponsors should not use sexualized images, activities, or other material. 
+      Booth staff (including volunteers) should not use sexualized 
+      clothing/uniforms/costumes, or otherwise create a sexualized environment.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If a participant engages in harassing behavior, the conference organizers 
+      may take any action they deem appropriate, including warning the offender 
+      or expulsion from the conference with no refund.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If you are being harassed, notice that someone else is being harassed, or 
+      have any other concerns, please contact a member of conference staff 
+      immediately. Conference staff can be identified as they&#39;ll be wearing 
+      branded shirts.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Conference staff will be happy to help participants contact 
+      local law enforcement, provide escorts, or otherwise assist 
+      those experiencing harassment to feel safe for the duration of the 
+      conference. We value your attendance.
+    </p>
+
+    <p style=\"text-align:left;\">
+      We expect participants to follow these rules at conference and workshop 
+      venues and conference-related social events.
+    </p>
+
+    <p style=\"text-align:left;\">
+      <small>
+        <em>Original source and credit:
+          <a href=\"http://2012.jsconf.us/#/about\">http://2012.jsconf.us/#/about</a>
+          &amp;
+          <ahref=\"http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy\">The Ada Initiative</a>
+          <br />
+
+          Please help by translating or improving:
+          <a href=\"https://github.com/confcodeofconduct/confcodeofconduct.com\">on github.com</a>
+          <br />
+
+          This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/deed.en_US\">Creative Commons Attribution 3.0 Unported License</a>
+        </em>
+      </small>
+    </p>
+      "

@@ -20,7 +20,14 @@
 		35729
 	],
 	"extensions": [
-		"streetsidesoftware.code-spell-checker"
+		"ms-vscode.powershell",
+		"github.vscode-pull-request-github",
+		"2gua.rainbow-brackets",
+		"oderwat.indent-rainbow",
+		"mhutchie.git-graph",
+		"streetsidesoftware.code-spell-checker",
+		"cschleiden.vscode-github-actions",
+		"eamodio.gitlens"
 	],
 	"customizations": {
 		"vscode": {

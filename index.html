@@ -4,23 +4,31 @@ title: Data Saturdays
 subtitle: By The Community For The Community
 ---
 
-<div id="page-top-out" class="page-section">
-  <div id="page-top">
-  <img src="../assets/design/facebook/c.facebook%201r.png" alt="Data Saturdays">
+<div id="page-top-out" class="page-section pt-4">
+  <p id="page-top">
+    <img src="../assets/design/facebook/c.facebook%201r.png" alt="Data Saturdays" class="w-100 cover-image">
     <h2 class="section-heading text-uppercase">Welcome to Data Saturdays</h2>
-  </div>
-  <div id="page-top-text">
-    <strong>Data Saturdays</strong> is a place for the data community to run <em>small regional events</em> with little outlay or set-up difficulties. Here you can access a set of tools and have open, transparent discussions on how your event should be set up and utilised.
+  </p>
+  <p id="page-top-text">
+    <strong>Data Saturdays</strong> is a place for the data community to run <em>small regional events</em> with little outlay or set-up difficulties. 
+    Here you can access a set of tools and have open, transparent discussions on how your event should be set up and utilised.
+  </p>
+
+  <div class="d-flex justify-content-center align-items-center">
+    <a class="btn-continue bg-primary text-light p-3 d-flex justify-content-center align-items-center flex-column" href="#events">
+      <span>See events</span>
+      <i class="fa fa-solid fa-angle-down fa-2x"></i>
+    </a>
   </div>
 </div>
 
 <div id="events-out" class="page-section">
   <div id="events">
-	  <h2 class="section-heading text-uppercase">Data Saturdays Events</h2>
+	  <h2 class="section-heading text-uppercase pt-4">Data Saturdays Events</h2>
   </div>
 
   <div class="container">
-    <table table cellspacing=0 class="table table-striped table-hover mt-3" id="eventlist" width="100%">
+    <table table cellspacing=0 class="table-responsive table-striped table-hover mt-3" id="eventlist" width="100%">
       <thead>
         <tr>
           <th scope="col"></th>
@@ -30,9 +38,9 @@ subtitle: By The Community For The Community
       </thead>
       <tbody>
         <!-- Events List show future events-->
-        {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+        {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
         {% for post in site.posts %}
-          {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %}
+          {% capture date %}{{post.date | date: '%s' | plus: 90000 }}{% endcapture %}
           {% if date >= now %}
         <tr>
           <td>
@@ -66,11 +74,11 @@ subtitle: By The Community For The Community
 
 <div id="events-out" class="page-section">
   <div id="pastevents">
-	  <h2 class="section-heading text-uppercase">Past Events</h2>
+	  <h2 class="section-heading text-uppercase pt-4">Past Events</h2>
   </div>
 
   <div class="container">
-    <table table cellspacing=0 class="table table-striped table-hover mt-3" id="pasteventlist" width="100%">
+    <table table cellspacing=0 class="table-responsive table-striped table-hover mt-3" id="pasteventlist" width="100%">
       <thead>
         <tr>
           <th scope="col"></th>
@@ -81,9 +89,9 @@ subtitle: By The Community For The Community
       <tbody>
 
         <!-- Past Events List Only show if less than now (where now is BUILD TIME)-->
-        {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+        {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
         {% for post in site.posts %}
-          {% capture date %}{{post.date | date: '%s' | plus: 90000 %}}{% endcapture %}
+          {% capture date %}{{post.date | date: '%s' | plus: 90000 }}{% endcapture %}
           {% if date <= now %}
             <!-- post content here -->
         <tr>
@@ -116,7 +124,7 @@ subtitle: By The Community For The Community
 
 <div id="aboutus-out" class="page-section">
   <div id="aboutus">
-	  <h2 class="section-heading text-uppercase">About Us</h2>
+	  <h2 class="section-heading text-uppercase pt-4">About Us</h2>
   </div>
 
   <div id="aboutus-text">
@@ -183,11 +191,10 @@ subtitle: By The Community For The Community
       <li><a href="https://twitter.com/sqldbawithbeard">Rob Sewell</a></li>
       <li><a href="https://twitter.com/intoleranse">Johan Ludvig Bratt&aring;s</a></li>
       <li><a href="https://twitter.com/sqlatspeed">Matt Gordon</a></li>
-      <li><a href="https://twitter.com/AMtwo">Andy Mallon</a></li>
       <li><a href="https://twitter.com/SQLZelda">Elizabeth Noble</a></li>
       <li><a href="https://twitter.com/SQLEspresso">Monica Rathbun</a></li>
       <li><a href="https://twitter.com/Warwick_Rudd">Warwick Rudd</a></li>
-      <li><a href="https://twitter.com/HengeWitch">>Randolph West</a></li>
+      <li><a href="https://twitter.com/HengeWitch">Randolph West</a></li>
     </ul>
 
   </div>
