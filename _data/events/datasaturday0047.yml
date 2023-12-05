@@ -32,10 +32,13 @@ join:
 
 scheduleurl: https://sessionize.com/api/v2/dgzq7n1s/view/GridSmart
 
-#sponsors:
-#  - link: https://www.b2-bi.com/en
-#    image: ../assets/img/events/0025/B2BI_Color.png
-#    height: 190
+sponsors:
+  - link: https://www.b2-bi.com/en
+    image: ../assets/img/events/0047/B2BI_Color.png
+    height: 200
+  - link: https://www.devart.com/
+    image: ../assets/img/events/0047/Logo_Devart.png
+    height: 200
 
 speakerlisturl: https://sessionize.com/api/v2/dgzq7n1s/view/Speakers
 callforspeakers:  false 
