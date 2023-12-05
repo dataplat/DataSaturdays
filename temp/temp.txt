@@ -1,15 +1,20 @@
 ### eventname
 
-Data Saturday Lublin
+Denmark
 
 ### date
 
-2023-09-30 09:00:00 +02:00
+2024-04-18 08:00:00 -00:00
 
 ### description
 
-A very first Data Saturday in Poland! Data Community Poland invites you to join us in Lublin to meet together and to absorb data-related presentations, demos and rumors. Local, cloud, relational, multidimensional, visualized and encrypted - we will cover it all.<br>
-Data Saturday Lublin will be held on September 30th, 2023 to provide training sessions for all who would like to raise their skills level in data processing and administration. Our venue is Lublin University of Technology (Politechnika Lubelska).
+Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+
+The community revolves around Microsoft Data Platform and Cloud (Fabric, Power BI, SQL Server, Synapse, Azure, PowerShell, etc), but we invite other topics as well (other cloud vendors, interesting technologies).
+
+At this point, we are not able to cover any travel/accommodation expenses.
+
+The event is a free in-person event.
 
 ### registrationurl
 
@@ -17,7 +22,7 @@ _No response_
 
 ### rooms
 
-_No response_
+roomname1;roomurl1
 
 ### scheduleurl
 
@@ -25,11 +30,11 @@ _No response_
 
 ### sponsors
 
-_No response_
+sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
 
 ### speakerlisturl
 
-https://sessionize.com/data-saturday-lublin/
+_No response_
 
 ### volunteerrequesturl
 
@@ -37,4 +42,4 @@ _No response_
 
 ### organizers
 
-Agnieszka Cieplak;https://twitter.com/AgCieplak;agnieszka.cieplak@datacommunity.pl,Tomasz Cieplak;https://twitter.com/TomaszCieplak;tomasz@cieplak.net,Data Community Poland;https://twitter.com/DataCommunityPL;sqlday@datacommunity.pl
+organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email
