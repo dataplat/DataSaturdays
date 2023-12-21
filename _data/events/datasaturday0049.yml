@@ -18,15 +18,9 @@ join:
      url: roomurl1
   
 sponsors: 
-  - link: sponsor1link
-    image: sponsor1image
-    height: sponsor1height
-  - link: sponsor2link
-    image: sponsor2image
-    height: sponsor2height
-  - link: sponsor3link
-    image: sponsor3image
-    height: sponsor3height
+   - link: https://www.catmansolution.com/
+    image: ../assets/img/events/0032/catman-solution.png
+    height: 120
  
 
 scheduleurl: _No response_
@@ -37,13 +31,7 @@ callforspeakers: true
 
 volunteerrequesturl: _No response_
 organizers:
-  - name: organizer1name
-    twitter: organizer1twitter
-    email: organizer1email
-  - name: organizer2name
-    twitter: organizer2twitter
-    email: organizer2email
-  - name: organizer3name
-    twitter: organizer3twitter
-    email: organizer3email
+  - name: Jens Vestergaard
+    twitter: https://twitter.com/vestergaardj
+    email: jv@t-sql.dk
  
