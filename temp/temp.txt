@@ -1,24 +1,28 @@
 ### eventname
 
-Data Saturday Johannesburg
+Denmark
 
 ### date
 
-2023-05-13 08:00:00 +02:00
+2024-04-18 08:00:00 -00:00
 
 ### description
 
-Data Saturday Johannesburg is a free full day on volunteer led in person data platform training over various tracks and topics happening at Microsoft in Bryanston, 3012 William Nicol Drive, Bryanston, Johannesburg
-The event will kick off at 8am with a keynote address and thereafter split into sessions breaking for lunch and refreshments. The final session and prizegiving will finish by 5pm
-Previously year's events ran under the PASS SQL Saturday branding the organisers wanted to me more inclusive of the data community at large and felt that the Data Saturday guise was more accommodating
+Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+
+The community revolves around Microsoft Data Platform and Cloud (Fabric, Power BI, SQL Server, Synapse, Azure, PowerShell, etc), but we invite other topics as well (other cloud vendors, interesting technologies).
+
+At this point, we are not able to cover any travel/accommodation expenses.
+
+The event is a free in-person event.
 
 ### registrationurl
 
-https://www.meetup.com/johannesburg-data-platform-user-group/events/291022594/
+_No response_
 
 ### rooms
 
-roomname1;roomurl1,roomname2;roomurl2,roomname3;roomurl3
+roomname1;roomurl1
 
 ### scheduleurl
 
@@ -26,11 +30,11 @@ _No response_
 
 ### sponsors
 
-_No response_
+sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
 
 ### speakerlisturl
 
-https://sessionize.com/data-saturday-johannesburg3228
+_No response_
 
 ### volunteerrequesturl
 
@@ -38,4 +42,4 @@ _No response_
 
 ### organizers
 
-Michael Johnson;@MikeJohnsonZA;[michaelAdrianJohnson@live.com](mailto:michaelAdrianJohnson@live.com),Warren Rocchi;@wazdarocsta;[rocsta@gmail.com](mailto:rocsta@gmail.com)
+organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email

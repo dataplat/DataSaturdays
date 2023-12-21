@@ -1,0 +1,25 @@
+name: PR-Build
+
+run-name: BuildingTestSite
+
+on: [pull_request]
+
+jobs:
+  buildsite:
+   runs-on: ubuntu-latest
+   steps:
+   - name: Build Jekyll for GitHub Pages
+     uses: actions/jekyll-build-pages@v1.0.7
+     with:
+         # Directory where the source files reside.
+      source: ./ # optional, default is ./
+         # Output directory of the build. Although it can be nested inside the source,  it cannot be the same as the source directory.
+      destination: ./_site # optional, default is ./_site
+     # Publishes posts with a future date. When set to true, the build is made with the --future option which overrides the future option that may be set in a Jekyll configuration file.
+      future: true# optional
+     # The SHA-1 of the git commit for which the build is running. Default to GITHUB_SHA.
+      build_revision: ${{ github.sha }}# optional, default is ${{ github.sha }}
+     # Verbose output
+      verbose: true# optional, default is true
+     # GitHub token
+      token: ${{ github.token }} # default is ${{ github.token }}

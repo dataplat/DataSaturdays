@@ -1,7 +1,7 @@
 name: Add New Event
 description: "Use this issue to automatically create a pull request to add a new event to the website with all of the required information to create the web-page to promote your event. 
 "
-labels: ["New Event"]
+labels: new-event
 assignees: [SQLDbaWithABeard,SpaghettiDba]
 body:
   - type: markdown

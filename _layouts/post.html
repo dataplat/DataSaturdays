@@ -6,14 +6,14 @@ layout: default
 {% assign pagedata = site.data.events[eventdata] %}
 
 <!-- Masthead-->
-<header class="masthead" id="page-top">
+<header class="masthead mt-4" id="page-top">
   <div class="container">
     {% if pagedata.hide-toplogo != true %}
-    <img src="../assets/design/facebook/c.facebook%201r.png" alt="Data Saturdays">
+      <img src="../assets/design/facebook/c.facebook%201r.png" alt="Data Saturdays" class="w-100 cover-image">
     {% endif %}
-    <div class="masthead-heading text-uppercase">{{pagedata.name}}</div>
+    <div class="masthead-heading text-uppercase mt-4">{{pagedata.name}}</div>
     <div class="masthead-subheading">{{ pagedata.date | date_to_long_string }}</div>
-    <div class="alert alert-light" role="alert">
+    <div class="alert alert-light force-content-max-width" role="alert">
       {{pagedata.description}}
     </div>
     {% if pagedata.open-registration-new-tab and pagedata.open-registration-new-tab == true %}
@@ -132,9 +132,15 @@ layout: default
                     </iframe>
                 </p>
             {% else %}
-            <p>
-              The schedule has not been announced yet. If you want to <a href="#speakers" class="js-scroll-trigger">submit your own session</a> you can still do so.
-            </p>
+				{% if pagedata.callforspeakers == false %}
+				<p>
+				The schedule has not been announced yet.
+				</p>
+				{% else %}	
+				<p>
+				The schedule has not been announced yet. If you want to <a href="#speakers" class="js-scroll-trigger">submit your own session</a> you can still do so.
+				</p>
+				{% endif %}
             {% endif %}
           </div>
 
@@ -151,8 +157,8 @@ layout: default
       <div class="row justify-content-center">
         <h2 class="section-heading text-uppercase">Sponsorship Benefits</h2>
         {{pagedata.sponsorbenefits}}
-      {% endif %}
       </div>
+      {% endif %}
       <div class="container">
         <div class="row justify-content-center"></div>
         <h2 class="section-heading text-uppercase">Sponsors</h2>

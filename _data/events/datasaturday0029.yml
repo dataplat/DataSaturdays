@@ -5,7 +5,7 @@ hide-toplogo: true
 hide-join-room-section: true
 open-registration-new-tab: true
 
-description:  "<p style=\"text-align:center;\">
+description:  '<p style=\"text-align:center;\">
   <img src=\"../assets/img/events/0029/EventLogo.png\" height=\"350\" alt=\"Data Saturday Croatia 2023 Logo\">
   </p>
 <p>Data Saturday Croatia 2023 is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
@@ -16,12 +16,12 @@ description:  "<p style=\"text-align:center;\">
 <p><b>Little Dragon</b></p>
 <p>The Society for Improving the Quality of Life of Poor and Homeless Children <a href=\"https://www.malizmaj.hr/\" target=\"_blank\">Mali zmaj</a> (Little Dragon) regularly organizes humanitarian actions to help poor and homeless children. This year we have joined their work so the Mali Zmaj will be present at our conference where you will be able to participate in fundraising. Mali Zmaj is currently helping 150 families and around 350 children, they help with paying school trips, field lessons, graduation trips and so on.</p>
 <p><b>Organizers</b></p>
-<p>The event is organized by <a href=\"https://www.linkedin.com/in/dmatesic/\" target=\"_blank\">Damir Matešić, MVP</a> & <a href=\"https://www.linkedin.com/in/dsavovic/\" target=\"_blank\">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>"
+<p>The event is organized by <a href=\"https://www.linkedin.com/in/dmatesic/\" target=\"_blank\">Damir Matešić, MVP</a> & <a href=\"https://www.linkedin.com/in/dsavovic/\" target=\"_blank\">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>'
 registrationurl: https://www.eventbrite.co.uk/e/data-saturday-croatia-2023-tickets-407961352387
 
-precondescription: "
+precondescription: '
     <p>
-    We are delighted to present the world class speakers, which will hold this year's pre-conference workshops. Check out the workshop descriptions below and reserve your seat today. 
+    We are delighted to present the world class speakers, which will hold this year''s pre-conference workshops. Check out the workshop descriptions below and reserve your seat today. 
     </p>
     <p>
     The workshops will be held on Friday preceding our main event on Saturday and will have the affordable cost of EUR 189,90 (lunch included) for a full day of high quality learning. 
@@ -45,14 +45,14 @@ precondescription: "
 
 <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
     <p style=\"text-align: center; font-size: 1.5rem;\">
-    Sve što ste hteli da znate o Parameter Sniffingu u SQL Serveru
+    Intelligent Query Processing in SQL Server - Lessons Learned from Production
     </p>
     <p style=\"text-align: center; font-size: 1.3rem;\">
     with <a href=\"https://sessionize.com/milossql\">Miloš Radivojević</a>
     <img src=\"../assets/img/events/0029/milos2023.jpg\" height=\"170\" alt=\"Miloš Radivojević\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
     </p>
 
-<p>Ukoliko želite naučiti kako se boriti protiv Parameter Sniffinga u SQL Serveru i ubrzati svoje upite, ovo je seminar za vas.</p>
+<p>Introduced with SQL Server 2017, further developed and significantly extended in both SQL Server 2019 and 2022, the Intelligent Query Processing (IQP) is one of the most important investments Microsoft has made in SQL Server. It contains new functionalities and enhancements that can improve the performance of existing workloads (both OLTP and OLAP) without changing the code.</p>
 <p style=\"text-align:center;\">
     <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=c3caa9b0-0970-4e84-aba5-80820484eda5\" target=\"_blank\">More info & registrations</a>
 </p>
@@ -72,7 +72,7 @@ precondescription: "
 <p style=\"text-align:center;\">
     <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=8595f517-2ce8-4716-94d2-b6bf6b3991d0\" target=\"_blank\">More info & registrations</a>
 </p>
-</div>"
+</div>'
 
 #join:
 #  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
@@ -88,23 +88,38 @@ sponsors:
   - link: https://www.span.eu/
     image: ../assets/img/events/0029/span.png
     height: 120
+  - link: http://www.tria.hr/
+    image: ../assets/img/events/0029/TRIA.png
+    height: 100
   - sponsorlevel: SILVER
   - link: https://bonsai.tech/
     image: ../assets/img/events/0029/bonsaitech.gif
-    height: 60
+    height: 50
   - sponsorlevel: BRONZE
   - link: https://www.gethynellis.com/
     image: ../assets/img/events/0029/GE-Logo.png
     height: 120
   - link: https://unitfly.com/
     image: ../assets/img/events/0029/Unitfly_logo_color_png.png
-    height: 80
+    height: 65
   - link: http://www.datasense.hr/
     image: ../assets/img/events/0029/datasense.png
     height: 47
+  - link: https://www.comminus.hr/
+    image: ../assets/img/events/0029/comminus.png
+    height: 110
+  - link: https://www.infobip.com/
+    image: ../assets/img/events/0029/infobip.jfif
+    height: 150
+  - link: https://www.bug.hr/
+    image: ../assets/img/events/0029/BUG.png
+    height: 45
   - link: https://www.malizmaj.hr/
     image: ../assets/img/events/0029/MaliZmaj.png
     height: 150
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0029/RedgatelogocolourRGB_vert.png
+    height: 100
 
 speakerlisturl: https://sessionize.com/api/v2/3jdakbt0/view/SpeakerWall
 callforspeakers: false 
