@@ -1,0 +1,37 @@
+name: "Data Saturday  #49 - Denmark"
+date: 2024-04-20 08:30:00 -00:00
+
+description: '
+Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+
+The community revolves around Microsoft Data Platform and Cloud (Fabric, Power BI, SQL Server, Synapse, Azure, PowerShell, etc), but we invite other topics as well (other cloud vendors, interesting technologies).
+
+At this point, we are not able to cover any travel/accommodation expenses.
+
+The event is a free in-person event.
+ '
+registrationurl: _No response_
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: roomname1
+     url: roomurl1
+  
+sponsors: 
+   - link: https://www.catmansolution.com/
+     image: ../assets/img/events/0032/catman-solution.png
+     height: 120
+ 
+
+scheduleurl: _No response_
+
+speakerlisturl: _No response_
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Jens Vestergaard
+    twitter: https://twitter.com/vestergaardj
+    email: jv@t-sql.dk
+ 
