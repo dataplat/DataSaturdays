@@ -8,12 +8,22 @@ description: '<p>Data Saturday Pordenone is a free one-day event for professiona
 This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.</p>
 '
 
+sponsors: 
+  - link: https://www.beantech.it/
+    image: ../assets/img/events/0031/beantech.png
+    height: 100
+  - link: https://www.stesi.it/
+    image: ../assets/img/events/0031/stesi.png
+    height: 180
+  - link: https://www.altitudo.com/
+    image: ../assets/img/events/0031/altitudo.svg
+    height: 100
 
 registrationurl: https://datasatpn2024.eventbrite.it/
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/xkibege0/view/GridSmart
 
-speakerlisturl: https://sessionize.com/datasatpn2024/
+speakerlisturl: https://sessionize.com/api/v2/xkibege0/view/Speakers
 callforspeakers:  true 
 
 volunteerrequesturl: 
