@@ -1,0 +1,45 @@
+name: "Data Saturday  #50 - Data Saturday Rheinland 2024"
+date: 2024-06-29 08:00:00 +01:00
+
+description: '
+Data Saturday Rheinland is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br>
+<br>
+Data Saturday Rheinland 2024 is already the 9th community conference that we organize at the  University of Applied Sciences Bonn-Rhein-Sieg. The Data Saturday Rheinland 2024 is organized by PASS Deutschland e.V. UG Rheinland together with the University of Applied Sciences Bonn -Rhein-Sieg.<br>
+<br>
+The event will take place at<br>
+<br>
+Hochschule Bonn-Rhein-Sieg/ Campus Sankt Augustin<br>
+Grantham-Allee 20<br>
+53757 Sankt Augustin
+ '
+registrationurl: _No response_
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url: 
+  
+sponsors: 
+  - link: _No response_
+    image: 
+    height: 
+ 
+
+scheduleurl: _No response_
+
+speakerlisturl: https://sessionize.com/data-saturday-rheinland-2024/
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Tillmann Eitelberg
+    twitter: https://twitter.com/_Tillmann
+    email: tei@sqlpass.de
+  - name: Oliver Engels
+    twitter: https://twitter.com/oengels
+    email: :oen@sqlpass.de
+  - name: Ben Weissman (he/him)
+    twitter: https://twitter.com/bweissman
+    email: bwe@sqlpass.de
+ 
