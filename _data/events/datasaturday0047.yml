@@ -20,11 +20,28 @@ This community event offers content across data management, cloud and hybrid arc
 
 
 registrationurl: https://www.eventbrite.com/e/data-saturday-47-slovenia-2023-tickets-731251542047
+join:
+  description: Please see the main event page for details on sessions and rooms
+  rooms:
+    - name: DBA / DEV
+      url: https://meet.goto.com/milambdasp/datasaturdayslovenia2023dbadev
+    - name: BI
+      url: https://meet.goto.com/milambdasp/datasaturdayslovenia2023bi
+    - name: Community Zone
+      url: https://meet.goto.com/milambdasp/datasaturdayslovenia2023community
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/dgzq7n1s/view/GridSmart
 
-speakerlisturl: https://sessionize.com/data-saturday-slovenia-20226716
-callforspeakers:  true 
+sponsors:
+  - link: https://www.b2-bi.com/en
+    image: ../assets/img/events/0047/B2BI_Color.png
+    height: 200
+  - link: https://www.devart.com/
+    image: ../assets/img/events/0047/Logo_Devart.png
+    height: 200
+
+speakerlisturl: https://sessionize.com/api/v2/dgzq7n1s/view/Speakers
+callforspeakers:  false 
 
 volunteerrequesturl: mailto:DataSaturdaySlovenia@gmail.com
 organizers:

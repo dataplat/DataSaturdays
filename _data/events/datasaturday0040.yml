@@ -4,6 +4,20 @@ date: 2024-02-24 08:00:00 +02:00
 description: '
 Data Saturday München is a free one-day event for professionals who use the Microsoft data platform and Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br><br>It is being held at the Microsoft Germany Headquarters in Munich.
  '
+ 
+precondescription: '
+    <p>
+    We are delighted to present offer two precons again this year!
+    </p>
+    <p>
+    The workshops will be held on Friday preceding our main event on Saturday.
+    </p>
+    <p style="text-align:center;">
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.eventbrite.de/e/pre-con-data-saturday-40-munich-tickets-713811709037" target="_blank">Pre-Con Registration</a>
+    </p>
+    </div>
+ '
+registrationurl: https://www.eventbrite.de/e/data-saturday-40-munich-tickets-713827054937
 
 sponsors:
  - sponsorlevel: YOU ROCK!
@@ -20,13 +34,23 @@ sponsors:
  - link: https://www.timextender.com/
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/timeextender.png
    height: 75
+ - link: https://www.netapp.com/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/netapp.png
+   height: 75
+ - sponsorlevel: SILVER
+ - link: https://www.red-gate.com/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/redgate.png
+   height: 75
  - link: https://gds-business-intelligence.de/
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/GDS.jpg
    height: 75
 
 
-speakerlisturl: https://sessionize.com/data-saturday-muc-2024
-callforspeakers: true
+scheduleurl: https://sessionize.com/api/v2/gipgaci8/view/GridSmart
+
+speakerlisturl: https://sessionize.com/api/v2/gipgaci8/view/SpeakerWall
+callforspeakers: false
+
 
 volunteerrequesturl: 
 organizers:
