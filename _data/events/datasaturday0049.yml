@@ -1,8 +1,8 @@
 name: "Data Saturday  #49 - Denmark"
-date: 2024-04-20 08:30:00 -00:00
+date: 2024-09-07 08:30:00 -00:00
 
 description: '
-Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+Data Saturday Denmark is a one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
 
 The community revolves around Microsoft Data Platform and Cloud (Fabric, Power BI, SQL Server, Synapse, Azure, PowerShell, etc), but we invite other topics as well (other cloud vendors, interesting technologies).
 
@@ -27,7 +27,7 @@ scheduleurl: _No response_
 
 speakerlisturl: _No response_
 
-callforspeakers: true
+callforspeakers: false
 
 volunteerrequesturl: _No response_
 organizers:
