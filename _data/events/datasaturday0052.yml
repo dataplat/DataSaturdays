@@ -1,4 +1,4 @@
-name: "Data Saturday #51 - Oslo"
+name: "Data Saturday #52 - Oslo"
 date: 2024-08-31 09:00:00 -0000
 
 hide-toplogo: true
@@ -25,15 +25,15 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo2024.eventbrite.com\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 0px; margin-bottom: 35px;\" target=\"_blank\">Register now</a>
   </p>
   <p style=\"text-align:center;\">
-  <img src=\"../assets/img/events/0051/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\" style=\"margin-bottom: 35px;\">
+  <img src=\"../assets/img/events/0052/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\" style=\"margin-bottom: 35px;\">
   </p>
   <p>
   Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
   </p>
   <p style=\"text-align:center; margin-top: 35px;\">
-  <img src=\"../assets/img/events/0051/AWS_Logo.png\" height=\"100\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
-  <img src=\"../assets/img/events/0051/azure_new_logo.png\" height=\"100\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
-  <img src=\"../assets/img/events/0051/gcp_logo_cloud.png\" height=\"100\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0052/AWS_Logo.png\" height=\"100\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0052/azure_new_logo.png\" height=\"100\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0052/gcp_logo_cloud.png\" height=\"100\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
   </p>
   <br>
   <p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>January 17th 2024</u></p>
@@ -50,7 +50,7 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   </p>
   <br>
   <p style=\"text-align:center;\">
-  <img src=\"../assets/img/events/0051/flag_of_ukraine.png\" height=\"198\" alt=\"Ukraine national flag\" style=\"margin-left: 25px; margin-right: 25px\">
+  <img src=\"../assets/img/events/0052/flag_of_ukraine.png\" height=\"198\" alt=\"Ukraine national flag\" style=\"margin-left: 25px; margin-right: 25px\">
   <p style=\"text-align:center;font-size:2.5rem;\">
   <b>SLAVA UKRAINI!</b>
   </p>
@@ -241,7 +241,7 @@ registrationurl: "https://datasatoslo2024.eventbrite.com"
 venuesponsor: 
   - link: https://www.kristiania.no/
     open-in-new-tab: true
-    image: ../assets/img/events/0051/hoyskolen_kristiania.png
+    image: ../assets/img/events/0052/hoyskolen_kristiania.png
     height: 200
     margin-top: 0
     margin-bottom: 0
@@ -345,7 +345,7 @@ sponsor-menuitem: true
 sponsorbenefits: '
   <div class="row justify-content-center">
       <p style="text-align:center;">
-      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../assets/img/events/0051/DataSaturdayOslo2024_SponsorPlan.pdf" target="_blank">Sponsorplan</a>
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../assets/img/events/0052/DataSaturdayOslo2024_SponsorPlan.pdf" target="_blank">Sponsorplan</a>
     </p>
   </div>    
   '
