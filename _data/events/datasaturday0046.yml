@@ -60,7 +60,7 @@ sponsors:
     image: ../assets/img/events/0046/tabulareditor.svg
     height: 100 
   - sponsorlevel: Silver
-  -link: https://www.veeam.com
+  - link: https://www.veeam.com
     image: ../assets/img/events/0046/veeam.png
     height: 100
   - sponsorlevel: Bronze

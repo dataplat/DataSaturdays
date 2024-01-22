@@ -1,28 +1,22 @@
 ### eventname
 
-Denmark
+Data Saturday Stockholm 2024
 
 ### date
 
-2024-04-18 08:00:00 -00:00
+2024-05-25 09:00:00 +02:00
 
 ### description
 
-Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
-
-The community revolves around Microsoft Data Platform and Cloud (Fabric, Power BI, SQL Server, Synapse, Azure, PowerShell, etc), but we invite other topics as well (other cloud vendors, interesting technologies).
-
-At this point, we are not able to cover any travel/accommodation expenses.
-
-The event is a free in-person event.
+Attend this free, one-day conference in Stockholm to sharpen your skills on the Microsoft data platform, and to connect to other professionals in your space! We’ll offer sessions from leading world-class international and local speakers, across data management, cloud and hybrid architecture, analytics and BI, and so much more.
 
 ### registrationurl
 
-_No response_
+https://datasatsto.se/
 
 ### rooms
 
-roomname1;roomurl1
+_No response_
 
 ### scheduleurl
 
@@ -30,7 +24,7 @@ _No response_
 
 ### sponsors
 
-sponsor1link;sponsor1image;sponsor1height,sponsor2link;sponsor2image;sponsor2height,sponsor3link;sponsor3image;sponsor3height
+_No response_
 
 ### speakerlisturl
 
@@ -42,4 +36,4 @@ _No response_
 
 ### organizers
 
-organizer1name;organizer1twitter;organizer1email,organizer2name;organizer2twitter;organizer2email,organizer3name;organizer3twitter;organizer3email
+Daniel Hutmacher;https://bsky.app/profile/datasatsto.se;hello@datasatsto.se
