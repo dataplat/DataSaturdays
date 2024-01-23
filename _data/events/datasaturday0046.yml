@@ -19,6 +19,9 @@ description: "Wir sind zurück - in Farbe, in-person und wieder im JUFA Hotel Wi
  <h3>Conference Day on Friday </h3>
  Read more about the schedule, planned sessions and speakers that you will meet in Vienna below. 
  <br> 
+ <h3>Use the Data Community Austria Day APP</h3>
+ Please head over to <a href="https://data-community-austria-day-2024.sessionize.com/">https://data-community-austria-day-2024.sessionize.com/ </a> and download / use the app for our event. Including the latest updates to the schedule. 
+ <p><img src="../assets/img/events/0046/dcatday24_app.png" width="311" alt="Our Event App" style="margin-left: 35px; margin-right: 35px;"></p>
   "
 
 
@@ -47,6 +50,9 @@ sponsors:
   - link: https://lucient.com/de 
     image: ../assets/img/events/0046/lucient.png
     height: 100
+  - link: https://www.measurekiller.com/ 
+    image: ../assets/img/events/0046/measurekiller.png
+    height: 100
   - link: https://www.spot.io 
     image: ../assets/img/events/0046/spot_netapp.png
     height: 100
@@ -61,6 +67,9 @@ sponsors:
   - link: https://www.cubido.at
     image: ../assets/img/events/0046/cubido.png
     height: 100
+  - link: https://linearis.at/bi-trainings/power-bi-camp/
+    image: ../assets/img/events/0046/powerbicamp.png
+    height: 100    
   - link: https://www.savorydata.com
     image: ../assets/img/events/0046/savorydata.png
     height: 100
