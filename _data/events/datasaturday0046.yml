@@ -1,28 +1,19 @@
 name: "DataSaturday #46 - Data Community Austria Day 2024"
 date: 2024-01-26 09:00:00 -0000
 
-description: "Wir sind zurück - in Farbe, in-person und wieder im JUFA Hotel Wien. <br>
+description: 'Wir sind zurück - in Farbe, in-person und wieder im JUFA Hotel Wien. <br>
  # Am Freitag, 26. Jänner 2024 ist es wieder soweit - die Data Community trifft sich in Wien zur mittlerweile 10ten Ausgabe unserer Daten-Community Konferenz. <br>
  # Wir sind wieder zurück im JUFA Hotel Wien (Mautner-Markhof-Gasse 50, 1110 Wien) und freuen uns auf einen spannenden Tag mit vielen interessanten Vorträgen und Sessions. <br>
  <br> <br>
  We are back - out 10th edition of SQL/Data Saturday Vienna aka Data Community Austria Day is happening again: Mark your calendar and come to Vienna on Thursday 25th and Friday 26th January 2024. 
  <br>
  The event takes place at the JUFA Hotel Wien (Mautner-Markhof-Gasse 50, 1110 Wien). <br>
- <h3>Pre-Con Workshops on Thursday </h3>
- * Precon #1: Using Microsoft Fabric to become an analytics super hero! (with Stijn Wynants & Filip Popovic, both Microsoft)
- * Precon #2: Improve your Skills as a SQL Server DBA (with Uwe Ricken)
- * Precon #3: Designing and developing enterprise-scale solutions with Power BI Premium (with Paul Turley)
+
  <br>
- <br>
- # Registration for the pre-con workshops: https://www.eventbrite.at/o/data-community-austria-3211886920 
- <br><br> 
- <h3>Conference Day on Friday </h3>
- Read more about the schedule, planned sessions and speakers that you will meet in Vienna below. 
- <br> 
  <h3>Use the Data Community Austria Day APP</h3>
  Please head over to <a href="https://data-community-austria-day-2024.sessionize.com/">https://data-community-austria-day-2024.sessionize.com/ </a> and download / use the app for our event. Including the latest updates to the schedule. 
- <p><img src="../assets/img/events/0046/dcatday24_app.png" width="311" alt="Our Event App" style="margin-left: 35px; margin-right: 35px;"></p>
-  "
+ <p><img src="../assets/img/events/0046/dcatday24_app.png" width="311" alt="Our Event App"></p>
+ '
 
 
 registrationurl: https://www.eventbrite.at/e/data-community-austria-day-2024-tickets-718369541637?aff=oddtdtcreator
@@ -93,7 +84,7 @@ precondescription: '
 
  <p>Sign-up here: <a href="https://www.eventbrite.at/e/using-microsoft-fabric-to-become-an-analytics-super-hero-tickets-723913413507?aff=oddtdtcreator">https://www.eventbrite.at/e/using-microsoft-fabric-to-become-an-analytics-super-hero-tickets-723913413507?aff=oddtdtcreator</a><o:p></o:p></p>
 
- <p><img src="../assets/img/events/0046/dcatday24_precon_stijn_filip.jpeg" width="600" alt=Fabric Precon" style="margin-left: 35px; margin-right: 35px;"></p>
+ <p><img src="../assets/img/events/0046/dcatday24_precon_stijn_filip.jpeg" width="600" alt=Fabric Precon"></p>
  
  <br>
 
@@ -105,7 +96,7 @@ precondescription: '
 
  <p>Sign-up here: <a href="https://www.eventbrite.at/e/improve-your-skills-as-a-sql-server-dba-tickets-723921547837?aff=oddtdtcreator">https://www.eventbrite.at/e/improve-your-skills-as-a-sql-server-dba-tickets-723921547837?aff=oddtdtcreator</a><o:p></o:p></p>
 
- <p><img src="../assets/img/events/0046/dcatday24_precon_uwericken.jpeg" width="600" alt="DBA Precon" style="margin-left: 35px; margin-right: 35px;"></p>
+ <p><img src="../assets/img/events/0046/dcatday24_precon_uwericken.jpeg" width="600" alt="DBA Precon"></p>
  <br>
 
  <p><b>Workshop #2 - Designing and developing enterprise-scale solutions with Power BI Premium</b><o:p></o:p></p>
@@ -116,7 +107,7 @@ precondescription: '
 
  <p>Sign-up here: <a href="https://www.eventbrite.at/e/designing-and-developing-enterprise-scale-solutions-with-power-bi-premium-tickets-723917937037?aff=oddtdtcreator">https://www.eventbrite.at/e/designing-and-developing-enterprise-scale-solutions-with-power-bi-premium-tickets-723917937037?aff=oddtdtcreator</a><o:p></o:p></p>
 
- <p><img src="../assets/img/events/0046/dcatday24_precon_paulturley.jpeg" width="600" alt="Power BI Precon" style="margin-left: 35px; margin-right: 35px;"></p>
+ <p><img src="../assets/img/events/0046/dcatday24_precon_paulturley.jpeg" width="600" alt="Power BI Precon"></p>
 
  '
 
