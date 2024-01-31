@@ -44,7 +44,10 @@ sponsors:
  - link: https://gds-business-intelligence.de/
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/GDS.jpg
    height: 75
-
+ - sponsorlevel: BRONZE
+ - link: https://www.scieneers.de/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/scieneers.png
+   height: 75
 
 scheduleurl: https://sessionize.com/api/v2/gipgaci8/view/GridSmart
 
