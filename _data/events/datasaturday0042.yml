@@ -42,6 +42,9 @@ sponsors:
     image: ../assets/img/events/0042/comminus.png
     height: 110
   - sponsorlevel: BRONZE
+  - link: http://www.datasense.hr/
+    image: ../assets/img/events/0042/datasense.png
+    height: 47
   - link: https://www.malizmaj.hr/
     image: ../assets/img/events/0042/MaliZmaj.png
     height: 150
