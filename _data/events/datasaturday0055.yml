@@ -1,0 +1,187 @@
+name: "Data Saturday  #55 - Data Saturday Brisbane 2024"
+date: 2024-07-20 08:30:00 -0000
+
+hide-join-room-section: true
+open-registration-new-tab: true
+
+description: "<p style=\"text-align:center;font-size:4rem;\">
+  Data Saturday Brisbane is Back!
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Registration for the Saturday is LIVE! 
+  Sessions for the Saturday are LIVE!
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Click the button below to register for the Saturday
+  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com.au/e/data-saturday-41-brisbane-2023-tickets-645847456127\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Register for Saturday now</a>
+  <p>
+  Data Saturday Brisbane is a one-day event for professionals who use either On-premises or cloud technologies in 1 or more of the 3 Major public cloud providers (Amazon Web Services, Microsoft Azure or Google Cloud Platform). We are charging a nominal fee ($15) to assist covering the costs of running the event.
+  </p>
+  <p style=\"text-align:center; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0041/AWS_Logo.png\" height=\"100\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0041/azure_new_logo.png\" height=\"100\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0041/gcp_logo_cloud.png\" height=\"100\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
+  </p>
+  <br>
+  <br>
+  Data Saturday #55 - Brisbane 2024 is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across Microsoft Azure Technologies. This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artificial Intelligence, DevOps, Application Development and more.
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Strategix International College is where we will be! 
+  </p>
+  <br>
+  A short walk from central station, you can either use the back entrance at central station to pop out on Wickham Terrace or the side entrance and pop out on Turbot Street along Upper Edward Street.
+  <p style=\"text-align:center; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0041/Event_Directions.png\" height=\"350\" alt=\"\" style=\"margin-left: 35px; margin-right: 35px;\">
+  </p>
+ "
+
+milestones: "
+  <div class=\"row justify-content-center\">
+    <p style=\"text-align:left;font-size:1.5rem\">
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> Feb 26th, 2024: Call for speakers open 
+  <br>
+        * May 6th, 2024: Call for speakers closes
+  <br>
+        * May 20th, 2024: Session selection, notifying speakers
+  <br>
+        * May 29th, 2024: Speakers and sessions published
+  <br>
+        * May 30th, 2024: Registration opens
+  <br>
+        * June 20th, 2024: Schedule published
+  <br>
+        * July 20th, 2024: Main conference event
+    </p>
+  </div>    
+
+ "
+
+registrationurl: 
+
+scheduleurl: 
+
+scheduleapp: 
+
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.233752358647!2d153.02107867592414!3d-27.461981216378224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9159f85ffdde47%3A0xf8ae46b82cd04cf8!2s88%20Leichhardt%20St%2C%20Spring%20Hill%20QLD%204000!5e0!3m2!1sen!2sau!4v1687140235826!5m2!1sen!2sau
+
+venuesponsor: 
+  - link: https://strategix.edu.au
+    open-in-new-tab: true
+    image: ../assets/img/events/0055/STX_INT_Stacked_Full_Colour.png
+    height: 180
+    margin-top: -20
+    margin-bottom: 0
+
+sponsors:
+
+  - sponsorlevel: Platinum
+  - link: 
+    open-in-new-tab: true
+    image: 
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
+  
+  - sponsorlevel: Gold
+  - link: 
+    open-in-new-tab: true
+    image: 
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
+  - link: https://sqlmastersconsulting.com.au
+    open-in-new-tab: true
+    image: ../assets/img/events/0055/SQL_Highlight_Logo_RHB.jpg
+    height: 90
+    margin-top: 30
+    margin-bottom: 0
+
+  - sponsorlevel: Silver
+
+
+speakerlisturl: 
+callforspeakers: true
+
+volunteerrequesturl: mailto:warwick@sqlmastersconsulting.com.au
+organizers:
+  - name: Warwick Rudd
+    twitter:  https://twitter.com/Warwick_Rudd
+    email:  warwick@sqlmastersconsulting.com.au
+
+codeofconduct: "<p style=\"text-align:left;\">
+      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct.
+      Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+    </p>
+    <h2>The Short Version</h2>
+    <p style=\"text-align:left;\">
+      Our conference is dedicated to providing an enjoyable environment for everyone involved.
+      Thus providing a harassment-free experience for everyone, regardless of gender,
+      gender identity and expression, age, sexual orientation, disability, physical appearance,
+      body size, race, ethnicity, religion (or lack thereof), or technology choices.
+      We do not tolerate harassment of conference participants in any form.
+      Sexual language and imagery is not appropriate for any conference venue,
+      including talks, workshops, parties, Twitter and other online media.
+      Conference participants violating these rules may be sanctioned or
+      expelled from the conference <em>without a refund</em> at the discretion
+      of the conference organizers.
+    </p>
+    <p style=\"text-align:left;\">
+      The organizer of this event will prioritize marginalized people&#39;s safety over privileged people&#39;s comfort.
+    </p>
+    <h2>The Less Short Version</h2>
+    <p style=\"text-align:left;\">
+      Harassment includes offensive verbal comments related to gender, gender
+      identity and expression, age, sexual orientation, disability, physical
+      appearance, body size, race, ethnicity, religion, technology choices,
+      sexual images in public spaces, deliberate intimidation, stalking,
+      following, harassing photography or recording, sustained disruption of
+      talks or other events, inappropriate physical contact, and unwelcome
+      sexual attention.
+    </p>
+    <p style=\"text-align:left;\">
+      Participants asked to stop any harassing behavior are expected to comply
+      immediately.
+    </p>
+    <p style=\"text-align:left;\">
+      Sponsors are also subject to the anti-harassment policy. In particular,
+      sponsors should not use sexualized images, activities, or other material.
+      Booth staff (including volunteers) should not use sexualized
+      clothing/uniforms/costumes, or otherwise create a sexualized environment.
+    </p>
+    <p style=\"text-align:left;\">
+      If a participant engages in harassing behavior, the conference organizers
+      may take any action they deem appropriate, including warning the offender
+      or expulsion from the conference with no refund.
+    </p>
+    <p style=\"text-align:left;\">
+      If you are being harassed, notice that someone else is being harassed, or
+      have any other concerns, please contact a member of conference staff
+      immediately. Conference staff can be identified as they&#39;ll be wearing
+      branded shirts.
+    </p>
+    <p style=\"text-align:left;\">
+      Conference staff will be happy to help participants contact
+      local law enforcement, provide escorts, or otherwise assist
+      those experiencing harassment to feel safe for the duration of the
+      conference. We value your attendance.
+    </p>
+    <p style=\"text-align:left;\">
+      We expect participants to follow these rules at conference and workshop
+      venues and conference-related social events.
+    </p>
+    <p style=\"text-align:left;\">
+      <small>
+        <em>Original source and credit:
+          <a href=\"http://2012.jsconf.us/#/about\">http://2012.jsconf.us/#/about</a>
+          &amp;
+          <ahref=\"http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy\">The Ada Initiative</a>
+          <br />
+          Please help by translating or improving:
+          <a href=\"https://github.com/confcodeofconduct/confcodeofconduct.com\">on github.com</a>
+          <br />
+          This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/deed.en_US\">Creative Commons Attribution 3.0 Unported License</a>
+        </em>
+      </small>
+    </p>
+      "
