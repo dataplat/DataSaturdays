@@ -1,31 +1,68 @@
-name: "Data Saturday  #40 - Data Saturday München 2024"
+name: "Data Saturday #40 - Data Saturday München 2024"
 date: 2024-02-24 08:00:00 +02:00
 
 description: '
-Data Saturday München is a free one-day event for professionals who use the Microsoft data platform And Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br><br>It is being held at the Microsoft Germany Headquarters in Munich.
+Data Saturday München is a free one-day event for professionals who use the Microsoft data platform and Microsoft Azure technologies. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.<br><br>It is being held at the Microsoft Germany Headquarters in Munich.
  '
-registrationurl:
+ 
+precondescription: '
+    <p>
+    We are delighted to present offer two precons again this year!
+    </p>
+    <p>
+    The workshops will be held on Friday preceding our main event on Saturday.
+    </p>
+    <p style="text-align:center;">
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.eventbrite.de/e/pre-con-data-saturday-40-munich-tickets-713811709037" target="_blank">Pre-Con Registration</a>
+    </p>
+    </div>
+ '
+registrationurl: https://www.eventbrite.de/e/data-saturday-40-munich-tickets-713827054937
 
 sponsors:
  - sponsorlevel: YOU ROCK!
  - link: https://www.solisyon.de
    image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/solisyon.png
    height: 75
+ - sponsorlevel: GOLD
+ - link: https://oh22.is/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/oh22.png
+   height: 75
+ - link: https://www.pmone.com/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/pmone.png
+   height: 75
+ - link: https://www.timextender.com/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/timeextender.png
+   height: 75
+ - link: https://www.netapp.com/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/netapp.png
+   height: 75
+ - sponsorlevel: SILVER
+ - link: https://www.red-gate.com/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/redgate.png
+   height: 75
+ - link: https://gds-business-intelligence.de/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/rheinland2023/GDS.jpg
+   height: 75
+ - sponsorlevel: BRONZE
+ - link: https://www.scieneers.de/
+   image: https://github.com/bweissman/sponsorlogos/raw/main/datasaturdays/munich2024/scieneers.png
+   height: 75
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/gipgaci8/view/GridSmart
 
-speakerlisturl: https://sessionize.com/data-saturday-muc-2024
-callforspeakers: true
+speakerlisturl: https://sessionize.com/api/v2/gipgaci8/view/SpeakerWall
+callforspeakers: false
+
 
 volunteerrequesturl: 
 organizers:
   - name: Erik Esmaty
     twitter: https://twitter.com/erikesmaty
-    email: ees@sqlpass.de
+    email: mailto:ees@sqlpass.de
   - name: Ben Weissman (he/him)
     twitter: https://twitter.com/bweissman
-    email: bwe@sqlpass.de
-
+    email: mailto:bwe@sqlpass.de
 
 codeofconduct: "<p style=\"text-align:left;\">
       All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct.

@@ -9,7 +9,7 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   WELCOME TO OSLO!
   </p>
   <p style=\"text-align:center;font-size:2.5rem;\">
-  Registration for the Saturday and 2 (out of 3) pre-cons is LIVE! 
+  Registration for the Saturday and all of our Friday pre-cons is LIVE! 
   </p>
   <p style=\"text-align:center;font-size:2.5rem;\">
   Check out the <a href=\"#precon\">pre-conference workshop descriptions</a> and reserve your seat today
@@ -71,22 +71,21 @@ milestones: "
   <br>
         * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>February 28th, 2023</strong>: Pre-conference Call for Speakers closes
   <br>
-        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>Late March, 2023: Pre-conference sessions announced
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>Late March, 2023</strong>: Pre-conference sessions announced
   <br>
         * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>March 31st, 2023</strong>: Call for speakers closes
   <br>
-        * April, 2023: Session selection, notifying speakers
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> April, 2023: Session selection, notifying speakers
   <br>
-        * April, 2023: Speakers and sessions published
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> May, 2023: Speakers and sessions published
   <br>
-        * April, 2023: Schedule published
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>May, 2023</strong>: Schedule published
   <br>
         * September 1st, 2023: Pre-conference sessions
   <br>
         * September 2nd, 2023: Main conference event
     </p>
   </div>    
-
  "
 
 
@@ -99,7 +98,7 @@ registrationurl: "https://datasatoslo2023.eventbrite.com"
 
 precondescription: "
     <p>
-    We are delighted to present our world class precon speakers. We are planning for 3 different precons and the two first is now open for registration.
+    We are delighted to present our world class precon speakers. We are planning for 3 different precons and all are now open for registration.
     </p>
     <p>
     The workshops will be held on Friday preceding our main event on Saturday and will have the affordable cost of NOK 3000, including lunch, for a full day of high quality learning. 
@@ -110,6 +109,7 @@ precondescription: "
     <ul>
       <li><a href=\"#mastertuning\">Mastering Query Tuning with Brent Ozar</a></li>
       <li><a href=\"#hybriddba\">The DBA in a hybrid environment with Jess Pomfret and Rob Sewell</a></li>
+      <li><a href=\"#ms-fabric\">Using Microsoft Fabric to become an analytics superhero! with Mark Pryce-Maher and Stijn Wynants</a></li>
     </ul>
     </p>
     <div id=\"mastertuning\"/>
@@ -165,32 +165,96 @@ precondescription: "
     Whether you are a senior or junior DBA, a developer who interacts with SQL Server, an accidental DBA, or someone with DevOps in your job title, this training is for you. You will improve your PowerShell skills for SQL Server and reduce the time you and your team spend administering SQL Server. You do not need any specific equipment or tools for this training, but we recommend bringing something to take notes with. All scripts and slides will be provided to you, and you will have the opportunity to follow along with most of the demos on a machine that can run Docker or with PowerShell v5 or above and a SQL Server 2012 or above instance. 
     </p>
     <br>    
+    <p>
     Join us for a wonderful day of PowerShell and SQL, full of demos and useful solutions that you will be able to take back to your workplace.
+    </p>
     <br>
     <p style=\"text-align:center;\">
       <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo23-hybrid-dba.eventbrite.com\" target=\"_blank\">Hybrid DBA pre-con registration</a>
     </p>
-    </div>"
+    </div>
+    
+    <div id=\"ms-fabric\"/>
+    <br>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    Using Microsoft Fabric to become an analytics superhero!
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with <a href=\"https://sessionize.com/markpm\">Mark Pryce-Maher</a> 
+    <img src=\"../assets/img/events/0035/mark_pryce-maher.jpg\" height=\"170\" alt=\"Jess Pomfret\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    <a href=\"https://sessionize.com/stijn-wynants\">Stijn Wynants</a>
+    <img src=\"../assets/img/events/0035/stijn_wynants.jpg\" height=\"170\" alt=\"Rob Sewell\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    </p>
+    <p>
+    Are you ready to become an analytics superhero?
+    </p>
+    <p>
+    Hesitate no more! Microsoft Fabric is out and building analytics solution cannot get any easier! If you believe that the best way to learn is to learn by example, join us!
+    </p>
+    <p>
+    We will build a new greenfield analytical solution using the new all-in-one Microsoft Fabric that covers everything from data movement to data science, Real-Time Analytics, and business intelligence. You will enjoy a highly integrated, end-to-end, and easy-to-use product that is designed to simplify your analytics needs.
+    </p>
+    <p>
+    We will start off the day with an overview of Microsoft Fabric, set up the environment and explain the scenario for the day.
+    </p>
+    <p>
+    There is no use of analytics solution if there is no data. So we will show how data is stored in Fabric, how you can integrate existing data, or ingest data from different sources. Here we will create landing zone and integrate existing data without making another copy!
+    </p>
+    <p>
+    Once data is in Microsoft Fabric OneLake, we will process it efficiently while demonstrating best practices. Data engineers are used to Spark so it will be our tool of choice in creating different layers while tackling all the things you need to know. During this part, you will learn how to incrementally load data and make sure your cleansing is done right and in an effective and dynamic way! Rest assured, SQL folks are not forgotten! We will show how you can access the same data using SQL!
+    </p>
+    <p>
+    Of course, there is no use of loading data without a serving layer for your business needs. We will show you how you can use Lakehouse & Warehouse in Microsoft Fabric focusing on performance!
+    </p>
+    <p>
+    Finally, we will show you how to build Power BI reports using new consumption method reading data directly from the lake, called DirectLake, skipping data engines.
+    </p>
+    <p>
+    If you do not know where to start, don’t worry, during this day we will explain every step on the way and how Fabric helps you get the job done. Also, we will share the best practices seen at most customers!
+    </p>
+    <p>
+    After this day you will have a clear understanding of how Fabric works and what components you have to use for you own top notch analytical solution!
+    </p>
+    <br>    
+    <p>
+    Fabric is brand new, so instead of throwing terminology here, we are inviting you to join us and become the analytics superhero!
+    </p>
+    <br>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo23-ms-fabric.eventbrite.com\" target=\"_blank\">MS Fabric pre-con registration</a>
+    </p>
+    </div>
+    "
 
-#scheduleurl: https://sessionize.com/api/v2/hahdqimt/view/GridSmart
+scheduleurl: https://sessionize.com/api/v2/izirnf5l/view/GridSmart
 
-#scheduleapp: https://datasatoslo2022.sessionize.com/
+scheduleapp: https://datasatoslo2023.sessionize.com/
 
 venuesponsor: 
   - link: https://www.kristiania.no/
     open-in-new-tab: true
-    image: ../assets/img/events/0023/hoyskolen_kristiania.png
+    image: ../assets/img/events/0035/hoyskolen_kristiania.png
     height: 200
     margin-top: 0
+    margin-bottom: 0
+  - link: https://www.microsoft.com/sql-server/
+    open-in-new-tab: true
+    image: ../assets/img/events/0035/MS-Azure_logo.png
+    height: 300
+    margin-top: -50
     margin-bottom: 0
 
 venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.9755343744257!2d10.757657116683484!3d59.91595338186799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e60c78540dd%3A0xa19b8032c939043a!2sCampus%20Fjerdingen%20%7C%20H%C3%B8yskolen%20Kristiania!5e0!3m2!1sen!2sno!4v1660291032383!5m2!1sen!2sno
 
 sponsors:
-#   - sponsorlevel: PLATINUM
-#   - link: https://www.dbwatch.com/
-#     image: ../assets/img/events/0023/dbWatch_official_logo.png
-#     height: 130
+  - sponsorlevel: PLATINUM
+  - link: https://evidi.com/
+    image: ../assets/img/events/0035/Evidi_Logo_RGB_3.png
+    height: 150
+    margin-top: -30
+    margin-bottom: 0
 
   - sponsorlevel: GOLD
   - link: https://tabulareditor.com/
@@ -200,9 +264,35 @@ sponsors:
     margin-bottom: 0
   - link: https://fraktal.no/
     image: ../assets/img/events/0035/fraktal_color_rgb.svg
-    height: 120
+    height: 130
     margin-top: 30
     margin-bottom: 0
+  - link: https://www.cloudberries.no/
+    image: ../assets/img/events/0035/cloudberries_logo.png
+    height: 260
+    margin-top: 30
+    margin-bottom: 0
+  - link: https://ingraphic.no/
+    image: ../assets/img/events/0035/Ingraphic_Logo.png
+    height: 65
+    margin-top: 30
+    margin-bottom: 30
+  - link: https://www.timextender.com/no/
+    image: ../assets/img/events/0035/TimeXtender-LOGO-RGB.png
+    height: 45
+    margin-top: 30
+    margin-bottom: 30
+  - link: https://www.deloitte.no/
+    image: ../assets/img/events/0035/deloitte.webp
+    height: 160
+    margin-top: 0
+    margin-bottom: 30
+  - link: https://www.webstep.no/
+    image: ../assets/img/events/0035/WEBSTEP_logo.png
+    height: 55
+    margin-top: 0
+    margin-bottom: 30
+    
 
   - sponsorlevel: SILVER
   - link: https://www.quarks.no/
@@ -220,28 +310,27 @@ sponsors:
     height: 75
     margin-top: 50
     margin-bottom: 30
-#   - link: https://www.red-gate.com/
-#     image: ../assets/img/events/0023/redgate-logo.svg
-#     height: 80
-#   - link: https://www.cloudberries.no/
-#     image: ../assets/img/events/0023/cloudberries_logo.png
-#     height: 300
-#   - link: https://www.microsoft.com/sql-server/
-#     image: ../assets/img/events/0023/MS-Azure_logo.png
-#     height: 280
-#     margin-top: -50
-#     margin-bottom: 0
+  - link: https://www.rikstoto.no/
+    image: ../assets/img/events/0035/Rikstoto_Logo_kvadrat_fullfarge_rgb.png
+    height: 175
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://datamasterminds.io/
+    image: ../assets/img/events/0035/DataMasteminds_logo_smaller.png
+    height: 140
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://www.databrothers.cz/en/make-your-data-shine/
+    image: ../assets/img/events/0035/databrothers-companyLogo.png
+    height: 100
+    margin-top: 50
+    margin-bottom: 30
 
-#   - link: https://www.inspirit.bg/
-#     image: ../assets/img/events/0023/inspirit_Logo.png
-#     height: 175
-#     margin-top: -60
-#     margin-bottom: 0
+    
     
 
-#speakerlisturl: https://sessionize.com/api/v2/hahdqimt/view/SpeakerWall
-speakerlisturl: https://sessionize.com/data-saturday-oslo-2023/
-callforspeakers:  true
+speakerlisturl: https://sessionize.com/api/v2/izirnf5l/view/SpeakerWall
+callforspeakers:  false
 
 volunteerrequesturl: mailto:datasaturday.oslo@gmail.com
 organizers:

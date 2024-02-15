@@ -5,7 +5,7 @@ hide-toplogo: true
 hide-join-room-section: true
 open-registration-new-tab: true
 
-description:  "<p style=\"text-align:center;\">
+description:  '<p style=\"text-align:center;\">
   <img src=\"../assets/img/events/0029/EventLogo.png\" height=\"350\" alt=\"Data Saturday Croatia 2023 Logo\">
   </p>
 <p>Data Saturday Croatia 2023 is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
@@ -16,12 +16,12 @@ description:  "<p style=\"text-align:center;\">
 <p><b>Little Dragon</b></p>
 <p>The Society for Improving the Quality of Life of Poor and Homeless Children <a href=\"https://www.malizmaj.hr/\" target=\"_blank\">Mali zmaj</a> (Little Dragon) regularly organizes humanitarian actions to help poor and homeless children. This year we have joined their work so the Mali Zmaj will be present at our conference where you will be able to participate in fundraising. Mali Zmaj is currently helping 150 families and around 350 children, they help with paying school trips, field lessons, graduation trips and so on.</p>
 <p><b>Organizers</b></p>
-<p>The event is organized by <a href=\"https://www.linkedin.com/in/dmatesic/\" target=\"_blank\">Damir Matešić, MVP</a> & <a href=\"https://www.linkedin.com/in/dsavovic/\" target=\"_blank\">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>"
+<p>The event is organized by <a href=\"https://www.linkedin.com/in/dmatesic/\" target=\"_blank\">Damir Matešić, MVP</a> & <a href=\"https://www.linkedin.com/in/dsavovic/\" target=\"_blank\">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.</p>'
 registrationurl: https://www.eventbrite.co.uk/e/data-saturday-croatia-2023-tickets-407961352387
 
-precondescription: "
+precondescription: '
     <p>
-    We are delighted to present the world class speakers, which will hold this year's pre-conference workshops. Check out the workshop descriptions below and reserve your seat today. 
+    We are delighted to present the world class speakers, which will hold this year''s pre-conference workshops. Check out the workshop descriptions below and reserve your seat today. 
     </p>
     <p>
     The workshops will be held on Friday preceding our main event on Saturday and will have the affordable cost of EUR 189,90 (lunch included) for a full day of high quality learning. 
@@ -72,7 +72,7 @@ precondescription: "
 <p style=\"text-align:center;\">
     <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://events.3nf.hr/Seminar.aspx?eid=8595f517-2ce8-4716-94d2-b6bf6b3991d0\" target=\"_blank\">More info & registrations</a>
 </p>
-</div>"
+</div>'
 
 #join:
 #  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
@@ -108,6 +108,9 @@ sponsors:
   - link: https://www.comminus.hr/
     image: ../assets/img/events/0029/comminus.png
     height: 110
+  - link: https://www.infobip.com/
+    image: ../assets/img/events/0029/infobip.jfif
+    height: 150
   - link: https://www.bug.hr/
     image: ../assets/img/events/0029/BUG.png
     height: 45

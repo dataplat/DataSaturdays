@@ -1,0 +1,57 @@
+name: "Data Saturday Croatia 2024"
+date: 2024-06-08 08:30:00 -0000
+virtual: false
+hide-toplogo: true
+hide-join-room-section: true
+open-registration-new-tab: true
+
+description: 'Data Saturday Croatia 2024 is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.<br><br>
+<h3>Event venue</h3>
+The event will be in <b>person</b>, on Saturday, June 08, at the <a href="https://goo.gl/maps/4Wag21rGEw4vxcmJ9" target="_blank">Hotel International, Miramarska 24, 10000 Zagreb, Croatia</a>.<br><br>
+<h3>Sponsors</h3>
+Thanks to all the sponsors involved who made this event possible.<br><br>
+<h3>Organizers</h3>
+The event is organized by <a href="https://www.linkedin.com/in/dmatesic/" target="_blank">Damir Matešić, MVP</a> & <a href="https://www.linkedin.com/in/dsavovic/" target="_blank">Dean Savović</a> with the help of volunteers from the SQL Server User Group Croatia.<br>'
+registrationurl: 
+
+precondescription: '
+    <p>
+    TBA
+    </p>
+    '
+
+#join:
+#  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+#  rooms:
+
+scheduleurl: https://sessionize.com/api/v2/qcsl6z6j/view/GridSmart
+
+scheduleapp: https://ds-croatia-2024.sessionize.com/
+
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.608236646044!2d15.971867215814784!3d45.79907581905612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f5ccd82531%3A0x9f01ada2a1532ad4!2sHotel%20International!5e0!3m2!1sen!2shr!4v1661522326685!5m2!1sen!2shr
+sponsors:
+  - sponsorlevel: GOLD
+  - link: https://www.span.eu/
+    image: ../assets/img/events/0042/span.png
+    height: 120
+  - link: https://www.supersport.hr/
+    image: ../assets/img/events/0042/Supersport.png
+    height: 120
+  - sponsorlevel: SILVER
+  - link: https://www.comminus.hr/
+    image: ../assets/img/events/0042/comminus.png
+    height: 110
+  - sponsorlevel: BRONZE
+  - link: http://www.datasense.hr/
+    image: ../assets/img/events/0042/datasense.png
+    height: 47
+  - link: https://www.malizmaj.hr/
+    image: ../assets/img/events/0042/MaliZmaj.png
+    height: 150
+
+speakerlisturl: https://sessionize.com/api/v2/qcsl6z6j/view/SpeakerWall
+callforspeakers: false 
+volunteerrequesturl: https://events.3nf.hr/Contact.aspx
+organizers:
+  - name: SQL Server User Group Croatia
+    email: mailto:ssugcro@googlegroups.com

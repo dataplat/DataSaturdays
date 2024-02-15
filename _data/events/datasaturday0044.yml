@@ -1,0 +1,30 @@
+name: "Data Saturday  #44 - Data Saturday Cape Town"
+date: 2023-09-30 08:00:00 -00:00
+
+description: '
+Data Saturday is a free community‐focused event dedicated to educating and engaging members of the local technical and business community. Data Saturday draws upon the expertise of local and international data professionals, developers and solutions architects and business users who come together to share their real-world experiences, lessons learned, best practices, and general knowledge with other like‐minded individuals.
+ '
+registrationurl: https://www.eventbrite.com/e/data-saturday-cape-town-tickets-657452266427
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+   - name: _No response_
+     url: 
+  
+sponsors: 
+  - link: _No response_
+    image: 
+    height: 
+ 
+
+scheduleurl: https://sessionize.com/api/v2/n91py6jb/view/GridSmart
+speakerlisturl: https://sessionize.com/data-saturday-cape-town-2023
+
+callforspeakers: true
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Jody Roberts
+    twitter: jody_wp
+    email: jody.wp@gmail.com
+ 
