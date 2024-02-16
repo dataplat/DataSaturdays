@@ -8,8 +8,7 @@ description: "<p style=\"text-align:center;font-size:4rem;\">
   Data Saturday Brisbane is Back!
   </p>
   <p style=\"text-align:center;font-size:2.5rem;\">
-  Registration for the Saturday is LIVE! 
-  Sessions for the Saturday are LIVE!
+
   </p>
   <p style=\"text-align:center;font-size:2.5rem;\">
   Click the button below to register for the Saturday
@@ -41,13 +40,13 @@ milestones: "
     <p style=\"text-align:left;font-size:1.5rem\">
         * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> Feb 26th, 2024: Call for speakers open 
   <br>
+        * March 1st, 2024: Registration opens
+  <br>
         * May 6th, 2024: Call for speakers closes
   <br>
         * May 20th, 2024: Session selection, notifying speakers
   <br>
         * May 29th, 2024: Speakers and sessions published
-  <br>
-        * May 30th, 2024: Registration opens
   <br>
         * June 20th, 2024: Schedule published
   <br>
@@ -57,7 +56,7 @@ milestones: "
 
  "
 
-registrationurl: 
+registrationurl: "https://www.eventbrite.com.au/e/data-saturday-55-brisbane-2024-tickets-840801609247"
 
 scheduleurl: 
 
@@ -84,15 +83,15 @@ sponsors:
     margin-bottom: 0
   
   - sponsorlevel: Gold
-  - link: 
-    open-in-new-tab: true
-    image: 
-    height: 90
-    margin-top: -20
-    margin-bottom: 0
   - link: https://sqlmastersconsulting.com.au
     open-in-new-tab: true
     image: ../assets/img/events/0055/SQL_Highlight_Logo_RHB.jpg
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
+  - link: 
+    open-in-new-tab: true
+    image: 
     height: 90
     margin-top: 30
     margin-bottom: 0
@@ -100,7 +99,7 @@ sponsors:
   - sponsorlevel: Silver
 
 
-speakerlisturl: 
+speakerlisturl: https://sessionize.com/data-saturday-55-brisbane/
 callforspeakers: true
 
 volunteerrequesturl: mailto:warwick@sqlmastersconsulting.com.au
