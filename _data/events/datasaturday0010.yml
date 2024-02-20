@@ -1,0 +1,28 @@
+name: "Data Saturday #10 - Sofia"
+date: 2021-10-09 08:00:00 -0000
+virtual: true
+description:  'Data Saturday #10 Sofia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+
+We are planning event to be a hybrid event:
+
+Event location is : Sofia Tech Park
+
+111B Boulevard \"Tsarigradsko shose\", #ет.2, Sofia, Sofia City Province, 1784
+
+If situation allows we will have sessions in person, but in any case sessions will be streamed.
+'
+registrationurl: https://data-saturday-sofia.eventbrite.com/
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl:
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/data-saturday-sofia/
+callforspeakers: true 
+organizers:
+  - name: Mihail Mateev
+    twitter:
+    email: mailto:michael@mateev.net

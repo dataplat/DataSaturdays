@@ -1,0 +1,36 @@
+name: "Data Saturday #2 - Guatemala"
+date: 2021-01-23 08:00:00 -0000
+virtual: true
+description: 'Data Saturday Guatemala es un evento virtual de capacitación en línea para profesionales que utilizan la plataforma de datos de Microsoft.
+
+Data Saturday Guatemala is a virtual online training event for professionals who use the Microsoft data platform.
+
+Community speakers will offer sessions about cloud, analytics, database administration, business intelligence, AI and more.
+
+Due to the COVID pandemic, this event will be held online.
+'
+registrationurl: https://www.eventbrite.com/e/data-saturday-guatemala-2021-tickets-133805653311
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+    - name: Salon AI
+      url: https://us02web.zoom.us/j/83563966207?pwd=aUM4Z09xK285R05DUzBhNzZtQnhLZz09
+    - name: Salon BI
+      url: https://us02web.zoom.us/j/82744686800?pwd=dFg2by9mSExzNGZRRmQ5UG9ZMS9sZz09
+    - name: Salon Gestion
+      url: https://us02web.zoom.us/j/89554677160?pwd=Nks0U05IMEovNVZHMWxIMUpPcW1yZz09
+    - name: Salon Ingles
+      url: https://us02web.zoom.us/j/81237565535?pwd=WWVBVVBnSFVvcDg0NzVkbHRYNXZkZz09
+    - name: Salon SQL
+      url: https://us02web.zoom.us/j/82767681978?pwd=T3RwTUNnOSsxTDNCSEtBUWRhR21Rdz09
+
+scheduleurl: https://sessionize.com/api/v2/zj4czc5p/view/GridSmart
+
+sponsors:
+
+speakerlisturl: https://sessionize.com/api/v2/zj4czc5p/view/Speakers
+callforspeakers:  false
+organizers:
+  - name: Juan Alvarado and Marco Gómez
+    twitter: 
+    email: mailto:support@datasaturdays.com

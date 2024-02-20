@@ -1,0 +1,82 @@
+name: "Data Saturday #14 - Oslo"
+date: 2021-09-04 09:00:00 -0000
+
+description: '<p style=\"text-align:center;font-size:2.5rem;\">
+Our schedule is LIVE and open for registration!
+</p>
+<p style=\"text-align:center;\">
+<img src=\"../assets/img/events/0014/datasat_osl_vikingship_trans_650x470.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\">
+</p>
+<p style=\"text-align:center; margin-top: 35px;\">
+<img src=\"../assets/img/events/0014/AWS_Logo.png\" height=\"150\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+<img src=\"../assets/img/events/0014/azure_new_logo.png\" height=\"150\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+<img src=\"../assets/img/events/0014/gcp_logo_cloud.png\" height=\"150\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
+</p>
+<p>
+Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
+</p>
+<p style=\"text-align:center;font-size:2.5rem;\">
+KEYNOTE
+</p>
+<p>
+We are proud to present our keynote speaker <a href=\"https://sessionize.com/cathrinew/\">Cathrine Wilhelmsen</a> who will start the day for us at 9AM (CET) with a session we are really looking forward to.
+</p>
+<div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+<p style=\"text-align: center; font-size: 1.5rem;\">
+\"I can''t keep up!\" - Turning Discomfort into Personal Growth in a Fast-Paced World
+</p>
+<p>
+Do you sometimes think the world is moving so fast that you''re struggling to keep up?
+</p>
+<p>
+Does it make you feel a little uncomfortable?
+</p>
+<p>
+Awesome!
+</p>
+<p>
+That means that you have ambitions. You want to learn new things, take that next step in your career, achieve your goals. You can do anything if you set your mind to it.
+</p>
+<p>
+It just might not be easy. All growth requires some discomfort. You need to manage and balance that discomfort, find a way to push yourself a little bit every day without feeling overwhelmed. In a fast-paced world, you need to know how to break down your goals into smaller chunks, how to prioritize, and how to optimize your learning.
+</p>
+<p>
+Are you ready to turn your \"I can''t keep up\" into \"I can''t believe I did all of that in just a year\"?
+</p>
+</div>
+<p>
+Data Saturday Oslo is an event run by volunteers from the \#datacommunity & \#sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+</p>
+<p>
+Due to the current pandemic we will this year also conduct the event online.
+</p>
+'
+
+registrationurl: https://www.eventbrite.com/e/data-saturday-oslo-2021-tickets-163722322875
+join:
+  description: Refer to the EventBrite registration page for details on how to register and join the sessions.
+#  rooms:
+#    - name: Room 1
+#      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
+scheduleurl: https://sessionize.com/api/v2/w7uo9oy1/view/GridSmart
+
+sponsors:
+  - link: https://www.microsoft.com/sql-server/
+    image: ../assets/img/events/0014/MS-Azure_logo.png
+    height: 300
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0014/Redgate.png
+    height: 150
+  - link: https://www.dbwatch.com/
+    image: ../assets/img/events/0014/dbWatch_official_logo.png
+    height: 50
+
+speakerlisturl: https://sessionize.com/api/v2/w7uo9oy1/view/SpeakerWall
+callforspeakers:  false
+
+volunteerrequesturl: mailto:datasaturday.oslo@gmail.com
+organizers:
+  - name: Rune Ovlien Rakeie, Johan Brattås, Magne Fretheim, Bjørn Wang, Ida Bergum, Trøyel Nerbø, Lars Martin Bredal
+    twitter: https://twitter.com/DataSatOslo
+    email: mailto:datasaturday.oslo@gmail.com

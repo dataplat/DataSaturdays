@@ -1,0 +1,438 @@
+name: "Data Saturday #35 - Oslo"
+date: 2023-09-02 09:00:00 -0000
+
+hide-toplogo: true
+hide-join-room-section: true
+open-registration-new-tab: true
+
+description: "<p style=\"text-align:center;font-size:4rem;\">
+  WELCOME TO OSLO!
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Registration for the Saturday and all of our Friday pre-cons is LIVE! 
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Check out the <a href=\"#precon\">pre-conference workshop descriptions</a> and reserve your seat today
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Click button below to register for the Saturday
+  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo2023.eventbrite.com\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 15px; margin-bottom: 35px;\" target=\"_blank\">Register for Saturday now</a>
+
+  <p style=\"text-align:center;\">
+  <img src=\"../assets/img/events/0035/datasat_vikingship_ukraine.png\" height=\"350\" alt=\"Data Saturday Oslo - Vikingship\" style=\"margin-bottom: 35px;\">
+  </p>
+  <p>
+  Data Saturday Oslo is a free training event for professionals who use data platform capabilities either on-premises or in one or more of the 3 major public clouds Amazon Web Services, Microsoft Azure or Google Cloud Platform.
+  </p>
+  <p style=\"text-align:center; margin-top: 35px;\">
+  <img src=\"../assets/img/events/0035/AWS_Logo.png\" height=\"100\" alt=\"Amazon Web Services logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0035/azure_new_logo.png\" height=\"100\" alt=\"Microsoft Azure logo\" style=\"margin-left: 35px; margin-right: 35px;\">
+  <img src=\"../assets/img/events/0035/gcp_logo_cloud.png\" height=\"100\" alt=\"Google Cloud Platform logo\" style=\"margin-left: 25px; margin-right: 35px;\">
+  </p>
+  <br>
+  <p style=\"text-align:left;font-size:1.2rem;; margin-bottom: 0px;\"><u>January 6th 2023</u></p>
+  <p style=\"text-align:left;\">
+  We are very happy to welcome you all again to Oslo on Saturday September 2nd. We also offer full-day pre-conferences Friday September 1st. Check out the <a href=\"#precon\">pre-conference workshop descriptions</a> and reserve your seat today.
+  <br>
+  <br>
+  If you plan to attend remember to set aside the whole day and evening as per usual we will have our traditional Data Saturday Oslo after-party when we have concluded the event. This is a great place to network with other people who share your passion for data.
+  </p>
+  <br>
+  <p style=\"text-align:left;\">
+  Sadly the unprovoked aggressive attacks by Russia on Ukraine is still ongoing. We are in such an awe of the efforts of the Ukranian defense forces to push back the Russian forces and the will of the Ukranian people to fight to keep their sovereignty. 
+  The need for humanitarian relief is constant and please consider to help out if you have the opportunity (see links below).
+  </p>
+  <br>
+  <p style=\"text-align:center;\">
+  <img src=\"../assets/img/events/0023/flag_of_ukraine.png\" height=\"198\" alt=\"Ukraine national flag\" style=\"margin-left: 25px; margin-right: 25px\">
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  <b>SLAVA UKRAINI!</b>
+  </p>
+  <p>
+  If you would like to support the humanitarian relief effort in Ukraine we have added some options below:
+  </p>
+  <p>Norwegian Refugee Council: <a href=\"https://www.nrc.no/\" target=\"_blank\">https://www.nrc.no/</a></p>
+  <p>Norwegian Red Cross (page in Norwegian): <a href=\"https://www.rodekors.no/stott-arbeidet/gi-en-gave/nodhjelp-til-ukraina\" target=\"_blank\">Røde Kors - Nødhjelp til Ukraina</a></p>
+  <p>UN High Commissioner for Refugees: <a href=\"https://donate.unhcr.org/int/en/ukraine-emergency\" target=\"_blank\">https://donate.unhcr.org</a></p>
+  <br>
+  <br>
+  Data Saturday Oslo is an event run by volunteers from the #datacommunity & #sqlcommunity for the community. Our event will strive to offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+  </p>
+  "
+
+#<span style=\"color: #04be64;font-weight:bold\">&#x2713;</span>
+
+milestones: "
+  <div class=\"row justify-content-center\">
+    <p style=\"text-align:left;font-size:1.5rem\">
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> January 2023: Call for speakers open 
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> January 2023: Registration opens
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>February 28th, 2023</strong>: Pre-conference Call for Speakers closes
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>Late March, 2023</strong>: Pre-conference sessions announced
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>March 31st, 2023</strong>: Call for speakers closes
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> April, 2023: Session selection, notifying speakers
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> May, 2023: Speakers and sessions published
+  <br>
+        * <span style=\"color: #04be64;font-weight:bold\">&#x2713;</span> <strong>May, 2023</strong>: Schedule published
+  <br>
+        * September 1st, 2023: Pre-conference sessions
+  <br>
+        * September 2nd, 2023: Main conference event
+    </p>
+  </div>    
+ "
+
+
+registrationurl: "https://datasatoslo2023.eventbrite.com"
+# join:
+# description: #Refer to the EventBrite registration page for details on how to register and join the sessions.
+#  rooms:
+#    - name: Room 1
+#      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
+precondescription: "
+    <p>
+    We are delighted to present our world class precon speakers. We are planning for 3 different precons and all are now open for registration.
+    </p>
+    <p>
+    The workshops will be held on Friday preceding our main event on Saturday and will have the affordable cost of NOK 3000, including lunch, for a full day of high quality learning. 
+    </p>
+    <p><i>For the precons where we use Eventbrite for ticketing a small fee will be added to the ticket price.</i></p>
+    <p>
+    Check out the workshop descriptions below and reserve your seat today.
+    <ul>
+      <li><a href=\"#mastertuning\">Mastering Query Tuning with Brent Ozar</a></li>
+      <li><a href=\"#hybriddba\">The DBA in a hybrid environment with Jess Pomfret and Rob Sewell</a></li>
+      <li><a href=\"#ms-fabric\">Using Microsoft Fabric to become an analytics superhero! with Mark Pryce-Maher and Stijn Wynants</a></li>
+    </ul>
+    </p>
+    <div id=\"mastertuning\"/>
+    <br>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    Mastering Query Tuning 
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with <a href=\"https://sessionize.com/brent-ozar\" target=\"_blank\">Brent Ozar</a>
+    <img src=\"../assets/img/events/0035/Brent_Ozar_Luftgekuhlt.jpg\" height=\"170\" alt=\"Brent Ozar\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    </p> 
+    <p>
+    You need to speed up an existing app, and you’re allowed to change both queries & indexes, but you can’t throw hardware at it. Let’s tackle it together in a fast-paced 1-day version of my full 3-day class, and because we can’t cover everything, attendees get a year’s access to <a href=\"https://training.brentozar.com/p/mastering-server-tuning\" target=\"_blank\">the full 3-day recorded class too.</a>
+    </p>
+    <br>
+    </p>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://training.brentozar.com/p/mastering-query-tuning-live\" target=\"_blank\">Query tuning pre-con registration</a>
+    </p>
+    </div>
+
+    <div id=\"hybriddba\"/>
+    <br>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    The DBA in a hybrid environment
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with <a href=\"https://sessionize.com/jpomfret\">Jess Pomfret</a> 
+    <img src=\"../assets/img/events/0035/jess_pomfret.jpg\" height=\"170\" alt=\"Jess Pomfret\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    <a href=\"https://sessionize.com/rob-sewell\">Rob Sewell</a>
+    <img src=\"../assets/img/events/0035/rob_sewell.jpg\" height=\"170\" alt=\"Rob Sewell\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    </p>
+    <p>
+    The role of a DBA is evolving in today's hybrid computing landscape, where applications are deployed on both on-premises and cloud platforms. This training day is specifically designed for DBAs who are required to work in a hybrid environment, where some applications use Platform as a Service databases while others are supported on-premises or on Azure VMs.
+    </p>
+    <p>
+    We will provide you with a hands-on experience in using automation tooling including PowerShell and community-developed modules such as dbatools, dbachecks, and ImportExcel, to automate many everyday tasks in your estate, whether it is totally on-prem, hybrid, or 100% cloud. You will learn from Jess Pomfret and Rob Sewell, two of the dbatools in a Month of Lunches authors, how to take your Data Platform skills to the next level.
+    </p>
+    <p>
+    We will also cover the basic concept of infrastructure as code. You will learn how to manage your infrastructure through code, allowing you to automate the provisioning, configuration, and management of your SQL Server instances and PaaS services. You will also see how this approach can improve the reliability and consistency of your environment, reduce errors, and increase the efficiency of your operations.
+    </p>
+    <p>
+    Finally, we will touch on how you can use GitHub Actions or Azure Functions to automate your workflows and integrate with other tools in your environment. You will learn how to create workflows that trigger when specific events occur, such as a new pull request or a database schema change and automate the execution of scripts or the deployment of changes to your SQL Server instances. This approach will help you streamline your operations, reduce manual intervention, and improve the overall quality of your work.
+    </p>
+    <p>
+    Overall, this training day will provide you with a comprehensive set of skills to manage your hybrid SQL Server estate. There are many tools for you to add to your toolbox and we’ll show you how to get the most out of your available time and effort by utilising PowerShell, a collection of community-written modules with some CI\\CD tools mixed in.
+    </p>
+    <p>
+    Whether you are a senior or junior DBA, a developer who interacts with SQL Server, an accidental DBA, or someone with DevOps in your job title, this training is for you. You will improve your PowerShell skills for SQL Server and reduce the time you and your team spend administering SQL Server. You do not need any specific equipment or tools for this training, but we recommend bringing something to take notes with. All scripts and slides will be provided to you, and you will have the opportunity to follow along with most of the demos on a machine that can run Docker or with PowerShell v5 or above and a SQL Server 2012 or above instance. 
+    </p>
+    <br>    
+    <p>
+    Join us for a wonderful day of PowerShell and SQL, full of demos and useful solutions that you will be able to take back to your workplace.
+    </p>
+    <br>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo23-hybrid-dba.eventbrite.com\" target=\"_blank\">Hybrid DBA pre-con registration</a>
+    </p>
+    </div>
+    
+    <div id=\"ms-fabric\"/>
+    <br>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+    <p style=\"text-align: center; font-size: 1.5rem;\">
+    Using Microsoft Fabric to become an analytics superhero!
+    </p>
+    <p style=\"text-align: center; font-size: 1.3rem;\">
+    with <a href=\"https://sessionize.com/markpm\">Mark Pryce-Maher</a> 
+    <img src=\"../assets/img/events/0035/mark_pryce-maher.jpg\" height=\"170\" alt=\"Jess Pomfret\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    <a href=\"https://sessionize.com/stijn-wynants\">Stijn Wynants</a>
+    <img src=\"../assets/img/events/0035/stijn_wynants.jpg\" height=\"170\" alt=\"Rob Sewell\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+    </p>
+    <p>
+    Are you ready to become an analytics superhero?
+    </p>
+    <p>
+    Hesitate no more! Microsoft Fabric is out and building analytics solution cannot get any easier! If you believe that the best way to learn is to learn by example, join us!
+    </p>
+    <p>
+    We will build a new greenfield analytical solution using the new all-in-one Microsoft Fabric that covers everything from data movement to data science, Real-Time Analytics, and business intelligence. You will enjoy a highly integrated, end-to-end, and easy-to-use product that is designed to simplify your analytics needs.
+    </p>
+    <p>
+    We will start off the day with an overview of Microsoft Fabric, set up the environment and explain the scenario for the day.
+    </p>
+    <p>
+    There is no use of analytics solution if there is no data. So we will show how data is stored in Fabric, how you can integrate existing data, or ingest data from different sources. Here we will create landing zone and integrate existing data without making another copy!
+    </p>
+    <p>
+    Once data is in Microsoft Fabric OneLake, we will process it efficiently while demonstrating best practices. Data engineers are used to Spark so it will be our tool of choice in creating different layers while tackling all the things you need to know. During this part, you will learn how to incrementally load data and make sure your cleansing is done right and in an effective and dynamic way! Rest assured, SQL folks are not forgotten! We will show how you can access the same data using SQL!
+    </p>
+    <p>
+    Of course, there is no use of loading data without a serving layer for your business needs. We will show you how you can use Lakehouse & Warehouse in Microsoft Fabric focusing on performance!
+    </p>
+    <p>
+    Finally, we will show you how to build Power BI reports using new consumption method reading data directly from the lake, called DirectLake, skipping data engines.
+    </p>
+    <p>
+    If you do not know where to start, don’t worry, during this day we will explain every step on the way and how Fabric helps you get the job done. Also, we will share the best practices seen at most customers!
+    </p>
+    <p>
+    After this day you will have a clear understanding of how Fabric works and what components you have to use for you own top notch analytical solution!
+    </p>
+    <br>    
+    <p>
+    Fabric is brand new, so instead of throwing terminology here, we are inviting you to join us and become the analytics superhero!
+    </p>
+    <br>
+    <p style=\"text-align:center;\">
+      <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://datasatoslo23-ms-fabric.eventbrite.com\" target=\"_blank\">MS Fabric pre-con registration</a>
+    </p>
+    </div>
+    "
+
+scheduleurl: https://sessionize.com/api/v2/izirnf5l/view/GridSmart
+
+scheduleapp: https://datasatoslo2023.sessionize.com/
+
+venuesponsor: 
+  - link: https://www.kristiania.no/
+    open-in-new-tab: true
+    image: ../assets/img/events/0035/hoyskolen_kristiania.png
+    height: 200
+    margin-top: 0
+    margin-bottom: 0
+  - link: https://www.microsoft.com/sql-server/
+    open-in-new-tab: true
+    image: ../assets/img/events/0035/MS-Azure_logo.png
+    height: 300
+    margin-top: -50
+    margin-bottom: 0
+
+venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.9755343744257!2d10.757657116683484!3d59.91595338186799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e60c78540dd%3A0xa19b8032c939043a!2sCampus%20Fjerdingen%20%7C%20H%C3%B8yskolen%20Kristiania!5e0!3m2!1sen!2sno!4v1660291032383!5m2!1sen!2sno
+
+sponsors:
+  - sponsorlevel: PLATINUM
+  - link: https://evidi.com/
+    image: ../assets/img/events/0035/Evidi_Logo_RGB_3.png
+    height: 150
+    margin-top: -30
+    margin-bottom: 0
+
+  - sponsorlevel: GOLD
+  - link: https://tabulareditor.com/
+    image: ../assets/img/events/0035/te3-logo-with-text.png
+    height: 90
+    margin-top: -20
+    margin-bottom: 0
+  - link: https://fraktal.no/
+    image: ../assets/img/events/0035/fraktal_color_rgb.svg
+    height: 130
+    margin-top: 30
+    margin-bottom: 0
+  - link: https://www.cloudberries.no/
+    image: ../assets/img/events/0035/cloudberries_logo.png
+    height: 260
+    margin-top: 30
+    margin-bottom: 0
+  - link: https://ingraphic.no/
+    image: ../assets/img/events/0035/Ingraphic_Logo.png
+    height: 65
+    margin-top: 30
+    margin-bottom: 30
+  - link: https://www.timextender.com/no/
+    image: ../assets/img/events/0035/TimeXtender-LOGO-RGB.png
+    height: 45
+    margin-top: 30
+    margin-bottom: 30
+  - link: https://www.deloitte.no/
+    image: ../assets/img/events/0035/deloitte.webp
+    height: 160
+    margin-top: 0
+    margin-bottom: 30
+  - link: https://www.webstep.no/
+    image: ../assets/img/events/0035/WEBSTEP_logo.png
+    height: 55
+    margin-top: 0
+    margin-bottom: 30
+    
+
+  - sponsorlevel: SILVER
+  - link: https://www.quarks.no/
+    image: ../assets/img/events/0035/quarks_logo.png
+    height: 90
+    margin-top: 0
+    margin-bottom: 0
+  - link: https://www.gethynellis.com/
+    image: ../assets/img/events/0035/GE-BlackBack.png
+    height: 150
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://www.dbwatch.com/
+    image: ../assets/img/events/0035/dbWatch_official_logo.png
+    height: 75
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://www.rikstoto.no/
+    image: ../assets/img/events/0035/Rikstoto_Logo_kvadrat_fullfarge_rgb.png
+    height: 175
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://datamasterminds.io/
+    image: ../assets/img/events/0035/DataMasteminds_logo_smaller.png
+    height: 140
+    margin-top: 50
+    margin-bottom: 30
+  - link: https://www.databrothers.cz/en/make-your-data-shine/
+    image: ../assets/img/events/0035/databrothers-companyLogo.png
+    height: 100
+    margin-top: 50
+    margin-bottom: 30
+
+    
+    
+
+speakerlisturl: https://sessionize.com/api/v2/izirnf5l/view/SpeakerWall
+callforspeakers:  false
+
+volunteerrequesturl: mailto:datasaturday.oslo@gmail.com
+organizers:
+  - name: Marthe Moengen, Emilie Rønning, Wilde Thyholt, Rodney Kidd, Rune Ovlien Rakeie, Johan Ludvig Brattås, Magne Fretheim & Bjørn Wang
+    twitter: https://twitter.com/DataSatOslo
+    email: mailto:datasaturday.oslo@gmail.com
+
+#sponsorpacklink: "../assets/img/events/0023/DataSaturdayOslo2022_SponsorPlan.pdf"
+sponsor-menuitem: true
+sponsorbenefits: '
+  <div class="row justify-content-center">
+      <p style="text-align:center;">
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="../assets/img/events/0035/DataSaturdayOslo2023_SponsorPlan.pdf" target="_blank">Sponsorplan</a>
+    </p>
+  </div>    
+  '
+
+codeofconduct: "<p style=\"text-align:left;\">
+      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
+      Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+    </p>
+
+    <h2>The Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Our conference is dedicated to providing an enjoyable environment for everyone involved. 
+      Thus providing a harassment-free experience for everyone, regardless of gender, 
+      gender identity and expression, age, sexual orientation, disability, physical appearance, 
+      body size, race, ethnicity, religion (or lack thereof), or technology choices. 
+      We do not tolerate harassment of conference participants in any form. 
+      Sexual language and imagery is not appropriate for any conference venue, 
+      including talks, workshops, parties, Twitter and other online media. 
+      Conference participants violating these rules may be sanctioned or 
+      expelled from the conference <em>without a refund</em> at the discretion 
+      of the conference organizers.
+    </p>
+    <p style=\"text-align:left;\">
+      The organizer of this event will prioritize marginalized people&#39;s safety over privileged people&#39;s comfort.
+    </p>
+
+    <h2>The Less Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Harassment includes offensive verbal comments related to gender, gender 
+      identity and expression, age, sexual orientation, disability, physical 
+      appearance, body size, race, ethnicity, religion, technology choices, 
+      sexual images in public spaces, deliberate intimidation, stalking, 
+      following, harassing photography or recording, sustained disruption of 
+      talks or other events, inappropriate physical contact, and unwelcome 
+      sexual attention.
+    </p>
+    <p style=\"text-align:left;\">
+      Participants asked to stop any harassing behavior are expected to comply 
+      immediately.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Sponsors are also subject to the anti-harassment policy. In particular, 
+      sponsors should not use sexualized images, activities, or other material. 
+      Booth staff (including volunteers) should not use sexualized 
+      clothing/uniforms/costumes, or otherwise create a sexualized environment.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If a participant engages in harassing behavior, the conference organizers 
+      may take any action they deem appropriate, including warning the offender 
+      or expulsion from the conference with no refund.
+    </p>
+
+    <p style=\"text-align:left;\">
+      If you are being harassed, notice that someone else is being harassed, or 
+      have any other concerns, please contact a member of conference staff 
+      immediately. Conference staff can be identified as they&#39;ll be wearing 
+      branded shirts.
+    </p>
+
+    <p style=\"text-align:left;\">
+      Conference staff will be happy to help participants contact 
+      local law enforcement, provide escorts, or otherwise assist 
+      those experiencing harassment to feel safe for the duration of the 
+      conference. We value your attendance.
+    </p>
+
+    <p style=\"text-align:left;\">
+      We expect participants to follow these rules at conference and workshop 
+      venues and conference-related social events.
+    </p>
+
+    <p style=\"text-align:left;\">
+      <small>
+        <em>Original source and credit:
+          <a href=\"http://2012.jsconf.us/#/about\">http://2012.jsconf.us/#/about</a>
+          &amp;
+          <ahref=\"http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy\">The Ada Initiative</a>
+          <br />
+
+          Please help by translating or improving:
+          <a href=\"https://github.com/confcodeofconduct/confcodeofconduct.com\">on github.com</a>
+          <br />
+
+          This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/deed.en_US\">Creative Commons Attribution 3.0 Unported License</a>
+        </em>
+      </small>
+    </p>
+      "

@@ -1,0 +1,40 @@
+name: "Data Saturday #16 - Slovenia"
+date: 2021-12-11 08:45:00 -0000
+
+virtual: true
+
+description: '
+
+<p>Data Saturday #16 Slovenia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, 
+cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+<p><b>Event will be held online due to current COVID situation in Slovenia, Ljubljana.</b></p>
+
+Event organizers:
+<a href="https://www.twitter.com/mladenprajdic" target="_blank">Mladen Prajdić</a> 
+<a href="https://www.twitter.com/dejansarka" target="_blank">Dejan Sarka</a>
+<a href="https://www.twitter.com/matijalah" target="_blank">Matija Lah</a>
+<a href="https://www.twitter.com/tomaz_tsql" target="_blank">Tomaž Kaštrun</a>
+ 
+ '
+registrationurl: https://www.eventbrite.com/e/data-saturday-16-slovenia-2021-tickets-179101867507
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+  rooms:
+    - name: Azure / SQL / Dev
+      url: https://www.gotomeet.me/milambdasp/data-saturday-16-slovenia-track-1
+    - name: BI / Analytics
+      url: https://www.gotomeet.me/milambdasp/data-saturday-16-slovenia-track-2
+    - name: Community Track / Mixer
+      url: https://www.gotomeet.me/milambdasp/data-saturday-16-slovenia-mixer
+
+scheduleurl: https://sessionize.com/api/v2/1p0xjidz/view/GridSmart
+
+speakerlisturl: https://sessionize.com/api/v2/1p0xjidz/view/SpeakerWall
+
+callforspeakers: false
+
+volunteerrequesturl: Feel free to collaborate with us as volunteers
+organizers:
+  - name: Mladen Prajdić, Matija Lah, Dejan Sarka, Tomaž Kaštrun
+    twitter: https://twitter.com/mladenprajdic
+    email: tomaztsql@gmail.com

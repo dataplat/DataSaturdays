@@ -1,0 +1,49 @@
+name: "Data Saturday #13 - Minnesota"
+date: 2021-10-16 08:00:00 -0000
+virtual: true
+description: '<p> Data Saturday #13 is a one-day free virtual event for all data learners and professionals seeking to learn! </p>
+<p> It will be held on October 16th, 2021. </p>'
+
+registrationurl: https://datasaturday-2021-mn.eventbrite.com
+
+#
+# commented: uncomment this when you have the sessionize link to the schedule
+scheduleurl: https://sessionize.com/api/v2/kctkki5f/view/GridSmart
+
+join:
+  description: These are the rooms to attend the sessions that you prefer. Email links to these will be sent through EventBrite and updated just prior to the event on this site.
+  rooms:
+    - name: Room 1
+      url: .
+    - name: Room 2
+      url: .
+    - name: Room 3
+      url: .
+    - name: Room 4 
+      url: .
+    - name: Room 5
+      url: .
+    
+sponsors:
+  - link: https://www.minionware.net
+    image: ../assets/img/events/0013/minionware_logo.png
+    height: 200
+  - link: https://www.qlik.com/
+    image: ../assets/img/events/0013/Qlik-Logo_RGB.jpg
+    height: 200
+  - link: https://www.passmn.com/
+    image: ../assets/img/events/0013/passmn.jpg
+    height: 200
+    
+
+# commented: uncomment this when you have the sessionize link to the speakers list
+speakerlisturl: https://sessionize.com/api/v2/kctkki5f/view/SpeakerWall
+
+callforspeakers:  false
+
+volunteerrequesturl: mailto:events@passmn.com
+
+organizers:
+  - name: PASSMN - Minnesota Data Community - https://passmn.com/
+    twitter: https://twitter.com/passmn
+    email: mailto:events@passmn.com

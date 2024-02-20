@@ -1,326 +1,201 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Data Saturdays website" />
-        <meta name="author" content="" />
-        <title>Data Saturdays</title>
-        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
-        <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
-        <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
-        <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
-        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
-        <!-- DataTables -->
-        <link href=https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.1/css/bootstrap.css rel=stylesheet>
-        <link href=https://cdn.datatables.net/1.10.23/css/dataTables.bootstrap4.min.css rel=stylesheet>
-        
-        
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
-        
-    </head>
-    <body id="page-top" onload="init()">
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-            <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                    Data Saturdays
+---
+layout: home
+title: Data Saturdays
+subtitle: By The Community For The Community
+---
+
+<div id="page-top-out" class="page-section pt-4">
+  <p id="page-top">
+    <img src="../assets/design/facebook/c.facebook%201r.png" alt="Data Saturdays" class="w-100 cover-image">
+    <h2 class="section-heading text-uppercase">Welcome to Data Saturdays</h2>
+  </p>
+  <p id="page-top-text">
+    <strong>Data Saturdays</strong> is a place for the data community to run <em>small regional events</em> with little outlay or set-up difficulties. 
+    Here you can access a set of tools and have open, transparent discussions on how your event should be set up and utilised.
+  </p>
+
+  <div class="d-flex justify-content-center align-items-center">
+    <a class="btn-continue bg-primary text-light p-3 d-flex justify-content-center align-items-center flex-column" href="#events">
+      <span>See events</span>
+      <i class="fa fa-solid fa-angle-down fa-2x"></i>
+    </a>
+  </div>
+</div>
+
+<div id="events-out" class="page-section">
+  <div id="events">
+	  <h2 class="section-heading text-uppercase pt-4">Data Saturdays Events</h2>
+  </div>
+
+  <div class="container">
+    <table table cellspacing=0 class="table-responsive table-striped table-hover mt-3" id="eventlist" width="100%">
+      <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Event Name</th>
+          <th scope="col">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Events List show future events-->
+        {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+        {% for post in site.posts %}
+          {% capture date %}{{post.date | date: '%s' | plus: 90000 }}{% endcapture %}
+          {% if date >= now %}
+        <tr>
+          <td>
+            <div class="hero-box mt-3 align-self-center">
+              <a href="{{ post.url }}">
+                <img src="assets/design/logo/10.png" height="65" />
+              </a>
+            </div>
+          </td>
+          <td>
+            <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
+              <a href="{{ post.url }}">
+                <div class="nav-link">{{ post.title }}</div>
+              </a>
+            </div>
+          </td>
+          <td>
+            <div class="hero-box mt-3 align-self-center flex-nowrap">
+              <div class="nav-link">{{ post.date | date_to_long_string }}</div>
+            </div>
+          </td>
+        </tr>
+        {% endif %}
+        {%- endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- Past Events -->
+
+<div id="events-out" class="page-section">
+  <div id="pastevents">
+	  <h2 class="section-heading text-uppercase pt-4">Past Events</h2>
+  </div>
+
+  <div class="container">
+    <table table cellspacing=0 class="table-responsive table-striped table-hover mt-3" id="pasteventlist" width="100%">
+      <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Event Name</th>
+          <th scope="col">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <!-- Past Events List Only show if less than now (where now is BUILD TIME)-->
+        {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+        {% for post in site.posts %}
+          {% capture date %}{{post.date | date: '%s' | plus: 90000 }}{% endcapture %}
+          {% if date <= now %}
+            <!-- post content here -->
+        <tr>
+            <td>
+              <div class="hero-box mt-3 align-self-center">
+                <a href="{{ post.url }}">
+                  <img src="assets/design/logo/11.png" height="65" />
                 </a>
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars ml-1"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link" href="https://github.com/sqlcollaborative/DataSaturdays">Github</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.html#events">Events</a></li>
-                        <li class="nav-item"><a class="nav-link" href="past.html#events">Past Events</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!-- Masthead-->
-        <header class="masthead">
-            <div class="container">
-                <div class="masthead-heading text-uppercase">Data Saturdays</div>
-                <div class="alert alert-light" role="alert">
-                    <p>
-                        Following the announcement of the ending of PASS (<a href="https://web.archive.org/web/20201219035705/https://www.pass.org/PASS-Blog/the-future-of-pass">archived link</a>), this site has been established by the community as a means to continue events under the <i>Data Saturdays</i> name.
-                    </p>
-                    <p>
-                        We believe that by sharing these resources and enabling community input, we can provide the same level of events that SQLSaturdays provided.
-                    </p>
-                    <p>
-                        You can join the discussion at: <a href="https://github.com/sqlcollaborative/DataSaturdays">https://github.com/sqlcollaborative/DataSaturdays</a>
-                    </p>
-                        This site and the repo have been set up by <a href="https://twitter.com/spaghettidba">Gianluca Sartori</a>, <a href="https://twitter.com/sqldbawithbeard">Rob Sewell</a>, <a href="https://twitter.com/way0utwest/">Steve Jones</a>, and <a href="https://twitter.com/intoleranse">Johan Ludvig Brattås</a>, but is hosted in the SQL Collaborative organisation and is for the community.
-                    </p>
-                    <p>
-                        Additional contributors presently include: Matt Gordon, Andy Mallon, Elizabeth Noble, Monica Rathbun, and Randolph West.
-                    </p>
-                </div>
-            </div>
-        </header>
-     
-        <!-- Events -->
-        <section class="page-section" id="events">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Events</h2>
-                    <div class="container">
+              </div>
+            </td>
+            <td>
+              <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
+                <a href="{{ post.url }}">
+                  <div class="nav-link">{{ post.title }}</div>
+                </a>
+              </div>
+            </td>
+            <td>
+              <div class="hero-box mt-3 align-self-center flex-nowrap">
+                <div class="nav-link">{{ post.date | date_to_long_string }}</div>
+              </div>
+            </td>
+          </tr>
+          {% endif %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
 
-                        <table table cellspacing=0 class="table table-striped table-hover mt-3" id="eventlist" width="100%">
-                            <thead>
-                                <tr>
-                                    <th scope="col"></th>
-                                    <th scope="col">Event Name</th>
-                                    <th scope="col">Date</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center">
-                                            <a href="./events/datasaturday0003.html">
-                                                <img src="assets/img/logos/datasaturday_temp.png" height="65"/>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                            <a href="./events/datasaturday0003.html">
-                                                <div class="nav-link">Data Saturday #3 Haiti - Virtual</div>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                            <div class="nav-link">March 27 2021</div>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center">
-                                            <a href="./events/datasaturday0004.html">
-                                                <img src="assets/img/logos/datasaturday_temp.png" height="65"/>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                            <a href="./events/datasaturday0004.html">
-                                                <div class="nav-link">Data Saturday #4 Johannesburg - Virtual</div>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                            <div class="nav-link">March 13 2021</div>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center">
-                                            <a href="./events/datasaturday0005.html">
-                                                <img src="assets/img/logos/datasaturday_temp.png" height="65"/>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                            <a href="./events/datasaturday0005.html">
-                                                <div class="nav-link">Data Saturday #5 Redmond - Virtual</div>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                            <div class="nav-link">April 17 2021</div>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center">
-                                            <a href="./events/datasaturday0006.html">
-                                                <img src="assets/img/logos/datasaturday_temp.png" height="65"/>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                            <a href="./events/datasaturday0006.html">
-                                                <div class="nav-link">Data Saturday #6 Malta - Virtual</div>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                            <div class="nav-link">April 24 2021</div>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center">
-                                            <a href="./events/datasaturday0007.html">
-                                                <img src="assets/img/logos/datasaturday_temp.png" height="65"/>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                            <a href="./events/datasaturday0007.html">
-                                                <div class="nav-link">Data Saturday #7 Los Angeles - Virtual</div>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                            <div class="nav-link">June 12 2021</div>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center">
-                                            <a href="https://wit.sqlugs.com/2021/02/04/data_platform_wit_day/">
-                                                <img src="assets/img/logos/dataplatformwit_narrow.png" height="65"/>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                            <a href="https://wit.sqlugs.com/2021/02/04/data_platform_wit_day/">
-                                                <div class="nav-link">Data Platform WIT Day</div>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                            <div class="nav-link">March 5 2021</div>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center">
-                                            <a href="./events/datasaturday0008.html">
-                                                <img src="assets/img/logos/datasaturday_temp.png" height="65"/>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                            <a href="./events/datasaturday0008.html">
-                                                <div class="nav-link">Data Saturday #8 - Southwest US</div>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                            <div class="nav-link">May 15 2021</div>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center">
-                                            <a href="./events/datasaturday0009.html">
-                                                <img src="assets/img/logos/datasaturday_temp.png" height="65"/>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                            <a href="./events/datasaturday0009.html">
-                                                <div class="nav-link">Data Saturday #9 - Data Toboggan - Cool Runnings</div>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                            <div class="nav-link">June 12 2021</div>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center">
-                                            <a href="./events/datasaturday0010.html">
-                                                <img src="assets/img/logos/datasaturday_temp.png" height="65"/>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap text-uppercase">
-                                            <a href="./events/datasaturday0010.html">
-                                                <div class="nav-link">Data Saturday #10 - Sofia</div>
-                                            </a>
-                                        </div>
-                                    </td>
-                                    <td>
-                                        <div class="hero-box mt-3 align-self-center flex-nowrap">
-                                            <div class="nav-link">October 09 2021</div>
-                                        </div>
-                                    </td>
-                                </tr>
-                            </tbody>
+<div id="aboutus-out" class="page-section">
+  <div id="aboutus">
+	  <h2 class="section-heading text-uppercase pt-4">About Us</h2>
+  </div>
 
-                        </table>
+  <div id="aboutus-text">
+    <p><strong>Data Saturdays</strong> is a place for the data community to run <em>small regional events</em> with little outlay or set-up difficulties. Here you can access a set of tools and have open, transparent discussions on how your event should be set up and utilised.</p>
 
-                    </div>
+    <h3>Goals</h3>
 
-                    <p align="center"><a href="./events/event.xml"><img src="./assets/img/rss.png"></a></p>
-   
-            </div>
-        </section>
+    <p>
+      <ul>
+        <li>Provide a website for listing events taking place around the world</li>
+        <li>Enable event owners to be able to set up the website and administer it easily</li>
+        <li>Administrative tools for event organizers to use when building their site</li>
+        <li>Integration with various payment providers for different locales</li>
+        <li>Integration with mobile scheduling applications</li>
+        <li>Page to list all sponsors and their contacts</li>
+        <li>Rating of sessions and events</li>
+        <li>Speaker tools</li>
+        <li>Sponsor tools</li>
+      </ul>
+    </p>
 
-        <!-- Footer-->
-        <footer class="footer py-4">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 text-lg-left">Copyright © Data Saturdays <script>document.write(new Date().getFullYear())</script></div>
-                    <div class="col-lg-4 my-3 my-lg-0">
-                        <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/datasaturdays"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="mailto:support@datasaturdays.com"><i class="far fa-envelope"></i></a>
-                        <!-- 
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
-                    </div>
-                    <!-- <div class="col-lg-4 text-lg-right">
-                        <a class="mr-3" href="#!">Privacy Policy</a>
-                        <a href="#!">Terms of Use</a>
-                    </div> -->
-                </div>
-            </div>
-        </footer>
- 
-        <!-- Bootstrap core JS-->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Third party plugin JS-->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="./js/scripts.js"></script>
-        <!-- DataTables -->
-        <script type="text/javascript" src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
-        <script type="text/javascript" src="https://cdn.datatables.net/1.10.23/js/dataTables.bootstrap4.min.js"></script>
+    <p>Since many of these things already exist, we just need a way to consolidate them, and make them easy for people to use. To paraphrase Jeffrey Snover, don't build what you don't need to. Concentrate on the things that provide value. Don't re-invent the wheel.</p>
 
+    <h3>Culture</h3>
 
+    <p>We expect and demand that you follow some basic rules. Nothing dramatic here. There will be a proper code of conduct for the websites added soon, but in this repository:</p>
+    <p><strong>BE EXCELLENT TO EACH OTHER</strong></p>
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
-        <script src="https://cdn.datatables.net/plug-ins/1.10.21/sorting/datetime-moment.js"></script>
+    <p>If your behaviour or communication does not fit within this philosophy, we do not wish for you to help us.</p>
 
-        <script>
-            function init() {
-                $.fn.dataTable.moment( 'MMMM D YYYY' );
-                $('#eventlist').DataTable({"order": [[ 2, "asc" ]]});
-            };
-        </script>
-    </body>
-</html>
+    <h3>What can you do?</h3>
+
+    <p>
+      <ul>
+        <li>We have issues and discussions.</li>
+        <li>We would like you to comment on them and provide help and assistance</li>
+        <li>We will have code to write and CI/CD to create</li>
+        <li>We have no idea what else is required, thats for you, the community, to decide</li>
+      </ul>
+    </p>
+
+    <h3>What this is not</h3>
+
+    <p>
+      <ul>
+        <li>For profit</li>
+        <li>Owned by anyone (Data Saturdays is for and by the community, and will succeed or fail in that manner)</li>
+        <li>Holding any personal information</li>
+        <li>Associated with any organisation. We appreciate that in general the events we are looking to provide for will be primarily catering for Microsoft products.</li>
+      </ul>
+    </p>
+
+    <h3>Statement of declaration</h3>
+
+    <p>Following the announcement of the ending of PASS (<a href="https://web.archive.org/web/20201219035705/https://www.pass.org/PASS-Blog/the-future-of-pass">archived link</a>), this site has been established by the community as a means to continue events under the <i>Data Saturdays</i> name.</p>
+    <p>We believe that by sharing these resources and enabling community input, we can provide the same level of events that SQLSaturday provided.</p>
+    <p>You can join the discussion at: <a href="https://github.com/sqlcollaborative/DataSaturdays">https://github.com/sqlcollaborative/DataSaturdays</a></p>
+    <p>This site and the repo are hosted in the SQL Collaborative organisation, and are for the community.</p>
+
+    <h4>Admins of the Data Saturdays</h4>
+
+    <ul>
+      <li><a href="https://twitter.com/spaghettidba">Gianluca Sartori</a></li>
+      <li><a href="https://twitter.com/sqldbawithbeard">Rob Sewell</a></li>
+      <li><a href="https://twitter.com/intoleranse">Johan Ludvig Bratt&aring;s</a></li>
+      <li><a href="https://twitter.com/sqlatspeed">Matt Gordon</a></li>
+      <li><a href="https://twitter.com/SQLZelda">Elizabeth Noble</a></li>
+      <li><a href="https://twitter.com/SQLEspresso">Monica Rathbun</a></li>
+      <li><a href="https://twitter.com/Warwick_Rudd">Warwick Rudd</a></li>
+      <li><a href="https://twitter.com/HengeWitch">Randolph West</a></li>
+    </ul>
+
+  </div>
+</div>

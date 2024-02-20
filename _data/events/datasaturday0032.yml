@@ -1,0 +1,104 @@
+name: "Data Saturday  #32 - Data Saturday Denmark"
+date: 2023-03-25 08:00:00 -00:00
+
+description: '
+Data Saturday Denmark is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.<br><br>The community revolves around Microsoft Data Platform and Cloud (SQL Server, Power BI, Synapse, Azure, PowerShell, etc), but we invite other topics as well (other cloud vendors, interesting technologies).<br><br>At this point, we are not able to cover any travel/accommodation expenses.<br><br>The event is a free in-person event.
+ '
+registrationurl: https://www.eventbrite.com/e/data-saturday-denmark-032-tickets-489401512097
+
+precondescription: "<p>
+        We are delighted to present world class speakers, which will host the pre-conference workshops for this years Data Saturday Denmark. Check out the workshop descriptions below and reserve your seat today.
+    </p>
+    <p>
+        The workshops will be held on Friday (March 24th) preceding our main event on Saturday (March 25th) and will have the affordable cost of EUR ~300/DKK 2.250,- (lunch included) for a full day of high quality learning.
+    </p>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+        <p style=\"text-align: center; font-size: 1.5rem;\">
+            Power BI Administration and Governance
+        </p>
+        <p style=\"text-align: center; font-size: 1.3rem;\">
+            with <a href=\"https://sessionize.com/asgeirgunnarsson\">Ásgeir Gunnarsson</a>
+            <img src=\"https://sessionize.com/image/2b94-200o200o2-1e-fd53-406b-8de7-1a33cf830c80.a2539fb4-a266-4272-b612-119401263eb5.jpg\" height=\"170\" alt=\"Ásgeir Gunnarsson\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+        </p>
+        <p>Learn best practices when it comes to Power BI Administration and Governance. We will be around most of Power BI so you will have a thorough understanding on how to administer and govern your Power BI environment.</p>
+        <p style=\"text-align:center;\">
+            <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com/e/data-saturday-32-precon-tickets-500018467697\" target=\"_blank\">More info & registrations</a>
+        </p>
+    </div>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+        <p style=\"text-align: center; font-size: 1.5rem;\">
+            GitHub database deployments workshop for Data Platform professionals
+        </p>
+        <p style=\"text-align: center; font-size: 1.3rem;\">
+            with <a href=\"https://sessionize.com/kevin-chant\">Kevin Chant/Sander Stad</a>
+            <img src=\"https://sessionize.com/image/0947-200o200o2-TcgYAHPWxDz6c7iCKqotu5.jpg\" height=\"170\" alt=\"Kevin Chant/Sander Stad\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+        </p>
+        <p>In this one-day workshop we will go through everything a Data Platform professional needs to deploy SQL Servers using GitHub.</p>
+        <p style=\"text-align:center;\">
+            <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com/e/data-saturday-32-precon-tickets-500018467697\" target=\"_blank\">More info & registrations</a>
+        </p>
+    </div>
+    <br>
+    <div style=\"width: auto; height: auto; border: 2px solid #aaa; display: box; box-pack: center; box-align: center; padding: 15px;\">
+        <p style=\"text-align: center; font-size: 1.5rem;\">
+            Power Up Skills w/ Power BI
+        </p>
+        <p style=\"text-align: center; font-size: 1.3rem;\">
+            with <a href=\"https://sessionize.com/pragati-jain\">Pragati Jain/Augustin Dokoza Bukvic</a>
+            <img src=\"https://sessionize.com/image/7d9b-200o200o2-7tYoHtJSCcFQk9MqSsB8R8.jpg\" height=\"170\" alt=\"Pragati Jain/Augustin Dokoza Bukvic\" style=\"margin-left: 35px; margin-right: 35px;border-radius: 50%;\">
+        </p>
+        <p>This is a complete training session for the audience on Microsoft Power BI. In the end of the training, the audience will leave the room with a fully functional Power BI report created using a real-world data along with learning intermediate to advanced concepts to top-up their beginner-level Power BI skills.</p>
+        <p style=\"text-align:center;\">
+            <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://www.eventbrite.com/e/data-saturday-32-precon-tickets-500018467697\" target=\"_blank\">More info & registrations</a>
+        </p>
+    </div>"
+
+sponsors:
+  - link: https://www.kapacity.dk/
+    image: ../assets/img/events/0032/twoday-kapacity.png
+    height: 120
+  - link: https://www.fellowmindcompany.com/da-dk/
+    image: ../assets/img/events/0032/fellowmind.png
+    height: 120
+  - link: https://www.catmansolution.com/
+    image: ../assets/img/events/0032/catman-solution.png
+    height: 120
+  - link: https://strd.co/
+    image: ../assets/img/events/0032/structured-concepts.png
+    height: 120
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0032/redgate.png
+    height: 120
+  - link: https://www.biwise.dk/
+    image: ../assets/img/events/0032/biwise.png
+    height: 120
+  - link: https://www.arrow.dk/
+    image: ../assets/img/events/0032/arrow.png
+    height: 120
+  - link: https://inspari.dk/
+    image: ../assets/img/events/0032/inspari.jpg
+    height: 120
+
+sponsorbenefits: '
+ <img src="https://user-images.githubusercontent.com/108015731/200780577-db7f242d-1cf8-47f4-af14-577e69f9c01e.png">
+'
+
+scheduleurl: https://sessionize.com/api/v2/ztilolfa/view/GridSmart
+
+speakerlisturl: https://sessionize.com/api/v2/ztilolfa/view/SpeakerWall
+callforspeakers: false
+
+
+volunteerrequesturl: _No response_
+organizers:
+  - name: Jens Vestergaard
+    twitter: https://twitter.com/vestergaardj
+    email: jv@t-sql.dk
+  - name: Brian Bønk
+    twitter: https://twitter.com/brbonk
+    email: brianbonk@gmail.com
+  - name: Mathias Halkjær
+    twitter: https://twitter.com/halkjaerm
+    email: halkjaer@live.dk
+ 

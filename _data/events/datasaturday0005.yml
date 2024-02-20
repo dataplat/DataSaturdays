@@ -1,0 +1,52 @@
+name: "Data Saturday #5 Redmond"
+date: 2021-04-17 08:00:00 -0000
+virtual: true
+description: 'z               <p>
+                    Data Saturday \#5 Redmond is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+                    </p>
+                    <p>
+                        Due to the COVID pandemic, this event will be held online.
+                    </p>
+'
+registrationurl: https://www.eventbrite.com/e/data-saturday-5-redmond-tickets-134535646741
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms: 
+    - name: Room 1
+      url: https://us02web.zoom.us/j/88594898065?pwd=RVM3NzFPa25Gc3FSd05DbUwyOEZhZz09
+    - name: Room 2
+      url: https://us02web.zoom.us/j/85382887858?pwd=eWNoeUJDbzdDc3VFOTdRN3I0SVRrZz09
+    - name: Room 3
+      url: https://us02web.zoom.us/j/83115740427?pwd=REZlVU04QXBUR0IyN2JCYjZ2WjhGZz09
+    - name: Room 4
+      url: https://us02web.zoom.us/j/83113663463?pwd=NGV0VGVTZm1yRGp2cUFzMzQ5REJYQT09
+    - name: Room 5
+      url: https://us02web.zoom.us/j/81795542808?pwd=UXhabFdrcnVJOE4vYk9tVVRiS042Zz09
+    - name: Room 6
+      url: https://us02web.zoom.us/j/85984072814?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09
+
+scheduleurl: https://sessionize.com/api/v2/6l2mfo9t/view/GridSmart
+
+sponsors:
+  - link: https://databricks.com
+    image: ../assets/img/events/0005/databricks-logo.jpg
+    height: 80
+  - link: https://www.scriptrunner.com/en/
+    image: ../assets/img/events/0005/scriptrunner-logo_rgb_mit_claim2x.jpg
+    height: 100
+  - link: https://www.purestorage.com
+    image: ../assets/img/events/0005/Pure.png
+    height: 80
+  - link: https://sqlsolutionsgroup.com/
+    image: ../assets/img/events/0005/SSG_Logo.gif
+    height: 80
+  - link: https://sentryone.com/
+    image: ../assets/img/events/0005/SentryOneLogo.png
+    height: 80
+    
+speakerlisturl: "https://sessionize.com/api/v2/6l2mfo9t/view/SpeakerWall"
+callforspeakers:  False
+organizers:
+  - name: Tho Le & Harry Chandra (Redmond SQL User Group Leadership Team)
+    twitter: 
+    email: mailto:DataSaturday2021@redmondsql.org

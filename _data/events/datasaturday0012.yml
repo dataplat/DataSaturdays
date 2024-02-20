@@ -1,0 +1,52 @@
+name: "Data Saturday #12 - Data ANZ"
+date: 2021-06-25 21:00:00 -0000
+virtual: true
+description: '<p>
+                       <img src=\"../assets/img/events/0012/Data_ANZAC.png\" width=\"650\" height=\"350\">
+                       </p>
+                       <p>
+                        Data ANZ 2021 is a free one-day online event for data and analytics professionals running early morning in New Zealand through to the evening in Western Australia. We will be running from June 25 at 21:00 UTC through till June 26 at 09:00 UTC.
+                    </p>
+                    <p>
+                        <b>Data ANZ - the data community event for the whole of Australia and New Zealand (and the world)</b>
+                    </p>
+                    <p>
+                        This community event offers content across Data Management and Administration, Cloud and Hybrid Architecture, Analytics, Business Intelligence, Artifical Intelligence, DevOps, Application Development and more.
+                    </p>
+                    <p>
+                        We do have a bias towards the Microsoft Data Platform, but we plan to have sessions covering other clouds and technologies.
+                    </p>
+                    <p>
+                        The Call for Speakers is closed. We hope you register and attend the event which covers introductory sessions to in-depth sessions. Enjoy the day!
+                    </p>
+'
+
+registrationurl: https://www.eventbrite.co.nz/e/data-anzac-2021-tickets-150669086293
+join:
+  description: Refer to the EventBrite registration page for details on how to register and join the sessions.
+
+scheduleurl: https://sessionize.com/api/v2/7hd8vba1/view/GridSmart
+
+sponsors:
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0012/Redgate.png
+    height: 150
+  - link: https://purple.telstra.com
+    image: ../assets/img/events/0012/TelstraPurple.jpg
+    height: 150
+  - link: https://www.teradata.com/
+    image: ../assets/img/events/0012/Teradata.jpg
+    height: 150
+  - link: https://www.microsoft.com/en-au/sql-server/
+    image: ../assets/img/events/0012/Microsoft.jpg
+    height: 150
+    
+
+speakerlisturl: https://sessionize.com/api/v2/7hd8vba1/view/SpeakerWall
+callforspeakers:  false
+
+volunteerrequesturl:
+organizers:
+  - name: The Data ANZ Committee     
+    twitter: https://twitter.com/DataAnz
+    email: mailto:dataanzac@gmail.com

@@ -1,0 +1,57 @@
+name: "Data Saturday #20 - Pordenone 2022"
+date: 2022-02-26 08:00:00 -0000
+virtual: true
+description:  '<p>Data Saturday #20 Pordenone is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+<p><b>Event venue</b></p>
+<p>The event will be <b>online</b>, on Saturday, February 26.</p>
+<p><b>Organizers</b></p>
+<p>The event is organized by <A HREF="https://twitter.com/marco_parenzan">Marco Parenzan</A> and <A HREF="https://twitter.com/marcopozzan">Marco Pozzan</A>.</p>
+'
+registrationurl: https://bit.ly/datasatpn2022
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+    - name: Room 1 
+      url: https://meet.goto.com/136856709
+    - name: Room 2 
+      url: https://meet.goto.com/161362069
+    - name: Room 3 
+      url: https://meet.goto.com/947333877
+    - name: Room 4 
+      url: https://meet.goto.com/539625621
+
+
+scheduleurl: https://sessionize.com/api/v2/rav27oh1/view/GridSmart
+
+speakerlisturl: https://sessionize.com/api/v2/rav27oh1/view/SpeakerWall
+
+sponsors:
+  - link: https://ugiss.org
+    image: ../assets/img/events/0020/UGISS-No-Border.png
+    height: 130
+  - link: https://www.realcomm.it/
+    image: ../assets/img/events/0020/realcomm.png
+    height: 110
+  - link: https://www.beantech.it/
+    image: ../assets/img/events/0020/beantech.png
+    height: 70
+  - link: https://www.altitudo.com/
+    image: ../assets/img/events/0020/altitudo.png
+    height: 90
+  - link: https://quantumdatis.com
+    image: ../assets/img/events/0020/quantumdatis_path.svg
+    height: 70
+  - link: https://www.alphasys.it/
+    image: ../assets/img/events/0020/alphasys-stacked-blue-transparent-_720x720_round.png
+    height: 180
+
+
+callforspeakers: false
+organizers:
+  - name: Marco Parenzan
+    twitter: https://twitter.com/marco_parenzan
+    email: mailto:marco.parenzan@1nn0va.it
+  - name: Marco Pozzan
+    twitter: https://twitter.com/marcopozzan
+    email: mailto:info@marcopozzan.it
+    

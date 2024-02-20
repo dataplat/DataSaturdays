@@ -1,0 +1,85 @@
+name: "Data Saturday #54 - Gothenburg"
+date: 2024-09-07 08:30:00 -0000
+
+hide-toplogo: true
+hide-join-room-section: true
+open-registration-new-tab: true
+
+description: "<p style=\"text-align:center;font-size:4rem;\">
+  WELCOME TO Gothenburg!
+  </p>
+  <p style=\"text-align:center;font-size:2.5rem;\">
+  Call for Speakers for Saturday sessions is open! 
+  </p>
+  <p>
+  <a class=\"btn btn-primary btn-xl text-uppercase js-scroll-trigger\" href=\"https://sessionize.com/data-saturday-oslo-2024/\" style=\"margin-left: 35px; margin-right: 35px; margin-top: 0px; margin-bottom: 15px;\" target=\"_blank\">Submit your sessions</a>
+  </p>
+  <p style=\"text-align:left\">
+  Please note that even though we welcome speaker submissions from speakers residing all over the world, we will take a preference to speakers living in Norway, Sweden, Finland and Denmark in our selection process.
+  <br>
+  </p>
+  <br>
+  <br>
+  Data Saturday Gothenburg is an event run by volunteers from the #sqlcommunity for the community.
+  </p>
+  "
+
+registrationurl: "https://datasaturday.se/"
+
+speakerlisturl: https://sessionize.com/data-saturday-gothenburg-2024/
+callforspeakers:  true
+
+volunteerrequesturl: mailto:info@datasaturday.se
+organizers:
+  - name: Data Saturday Gothenburg Team
+    email: mailto:info@datasaturday.se
+
+sponsor-menuitem: false
+sponsorbenefits: '
+  '
+
+codeofconduct: "<p style=\"text-align:left;\">
+      All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
+      Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+    </p>
+
+    <h2>The Short Version</h2>
+
+    <p style=\"text-align:left;\">
+      Our conference is dedicated to providing an enjoyable environment for everyone involved. 
+      Thus providing a harassment-free experience for everyone, regardless of gender, 
+      gender identity and expression, age, sexual orientation, disability, physical appearance, 
+      body size, race, ethnicity, religion (or lack thereof), or technology choices. 
+      We do not tolerate harassment of conference participants in any form. 
+      Sexual language and imagery is not appropriate for any conference venue, 
+      including talks, workshops, parties, Twitter and other online media. 
+      Conference participants violating these rules may be sanctioned or 
+      expelled from the conference <em>without a refund</em> at the discretion 
+      of the conference organizers.
+    </p>
+    <p style=\"text-align:left;\">
+      The organizer of this event will prioritize marginalized people&#39;s safety over privileged people&#39;s comfort.
+    </p>
+
+    <p style=\"text-align:left;\">
+      We expect participants to follow these rules at conference and workshop 
+      venues and conference-related social events.
+    </p>
+
+    <p style=\"text-align:left;\">
+      <small>
+        <em>Original source and credit:
+          <a href=\"http://2012.jsconf.us/#/about\">http://2012.jsconf.us/#/about</a>
+          &amp;
+          <ahref=\"http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy\">The Ada Initiative</a>
+          <br />
+
+          Please help by translating or improving:
+          <a href=\"https://github.com/confcodeofconduct/confcodeofconduct.com\">on github.com</a>
+          <br />
+
+          This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/deed.en_US\">Creative Commons Attribution 3.0 Unported License</a>
+        </em>
+      </small>
+    </p>
+      "

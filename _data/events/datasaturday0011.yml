@@ -1,0 +1,66 @@
+name: "Data Saturday #11 - Croatia 2021"
+date: 2021-09-11 08:00:00 -0000
+virtual: false
+description:  '<p>Data Saturday #11 Croatia is a free one-day event for professionals who use the Microsoft data platform. This community event offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.</p>
+<p><b>Event venue</b></p>
+<p>The plan is for the event to be in person, on Saturday, September 11, at the <a href="https://goo.gl/maps/4Wag21rGEw4vxcmJ9" target="_blank">Hotel International, Miramarska 24, 10000 Zagreb, Croatia</a>. We hope for the best! If this is not possible, the event will switch to virtual / hybrid.</p>
+<p><b>Preconf seminars</b></p>
+<p>We have prepared three pre-conference seminars for you:</p>
+<ul>
+<li>SQL Server for Developers by Miloš Radivojević</li>
+<li>Improve Your Database Tuning Skills by Uwe Ricken</li>
+<li>Advanced Data Visualization in Power BI by Markus Ehrenmueller</li>
+</ul>
+<p>More information about pre-conference seminars and registration at: <a href="https://events.3nf.hr/Seminars.aspx" target="_blank">3NF Events</a></p>
+<p><b>Little Dragon</b></p>
+<p>The Society for Improving the Quality of Life of Poor and Homeless Children <a href="https://www.malizmaj.hr/" target="_blank">Mali zmaj</a> (Little Dragon) regularly organizes humanitarian actions to help poor and homeless children. This year we have joined their work so the Mali Zmaj will be present at our conference where you will be able to participate in fundraising. Mali Zmaj is currently helping 150 families and around 350 children, they help with paying school trips, field lessons, graduation trips and so on.</p>
+<p><b>Sponsors</b></p>
+<p>Thanks to all the sponsors involved and Dean Vitner who made this event possible.</p>
+<p><b>Organizers</b></p>
+<p>The event is organized by <a href="https://www.linkedin.com/in/dmatesic/" target="_blank">Damir Matešić, MVP</a> & <a href="https://www.linkedin.com/in/dsavovic/" target="_blank">Dean Savović</a></p>'
+registrationurl: https://www.eventbrite.com/e/datasaturday-croatia-2021-tickets-143735108579
+join:
+  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
+  rooms:
+
+scheduleurl: https://sessionize.com/api/v2/uycu08tx/view/GridSmart
+
+sponsors:
+  - link: https://www.zaba.hr
+    image: ../assets/img/events/0011/Zaba.png
+    height: 90
+  - link: https://span.eu/
+    image: ../assets/img/events/0011/span.png
+    height: 120
+  - link: https://www.repsly.com/
+    image: ../assets/img/events/0011/repsly.png
+    height: 139
+  - link: https://king-ict.com/
+    image: ../assets/img/events/0011/king.jpg
+    height: 155
+  - link: https://plus-it.de/
+    image: ../assets/img/events/0011/plusit.png
+    height: 125
+  - link: http://www.datasense.hr/
+    image: ../assets/img/events/0011/datasense.png
+    height: 47
+  - link: https://hrprodigy.hr/
+    image: ../assets/img/events/0011/hr-prodigy-logo.png
+    height: 66
+  - link: https://www.infobip.com/
+    image: ../assets/img/events/0011/infobip.jfif
+    height: 150
+  - link: https://www.red-gate.com/
+    image: ../assets/img/events/0011/RedgatelogocolourRGB_vert.png
+    height: 100
+  - link: https://www.malizmaj.hr/
+    image: ../assets/img/events/0011/MaliZmaj.png
+    height: 150
+
+
+speakerlisturl: https://sessionize.com/api/v2/uycu08tx/view/SpeakerWall
+callforspeakers: false 
+organizers:
+  - name: SQL Server User Group Croatia
+    twitter: https://twitter.com/matesic_damir
+    email: mailto:ssugcro@googlegroups.com
