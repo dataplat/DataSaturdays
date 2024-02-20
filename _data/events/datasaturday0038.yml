@@ -9,7 +9,9 @@ If you are interested in Speaking at our event, we hope you submit via Sessioniz
 
 We are always looking for volunteers as well. For Volunteer information, please see our meetup page.
  '
-registrationurl: _No response_
+
+
+registrationurl: "https://www.eventbrite.com/e/data-saturday-phoenix-2024-tickets-809571198247"
 
 sponsors:
   - link: sponsor1link
@@ -23,11 +25,11 @@ sponsors:
     height: 
 
 
-scheduleurl: _No response_
+scheduleurl:  https://sessionize.com/api/v2/uqu3y96h/view/GridSmart
 
-speakerlisturl: https://sessionize.com/data-saturday-phoenix-2024/
+speakerlisturl: https://sessionize.com/api/v2/uqu3y96h/view/SpeakerWall
 
-callforspeakers: true
+callforspeakers: false
 
 volunteerrequesturl: https://www.meetup.com/arizona-data-platform-user-group/discussions/
 organizers:
