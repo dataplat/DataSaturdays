@@ -14,12 +14,7 @@ Hochschule Bonn-Rhein-Sieg/ Campus Sankt Augustin<br>
 Grantham-Allee 20<br>
 53757 Sankt Augustin
  '
-registrationurl: _No response_
-join:
-  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
-  rooms:
-   - name: _No response_
-     url: 
+registrationurl:
   
 venuemap: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23998.37173962651!2d7.170177954417717!3d50.784506276572486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bee7b47988afeb%3A0xd1d985bac94ce3!2sHochschule%20Bonn-Rhein-Sieg%2F%20Campus%20Sankt%20Augustin!5e0!3m2!1sen!2sde!4v1680119011900!5m2!1sen!2sde
 sponsors:
@@ -32,7 +27,7 @@ sponsors:
    image: https://oh22.is/wp-content/uploads/sites/14/2021/02/oh22_Logo_grau_75.png
    height: 75 
 
-scheduleurl: _No response_
+scheduleurl:
 
 speakerlisturl: https://sessionize.com/data-saturday-rheinland-2024/
 
