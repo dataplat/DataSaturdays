@@ -1,3 +1,15 @@
+# UPDATE MARCH 2024
+
+This repository no longer updates the datasaturdays.com website. 
+
+It has been rewritten by Gianluca and is now running in a Blazer application and has an admin portal.
+
+This repo is now archived
+
+# Where is it?
+
+The website can be found at [DataSaturdays.com](https://datasaturdays.com) and is hosted on Github Pages
+
 # What is Data Saturdays
 Firstly, not everyone will know what a Data Saturday event is, so lets start with that. There are two parts to it.
 
@@ -20,9 +32,7 @@ We wanted to include other community leaders to assist with guiding the project 
 
 We have now (03-2023) enabled 34 Data Saturday events to exist, which we still think is amazing!
 
-# Where is it?
 
-The website can be found at [DataSaturdays.com](https://datasaturdays.com) and is hosted on Github Pages
 
 ## Wiki
 
